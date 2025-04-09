@@ -1,0 +1,120 @@
+[
+  {
+    "q": "¿Qué tipo de solicitud es cuando un cliente quiere realizar la compra y pagar en tienda?",
+    "a": "Es una Solicitud 01.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "compra",
+      "pago",
+      "tienda",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad para una compra con pago en tienda?",
+    "a": "El nivel es 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "compra",
+      "pago",
+      "tienda",
+      "bajo"
+    ]
+  },
+  {
+    "q": "¿Qué resultado se espera al realizar una compra con pago en tienda?",
+    "a": "El resultado esperado es una compra exitosa con el método de pago tienda.",
+    "product": "General",
+    "keywords": [
+      "resultado",
+      "compra",
+      "exitosa",
+      "pago",
+      "tienda",
+      "método"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se utiliza para realizar una compra con pago en tienda?",
+    "a": "Se utiliza la tienda en línea.",
+    "product": "General",
+    "keywords": [
+      "recurso",
+      "compra",
+      "pago",
+      "tienda",
+      "en línea"
+    ]
+  },
+  {
+    "q": "¿Cuál es el alcance de la orientación para una compra con pago en tienda?",
+    "a": "El alcance es la orientación para una compra exitosa por método de pago tienda.",
+    "product": "General",
+    "keywords": [
+      "alcance",
+      "orientación",
+      "compra",
+      "pago",
+      "tienda",
+      "método"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el cliente para pagar en tienda?",
+    "a": "El cliente debe elegir el método de pago en tienda, se generará su ficha de pago y con ella puede asistir a la tienda de su elección para realizar el cobro.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "pago",
+      "tienda",
+      "ficha",
+      "método",
+      "elección"
+    ]
+  },
+  {
+    "q": "¿Dónde puede el cliente encontrar información sobre tiendas para realizar el pago?",
+    "a": "El cliente puede visitar https://www.openpay.mx/tiendas/ para encontrar información sobre tiendas donde realizar el pago.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "tiendas",
+      "pago",
+      "información",
+      "openpay",
+      "en línea"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después de realizar el pago en tienda?",
+    "a": "La clave de licencia llega en un lapso de 3 a 24 horas al correo registrado en la orden de compra.",
+    "product": "General",
+    "keywords": [
+      "clave",
+      "licencia",
+      "tiempo",
+      "pago",
+      "tienda",
+      "correo",
+      "orden"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el cliente si no recibe la clave de licencia en 3 a 4 horas?",
+    "a": "Si no recibe la clave de licencia en 3 a 4 horas, debe comunicarse al área de atención a clientes para validar el estatus de su pago.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "clave",
+      "licencia",
+      "tiempo",
+      "atención",
+      "validar",
+      "estatus"
+    ]
+  }
+]

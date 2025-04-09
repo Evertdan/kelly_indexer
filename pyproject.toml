@@ -1,0 +1,114 @@
+# kelly_indexer/pyproject.toml
+
+# Especifica el sistema de construcción del proyecto (PEP 517)
+[build-system]
+requires = ["setuptools>=61.0"] # Requiere setuptools
+build-backend = "setuptools.build_meta" # Backend a usar
+
+# Metadatos del proyecto (PEP 621)
+[project]
+name = "kelly_indexer" # Nombre del paquete
+version = "0.1.0" # Versión inicial
+description = "Indexador para procesar archivos JSON Q&A (generados por kelly_soap), crear embeddings y subirlos a Qdrant Cloud." # Descripción
+readme = "README.md" # Archivo README
+requires-python = ">=3.10" # Versión mínima de Python requerida
+license = { text = "MIT" } # Licencia (asegúrate de tener archivo LICENSE)
+keywords = ["qdrant", "vector database", "embeddings", "sentence-transformers", "nlp", "rag", "indexer"] # Palabras clave
+authors = [
+    # Reemplaza con tu nombre y correo
+    { name = "Tu Nombre / Equipo", email = "tu.correo@example.com" },
+]
+classifiers = [ # Clasificadores estándar de PyPI
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Spanish",
+    "Operating System :: POSIX :: Linux", # Enfocado en Linux (Ubuntu 24)
+    "Operating System :: MacOS",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Database",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Indexing",
+]
+
+# Dependencias principales del proyecto (Runtime)
+dependencies = [
+    # Cliente oficial para interactuar con Qdrant
+    "qdrant-client>=1.9.0,<2.0.0",
+    # Para generar embeddings localmente
+    "sentence-transformers>=2.2.0,<3.0.0",
+    # Para manejar la configuración (.env, validación)
+    # Incluye pydantic y python-dotenv
+    "pydantic-settings>=2.0.0,<3.0.0",
+    # Para dividir textos largos (ej. respuestas 'a') si es necesario
+    "langchain-text-splitters>=0.2.0,<0.3.0",
+    # Para barras de progreso en la consola
+    "tqdm>=4.60.0,<5.0.0",
+    # Nota: uuid es parte de la librería estándar de Python
+]
+
+# (Opcional) Scripts de consola
+# Si quieres instalar un comando global (ej. 'kelly-index')
+# [project.scripts]
+# kelly-index = "kelly_indexer.scripts.indexer.index_qdrant:main" # Ajustar ruta si es necesario
+
+# (Opcional) URLs del proyecto
+# [project.urls]
+# "Homepage" = "https://github.com/tu_usuario/kelly_indexer"
+# "Repository" = "https://github.com/tu_usuario/kelly_indexer"
+# "Bug Tracker" = "https://github.com/tu_usuario/kelly_indexer/issues"
+
+# (Opcional) Dependencias para desarrollo y pruebas
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0,<9.0.0",
+    "pytest-cov>=4.0.0,<6.0.0",
+    "pytest-mock>=3.0.0,<4.0.0", # Necesario para mocking en tests
+    "ruff>=0.4.0,<1.0.0",       # Linter y formateador rápido
+    "black>=23.0.0,<25.0.0",     # Formateador de código
+    "mypy>=1.0.0,<2.0.0",       # Chequeo estático de tipos
+    "pre-commit>=3.0.0,<4.0.0", # Para ejecutar hooks (ruff, black, mypy) antes de commits
+    # Añade aquí otras herramientas (ej. ipython, notebook si usas jupyter)
+]
+test = [ # Grupo específico para tests si 'dev' es muy amplio
+    "pytest>=7.0.0,<9.0.0",
+    "pytest-cov>=4.0.0,<6.0.0",
+    "pytest-mock>=3.0.0,<4.0.0",
+]
+
+# --- Configuraciones de Herramientas ---
+
+[tool.ruff]
+# Sigue las mismas configuraciones que kelly_soap o ajústalas
+line-length = 88
+select = ["E", "W", "F", "I", "C", "B", "UP", "RUF"]
+ignore = []
+exclude = [
+    ".venv", "venv", ".git", "__pycache__", "dist", "build",
+    "data", # Excluir directorio de datos
+    ".env", ".env.sample",
+]
+# Configuración de isort dentro de ruff
+[tool.ruff.isort]
+known_first_party = ["kelly_indexer"] # Definir tu paquete como propio
+
+# Configuración para pytest
+[tool.pytest.ini_options]
+minversion = "7.0"
+# Opciones: -ra (reporte resumen extra), -q (quiet), cobertura para src/kelly_indexer
+addopts = "-ra -q --cov=src/kelly_indexer --cov-report=term-missing"
+testpaths = ["tests"] # Dónde buscar pruebas
+pythonpath = ["src"]  # Añadir src al path para encontrar el paquete kelly_indexer
+
+# Configuración para mypy
+[tool.mypy]
+python_version = "3.10" # Versión mínima de Python para chequeo de tipos
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true # Ignorar errores si faltan tipos para librerías de terceros
+# Puedes añadir chequeos más estrictos si lo deseas:
+# disallow_untyped_defs = true
+# disallow_incomplete_defs = true

@@ -1,0 +1,86 @@
+[
+  {
+    "q": "¿Qué tipo de problema se describe en el documento?",
+    "a": "Falta información de comprobantes, recibos de nómina, y aparecen menos comprobantes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "problema",
+      "comprobantes",
+      "nómina",
+      "información",
+      "falta"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de gravedad tiene el problema descrito?",
+    "a": "El nivel de gravedad es 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "medio",
+      "problema",
+      "incidente"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para utilizar MiAdminXML?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "necesario"
+    ]
+  },
+  {
+    "q": "¿Dónde se guardan los archivos XML por defecto en MiAdminXML?",
+    "a": "La ruta default es en C:\\AdminXML\\BovedaCFDI\\, pero puede variar si se selecciona otra ubicación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ruta",
+      "default",
+      "xml",
+      "ubicación",
+      "archivos"
+    ]
+  },
+  {
+    "q": "¿Cómo se organiza la información en MiAdminXML?",
+    "a": "En la parte posterior derecha aparece el total de XML y en Administración de XML se divide en pestañas (Facturas, Pagos, Nómina 1.1 y Nómina 1.2).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "organización",
+      "pestañas",
+      "facturas",
+      "pagos",
+      "nómina"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si se modifica o elimina una carpeta con algún RFC en MiAdminXML?",
+    "a": "El cambio se refleja dentro de MiAdminXML al validar su información.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "modificación",
+      "eliminación",
+      "carpeta",
+      "rfc",
+      "cambio"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede validar la ruta de un XML seleccionado en MiAdminXML?",
+    "a": "Se utiliza la herramienta gratuita 'Localizar XML', que al darle clic dirige a la ruta donde se encuentra almacenado ese XML seleccionado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validar",
+      "ruta",
+      "xml",
+      "localizar",
+      "herramienta"
+    ]
+  }
+]

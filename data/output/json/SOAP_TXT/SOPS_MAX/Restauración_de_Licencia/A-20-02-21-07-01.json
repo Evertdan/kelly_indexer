@@ -1,0 +1,161 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando un cliente no puede activar su clave de licencia en MiAdminXML?",
+    "a": "Es un INC-02, nivel 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "activación",
+      "licencia",
+      "error",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué recursos necesita un cliente para activar su licencia en MiAdminXML?",
+    "a": "El cliente debe contar con una clave de licencia de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recursos",
+      "clave",
+      "licencia",
+      "activación",
+      "requisitos",
+      "necesario"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para activar una licencia en MiAdminXML?",
+    "a": "Se debe contar con una licencia MiAdminXML vigente, tener MiAdminXML actualizado y permisos de Administrador.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "políticas",
+      "licencia",
+      "vigente",
+      "actualizado",
+      "permisos",
+      "administrador",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué error puede aparecer cuando un cliente no puede activar su licencia en MiAdminXML?",
+    "a": "Puede aparecer un error donde el sistema no reconoce los componentes (NONE) o no puede activar la licencia a pesar de tener los mismos componentes físicos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "activación",
+      "licencia",
+      "componentes",
+      "none",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para restaurar una clave de licencia en MiAdminXML?",
+    "a": "Se le pide al cliente que proporcione los últimos 5 caracteres de su clave de licencia y se verifica el estado de la licencia en el SACC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "primer paso",
+      "restaurar",
+      "licencia",
+      "clave",
+      "verificación",
+      "sacc"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer un cliente para restaurar su clave de licencia en MiAdminXML después de verificar su información?",
+    "a": "Debe llenar un Primer Oficio de Aclaración.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "restaurar",
+      "licencia",
+      "oficio",
+      "aclaración",
+      "paso",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tiene un cliente para enviar su información después de llenar el Primer Oficio de Aclaración?",
+    "a": "El cliente cuenta con 72 horas para enviar su información.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "enviar",
+      "información",
+      "oficio",
+      "aclaración",
+      "horas",
+      "plazo"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el cliente no envía su información dentro de las 72 horas?",
+    "a": "Si no envía la información en este lapso de tiempo, debe comunicarse para comenzar nuevamente con el proceso.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "información",
+      "plazo",
+      "comunicar",
+      "reiniciar",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué hace el agente de Mesa de Servicio una vez recibida la información del cliente?",
+    "a": "Valida que la información sea correcta y, de ser así, procede a la reactivación de la licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "agente",
+      "mesa de servicio",
+      "validación",
+      "información",
+      "reactivación",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Cómo se solicita la reactivación de una licencia en MiAdminXML?",
+    "a": "Se ingresa al BOT con un comando específico para solicitar la reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitar",
+      "reactivación",
+      "licencia",
+      "bot",
+      "comando",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué área acepta la reactivación de la licencia en MiAdminXML?",
+    "a": "El área de operaciones acepta la reactivación de la licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "área",
+      "operaciones",
+      "aceptar",
+      "reactivación",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Cómo se le notifica al cliente que su licencia ha sido reactivada?",
+    "a": "Se le avisa al cliente por correo electrónico que ya puede volver a activar su licencia en el módulo de “Licenciamiento”.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "notificación",
+      "correo",
+      "electrónico",
+      "reactivación",
+      "licencia",
+      "módulo",
+      "licenciamiento"
+    ]
+  }
+]

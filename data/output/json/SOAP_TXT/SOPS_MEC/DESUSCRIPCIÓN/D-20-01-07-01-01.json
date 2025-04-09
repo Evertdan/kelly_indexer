@@ -1,0 +1,71 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente que se arrepiente de haberse desuscrito y quiere volver a recibir promociones?",
+    "a": "El cliente debe ingresar a la pantalla de suscripción exitosa, dar clic en 'ver preferencias de suscripción', ingresar la información solicitada y luego seleccionar 'QUIERO RECIBIR CORREOS OTRA VEZ'.",
+    "product": "General",
+    "keywords": [
+      "suscripción",
+      "promociones",
+      "desuscribir",
+      "arrepentimiento",
+      "correos",
+      "preferencias",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué opción tienen los clientes que pasaron varios días desuscritos y quieren volver a recibir correos promocionales?",
+    "a": "Se les envía un correo con la plantilla 'Suscribir' en MISSIVE, que contiene una liga que los lleva directamente a la página de suscripción.",
+    "product": "General",
+    "keywords": [
+      "suscripción",
+      "correo",
+      "plantilla",
+      "missive",
+      "liga",
+      "promociones",
+      "días",
+      "desuscrito"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos pueden desuscribirse los clientes?",
+    "a": "Los clientes pueden desuscribirse únicamente de los correos promocionales. Los correos obligatorios (como los de descarga, validación, factura y entrega de licencia) no pueden desuscribirse.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "obligatorios",
+      "desuscripción",
+      "tipos",
+      "licencia",
+      "factura"
+    ]
+  },
+  {
+    "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM.",
+    "product": "General",
+    "keywords": [
+      "periodo gratuito",
+      "correos",
+      "promocionales",
+      "desuscripción",
+      "spam",
+      "obligatorio"
+    ]
+  },
+  {
+    "q": "¿Dónde pueden los clientes encontrar la opción para suscribirse o desuscribirse de correos promocionales?",
+    "a": "La opción para suscribirse o desuscribirse se encuentra en la parte inferior de los correos promocionales enviados.",
+    "product": "General",
+    "keywords": [
+      "suscripción",
+      "desuscripción",
+      "correos",
+      "promocionales",
+      "opción",
+      "parte inferior"
+    ]
+  }
+]

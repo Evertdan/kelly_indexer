@@ -1,0 +1,86 @@
+[
+  {
+    "q": "¿Cómo puede un cliente realizar una compra con transferencia si no tiene internet?",
+    "a": "Se le pide un correo electrónico al cliente para enviarle los pasos a seguir.",
+    "product": "General",
+    "keywords": [
+      "compra",
+      "transferencia",
+      "sin internet",
+      "correo electrónico",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer un cliente con internet para comprar con transferencia en AdminXML?",
+    "a": "El cliente debe ingresar a www.adminxml.com en un navegador, donde el agente lo guiará para generar la orden de compra web.",
+    "product": "AdminXML",
+    "keywords": [
+      "compra",
+      "transferencia",
+      "internet",
+      "navegador",
+      "orden de compra"
+    ]
+  },
+  {
+    "q": "¿Cómo seleccionar el método de pago por transferencia en AdminXML?",
+    "a": "Después de llenar la orden de compra, se selecciona el método de pago 'Transferencia' y se genera una ficha de pago con vigencia de 7 días.",
+    "product": "AdminXML",
+    "keywords": [
+      "método de pago",
+      "transferencia",
+      "selección",
+      "ficha de pago",
+      "vigencia"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para realizar el pago por transferencia?",
+    "a": "En la ficha de pago, se deben colocar los 20 números del Concepto de pago y los 7 números de Referencia.",
+    "product": "AdminXML",
+    "keywords": [
+      "pago",
+      "transferencia",
+      "concepto",
+      "referencia",
+      "ficha de pago"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después del pago?",
+    "a": "El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado en la orden de compra.",
+    "product": "AdminXML",
+    "keywords": [
+      "clave de licencia",
+      "tiempo",
+      "correo electrónico",
+      "factura",
+      "orden de compra"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si no llega la clave de licencia después de 3-4 horas?",
+    "a": "El cliente debe comunicarse al área de Atención a clientes con el número de orden de compra para verificar el estado del pago.",
+    "product": "AdminXML",
+    "keywords": [
+      "clave de licencia",
+      "problema",
+      "atención a clientes",
+      "orden de compra",
+      "verificación"
+    ]
+  },
+  {
+    "q": "¿Cómo verificar el estado de un pago en AdminXML?",
+    "a": "Se puede verificar el pago ingresando al Chat 'ComputoCreativoBot' en Telegram y usando el comando /orden seguido del número de orden de compra o concepto de pago.",
+    "product": "AdminXML",
+    "keywords": [
+      "verificar pago",
+      "telegram",
+      "chat",
+      "orden de compra",
+      "concepto de pago"
+    ]
+  }
+]

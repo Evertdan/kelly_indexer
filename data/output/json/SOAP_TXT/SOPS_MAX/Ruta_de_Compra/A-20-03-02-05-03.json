@@ -1,0 +1,44 @@
+[
+  {
+    "q": "¿Cuánto tiempo tiene un cliente para pagar una orden de compra web?",
+    "a": "La orden de compra tiene una vigencia de 7 días para realizar el pago a partir de la fecha de emisión.",
+    "product": "Orden de Compra Web",
+    "keywords": [
+      "orden de compra",
+      "pago",
+      "vigencia",
+      "tiempo",
+      "días",
+      "fecha de emisión",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Dónde puede el cliente encontrar la fecha límite para pagar su orden de compra web?",
+    "a": "En la parte superior izquierda de la ficha de pago del cliente se encuentra la fecha límite para generar el pago.",
+    "product": "Orden de Compra Web",
+    "keywords": [
+      "fecha límite",
+      "pago",
+      "ficha de pago",
+      "ubicación",
+      "orden de compra",
+      "cliente",
+      "información"
+    ]
+  },
+  {
+    "q": "¿A partir de cuándo se calculan los 7 días para pagar la orden de compra web?",
+    "a": "Los 7 días de vigencia para el pago se calculan a partir de la fecha de emisión de la orden de compra.",
+    "product": "Orden de Compra Web",
+    "keywords": [
+      "vigencia",
+      "pago",
+      "fecha de emisión",
+      "cálculo",
+      "orden de compra",
+      "días",
+      "tiempo"
+    ]
+  }
+]

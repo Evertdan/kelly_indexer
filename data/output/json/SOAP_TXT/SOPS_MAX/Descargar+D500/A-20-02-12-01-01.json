@@ -1,0 +1,85 @@
+[
+  {
+    "q": "¿Qué problema ocurre al descargar XML del SAT cuando se emiten en el mismo segundo?",
+    "a": "El portal del SAT bloquea las descargas cuando los XML son emitidos en el mismo segundo, especialmente en casos de nóminas masivas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "sat",
+      "descarga",
+      "bloqueo",
+      "xml",
+      "mismo segundo",
+      "nominas masivas",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece en MiAdminXML cuando hay más de 500 comprobantes en el mismo segundo?",
+    "a": "Aparece el mensaje 'Segundos con más de 500 comprobantes', indicando que el portal del SAT solo muestra los primeros 500 XML de ese segundo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mensaje",
+      "500 comprobantes",
+      "mismo segundo",
+      "xml",
+      "bloqueo",
+      "sat",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Cómo se pueden obtener los XML faltantes cuando hay más de 500 comprobantes en un mismo segundo?",
+    "a": "Se recomienda solicitar los archivos faltantes al PAC de Facturación y agregarlos manualmente en las carpetas de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml faltantes",
+      "pac",
+      "facturación",
+      "agregar",
+      "carpetas",
+      "solución",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué información proporciona MiAdminXML sobre los segundos problemáticos?",
+    "a": "MiAdminXML envía un mensaje con las horas, minutos y segundos exactos donde ocurre el problema para que se puedan solicitar los XML al PAC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "segundos problemáticos",
+      "mensaje",
+      "horas",
+      "minutos",
+      "segundos",
+      "pac",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede evitar el bloqueo de descarga de XML en el futuro?",
+    "a": "Se recomienda emitir menos de 500 comprobantes por segundo para evitar el bloqueo del portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "evitar",
+      "bloqueo",
+      "500 comprobantes",
+      "emitir",
+      "recomendación",
+      "sat",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar MiAdminXML y solucionar este problema?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico",
+      "solución",
+      "acceso"
+    ]
+  }
+]

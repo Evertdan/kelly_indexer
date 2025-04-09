@@ -1,0 +1,57 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar la funcionalidad de cuentas bancarias en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cuentas bancarias",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué información se puede guardar en la herramienta de cuentas bancarias de MiAdminXML?",
+    "a": "La herramienta permite guardar el número de cuenta y el banco por contribuyente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cuentas bancarias",
+      "información",
+      "guardar",
+      "número de cuenta",
+      "banco",
+      "contribuyente",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se ofrece para la funcionalidad de cuentas bancarias en MiAdminXML?",
+    "a": "El soporte es de tipo Soporte Temprano (ST) y está clasificado como Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "nivel 1",
+      "tipo",
+      "st",
+      "cuentas bancarias",
+      "clasificación"
+    ]
+  },
+  {
+    "q": "¿Cuál es la versión y fecha de revisión del documento que describe la funcionalidad de cuentas bancarias en MiAdminXML?",
+    "a": "La versión es 09.09.2020.04 y la fecha de revisión es 09.09.2020.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "versión",
+      "fecha",
+      "revisión",
+      "documento",
+      "cuentas bancarias",
+      "actualización"
+    ]
+  }
+]

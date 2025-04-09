@@ -1,0 +1,55 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta de Control de Cuentas por Cobrar y Cuentas por Pagar en MiAdminXML?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de cuentas",
+      "cxc",
+      "cxp",
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo se asignan las operaciones de control Pagado y No Pagado en MiAdminXML?",
+    "a": "En el módulo Control de Cuentas por Cobrar y Cuentas por Pagar, se selecciona al contribuyente requerido y luego se asigna en el reporte las operaciones de control Pagado y No Pagado según corresponda.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "asignar operaciones",
+      "pagado",
+      "no pagado",
+      "contribuyente",
+      "reporte",
+      "control de cuentas"
+    ]
+  },
+  {
+    "q": "¿Qué detalles se pueden aplicar a las facturas en el módulo de Control de Cuentas por Cobrar y Cuentas por Pagar?",
+    "a": "Se pueden aplicar detalles como la fecha de pago, método de pago, número de cuenta (opcional) y banco (opcional).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "detalles",
+      "facturas",
+      "fecha de pago",
+      "método de pago",
+      "número de cuenta",
+      "banco",
+      "opcional"
+    ]
+  },
+  {
+    "q": "¿A cuántas facturas se pueden asignar los detalles de pago en MiAdminXML?",
+    "a": "Los detalles de pago se pueden asignar a una o más de una factura.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "asignar detalles",
+      "facturas",
+      "pago",
+      "múltiples",
+      "control de cuentas"
+    ]
+  }
+]

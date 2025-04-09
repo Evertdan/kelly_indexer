@@ -1,0 +1,91 @@
+[
+  {
+    "q": "¿Qué módulo de MiAdminXML ayuda a sintetizar el catálogo de cuentas y balanza de comprobación para el SAT?",
+    "a": "El módulo de XML Simplificado para el SAT ayuda a sintetizar el catálogo de cuentas y balanza de comprobación para la contabilidad electrónica del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "xml simplificado",
+      "sat",
+      "catálogo de cuentas",
+      "balanza de comprobación",
+      "contabilidad electrónica"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para implementar el módulo de XML Simplificado para el SAT en MiAdminXML?",
+    "a": "Es necesario contar con los XML del catálogo de empresas y balanza de comprobación, previamente generados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "xml",
+      "catálogo de empresas",
+      "balanza de comprobación",
+      "implementación",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué licencia se requiere para usar el módulo de XML Simplificado para el SAT?",
+    "a": "Se requiere la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "requisitos",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de XML Simplificado para el SAT en MiAdminXML?",
+    "a": "Se accede a través del icono de Contabilidad en MiAdminXML, seleccionando la opción de generación de XML para Contabilidad electrónica y XML Simplificado para el SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "icono",
+      "contabilidad",
+      "generación xml",
+      "menú",
+      "navegación"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de tipo de envío están disponibles en el módulo de XML Simplificado para el SAT?",
+    "a": "El tipo de envío puede ser Normal o Complementaria.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo de envío",
+      "normal",
+      "complementaria",
+      "opciones",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para generar un XML simplificado en MiAdminXML?",
+    "a": "Se seleccionan los XML de balanza de comprobación y catálogo de empresas, se elige Año, Mes y Tipo de Envío, se hace clic en Iniciar Importación y luego en Genera XML, confirmando la localización de la información.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "generación",
+      "xml simplificado",
+      "selección",
+      "importación",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué muestra MiAdminXML después de generar el XML simplificado?",
+    "a": "Muestra la carpeta donde se localiza el nuevo XML generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "resultado",
+      "carpeta",
+      "ubicación",
+      "xml generado",
+      "visualización"
+    ]
+  }
+]

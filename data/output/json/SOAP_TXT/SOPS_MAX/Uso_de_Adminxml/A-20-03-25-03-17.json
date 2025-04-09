@@ -1,0 +1,45 @@
+[
+  {
+    "q": "¿Qué es la herramienta catálogo logos en MiAdminXML?",
+    "a": "Es una herramienta para guardar el RFC (emisor) y logo de la empresa para personalizar el archivo PDF.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "catálogo logos",
+      "herramienta",
+      "rfc",
+      "logo",
+      "personalizar",
+      "pdf",
+      "emisor",
+      "empresa"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta catálogo logos?",
+    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "acceso",
+      "herramienta",
+      "catálogo logos"
+    ]
+  },
+  {
+    "q": "¿Para qué sirve la herramienta catálogo logos?",
+    "a": "Sirve para personalizar el archivo PDF guardando el RFC del emisor y el logo de la empresa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "función",
+      "personalización",
+      "pdf",
+      "rfc",
+      "logo",
+      "empresa",
+      "emisor",
+      "uso"
+    ]
+  }
+]

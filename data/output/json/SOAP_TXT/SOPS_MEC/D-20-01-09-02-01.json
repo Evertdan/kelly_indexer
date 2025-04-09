@@ -1,0 +1,91 @@
+[
+  {
+    "q": "¿Qué significa el error 'La clave de licencia tiene sus activaciones agotadas' en MiExpedienteContable?",
+    "a": "Este error indica que el cliente ha rebasado las activaciones permitidas dentro de su anualidad de la licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "error",
+      "licencia",
+      "activaciones",
+      "agotadas",
+      "anualidad",
+      "miExpedienteContable"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para reactivar una licencia de MiExpedienteContable?",
+    "a": "Se requiere que el cliente llene, firme y escanee un documento enviado por el ejecutivo para proceder con la reactivación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "documento",
+      "firmar",
+      "escanear",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué validaciones se realizan antes de reactivar una licencia en MiExpedienteContable?",
+    "a": "Se corrobora que la licencia esté registrada a nombre del cliente, en estado pagado con fecha vigente, y que no se encuentre actualmente activada y en uso.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "validación",
+      "licencia",
+      "estado",
+      "pagado",
+      "vigente",
+      "activada"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para confirmar la desactivación de una licencia?",
+    "a": "Se requiere ingresar el número de serie en el equipo donde se encontraba la licencia activada.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "desactivación",
+      "número de serie",
+      "equipo",
+      "confirmación",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si es la segunda reactivación de una licencia en MiExpedienteContable?",
+    "a": "En caso de ser la segunda reactivación, se debe informar al cliente sobre el costo asociado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "segunda reactivación",
+      "costo",
+      "información",
+      "cliente",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación llenado?",
+    "a": "El tiempo máximo de espera es de 72 horas una vez enviado el oficio de reactivación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "tiempo",
+      "espera",
+      "oficio",
+      "reactivación",
+      "72 horas",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cómo se procede una vez recibido el oficio de reactivación correctamente llenado?",
+    "a": "Se ingresa al bot con un comando específico para realizar la reactivación, se espera a que el área de operaciones restaure la licencia y se le avisa al cliente una vez restaurada.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "proceso",
+      "reactivación",
+      "bot",
+      "comando",
+      "operaciones",
+      "restauración"
+    ]
+  }
+]

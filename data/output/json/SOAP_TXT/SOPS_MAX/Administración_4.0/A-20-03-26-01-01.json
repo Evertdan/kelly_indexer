@@ -1,0 +1,71 @@
+[
+  {
+    "q": "¿Qué es la Herramienta de Leer XMLs en Administración de XML 4.0?",
+    "a": "Es una herramienta que permite realizar la lectura de los XMLs previamente descargados con MiAdminXML.",
+    "product": "Administración de XML 4.0",
+    "keywords": [
+      "herramienta",
+      "leer",
+      "xmls",
+      "administración",
+      "miadminxml",
+      "función"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la Herramienta de Leer XMLs?",
+    "a": "Se requiere contar con licencia MiAdminXML, estar en periodo demostrativo o gratuito.",
+    "product": "Administración de XML 4.0",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo",
+      "demostrativo",
+      "gratuito"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la Herramienta de Leer XMLs en Administración de XML 4.0?",
+    "a": "Ingresa al módulo de Administración de XML, selecciona el submódulo de Administración de XML 4.0, selecciona RFC, Tipo, Año y mes, y da clic derecho en la herramienta Leer XMLs.",
+    "product": "Administración de XML 4.0",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "submódulo",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Qué muestra la Herramienta de Leer XMLs al usarla?",
+    "a": "Al dar clic en la herramienta, se muestran en pantalla los XML del periodo seleccionado.",
+    "product": "Administración de XML 4.0",
+    "keywords": [
+      "resultado",
+      "mostrar",
+      "xml",
+      "periodo",
+      "seleccionado",
+      "pantalla"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para leer XMLs en Administración de XML 4.0?",
+    "a": "1) Ingresar al módulo de Administración de XML. 2) Seleccionar el submódulo de Administración de XML 4.0. 3) Seleccionar RFC, Tipo, Año y mes. 4) Dar clic derecho en la herramienta Leer XMLs.",
+    "product": "Administración de XML 4.0",
+    "keywords": [
+      "pasos",
+      "proceso",
+      "seleccionar",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "clic"
+    ]
+  }
+]

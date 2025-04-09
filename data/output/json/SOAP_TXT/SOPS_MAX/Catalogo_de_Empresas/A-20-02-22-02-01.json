@@ -1,0 +1,84 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando un RFC ya está registrado en el Catálogo de Contribuyentes?",
+    "a": "El tipo de incidencia es INC-02 y tiene un nivel de 2 – Medio.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "rfc",
+      "registrado",
+      "catálogo",
+      "contribuyentes",
+      "nivel"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se necesitan para resolver un problema de RFC duplicado en el Catálogo de Contribuyentes?",
+    "a": "Se necesitan MAX /Supremo Control o Anydesk para resolver el problema.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "recursos",
+      "max",
+      "supremo control",
+      "anydesk",
+      "rfc",
+      "duplicado",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para trabajar con el Catálogo de Contribuyentes en MiAdminXML?",
+    "a": "Se debe contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "políticas",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "requisitos",
+      "catálogo"
+    ]
+  },
+  {
+    "q": "¿Qué alcance tiene la solución para un RFC ya registrado en el Catálogo de Contribuyentes?",
+    "a": "El alcance es la identificación de contribuyentes.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "alcance",
+      "identificación",
+      "contribuyentes",
+      "rfc",
+      "registrado",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si aparece un error al agregar un RFC porque ya está registrado?",
+    "a": "Se debe verificar la información ingresada, ya que el RFC ya existe en la base de datos. Para modificar la información, se puede dar clic en el RFC y seleccionar 'Modificar' o 'Eliminar' y dar de alta nuevamente el contribuyente.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "error",
+      "rfc",
+      "registrado",
+      "modificar",
+      "eliminar",
+      "alta",
+      "contribuyente",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Es posible guardar el mismo RFC más de una vez en el Catálogo de Contribuyentes?",
+    "a": "No, no es posible guardar el mismo RFC dos veces o más en el Catálogo de Contribuyentes.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "rfc",
+      "duplicado",
+      "guardar",
+      "catálogo",
+      "contribuyentes",
+      "restricción"
+    ]
+  }
+]

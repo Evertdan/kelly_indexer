@@ -1,0 +1,66 @@
+[
+  {
+    "q": "¿Qué se necesita para acceder a la solución de soporte temprano en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte temprano",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "requisitos",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene la herramienta multi-propósito en MiAdminXML?",
+    "a": "La herramienta multi-propósito permite tener un control de los movimientos realizados con el XML, apoyando a despachos contables en el control de XML asociados a sus programas contables y a empresas en el control de XML verificados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta multi-propósito",
+      "control",
+      "xml",
+      "despachos contables",
+      "empresas",
+      "verificados"
+    ]
+  },
+  {
+    "q": "¿Cómo se agrega una etiqueta a un XML en MiAdminXML?",
+    "a": "Al dar clic en el botón sobre un XML, se agregará una etiqueta 'SI' en el reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "etiqueta",
+      "xml",
+      "agregar",
+      "botón",
+      "reporte",
+      "control"
+    ]
+  },
+  {
+    "q": "¿Es posible etiquetar varios archivos a la vez en MiAdminXML?",
+    "a": "Sí, la herramienta multi-propósito funciona con multi-selección, permitiendo etiquetar o eliminar la etiqueta de varios archivos a la vez.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "multi-selección",
+      "etiquetar",
+      "eliminar",
+      "varios archivos",
+      "herramienta multi-propósito"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se ofrece en el nivel 1 temprano de MiAdminXML?",
+    "a": "El nivel 1 temprano de MiAdminXML ofrece soporte temprano, verificando o asociando XML y proporcionando herramientas como la multi-propósito para el control de movimientos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte temprano",
+      "nivel 1",
+      "verificado",
+      "asociado",
+      "control",
+      "movimientos"
+    ]
+  }
+]

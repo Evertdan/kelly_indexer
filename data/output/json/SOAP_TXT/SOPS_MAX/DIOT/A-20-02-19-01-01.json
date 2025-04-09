@@ -1,0 +1,98 @@
+[
+  {
+    "q": "¿Qué problema impide generar la DIOT en MiAdminXML?",
+    "a": "No permite generar la DIOT porque indica que se debe seleccionar un periodo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "problema",
+      "periodo",
+      "generar",
+      "error"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de gravedad del problema al generar la DIOT?",
+    "a": "El nivel de gravedad es 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "medio",
+      "problema",
+      "diot"
+    ]
+  },
+  {
+    "q": "¿Qué configuración se necesita revisar para solucionar el problema de la DIOT?",
+    "a": "Se debe revisar la configuración de hora, fecha y zona horaria.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "configuración",
+      "hora",
+      "fecha",
+      "zona horaria",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos son necesarios para aplicar la solución al problema de la DIOT?",
+    "a": "Se necesita tener conexión a internet, MiAdminXML actualizado y realizar la configuración en la cuenta de Administrador y usuario.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "conexión",
+      "internet",
+      "actualizado",
+      "administrador"
+    ]
+  },
+  {
+    "q": "¿Cómo se actualiza la fecha y hora correctamente para solucionar el problema de la DIOT?",
+    "a": "Se debe dar clic derecho sobre la hora, seleccionar 'Ajustar fecha y hora', ir a la pestaña 'Hora de Internet', hacer clic en 'Cambiar la configuración', luego en 'Actualizar ahora' y finalmente en 'Aceptar'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualizar",
+      "fecha",
+      "hora",
+      "internet",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué página oficial se debe consultar para verificar la hora correcta?",
+    "a": "Se debe consultar la página oficial http://www.cenam.mx/hora_oficial/ dependiendo de la zona horaria.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "página",
+      "oficial",
+      "hora",
+      "cenam",
+      "verificar"
+    ]
+  },
+  {
+    "q": "¿Qué acción se debe realizar después de actualizar la fecha y hora?",
+    "a": "Se debe ingresar de nuevo al programa MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acción",
+      "actualizar",
+      "ingresar",
+      "programa",
+      "finalizar"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia es el problema al generar la DIOT?",
+    "a": "El tipo de incidencia es INC-02.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo",
+      "incidencia",
+      "inc-02",
+      "problema",
+      "clasificación"
+    ]
+  }
+]

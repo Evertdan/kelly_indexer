@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Qué es la herramienta agrupaciones en MiAdminXML?",
+    "a": "La herramienta agrupaciones en MiAdminXML reúne archivos XML/PDF en carpetas dependiendo de tus necesidades, como por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "agrupaciones",
+      "herramienta",
+      "xml",
+      "pdf",
+      "carpetas",
+      "organizar",
+      "necesidades"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta agrupaciones?",
+    "a": "Para usar la herramienta agrupaciones, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "acceso",
+      "herramienta",
+      "agrupaciones"
+    ]
+  },
+  {
+    "q": "¿Cómo se utiliza la herramienta agrupaciones en MiAdminXML?",
+    "a": "Para usar la herramienta agrupaciones, se selecciona la opción de agrupar en la pestaña correspondiente. Luego, se completan las ventanas que aparecen para la agrupación, y al finalizar, se crea una carpeta en el Disco local 'C' y los archivos aparecerán en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "uso",
+      "pestaña",
+      "ventanas",
+      "completar",
+      "disco local",
+      "carpeta",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de agrupaciones se pueden realizar con esta herramienta?",
+    "a": "La herramienta permite agrupar archivos por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina y Pagos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipos",
+      "agrupaciones",
+      "importe",
+      "emisor",
+      "receptor",
+      "cancelados",
+      "código",
+      "notas de crédito",
+      "traslados",
+      "nomina",
+      "pagos"
+    ]
+  },
+  {
+    "q": "¿Dónde se guardan los archivos después de agruparlos?",
+    "a": "Después de completar la agrupación, se crea una carpeta en el Disco local 'C' y los archivos aparecerán en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "guardar",
+      "archivos",
+      "disco local",
+      "carpeta",
+      "sistema",
+      "ubicación"
+    ]
+  }
+]

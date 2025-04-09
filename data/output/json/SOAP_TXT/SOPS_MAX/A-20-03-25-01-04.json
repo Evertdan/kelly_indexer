@@ -1,0 +1,132 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de descarga masiva WebService SAT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Además, es necesario tener la FIEL del contribuyente, que incluye los archivos .cer, .key y la clave privada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga masiva",
+      "webservice sat",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "fiel",
+      "archivos",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Cuántos XML se pueden descargar en una sola consulta con el módulo WebService SAT?",
+    "a": "El módulo permite descargar hasta 200,000 XML en una sola consulta desde el portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "xml",
+      "limite",
+      "consulta",
+      "webservice sat",
+      "cantidad",
+      "200000",
+      "solicitud"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso de descarga masiva en MiAdminXML?",
+    "a": "Para iniciar el proceso, se debe entrar en el icono 'Descarga Masiva WebService SAT', ingresar con la FIEL del contribuyente, seleccionar el asistente de descarga y establecer los parámetros de búsqueda como tipo de comprobante y organización.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proceso",
+      "inicio",
+      "descarga masiva",
+      "fiel",
+      "asistente",
+      "parametros",
+      "busqueda",
+      "comprobante",
+      "organización"
+    ]
+  },
+  {
+    "q": "¿Qué parámetros se pueden configurar para la descarga de XML?",
+    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o Mes), y los parámetros de búsqueda como un día, mes o año completo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "parametros",
+      "configuración",
+      "descarga",
+      "xml",
+      "comprobante",
+      "emitidas",
+      "recibidas",
+      "organización",
+      "día",
+      "mes",
+      "año"
+    ]
+  },
+  {
+    "q": "¿Qué información se muestra en la tabla de tareas después de realizar una solicitud?",
+    "a": "La tabla de tareas muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes solicitados, fecha inicial y final de la consulta, cantidad de CFDI's, tipo de organización elegida y descripción del avance de la consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tabla",
+      "tareas",
+      "información",
+      "solicitud",
+      "estado",
+      "fecha",
+      "id",
+      "comprobantes",
+      "cfdi",
+      "organización",
+      "avance"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo puede tomar la descarga de los XML una vez realizada la solicitud?",
+    "a": "El tiempo de espera puede variar desde minutos hasta horas o incluso días, dependiendo del WebService SAT. Se recomienda verificar constantemente el estado de la solicitud hasta que esté disponible para descarga.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "espera",
+      "descarga",
+      "xml",
+      "webservice sat",
+      "minutos",
+      "horas",
+      "días",
+      "verificación",
+      "estado"
+    ]
+  },
+  {
+    "q": "¿Qué sucede cuando una solicitud de descarga pasa a estado 'Disponible'?",
+    "a": "Cuando la solicitud pasa a estado 'Disponible', el módulo comienza automáticamente la descarga de los CFDI's, los cuales se importan directamente a la bóveda en el equipo para su uso en módulos posteriores.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "disponible",
+      "descarga",
+      "automática",
+      "cfdi",
+      "importación",
+      "bóveda",
+      "equipo",
+      "módulos"
+    ]
+  },
+  {
+    "q": "¿Qué opciones hay si no se cuenta con la licencia MiAdminXML Profesional o el periodo demostrativo?",
+    "a": "Si no se cuenta con la licencia Profesional ni el periodo demostrativo, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "profesional",
+      "periodo",
+      "demostrativo",
+      "solución",
+      "correo",
+      "electrónico",
+      "alternativa"
+    ]
+  }
+]

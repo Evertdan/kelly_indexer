@@ -1,0 +1,73 @@
+[
+  {
+    "q": "¿Qué se necesita para recibir soporte temprano en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "licencia",
+      "profesional",
+      "periodo",
+      "demostrativo",
+      "requisitos",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿MiAdminXML guarda información de RFC y contraseñas de los contribuyentes?",
+    "a": "No, MiAdminXML no guarda ningún tipo de información de los RFC o contraseñas que se han agregado al sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "rfc",
+      "contraseña",
+      "seguridad",
+      "información",
+      "guardar",
+      "contribuyentes",
+      "privacidad"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede recuperar la información de RFC y contraseña en MiAdminXML?",
+    "a": "Puede recuperar la información si tiene el equipo anterior y guarda la BovedaCFDi y miadminxml2.sqlite.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recuperar",
+      "rfc",
+      "contraseña",
+      "equipo",
+      "anterior",
+      "bovedacfdi",
+      "sqlite",
+      "backup"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de información se maneja en el soporte temprano de MiAdminXML?",
+    "a": "Se maneja información de RFC y contraseña de los contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "información",
+      "rfc",
+      "contraseña",
+      "contribuyentes",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte se proporciona en este caso?",
+    "a": "Se proporciona soporte de Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel",
+      "temprano",
+      "nivel 1",
+      "tipo",
+      "asistencia"
+    ]
+  }
+]

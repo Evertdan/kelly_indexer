@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Qué se necesita para cambiar la ruta de la Bóveda en Red en MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "bóveda",
+      "red",
+      "ruta",
+      "licencia",
+      "requisitos",
+      "cambio",
+      "almacenamiento"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los modos de conexión disponibles en MiExpedienteContable?",
+    "a": "MiExpedienteContable cuenta con dos modos de conexión: terminal y servidor.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "conexión",
+      "modo",
+      "terminal",
+      "servidor",
+      "configuración",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Cómo se configura la conexión en modo servidor en MiExpedienteContable?",
+    "a": "Para configurar la conexión en modo servidor, se debe instalar el sistema bajo la opción Servidor, registrar el sistema, compartir la carpeta de instalación (C:\\MiExpedienteContable) y configurar el puerto como excepción en el firewall.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "servidor",
+      "instalación",
+      "carpeta",
+      "compartir",
+      "firewall",
+      "puerto",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se siguen para configurar la conexión en modo terminal en MiExpedienteContable?",
+    "a": "Para configurar la conexión en modo terminal, se debe instalar el sistema bajo la opción Terminal, registrar el sistema, ingresar el Nombre o IP Fija del servidor y la carpeta compartida del servidor, y luego reiniciar el sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "terminal",
+      "instalación",
+      "ip",
+      "servidor",
+      "carpeta",
+      "compartida",
+      "reiniciar"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer para migrar toda la información a otra ubicación en MiExpedienteContable?",
+    "a": "Para migrar toda la información, se debe copiar la carpeta MiExpedienteContable a la ruta deseada. De lo contrario, al elegir una nueva ruta, el sistema cargará sin información.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "migrar",
+      "información",
+      "carpeta",
+      "ruta",
+      "copia",
+      "ubicación"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de dificultad tiene el proceso de cambio de ruta de Bóveda en Red en MiExpedienteContable?",
+    "a": "El nivel de dificultad del proceso es 2 - Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "dificultad",
+      "nivel",
+      "medio",
+      "proceso",
+      "cambio",
+      "bóveda"
+    ]
+  }
+]

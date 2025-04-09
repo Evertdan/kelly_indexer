@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Qué tipo de solicitud se describe en el texto?",
+    "a": "La solicitud es de tipo INC-02 y tiene un nivel de 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "inc-02",
+      "nivel",
+      "medio"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se mencionan para resolver la situación?",
+    "a": "Se menciona el uso de MiAdminXML como recurso principal.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recursos",
+      "miadminxml",
+      "situación",
+      "resolver"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar MiAdminXML según las políticas?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "políticas"
+    ]
+  },
+  {
+    "q": "¿Cuál es la primera solución propuesta para el error no controlado?",
+    "a": "Usar la herramienta de Desmarcable con pasos específicos: clic derecho en paquetes no descargados, seleccionar Desmarcable, luego marcable y verificar para intentar una nueva descarga.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "error",
+      "desmarcable",
+      "pasos",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda si la solicitud excede los 200,000 XML permitidos por consulta?",
+    "a": "Se recomienda dividir la consulta en otras más pequeñas para evitar el problema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "exceder",
+      "200000",
+      "xml",
+      "dividir",
+      "consulta"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si no se encuentran comprobantes dentro de los parámetros de la consulta?",
+    "a": "Se recomienda asegurar que existan XML del periodo de la consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "comprobantes",
+      "parámetros",
+      "consulta",
+      "xml",
+      "periodo"
+    ]
+  }
+]

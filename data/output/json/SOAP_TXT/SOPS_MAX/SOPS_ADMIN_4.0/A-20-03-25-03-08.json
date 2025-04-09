@@ -1,0 +1,73 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta Generar PDF en MAX?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MAX",
+    "keywords": [
+      "generar pdf",
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "max",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para generar un PDF desde MAX?",
+    "a": "1. Ingresar al módulo de administración. 2. Seleccionar el RFC/Tipo/Año/Mes. 3. Dar clic en Leer XMLs. 4. Seleccionar la herramienta Generar PDF. 5. Esperar a que cargue la herramienta. 6. Elegir entre generación masiva o individual. 7. Seleccionar abrir archivo(s) PDF. 8. Dar clic en Generar PDF. 9. Visualizar el archivo con el visor predeterminado.",
+    "product": "MAX",
+    "keywords": [
+      "pasos",
+      "generar pdf",
+      "max",
+      "proceso",
+      "xml",
+      "administración",
+      "rfc",
+      "herramienta",
+      "visor"
+    ]
+  },
+  {
+    "q": "¿Qué opciones tengo al generar un PDF en MAX?",
+    "a": "Puedes elegir entre realizar la generación de manera masiva o individual.",
+    "product": "MAX",
+    "keywords": [
+      "opciones",
+      "generar pdf",
+      "masiva",
+      "individual",
+      "max",
+      "selección",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo visualizar el PDF generado en MAX?",
+    "a": "El PDF generado se visualiza automáticamente con el visor predeterminado del sistema.",
+    "product": "MAX",
+    "keywords": [
+      "visualizar",
+      "pdf",
+      "visor",
+      "predeterminado",
+      "max",
+      "generar",
+      "archivo"
+    ]
+  },
+  {
+    "q": "¿Qué módulo de MAX se utiliza para generar PDFs?",
+    "a": "Se utiliza el módulo de administración de MAX para generar PDFs.",
+    "product": "MAX",
+    "keywords": [
+      "módulo",
+      "administración",
+      "max",
+      "generar pdf",
+      "herramienta",
+      "utilizar"
+    ]
+  }
+]

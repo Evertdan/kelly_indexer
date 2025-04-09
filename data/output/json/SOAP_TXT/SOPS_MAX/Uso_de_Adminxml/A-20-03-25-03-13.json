@@ -1,0 +1,69 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdf masivos",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo se utiliza la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Para utilizar la herramienta de PDF masivos, se debe ingresar al módulo de administración, seleccionar RFC, Tipo, Año y Mes, y cuando aparezca la información de los XML, seleccionar la herramienta de PDF masivos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdf masivos",
+      "uso",
+      "herramienta",
+      "módulo administración",
+      "rfc",
+      "tipo",
+      "año",
+      "mes"
+    ]
+  },
+  {
+    "q": "¿Qué ventaja ofrece la herramienta de PDF masivos en MiAdminXML?",
+    "a": "La herramienta de PDF masivos permite convertir todos los XML en archivos PDF masivamente, facilitando y acelerando el proceso de representación de los XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdf masivos",
+      "ventaja",
+      "convertir",
+      "xml",
+      "archivos pdf",
+      "proceso rápido"
+    ]
+  },
+  {
+    "q": "¿Cómo se organizan los archivos después de usar la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Después de usar la herramienta de PDF masivos, la organización dentro de la bóveda mostrará primero el PDF creado y enseguida el XML del PDF.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdf masivos",
+      "organización",
+      "bóveda",
+      "pdf",
+      "xml",
+      "archivos"
+    ]
+  },
+  {
+    "q": "¿Qué información se debe seleccionar antes de usar la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Antes de usar la herramienta de PDF masivos, se debe seleccionar el RFC, Tipo, Año y Mes correspondientes a los XML que se desean convertir.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdf masivos",
+      "seleccionar",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "xml"
+    ]
+  }
+]

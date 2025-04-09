@@ -1,0 +1,80 @@
+[
+  {
+    "q": "¿Qué es MiExpedienteContable?",
+    "a": "MiExpedienteContable es un programa que automatiza el trabajo de un despacho contable, permitiendo llevar un histórico de los datos importantes de los contribuyentes, gestionar altas, modificaciones y eliminaciones, personalizar columnas, descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, controlar contraseñas y certificados, acceder a portales desde el programa, gestionar declaraciones mensuales y anuales, descargar archivos del SAT o importar PDFs, llevar registro de pagos IMSS, Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "programa",
+      "automatización",
+      "despacho",
+      "contable",
+      "contribuyentes",
+      "gestión",
+      "datos",
+      "histórico"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de información se puede gestionar con MiExpedienteContable?",
+    "a": "Con MiExpedienteContable se puede gestionar un histórico de los datos más importantes de los contribuyentes, dar de alta, modificar y eliminar información, personalizar columnas, descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, controlar contraseñas y certificados, gestionar declaraciones mensuales y anuales, descargar archivos del SAT o importar PDFs, y llevar registro de pagos IMSS, Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "gestión",
+      "datos",
+      "contribuyentes",
+      "altas",
+      "modificaciones",
+      "eliminaciones",
+      "archivos",
+      "oficiales",
+      "declaraciones",
+      "pagos"
+    ]
+  },
+  {
+    "q": "¿Qué archivos oficiales se pueden descargar con MiExpedienteContable?",
+    "a": "Con MiExpedienteContable se pueden descargar archivos oficiales como la opinión de cumplimiento y la constancia de situación fiscal con tan solo un par de clics.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "archivos",
+      "oficiales",
+      "descarga",
+      "opinión",
+      "cumplimiento",
+      "constancia",
+      "situación",
+      "fiscal"
+    ]
+  },
+  {
+    "q": "¿Cómo ayuda MiExpedienteContable en la gestión de declaraciones?",
+    "a": "MiExpedienteContable permite gestionar las declaraciones mensuales y anuales, además de poder descargar los archivos directamente desde el portal del SAT o importar una base de PDFs.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "declaraciones",
+      "mensuales",
+      "anuales",
+      "gestión",
+      "SAT",
+      "PDF",
+      "importar"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de registros se pueden llevar con MiExpedienteContable?",
+    "a": "Con MiExpedienteContable se puede llevar el registro de pagos IMSS, Infonavit y obligaciones estatales, así como también las incapacidades y movimientos afiliatorios de los trabajadores.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registros",
+      "pagos",
+      "IMSS",
+      "Infonavit",
+      "obligaciones",
+      "estatales",
+      "incapacidades",
+      "movimientos",
+      "afiliatorios",
+      "trabajadores"
+    ]
+  }
+]

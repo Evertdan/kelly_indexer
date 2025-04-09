@@ -1,0 +1,65 @@
+[
+  {
+    "q": "¿Cómo puedo obtener un periodo de prueba de MiAdminXML?",
+    "a": "Para obtener el periodo de prueba, no debes haber instalado MiAdminXML anteriormente en tu equipo de cómputo. Una vez instalado el programa, comienzan automáticamente los 30 días de prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "periodo de prueba",
+      "obtener",
+      "instalación",
+      "requisitos",
+      "30 días"
+    ]
+  },
+  {
+    "q": "¿Qué beneficios incluye el periodo de prueba de MiAdminXML?",
+    "a": "Durante el periodo de prueba de 30 días, se activan todos los beneficios del paquete PLUS, más un módulo adicional de la licencia Pro, específicamente el Módulo de Control y conciliación de pagos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "beneficios",
+      "periodo de prueba",
+      "paquete plus",
+      "módulo adicional",
+      "control de pagos",
+      "conciliación"
+    ]
+  },
+  {
+    "q": "¿Puedo volver a usar la versión de prueba de MiAdminXML después de los 30 días?",
+    "a": "No, después de los 30 días de prueba, no se puede volver a usar la versión de prueba, incluso si se desinstala el programa o se formatea el equipo. El sistema detecta automáticamente cuando ya se han proporcionado los 30 días de prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "versión de prueba",
+      "limite",
+      "30 días",
+      "desinstalar",
+      "formatear",
+      "detección automática"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos hay para acceder al periodo de prueba de MiAdminXML?",
+    "a": "El único requisito para acceder al periodo de prueba es no haber instalado MiAdminXML anteriormente en el equipo de cómputo donde se desea probar el software.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "periodo de prueba",
+      "instalación previa",
+      "equipo de cómputo",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Qué módulo adicional se incluye durante el periodo de prueba de MiAdminXML?",
+    "a": "Durante el periodo de prueba, además de los beneficios del paquete PLUS, se incluye el Módulo de Control y conciliación de pagos de la licencia Pro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo adicional",
+      "periodo de prueba",
+      "control de pagos",
+      "conciliación",
+      "licencia pro",
+      "beneficios"
+    ]
+  }
+]

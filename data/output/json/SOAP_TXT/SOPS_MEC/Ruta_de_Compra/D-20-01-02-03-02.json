@@ -1,0 +1,98 @@
+[
+  {
+    "q": "¿Qué debe hacer el cliente si no ha recibido su clave de licencia?",
+    "a": "El cliente debe reportar la situación mediante una llamada, correo o feedback, proporcionando su número de orden de compra para validar la información en el bot.",
+    "product": "General",
+    "keywords": [
+      "clave",
+      "licencia",
+      "no recibida",
+      "reportar",
+      "orden de compra",
+      "validar",
+      "bot"
+    ]
+  },
+  {
+    "q": "¿Qué datos debe confirmar el cliente para recibir su licencia?",
+    "a": "El cliente debe confirmar su correo electrónico, razón social, RFC y el nombre de la persona a quien se llenó la orden de compra.",
+    "product": "General",
+    "keywords": [
+      "datos",
+      "confirmar",
+      "licencia",
+      "correo electrónico",
+      "razón social",
+      "rfc",
+      "orden de compra"
+    ]
+  },
+  {
+    "q": "¿Cómo se valida la información del cliente para enviar la licencia?",
+    "a": "La información del cliente se valida utilizando el comando /orden en el bot, una vez que el cliente proporciona su número de orden de compra.",
+    "product": "General",
+    "keywords": [
+      "validar",
+      "información",
+      "cliente",
+      "comando",
+      "orden",
+      "bot",
+      "número de orden"
+    ]
+  },
+  {
+    "q": "¿Qué comando se usa para enviar la licencia al cliente?",
+    "a": "Se utiliza el comando /enviarlicencias en el bot para enviar la licencia correspondiente al cliente.",
+    "product": "General",
+    "keywords": [
+      "comando",
+      "enviar",
+      "licencia",
+      "bot",
+      "/enviarlicencias",
+      "correspondiente"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el cliente no confirma los datos requeridos para enviar la licencia a otro correo?",
+    "a": "Si el cliente no confirma los datos requeridos, la licencia se enviará al correo que está registrado en el bot.",
+    "product": "General",
+    "keywords": [
+      "confirmar",
+      "datos",
+      "licencia",
+      "correo",
+      "registrado",
+      "bot",
+      "requeridos"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene un reporte de no recepción de licencia?",
+    "a": "Un reporte de no recepción de licencia tiene un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "reporte",
+      "no recepción",
+      "licencia",
+      "prioridad",
+      "nivel",
+      "bajo",
+      "1"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solución se aplica para el problema de no recepción de licencia?",
+    "a": "El tipo de solución aplicada para el problema de no recepción de licencia es Sol-01.",
+    "product": "General",
+    "keywords": [
+      "solución",
+      "tipo",
+      "no recepción",
+      "licencia",
+      "sol-01",
+      "problema"
+    ]
+  }
+]

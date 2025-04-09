@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué es la herramienta reglas en MiAdminXML?",
+    "a": "La herramienta reglas en MiAdminXML se refiere a los criterios para la generación de DIOT, la cual se encuentra en el menú de herramientas del módulo de Generación de DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "reglas",
+      "diot",
+      "generación",
+      "criterios",
+      "menú",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta reglas en MiAdminXML?",
+    "a": "Para usar la herramienta reglas en MiAdminXML, es necesario contar con una licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "herramienta",
+      "reglas",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede a la herramienta reglas en MiAdminXML?",
+    "a": "La herramienta reglas se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "herramienta",
+      "reglas",
+      "menú",
+      "herramientas",
+      "módulo",
+      "diot"
+    ]
+  },
+  {
+    "q": "¿Qué parámetros se pueden configurar en la herramienta reglas de MiAdminXML?",
+    "a": "Al seleccionar la herramienta reglas, se abre una ventana que muestra el desglose de los parámetros a configurar para aplicarlos como criterios en la Generación de la carga Batch DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "parámetros",
+      "configuración",
+      "herramienta",
+      "reglas",
+      "criterios",
+      "carga batch",
+      "diot",
+      "ventana"
+    ]
+  },
+  {
+    "q": "¿Para qué sirve la herramienta reglas en MiAdminXML?",
+    "a": "La herramienta reglas en MiAdminXML sirve para configurar los criterios necesarios en la Generación de la carga Batch DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "función",
+      "herramienta",
+      "reglas",
+      "criterios",
+      "generación",
+      "carga batch",
+      "diot"
+    ]
+  }
+]

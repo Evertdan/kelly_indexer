@@ -1,0 +1,103 @@
+[
+  {
+    "q": "¿Qué es la herramienta Verificar series en MiAdminXML?",
+    "a": "La herramienta Verificar series permite conocer si la serie y folios internos se encuentran duplicados o si hay alguno faltante, además de generar reportes del listado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar series",
+      "herramienta",
+      "folios",
+      "duplicados",
+      "faltantes",
+      "reportes",
+      "listado"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta Verificar series?",
+    "a": "Se debe contar con una licencia de MiAdminXML o estar en periodo demostrativo, y tener información previamente almacenada en la BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "bovedacfdi",
+      "información",
+      "almacenada"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la herramienta Verificar series en MiAdminXML?",
+    "a": "Se accede a MiAdminXML, se da clic en el icono de Administración de XML, se selecciona el listado por RFC, tipo, año, mes o agrupación, y en el reporte de Facturas se selecciona la herramienta Verificar series.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceder",
+      "administración de xml",
+      "listado",
+      "rfc",
+      "reporte",
+      "facturas"
+    ]
+  },
+  {
+    "q": "¿Qué opciones ofrece la herramienta Verificar series?",
+    "a": "La herramienta ofrece opciones como Identificar series, Extrae Duplicados, Valida seriación, Exportar lista de CFDI, Exportar resultados y Lista depurada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "identificar series",
+      "extrae duplicados",
+      "valida seriación",
+      "exportar",
+      "lista depurada"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo verificar folios duplicados con la herramienta Verificar series?",
+    "a": "Se utiliza la opción Extrae Duplicados para conocer si alguno de los folios se duplicó al emitirse.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "folios duplicados",
+      "extrae duplicados",
+      "verificar",
+      "emitidos"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo verificar la continuidad de los folios con la herramienta Verificar series?",
+    "a": "Se da clic en la opción Valida seriación para verificar que los folios sean continuos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "folios continuos",
+      "valida seriación",
+      "verificar",
+      "continuidad"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo exportar los resultados de la verificación de series?",
+    "a": "Se puede exportar el listado original con Exportar lista de CFDI, los folios duplicados o faltantes con Exportar resultados, y el reporte corregido con Lista depurada, todos a Excel.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "resultados",
+      "excel",
+      "lista original",
+      "folios duplicados",
+      "faltantes",
+      "lista depurada"
+    ]
+  },
+  {
+    "q": "¿Qué información puedo ver al usar la opción Identificar series?",
+    "a": "La opción Identificar series muestra un listado o tipos de serie que se tienen en el mes seleccionado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "identificar series",
+      "listado",
+      "tipos de serie",
+      "mes",
+      "visualizar"
+    ]
+  }
+]

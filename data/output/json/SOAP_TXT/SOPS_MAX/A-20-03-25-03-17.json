@@ -1,0 +1,58 @@
+[
+  {
+    "q": "¿Qué se necesita para acceder a la solución de personalización de PDF en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "personalización",
+      "pdf",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué función cumple la herramienta descrita en el documento?",
+    "a": "La herramienta permite guardar el RFC (emisor) y el logo de la empresa para personalizar el archivo PDF.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "rfc",
+      "logo",
+      "empresa",
+      "personalizar",
+      "pdf",
+      "archivo",
+      "emisor"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se describe en el documento?",
+    "a": "El documento describe un Soporte Temprano de Nivel 1, relacionado con el catálogo de logos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "nivel 1",
+      "catálogo",
+      "logos",
+      "tipo",
+      "descripción"
+    ]
+  },
+  {
+    "q": "¿Cuál es la versión del documento?",
+    "a": "La versión del documento es 09.09.2020.04.",
+    "product": "General",
+    "keywords": [
+      "versión",
+      "documento",
+      "fecha",
+      "09.09.2020.04",
+      "revisión"
+    ]
+  }
+]

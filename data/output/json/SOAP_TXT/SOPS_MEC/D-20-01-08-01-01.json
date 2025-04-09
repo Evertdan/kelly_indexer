@@ -1,0 +1,89 @@
+[
+  {
+    "q": "¿Cómo activar una licencia en MiExpedienteContable?",
+    "a": "Para activar una licencia en MiExpedienteContable, ingrese al sistema con Usuario: admin y contraseña: conta, localice el icono en la parte superior derecha, seleccione el apartado de Licenciamiento, haga clic en 'Tengo una clave de licencia', ingrese la clave recibida por correo y presione el botón Activar. Espere a que el proceso finalice y el sistema se reinicie.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "activación",
+      "licencia",
+      "mi expediente contable",
+      "clave",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los requisitos para instalar MiExpedienteContable?",
+    "a": "Los requisitos para instalar MiExpedienteContable son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con macOS, Windows 7, Windows 8 ni Windows 8.1.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "instalación",
+      "windows",
+      "java",
+      "compatibilidad",
+      "ram",
+      "disco duro"
+    ]
+  },
+  {
+    "q": "¿MiExpedienteContable es compatible con macOS?",
+    "a": "No, MiExpedienteContable no es compatible con macOS.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "compatibilidad",
+      "macos",
+      "no compatible",
+      "sistema operativo"
+    ]
+  },
+  {
+    "q": "¿Qué sistemas operativos no son compatibles con MiExpedienteContable?",
+    "a": "MiExpedienteContable no es compatible con Windows 7, Windows 8 ni Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles del proveedor o están por dejar de funcionar o ser actualizados.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "compatibilidad",
+      "windows 7",
+      "windows 8",
+      "windows 8.1",
+      "no compatible",
+      "actualizaciones"
+    ]
+  },
+  {
+    "q": "¿Qué credenciales se usan para ingresar a MiExpedienteContable durante la activación de la licencia?",
+    "a": "Durante la activación de la licencia, se ingresa a MiExpedienteContable con Usuario: admin y contraseña: conta.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "credenciales",
+      "usuario",
+      "contraseña",
+      "admin",
+      "conta",
+      "activación"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece cuando la licencia se activa exitosamente en MiExpedienteContable?",
+    "a": "Cuando la licencia se activa exitosamente, aparece un mensaje indicando que la clave de licencia se ha activado de manera exitosa y el sistema se reinicia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "mensaje",
+      "activación exitosa",
+      "licencia",
+      "reinicio",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra el apartado de Licenciamiento en MiExpedienteContable?",
+    "a": "El apartado de Licenciamiento en MiExpedienteContable se encuentra en la parte superior derecha de la pantalla, representado por un icono.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licenciamiento",
+      "icono",
+      "ubicación",
+      "parte superior derecha",
+      "menú"
+    ]
+  }
+]

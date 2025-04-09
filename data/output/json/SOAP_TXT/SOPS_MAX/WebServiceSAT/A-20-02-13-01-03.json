@@ -1,0 +1,63 @@
+[
+  {
+    "q": "¿Qué tipo de error se describe en el documento?",
+    "a": "Error no controlado en Webservice SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "no controlado",
+      "webservice",
+      "sat",
+      "tipo"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de gravedad del error mencionado?",
+    "a": "Nivel 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "error",
+      "medio",
+      "severidad"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para resolver el problema con el Webservice SAT?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "solucion",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cuál es la solución recomendada para el error no controlado en el Webservice SAT?",
+    "a": "Hacer uso del módulo de Descarga Masiva WebServiceSAT fuera de los horarios de 11am o 3pm, ya que son las horas pico para solicitar paquetes y puede perderse la conexión.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solucion",
+      "error",
+      "horarios",
+      "horas pico",
+      "conexión",
+      "descarga masiva"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se menciona en el documento para manejar el Webservice SAT?",
+    "a": "MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recurso",
+      "webservice",
+      "sat",
+      "miadminxml",
+      "manejo"
+    ]
+  }
+]

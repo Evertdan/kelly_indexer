@@ -1,0 +1,98 @@
+[
+  {
+    "q": "¿Qué permite hacer el módulo de Papeles de Trabajo?",
+    "a": "El módulo de Papeles de Trabajo permite visualizar el expediente digital del contribuyente seleccionado, agregar nuevas carpetas y archivos al expediente, y cuenta con un visor de archivos para una vista rápida de los documentos.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "papeles de trabajo",
+      "expediente digital",
+      "contribuyente",
+      "visor",
+      "archivos"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo al módulo de Papeles de Trabajo para un contribuyente?",
+    "a": "Para acceder al módulo de Papeles de Trabajo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "acceder",
+      "contribuyente",
+      "pestaña",
+      "papeles de trabajo",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Cómo visualizo el contenido de una carpeta en el expediente digital?",
+    "a": "Para visualizar el contenido de una carpeta, debes dar clic sobre el nodo correspondiente y se irá desplegando el contenido.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "visualizar",
+      "carpeta",
+      "expediente",
+      "nodo",
+      "contenido"
+    ]
+  },
+  {
+    "q": "¿Cómo agrego una nueva carpeta al expediente digital?",
+    "a": "Para agregar una nueva carpeta, selecciona alguno de los nodos y da clic en el botón 'Crear carpeta'. Luego ingresa el nombre de la carpeta y da clic en 'Crear'.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "agregar",
+      "carpeta",
+      "expediente",
+      "crear",
+      "nodo"
+    ]
+  },
+  {
+    "q": "¿Cómo agrego un nuevo archivo al expediente digital?",
+    "a": "Para agregar un nuevo archivo, selecciona el nodo donde se almacenará y da clic en 'Agregar archivo'. Luego selecciona el archivo y da clic en 'Aceptar'.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "agregar",
+      "archivo",
+      "expediente",
+      "seleccionar",
+      "aceptar"
+    ]
+  },
+  {
+    "q": "¿Cómo abro un archivo con un programa predeterminado?",
+    "a": "Para abrir un archivo con un programa predeterminado, selecciona el archivo y da clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "abrir",
+      "archivo",
+      "programa",
+      "predeterminado",
+      "lector"
+    ]
+  },
+  {
+    "q": "¿Cómo renombro una carpeta o archivo en el expediente digital?",
+    "a": "Para renombrar una carpeta o archivo, selecciona el nodo y da clic en 'Renombrar'. Luego ingresa el nuevo nombre y da clic en 'Aceptar'.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "renombrar",
+      "carpeta",
+      "archivo",
+      "nodo",
+      "nombre"
+    ]
+  },
+  {
+    "q": "¿Cómo elimino una carpeta o archivo del expediente digital?",
+    "a": "Para eliminar una carpeta o archivo, selecciónalo y da clic en 'Eliminar'. Confirma la eliminación dando clic en 'Sí' en el mensaje de confirmación.",
+    "product": "Papeles de Trabajo",
+    "keywords": [
+      "eliminar",
+      "carpeta",
+      "archivo",
+      "expediente",
+      "confirmación"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Cómo puede un cliente sin acceso a internet realizar una compra en AdminXML?",
+    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda. Los pasos incluyen crear un nuevo correo en Missive, agregar la plantilla correspondiente y enviarla al cliente.",
+    "product": "AdminXML",
+    "keywords": [
+      "compra",
+      "sin internet",
+      "missive",
+      "plantilla",
+      "pasos",
+      "correo electrónico",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para comprar una licencia en AdminXML con tarjeta?",
+    "a": "1) Ingresar a www.adminxml.com y hacer clic en 'Precios'. 2) Seleccionar el paquete deseado (Plus o Pro), llenar el formulario de datos de contacto y facturación si es necesario, seleccionar cantidad de licencias y hacer clic en 'Continuar'. 3) Completar datos de contacto y facturación, luego 'Continuar'. 4) Seleccionar pago con 'Tarjeta', ingresar datos de la tarjeta y hacer clic en 'Continuar' para completar el pago.",
+    "product": "AdminXML",
+    "keywords": [
+      "compra",
+      "licencia",
+      "tarjeta",
+      "pasos",
+      "proceso",
+      "pago",
+      "formulario",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de un pago exitoso con tarjeta en AdminXML?",
+    "a": "Aparecerá un mensaje que dice 'Tu pago se ha procesado exitosamente' y se podrá visualizar la Clave de licencia en pantalla, la cual también será enviada al correo electrónico proporcionado en los datos de contacto.",
+    "product": "AdminXML",
+    "keywords": [
+      "pago",
+      "exitoso",
+      "tarjeta",
+      "licencia",
+      "clave",
+      "correo electrónico",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Dónde se puede encontrar información sobre errores de pago con tarjeta en AdminXML?",
+    "a": "Los errores de pago con tarjeta están documentados en el soporte A-30-02-02-06-04.",
+    "product": "AdminXML",
+    "keywords": [
+      "errores",
+      "pago",
+      "tarjeta",
+      "soporte",
+      "documentación",
+      "referencia"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de licencia están disponibles para comprar en AdminXML?",
+    "a": "Están disponibles las licencias Plus y Pro, las cuales pueden seleccionarse al hacer clic en 'Comprar Licencia' en la página de precios.",
+    "product": "AdminXML",
+    "keywords": [
+      "licencias",
+      "opciones",
+      "plus",
+      "pro",
+      "compra",
+      "precios",
+      "paquetes"
+    ]
+  }
+]

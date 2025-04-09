@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Cómo puedo obtener la versión de prueba de MiExpedienteContable?",
+    "a": "Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe ingresar a la página proporcionada, registrarse en el formulario con su Nombre, Apellido y Correo Electrónico, y recibirá el instalador del sistema por correo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "versión de prueba",
+      "demo",
+      "descargar",
+      "registro",
+      "formulario",
+      "30 días",
+      "instalador"
+    ]
+  },
+  {
+    "q": "¿Qué información necesito proporcionar para registrarme en la versión demo de MiExpedienteContable?",
+    "a": "Para registrarse en la versión demo de MiExpedienteContable, debe proporcionar su Nombre, Apellido y Correo Electrónico en el formulario de registro.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "información",
+      "nombre",
+      "apellido",
+      "correo electrónico",
+      "formulario",
+      "demo"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo dura el periodo de prueba de MiExpedienteContable?",
+    "a": "El periodo de prueba de MiExpedienteContable dura 30 días.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "periodo de prueba",
+      "duración",
+      "30 días",
+      "demo",
+      "tiempo"
+    ]
+  },
+  {
+    "q": "¿Puedo instalar la versión demo de MiExpedienteContable en un equipo donde ya he tenido el sistema instalado?",
+    "a": "No, la versión demo de MiExpedienteContable debe descargarse en un equipo que no haya tenido el sistema instalado previamente, de lo contrario solicitará ingresar una clave de licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación",
+      "equipo",
+      "restricciones",
+      "versión demo",
+      "clave de licencia",
+      "previamente instalado"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si intento instalar la versión demo en un equipo con una instalación previa de MiExpedienteContable?",
+    "a": "Si intenta instalar la versión demo en un equipo con una instalación previa de MiExpedienteContable, el sistema solicitará ingresar una clave de licencia en lugar de permitir el uso de la versión demo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación",
+      "problemas",
+      "clave de licencia",
+      "versión demo",
+      "equipo previo"
+    ]
+  }
+]

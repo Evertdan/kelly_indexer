@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Qué se necesita para realizar un respaldo en MiExpedienteContable?",
+    "a": "Se requiere contar con la licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respaldo",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "mi expediente contable"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso de respaldo en MiExpedienteContable?",
+    "a": "Se debe ingresar a MiExpedienteContable en el equipo servidor, dar clic en el botón de MEC, luego en el ícono del sistema y seleccionar Respaldar/Restaurar, y finalmente elegir la opción Respaldar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respaldo",
+      "proceso",
+      "iniciar",
+      "mec",
+      "servidor",
+      "botón",
+      "ícono"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se siguen después de seleccionar la opción Respaldar?",
+    "a": "Se muestra una ventana donde se seleccionan los archivos a respaldar y la ruta de guardado. Luego aparece un mensaje confirmando la creación del respaldo y se abre la ubicación del archivo .ZIP generado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respaldo",
+      "pasos",
+      "ventana",
+      "archivos",
+      "ruta",
+      "mensaje",
+      "zip"
+    ]
+  },
+  {
+    "q": "¿Dónde se guarda el respaldo generado en MiExpedienteContable?",
+    "a": "El respaldo se guarda en un archivo .ZIP cuya ubicación se muestra automáticamente al finalizar el proceso. El usuario puede guardar este archivo donde prefiera.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respaldo",
+      "ubicación",
+      "archivo",
+      "zip",
+      "guardar",
+      "usuario"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si se desea restaurar un respaldo en MiExpedienteContable?",
+    "a": "Para restaurar un respaldo, se debe seguir el procedimiento descrito en el SOP Restaurar respaldo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "restaurar",
+      "respaldo",
+      "procedimiento",
+      "sop",
+      "mi expediente contable"
+    ]
+  }
+]

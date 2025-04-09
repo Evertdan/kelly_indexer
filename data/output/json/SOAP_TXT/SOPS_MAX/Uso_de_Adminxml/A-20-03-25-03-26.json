@@ -1,0 +1,141 @@
+[
+  {
+    "q": "¿Qué se necesita para generar una carga Batch en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "carga batch",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso para generar la carga Batch y DIOT en MiAdminXML?",
+    "a": "Se debe ingresar al apartado Contabilidad y elegir el módulo Generar DIOT y Carga Batch.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "inicio",
+      "proceso",
+      "generar diot",
+      "carga batch",
+      "contabilidad",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué información se debe seleccionar para generar la DIOT en MiAdminXML?",
+    "a": "Se debe seleccionar el contribuyente, tipo de facturas, periodo de tiempo (año/mes), RFC, periodo de pago y trabajo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "seleccionar",
+      "contribuyente",
+      "facturas",
+      "periodo",
+      "rfc",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Qué pestañas se despliegan automáticamente en el módulo de generación de DIOT?",
+    "a": "Se despliegan dos pestañas: Facturas NO Pagadas y Facturas Pagadas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pestañas",
+      "facturas no pagadas",
+      "facturas pagadas",
+      "automático",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Cómo se agregan las facturas a la pestaña de Pagadas en MiAdminXML?",
+    "a": "Se identifican las facturas seleccionándolas y luego se elige el botón Pagado en el menú de herramientas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "agregar",
+      "facturas",
+      "pagadas",
+      "seleccionar",
+      "botón pagado",
+      "herramientas"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer después de agregar las facturas a la pestaña de Pagadas?",
+    "a": "Se recomienda dar clic en el botón Valida estado SAT para actualizar al último estado las facturas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validar",
+      "estado sat",
+      "actualizar",
+      "facturas",
+      "recomendación",
+      "botón"
+    ]
+  },
+  {
+    "q": "¿Qué hacer con las facturas que tienen estatus Cancelado en el Edo. Sat?",
+    "a": "Se deben seleccionar y dar clic en el botón No Pagado para que no se incluyan en la generación del archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "facturas canceladas",
+      "estado sat",
+      "no pagado",
+      "excluir",
+      "generación"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas adicionales están disponibles en el módulo de generación de DIOT?",
+    "a": "Se disponen de herramientas como Acreditable, No Acreditable, Tipo de IVA, Operación o Proveedor.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "acreditable",
+      "no acreditable",
+      "tipo iva",
+      "operación",
+      "proveedor"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera el archivo DIOT en MiAdminXML?",
+    "a": "Se selecciona el botón Generar DIOT en el módulo, lo que generará el reporte en la pestaña DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar diot",
+      "botón",
+      "reporte",
+      "pestaña diot",
+      "archivo"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera la carga Batch en MiAdminXML?",
+    "a": "Se selecciona el botón Generar BATCH, lo que generará un archivo .txt para usar en la herramienta DIOT del SAT y convertirlo en formato .dec.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar batch",
+      "botón",
+      "archivo txt",
+      "herramienta diot",
+      "sat",
+      "formato dec"
+    ]
+  },
+  {
+    "q": "¿Dónde se indica la ubicación de la carga Batch generada en MiAdminXML?",
+    "a": "El mensaje final en el módulo indicará la ubicación donde se genera la carga Batch.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "carga batch",
+      "mensaje final",
+      "módulo",
+      "generación"
+    ]
+  }
+]

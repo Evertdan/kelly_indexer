@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la descarga gratuita en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML, tener conexión a internet y tener MiAdminXML actualizado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "gratuita",
+      "requisitos",
+      "licencia",
+      "internet",
+      "actualizado"
+    ]
+  },
+  {
+    "q": "¿Cuántos XML se pueden descargar por consulta en la descarga gratuita de MiAdminXML?",
+    "a": "Se pueden descargar desde 1 XML hasta 500 XML por consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "gratuita",
+      "xml",
+      "consulta",
+      "límite"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al portal del SAT para la descarga gratuita en MiAdminXML?",
+    "a": "Se debe entrar en el icono 'Descarga Gratuita' en MiAdminXML, lo que abrirá el acceso al portal del SAT donde se puede ingresar con FIEL o Contraseña CIEC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "portal",
+      "sat",
+      "fiel",
+      "ciec",
+      "descarga",
+      "gratuita"
+    ]
+  },
+  {
+    "q": "¿Qué opciones adicionales ofrecen las licencias Plus y Profesional de MiAdminXML?",
+    "a": "Las licencias Plus y Profesional incluyen opciones de catálogo de contribuyentes y Asistente de descarga para mantener RFC y contraseñas guardadas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "plus",
+      "profesional",
+      "catálogo",
+      "contribuyentes",
+      "asistente",
+      "descarga",
+      "rfc"
+    ]
+  },
+  {
+    "q": "¿Cómo se pueden consultar las facturas en MiAdminXML?",
+    "a": "Las facturas se pueden consultar desde las opciones de SAT o con los botones de MiAdminXML, ya sea por folio fiscal o por fecha.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "consultar",
+      "facturas",
+      "emitidas",
+      "recibidas",
+      "sat",
+      "folio",
+      "fiscal",
+      "fecha"
+    ]
+  },
+  {
+    "q": "¿Cómo se realiza la descarga de archivos encontrados en MiAdminXML?",
+    "a": "Una vez encontrados los archivos, se puede realizar la descarga dando clic en la flecha que se encuentra en la parte superior del menú.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "archivos",
+      "flecha",
+      "menú",
+      "proceso"
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "q": "¿Qué problema resuelve la herramienta de Agrupación en MiAdminXML?",
+    "a": "La herramienta de Agrupación en MiAdminXML permite separar archivos XML que aparecen revueltos en la carpeta del mes, como facturas, nóminas, pagos, traslados y notas de crédito, en carpetas organizadas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "separar",
+      "xml",
+      "organizar",
+      "carpetas",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta de Agrupación en MiAdminXML?",
+    "a": "Para usar la herramienta de Agrupación en MiAdminXML, se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo",
+      "demostrativo",
+      "herramienta",
+      "agrupación",
+      "correo",
+      "electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo funciona la herramienta de Agrupación en MiAdminXML?",
+    "a": "La herramienta de Agrupación en MiAdminXML permite seleccionar el tipo de XML que se desea separar (como notas de crédito o traslados), y luego crea una carpeta copiando o moviendo los archivos XML según la selección del cliente. El programa pregunta si se desea mantener los XML en la misma ubicación con una copia en la nueva carpeta o moverlos de lugar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "funcionamiento",
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "seleccionar",
+      "xml",
+      "copiar",
+      "mover",
+      "carpetas",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de archivos XML se pueden separar con la herramienta de Agrupación en MiAdminXML?",
+    "a": "La herramienta de Agrupación en MiAdminXML permite separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipos",
+      "xml",
+      "separar",
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "facturas",
+      "nóminas",
+      "pagos",
+      "traslados",
+      "notas",
+      "crédito"
+    ]
+  },
+  {
+    "q": "¿Qué opciones ofrece MiAdminXML al usar la herramienta de Agrupación?",
+    "a": "Al usar la herramienta de Agrupación en MiAdminXML, el programa pregunta si se desea mantener los XML en la misma ubicación y realizar una copia en la nueva carpeta (SI) o si se desea mover los XML de lugar (NO).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "copiar",
+      "mover",
+      "xml",
+      "carpetas",
+      "ubicación"
+    ]
+  },
+  {
+    "q": "¿Dónde se puede visualizar el resultado después de usar la herramienta de Agrupación en MiAdminXML?",
+    "a": "Después de usar la herramienta de Agrupación en MiAdminXML, se puede visualizar la información organizada dentro de la bóveda.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "resultado",
+      "visualizar",
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "bóveda",
+      "información",
+      "organizada"
+    ]
+  },
+  {
+    "q": "¿La herramienta de Agrupación en MiAdminXML es gratuita o requiere una licencia especial?",
+    "a": "La herramienta de Agrupación en MiAdminXML es una herramienta Premium que requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "agrupación",
+      "miadminxml",
+      "premium",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "requisitos"
+    ]
+  }
+]

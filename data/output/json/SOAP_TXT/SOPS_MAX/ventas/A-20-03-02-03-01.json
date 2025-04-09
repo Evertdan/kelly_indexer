@@ -1,0 +1,89 @@
+[
+  {
+    "q": "¿Cuáles son los pasos para realizar una compra en adminxml.com?",
+    "a": "1. Ingresar a www.adminxml.com. 2. Posicionarse en el apartado de precios y beneficios y dar clic en 'Comprar Ahora' en el paquete deseado. 3. Llenar la orden de compra con datos de contacto. 4. Marcar la casilla 'Requiero factura' si se necesita. 5. Seleccionar la cantidad de licencias y dar clic en continuar. 6. Confirmar los datos de facturación y seleccionar el método de pago.",
+    "product": "adminxml",
+    "keywords": [
+      "pasos",
+      "compra",
+      "adminxml",
+      "proceso",
+      "orden",
+      "licencias",
+      "factura",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Qué descuentos hay por compra en volumen en adminxml.com?",
+    "a": "Los descuentos por compra en volumen son: 5-9 Licencias 10%, 10-14 Licencias 15%, 15 licencias o más 20%.",
+    "product": "adminxml",
+    "keywords": [
+      "descuentos",
+      "volumen",
+      "licencias",
+      "compra",
+      "porcentaje",
+      "adminxml"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia si pago por transferencia o en tienda?",
+    "a": "En un lapso de 3 a 24 horas estarás recibiendo tu clave de licencia y factura (en caso de haberla solicitado) al correo que registraste en tu orden de compra.",
+    "product": "adminxml",
+    "keywords": [
+      "tiempo",
+      "clave",
+      "licencia",
+      "transferencia",
+      "tienda",
+      "factura",
+      "correo",
+      "orden"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer si no recibo mi clave de licencia después de 3-4 horas?",
+    "a": "Te sugerimos comunicarte al área de atención a clientes, teniendo a la mano el número de orden de compra.",
+    "product": "adminxml",
+    "keywords": [
+      "clave",
+      "licencia",
+      "no recibo",
+      "atención",
+      "clientes",
+      "orden",
+      "compra",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Cómo recibo mi clave de licencia si pago con tarjeta de crédito o débito?",
+    "a": "En cuanto tu pago sea exitoso aparecerá una pantalla con tu clave de licencia y tu factura, de igual manera será enviada por correo electrónico.",
+    "product": "adminxml",
+    "keywords": [
+      "clave",
+      "licencia",
+      "tarjeta",
+      "crédito",
+      "débito",
+      "pago",
+      "factura",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo enviar los pasos de compra por correo electrónico?",
+    "a": "1. Ingresar a nuestro correo. 2. Insertar la plantilla 'Pasos de compra'.",
+    "product": "adminxml",
+    "keywords": [
+      "pasos",
+      "compra",
+      "correo",
+      "electrónico",
+      "plantilla",
+      "enviar",
+      "instrucciones"
+    ]
+  }
+]

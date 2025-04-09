@@ -1,0 +1,69 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información?",
+    "a": "Es una incidencia tipo INC 02, nivel 2 (Medio).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "alta",
+      "contribuyente",
+      "información",
+      "inc02"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para dar de alta contribuyentes en MiAdminXML?",
+    "a": "Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "alta",
+      "contribuyentes",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "clave"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer un cliente si no puede agregar un contribuyente correctamente?",
+    "a": "El cliente debe agregar los datos del contribuyente llenando todos los campos requeridos en el Catálogo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "agregar",
+      "contribuyente",
+      "datos",
+      "catálogo",
+      "campos",
+      "requeridos",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Cuál es el alcance de la solución para el problema de alta de contribuyentes?",
+    "a": "El alcance es informar el procedimiento correcto para el alta de los contribuyentes en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "alcance",
+      "solución",
+      "procedimiento",
+      "alta",
+      "contribuyentes",
+      "informar"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se utiliza para resolver el problema de alta de contribuyentes?",
+    "a": "Se utiliza el recurso MAX para orientar al cliente en el alta de contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recurso",
+      "max",
+      "orientación",
+      "alta",
+      "contribuyentes",
+      "soporte"
+    ]
+  }
+]

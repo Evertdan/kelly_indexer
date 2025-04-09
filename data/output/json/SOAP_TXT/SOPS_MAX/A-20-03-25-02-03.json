@@ -1,0 +1,138 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de Nómina en MiAdminXML?",
+    "a": "Es necesario contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, se puede solicitar ayuda por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "nómina",
+      "licencia",
+      "profesional",
+      "demostrativo",
+      "requisitos",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de Nómina en MiAdminXML?",
+    "a": "Se accede a MiAdminXML y se da clic en el icono de Nómina.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "nómina",
+      "icono",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede filtrar la información en el módulo de Nómina?",
+    "a": "Se puede filtrar la información mediante diferentes apartados como RFC Receptor, Tipo, Año Mes o Agrupación, y generar reportes específicos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "filtrar",
+      "información",
+      "reportes",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "agrupación"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas están disponibles para visualizar la información de nómina?",
+    "a": "Se puede usar el visor de MiAdminXML, que muestra pestañas como percepciones, deducciones y horas extra, así como el total de nóminas encontradas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualizar",
+      "información",
+      "visor",
+      "percepciones",
+      "deducciones",
+      "horas extra",
+      "nóminas"
+    ]
+  },
+  {
+    "q": "¿Cómo se pueden personalizar las columnas en los reportes de nómina?",
+    "a": "Se puede personalizar las columnas en el apartado 'Columnas visibles', seleccionando las columnas deseadas y aplicando los cambios. También se puede guardar la configuración para futuras sesiones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "personalizar",
+      "columnas",
+      "reportes",
+      "columnas visibles",
+      "configuración",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Cómo se generan reportes de nómina en Excel?",
+    "a": "Se pueden generar reportes usando las herramientas 'Exportar Excel' (para cambiar la ubicación del archivo) o 'Guardar Excel' (que almacena el reporte automáticamente en la BovedaCFDi en una carpeta llamada 'reportes').",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "reportes",
+      "excel",
+      "exportar",
+      "guardar",
+      "bovedacfdi",
+      "carpeta"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede verificar el estado de los XML en el SAT?",
+    "a": "Se puede usar la herramienta 'Válida estado SAT' para verificar si los XML están vigentes o cancelados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar",
+      "estado",
+      "sat",
+      "xml",
+      "vigente",
+      "cancelado"
+    ]
+  },
+  {
+    "q": "¿Qué hace la herramienta 'Localizar XML'?",
+    "a": "La herramienta 'Localizar XML' permite abrir la ruta donde se ubica el archivo seleccionado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "localizar",
+      "xml",
+      "ruta",
+      "archivo",
+      "seleccionado"
+    ]
+  },
+  {
+    "q": "¿Cómo se pueden renombrar los XML en el módulo de Nómina?",
+    "a": "Se puede renombrar los XML seleccionando campos como Folio, serie, RFC emisor, etc., y luego generando la estructura deseada. Es obligatorio seleccionar el apartado UUID. Hay dos opciones: 'Renombrar seleccionados' (para XML específicos) o 'Renombrar todos los XML' (para todos los XML del mes o carpeta seleccionada).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "renombrar",
+      "xml",
+      "folio",
+      "serie",
+      "rfc",
+      "emisor",
+      "uuid",
+      "estructura"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas adicionales ofrece el módulo de Nómina?",
+    "a": "El módulo ofrece herramientas como 'Cancelar' (para eliminar la carga de información), 'Escríbenos' (para contacto con soporte), 'Video Tutorial' (para ver tutoriales) y 'Salir' (para cerrar el módulo).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "adicionales",
+      "cancelar",
+      "escríbenos",
+      "video tutorial",
+      "salir",
+      "soporte"
+    ]
+  }
+]

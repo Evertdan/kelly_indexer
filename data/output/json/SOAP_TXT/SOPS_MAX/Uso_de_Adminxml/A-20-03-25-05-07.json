@@ -1,0 +1,57 @@
+[
+  {
+    "q": "¿Qué tipos de archivos puede validar el validador de XML en MiAdminXML?",
+    "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validador",
+      "xml",
+      "archivos",
+      "balanza",
+      "catálogo",
+      "cuentas",
+      "tipos"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra el validador de XML en MiAdminXML?",
+    "a": "El validador de XML muestra la nomenclatura, codificación, metadata y otros detalles de los documentos para corroborar que son correctos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validador",
+      "xml",
+      "información",
+      "nomenclatura",
+      "codificación",
+      "metadata",
+      "detalles"
+    ]
+  },
+  {
+    "q": "¿Cuál es el propósito del validador de XML en MiAdminXML?",
+    "a": "El propósito del validador de XML es comprobar que los documentos son los correctos para poder subir esta información al portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validador",
+      "xml",
+      "propósito",
+      "comprobar",
+      "documentos",
+      "sat",
+      "subir"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar el validador de XML en MiAdminXML?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validador",
+      "xml",
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo"
+    ]
+  }
+]

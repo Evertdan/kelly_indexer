@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta Leer XML en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "leer xml",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la herramienta Leer XML en MiAdminXML?",
+    "a": "Para acceder a la herramienta Leer XML, primero ingrese al programa MiAdminXML, luego dé clic en Administración XML 4.0, seleccione RC/TIPO/AÑO/MES y finalmente seleccione la herramienta Leer XML ubicada en la parte superior derecha.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceder",
+      "leer xml",
+      "pasos",
+      "miadminxml",
+      "administración xml",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta Leer XML en MiAdminXML?",
+    "a": "La herramienta Leer XML se encuentra en la parte superior derecha después de seleccionar RC/TIPO/AÑO/MES en la sección de Administración XML 4.0.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "leer xml",
+      "miadminxml",
+      "interfaz",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué puedo hacer con la herramienta Leer XML en MiAdminXML?",
+    "a": "La herramienta Leer XML permite visualizar los archivos XML almacenados en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "funcionalidad",
+      "leer xml",
+      "visualizar",
+      "archivos",
+      "xml",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué debo seleccionar antes de usar la herramienta Leer XML?",
+    "a": "Antes de usar la herramienta Leer XML, debe seleccionar RC/TIPO/AÑO/MES en la sección de Administración XML 4.0.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos previos",
+      "leer xml",
+      "seleccionar",
+      "rc",
+      "tipo",
+      "año",
+      "mes",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo obtener ayuda para usar la herramienta Leer XML?",
+    "a": "Puede comunicarse por llamada, correo, Feedback o Facebook para recibir orientación sobre el uso de la herramienta Leer XML en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ayuda",
+      "soporte",
+      "leer xml",
+      "comunicación",
+      "llamada",
+      "correo",
+      "feedback",
+      "facebook",
+      "miadminxml"
+    ]
+  }
+]

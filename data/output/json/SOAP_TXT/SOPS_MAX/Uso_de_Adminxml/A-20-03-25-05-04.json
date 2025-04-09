@@ -1,0 +1,93 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de balanza de comprobación en MiAdminXML?",
+    "a": "Se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "balanza",
+      "comprobación",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera la balanza de comprobación en MiAdminXML?",
+    "a": "Se debe llenar manualmente la plantilla en el módulo de Contabilidad, luego seleccionar RFC, año, mes, tipo de envío, agregar la plantilla y hacer clic en 'Iniciar importación'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "balanza",
+      "comprobación",
+      "plantilla",
+      "importación",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué opciones se deben seleccionar para generar la balanza de comprobación?",
+    "a": "Se deben seleccionar RFC, año, mes, tipo de envío (normal o complementaria), y agregar la plantilla de la balanza.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "balanza",
+      "comprobación",
+      "rfc",
+      "año",
+      "mes",
+      "tipo envío"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de iniciar la importación de la balanza de comprobación?",
+    "a": "Se mostrará un mensaje indicando que la importación fue correcta, luego se debe hacer clic en 'Generar XML' y seleccionar la ubicación del archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "importación",
+      "balanza",
+      "comprobación",
+      "mensaje",
+      "generar xml",
+      "archivo"
+    ]
+  },
+  {
+    "q": "¿Cómo se valida la balanza de comprobación con el catálogo de cuentas?",
+    "a": "Se debe tener el catálogo de cuentas en formato XML, seleccionar RFC, año, mes, tipo de envío, plantilla de la balanza, habilitar la validación y cargar el XML del catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validar",
+      "balanza",
+      "catálogo",
+      "cuentas",
+      "xml",
+      "importación"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para validar la balanza de comprobación vs el catálogo de cuentas?",
+    "a": "Se necesita el catálogo de cuentas en formato XML y seguir los pasos de selección de RFC, año, mes, tipo de envío, y cargar la plantilla de la balanza y el XML del catálogo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validación",
+      "balanza",
+      "catálogo",
+      "cuentas",
+      "xml",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje se muestra al iniciar la importación de la validación de balanza vs catálogo de cuentas?",
+    "a": "Se muestra un mensaje indicando que se generó un XML de la balanza.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mensaje",
+      "importación",
+      "validación",
+      "balanza",
+      "catálogo",
+      "xml"
+    ]
+  }
+]

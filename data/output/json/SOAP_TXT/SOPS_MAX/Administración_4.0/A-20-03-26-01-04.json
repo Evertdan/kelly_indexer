@@ -1,0 +1,80 @@
+[
+  {
+    "q": "¿Qué se necesita para convertir un XML a PDF en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml",
+      "pdf",
+      "convertir",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para generar un PDF desde un XML en MiAdminXML?",
+    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en la herramienta 'Leer XMLs'. 5. Clic en 'Generar PDF'. 6. Confirmar en la ventana emergente. 7. El PDF se abrirá automáticamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "generar pdf",
+      "xml",
+      "módulo",
+      "administración",
+      "herramientas"
+    ]
+  },
+  {
+    "q": "¿Cuántos PDFs se pueden generar sin licencia en MiAdminXML?",
+    "a": "Sin licencia, solo se permite generar 1 PDF. Con licencia Plus o Profesional, se pueden generar PDFs masivos o de XML seleccionados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "límite",
+      "pdf",
+      "generar",
+      "sin licencia",
+      "plus",
+      "profesional"
+    ]
+  },
+  {
+    "q": "¿Cómo se generan PDFs masivos en MiAdminXML?",
+    "a": "Seleccionando la opción 'PDFs Masivos' después de leer los XMLs. Los PDFs se guardan automáticamente en la Bóveda del Disco Local C:, a menos que se active 'Abrir después de generar'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pdfs masivos",
+      "generar",
+      "opción",
+      "bóveda",
+      "disco local",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Cómo se generan PDFs de XML seleccionados en MiAdminXML?",
+    "a": "Se utiliza la opción 'XML Seleccionados', donde se pueden elegir múltiples XML para convertirlos en PDF individualmente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml seleccionados",
+      "generar pdf",
+      "múltiples",
+      "convertir",
+      "opción"
+    ]
+  },
+  {
+    "q": "¿Dónde se guardan los PDFs generados en MiAdminXML?",
+    "a": "Los PDFs se guardan automáticamente en la Bóveda ubicada en el Disco Local C:, a menos que se active la opción 'Abrir después de generar' para verlos inmediatamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "guardar",
+      "pdfs",
+      "bóveda",
+      "disco local",
+      "ubicación",
+      "abrir después de generar"
+    ]
+  }
+]

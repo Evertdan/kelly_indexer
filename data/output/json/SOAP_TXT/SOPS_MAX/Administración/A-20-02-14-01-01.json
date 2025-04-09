@@ -1,0 +1,81 @@
+[
+  {
+    "q": "¿Qué tipos de estado pueden aparecer en los archivos XML descargados en MiAdminXML?",
+    "a": "Los archivos XML pueden aparecer con los estados Vigente, Cancelado, No encontrado o No identificado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml",
+      "estados",
+      "vigente",
+      "cancelado",
+      "no encontrado",
+      "no identificado",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para resolver problemas con el estado SAT en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con esto, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico",
+      "problemas"
+    ]
+  },
+  {
+    "q": "¿Cómo se actualiza el estado SAT de un comprobante en MiAdminXML?",
+    "a": "Se debe dar clic en la herramienta 'Valida Estado SAT' para actualizar el estado de los comprobantes según aparecen en el Portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualizar",
+      "estado sat",
+      "valida estado sat",
+      "comprobantes",
+      "portal sat",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué puede causar que un archivo XML aparezca como 'No encontrado' o 'No identificado'?",
+    "a": "Puede deberse a que no se ha validado el estado correctamente, que el archivo esté dañado o que no exista en el SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "no encontrado",
+      "no identificado",
+      "archivo dañado",
+      "validación",
+      "sat",
+      "problemas"
+    ]
+  },
+  {
+    "q": "¿Cómo se valida el estado SAT desde el módulo de Validaciones en MiAdminXML?",
+    "a": "Se debe ir al módulo de 'Validaciones', en el apartado 'Operaciones Simuladas, Incumplidos y No Localizados', y dar clic en 'Valida Estado SAT' una vez cargada la información del RFC y periodo seleccionado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validaciones",
+      "operaciones simuladas",
+      "incumplidos",
+      "no localizados",
+      "rfc",
+      "periodo",
+      "valida estado sat"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si faltan descargar Bases de Datos en MiAdminXML?",
+    "a": "Es necesario realizar la descarga de las Bases de Datos faltantes para poder ingresar correctamente al módulo de Validaciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bases de datos",
+      "descarga",
+      "validaciones",
+      "requisitos",
+      "módulo"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta Valida Estado SAT en MAX?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "valida estado sat",
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "max"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede a la herramienta Valida Estado SAT en MiAdminXML?",
+    "a": "Se debe ingresar al programa MiAdminXML, dar clic en Administración XML 4.0, seleccionar RC/TIPO/AÑO/MES, y luego seleccionar la herramienta Valida Estado SAT ubicada en la parte superior derecha.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "herramienta",
+      "valida estado sat",
+      "miadminxml",
+      "administración xml",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué opciones aparecen al seleccionar la herramienta Valida Estado SAT?",
+    "a": "Aparece una ventana emergente que permite elegir entre validar todos los XMLs o solo los seleccionados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "valida estado sat",
+      "ventana emergente",
+      "xml",
+      "validar",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Cómo se sabe que la validación de los XMLs está en proceso?",
+    "a": "El programa muestra una barra verde en la parte superior que indica que está trabajando en la validación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proceso",
+      "validación",
+      "barra verde",
+      "indicador",
+      "xml",
+      "valida estado sat"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece al finalizar la validación con la herramienta Valida Estado SAT?",
+    "a": "Al término del proceso, aparece un mensaje indicando que la validación se realizó de manera correcta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mensaje",
+      "finalización",
+      "validación",
+      "correcta",
+      "valida estado sat",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué canales de comunicación puede usar el cliente para consultar sobre la herramienta Valida Estado SAT?",
+    "a": "El cliente puede comunicarse por llamada, correo, Feedback o Facebook para consultar sobre el uso de la herramienta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "canales",
+      "comunicación",
+      "llamada",
+      "correo",
+      "feedback",
+      "facebook",
+      "consulta",
+      "valida estado sat"
+    ]
+  }
+]

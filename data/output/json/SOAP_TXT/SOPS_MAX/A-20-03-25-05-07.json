@@ -1,0 +1,70 @@
+[
+  {
+    "q": "¿Qué es el validador de XML en MiAdminXML?",
+    "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas, haciendo una comprobación de que los documentos son los correctos, mostrando su nomenclatura, codificación, metadata y etc; para así poder corroborar que puede subir esta información al portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validador",
+      "xml",
+      "balanza",
+      "catálogo de cuentas",
+      "comprobación",
+      "sat",
+      "documentos"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar el validador de XML en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional, o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "correo electrónico",
+      "validador",
+      "xml"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de archivos puede validar el validador de XML en MiAdminXML?",
+    "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "archivos",
+      "balanza",
+      "catálogo de cuentas",
+      "validación",
+      "xml",
+      "tipo"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra el validador de XML de MiAdminXML?",
+    "a": "Muestra la nomenclatura, codificación, metadata y etc de los documentos, para corroborar que se pueden subir al portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "nomenclatura",
+      "codificación",
+      "metadata",
+      "documentos",
+      "sat",
+      "mostrar"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene el validador de XML en MiAdminXML?",
+    "a": "El validador de XML tiene un nivel de soporte Temprano, específicamente Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel",
+      "temprano",
+      "nivel 1",
+      "validador",
+      "xml"
+    ]
+  }
+]

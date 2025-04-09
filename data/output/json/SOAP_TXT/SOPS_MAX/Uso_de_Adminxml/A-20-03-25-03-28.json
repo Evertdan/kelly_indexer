@@ -1,0 +1,56 @@
+[
+  {
+    "q": "¿Qué se necesita para generar un batch en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "batch",
+      "generar",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene la herramienta de generación de DIOT en MiAdminXML?",
+    "a": "La herramienta permite especificar si las facturas seleccionadas son acreditables o no acreditables, actualizando estos valores en el reporte generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "generación",
+      "facturas",
+      "acreditable",
+      "no acreditable",
+      "reporte",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentran las opciones para marcar facturas como acreditables o no acreditables en MiAdminXML?",
+    "a": "Las opciones se encuentran en el módulo de Generación de DIOT, dentro del menú de herramientas, bajo los conceptos 'Si Acreditable' y 'No Acreditable'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "módulo",
+      "menú",
+      "herramientas",
+      "acreditable",
+      "no acreditable",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Qué se verifica al generar una carga batch DIOT en MiAdminXML?",
+    "a": "Al generar la carga batch DIOT, se verificará el resultado de la generación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "batch",
+      "generación",
+      "verificación",
+      "resultado",
+      "carga"
+    ]
+  }
+]

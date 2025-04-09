@@ -1,0 +1,68 @@
+[
+  {
+    "q": "¿Qué descuentos ofrece MiExpedienteContable en abril y junio?",
+    "a": "En abril hay un descuento del 40% y en junio del 20% por lanzamiento del software. No hay descuentos por compras en volumen durante estos meses.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descuentos",
+      "abril",
+      "junio",
+      "lanzamiento",
+      "software",
+      "promoción"
+    ]
+  },
+  {
+    "q": "¿Qué descuentos están disponibles de mayo a noviembre en MiExpedienteContable?",
+    "a": "De mayo a noviembre hay un descuento del 30% más descuentos adicionales por compras en volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descuentos",
+      "mayo",
+      "noviembre",
+      "volumen",
+      "licencias",
+      "promoción"
+    ]
+  },
+  {
+    "q": "¿Qué descuentos aplican en julio, octubre y diciembre para MiExpedienteContable?",
+    "a": "En julio, octubre y diciembre hay un descuento del 15% más descuentos por volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descuentos",
+      "julio",
+      "octubre",
+      "diciembre",
+      "volumen",
+      "licencias",
+      "promoción"
+    ]
+  },
+  {
+    "q": "¿Hay condiciones especiales para los descuentos por volumen en MiExpedienteContable?",
+    "a": "Sí, las compras de licencias para obtener descuentos por volumen deben ser en una sola exhibición y del mismo paquete.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descuentos",
+      "volumen",
+      "condiciones",
+      "licencias",
+      "compra",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿En qué meses no hay descuentos por volumen en MiExpedienteContable?",
+    "a": "En abril y junio no hay descuentos por compras en volumen, solo descuentos por lanzamiento del software.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descuentos",
+      "volumen",
+      "abril",
+      "junio",
+      "restricciones",
+      "promociones"
+    ]
+  }
+]

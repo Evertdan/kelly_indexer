@@ -1,0 +1,116 @@
+[
+  {
+    "q": "¿Cuáles son los requisitos de instalación del producto?",
+    "a": "Los requisitos de instalación incluyen: S.O Windows 10 u 11, arquitectura de 64 bits, Internet Explorer 10 u 11, permisos de Administrador, disco en estado sólido, 4 GB de RAM o más, procesador Core i3 equivalente o superior, y no es compatible con Linux o MacOS.",
+    "product": "General",
+    "keywords": [
+      "requisitos",
+      "instalación",
+      "windows",
+      "64 bits",
+      "internet explorer",
+      "administrador",
+      "disco sólido",
+      "ram",
+      "procesador",
+      "compatibilidad"
+    ]
+  },
+  {
+    "q": "¿El producto es compatible con Linux o MacOS?",
+    "a": "No, el producto no es compatible con Linux o MacOS.",
+    "product": "General",
+    "keywords": [
+      "compatibilidad",
+      "linux",
+      "macos",
+      "sistema operativo",
+      "no compatible"
+    ]
+  },
+  {
+    "q": "¿Qué versión de Internet Explorer se necesita para instalar el producto?",
+    "a": "Se necesita Internet Explorer 10 u 11.",
+    "product": "General",
+    "keywords": [
+      "internet explorer",
+      "versión",
+      "requisitos",
+      "navegador",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Cuánta RAM se requiere para instalar el producto?",
+    "a": "Se requiere 4 GB de RAM o más.",
+    "product": "General",
+    "keywords": [
+      "ram",
+      "memoria",
+      "requisitos",
+      "instalación",
+      "especificaciones"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de procesador se necesita para el producto?",
+    "a": "Se necesita un procesador Core i3 equivalente o superior.",
+    "product": "General",
+    "keywords": [
+      "procesador",
+      "core i3",
+      "requisitos",
+      "instalación",
+      "especificaciones"
+    ]
+  },
+  {
+    "q": "¿Se necesitan permisos de administrador para instalar el producto?",
+    "a": "Sí, se necesitan permisos de Administrador.",
+    "product": "General",
+    "keywords": [
+      "permisos",
+      "administrador",
+      "requisitos",
+      "instalación",
+      "privilegios"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de disco se recomienda para el producto?",
+    "a": "Se recomienda un disco en estado sólido.",
+    "product": "General",
+    "keywords": [
+      "disco",
+      "estado sólido",
+      "ssd",
+      "requisitos",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Qué arquitectura de sistema operativo se requiere?",
+    "a": "Se requiere una arquitectura de 64 bits.",
+    "product": "General",
+    "keywords": [
+      "arquitectura",
+      "64 bits",
+      "sistema operativo",
+      "requisitos",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Qué versiones de Windows son compatibles con el producto?",
+    "a": "Las versiones compatibles son Windows 10 u 11.",
+    "product": "General",
+    "keywords": [
+      "windows",
+      "versiones",
+      "compatibilidad",
+      "10",
+      "11",
+      "sistema operativo"
+    ]
+  }
+]

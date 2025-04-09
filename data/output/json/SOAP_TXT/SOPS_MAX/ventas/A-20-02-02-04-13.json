@@ -1,0 +1,102 @@
+[
+  {
+    "q": "¿Qué debo hacer si no aparece el Concepto de Pago o Referencia en mi banco al realizar una transferencia?",
+    "a": "Se debe solicitar al cliente el banco desde donde está realizando la transferencia para poder guiarlo de acuerdo al procedimiento de cada institución bancaria.",
+    "product": "General",
+    "keywords": [
+      "concepto de pago",
+      "referencia",
+      "banco",
+      "transferencia",
+      "orientación",
+      "compra",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Cuántos dígitos debe tener el Concepto de Pago en una transferencia?",
+    "a": "El Concepto de Pago debe tener 20 dígitos.",
+    "product": "General",
+    "keywords": [
+      "concepto de pago",
+      "dígitos",
+      "transferencia",
+      "referencia",
+      "banco"
+    ]
+  },
+  {
+    "q": "¿Cuántos dígitos debe tener la Referencia Interbancaria en una transferencia?",
+    "a": "La Referencia Interbancaria debe tener 7 dígitos.",
+    "product": "General",
+    "keywords": [
+      "referencia interbancaria",
+      "dígitos",
+      "transferencia",
+      "pago",
+      "banco"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para guiar al cliente en una transferencia bancaria?",
+    "a": "Se necesita saber el banco desde donde el cliente está realizando la transferencia para guiarlo según el procedimiento de cada institución bancaria.",
+    "product": "General",
+    "keywords": [
+      "banco",
+      "transferencia",
+      "guía",
+      "cliente",
+      "procedimiento",
+      "institución bancaria"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los nombres alternativos para la Referencia en una transferencia?",
+    "a": "La Referencia puede llamarse Referencia Interbancaria, Referencia numérica, Folio, Número de Referencia, Referencia de cobranza, Referencia alfanumérica, Referencia de transferencia, Información al beneficiario, o Referencia Leyenda.",
+    "product": "General",
+    "keywords": [
+      "referencia",
+      "transferencia",
+      "nombres alternativos",
+      "pago",
+      "banco",
+      "términos"
+    ]
+  },
+  {
+    "q": "¿Cuántos dígitos debe tener el Propósito de la referencia en una transferencia?",
+    "a": "El Propósito de la referencia debe tener 20 dígitos.",
+    "product": "General",
+    "keywords": [
+      "propósito",
+      "referencia",
+      "dígitos",
+      "transferencia",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Cuántos dígitos debe tener el Mensaje en una transferencia?",
+    "a": "El Mensaje debe tener 20 dígitos.",
+    "product": "General",
+    "keywords": [
+      "mensaje",
+      "dígitos",
+      "transferencia",
+      "pago",
+      "banco"
+    ]
+  },
+  {
+    "q": "¿Cuántos dígitos debe tener el Concepto para estado de cuenta en una transferencia?",
+    "a": "El Concepto para estado de cuenta debe tener 20 dígitos.",
+    "product": "General",
+    "keywords": [
+      "concepto",
+      "estado de cuenta",
+      "dígitos",
+      "transferencia",
+      "pago"
+    ]
+  }
+]

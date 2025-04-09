@@ -1,0 +1,101 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de Descarga de Retenciones WebService SAT en MiAdminXML?",
+    "a": "Se requiere tener la e-firma del contribuyente y contar con una licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "retenciones",
+      "web service",
+      "sat",
+      "requisitos",
+      "e-firma",
+      "licencia",
+      "demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de Descarga de Retenciones WebService SAT en MiAdminXML?",
+    "a": "Se accede a MiAdminXML y se da clic en la opción 'Descarga de Retenciones WebService SAT'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "descarga",
+      "retenciones",
+      "web service",
+      "sat",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para descargar retenciones en MiAdminXML?",
+    "a": "1. Ingresar la e-firma y contraseña. 2. Validar los datos de acceso. 3. Seleccionar 'Solicitar descarga'. 4. Llenar campos de tipos de comprobantes, organización de archivos XML y fechas. 5. Generar solicitud. 6. Verificar solicitudes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "descarga",
+      "retenciones",
+      "e-firma",
+      "solicitar",
+      "comprobantes",
+      "fechas",
+      "verificar"
+    ]
+  },
+  {
+    "q": "¿Qué ocurre si no se tiene la e-firma del contribuyente en MiAdminXML?",
+    "a": "No se podrá utilizar el módulo de Descarga de Retenciones WebService SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "e-firma",
+      "requisito",
+      "restricción",
+      "descarga",
+      "retenciones",
+      "web service",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica el estado de las solicitudes de descarga en MiAdminXML?",
+    "a": "Dando clic en 'Verificar solicitudes' para visualizar el proceso de validación y descarga de los CFDi de retenciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar",
+      "solicitudes",
+      "estado",
+      "descarga",
+      "retenciones",
+      "cfdi",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje se muestra cuando los datos de acceso son validados correctamente en MiAdminXML?",
+    "a": "Se muestra una ventana con la leyenda 'Sus datos de acceso han sido validados correctamente' y se debe dar clic en 'Aceptar'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validación",
+      "datos",
+      "acceso",
+      "mensaje",
+      "correcto",
+      "aceptar"
+    ]
+  },
+  {
+    "q": "¿Qué opciones se deben seleccionar al generar una solicitud de descarga en MiAdminXML?",
+    "a": "Se deben seleccionar los tipos de comprobantes, la organización de archivos XML y las fechas para la descarga.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "descarga",
+      "comprobantes",
+      "organización",
+      "archivos",
+      "xml",
+      "fechas"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "¿Cómo puedo generar una descarga en el módulo de descarga gratuita de MiAdminXML?",
+    "a": "Para generar una descarga, ingresa al programa MiAdminXML y selecciona el icono 'Descarga de XML Gratis'. Se abrirá el portal del SAT donde puedes ingresar con FIEL o Contraseña CIEC. Luego, selecciona si deseas consultar facturas emitidas o recibidas, y realiza la descarga por folio fiscal o fecha.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga gratuita",
+      "módulo",
+      "xml",
+      "sat",
+      "fiel",
+      "ciec",
+      "pasos",
+      "consulta"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de autenticación están disponibles para acceder al módulo de descarga gratuita?",
+    "a": "Puedes acceder al módulo de descarga gratuita utilizando FIEL o Contraseña CIEC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "autenticación",
+      "fiel",
+      "ciec",
+      "acceso",
+      "descarga",
+      "gratis",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Cuántos XML se pueden descargar por consulta en el módulo de descarga gratuita?",
+    "a": "En el módulo de descarga gratuita, puedes descargar desde 1 XML hasta 500 XML por consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "límite",
+      "xml",
+      "consulta",
+      "descarga",
+      "gratis",
+      "cantidad",
+      "500"
+    ]
+  },
+  {
+    "q": "¿Qué licencias de MiAdminXML permiten usar el catálogo de contribuyentes y el Asistente de descarga?",
+    "a": "Las licencias Plus y Profesional, así como el periodo TRIAL, permiten usar el catálogo de contribuyentes y el Asistente de descarga para mantener RFC y contraseñas guardadas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencias",
+      "plus",
+      "profesional",
+      "trial",
+      "catálogo",
+      "contribuyentes",
+      "asistente",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar el módulo de descarga gratuita en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo (TRIAL).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "trial",
+      "demostrativo",
+      "descarga",
+      "gratis",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Cómo se realiza la descarga de XML una vez encontrados los archivos en el módulo de descarga gratuita?",
+    "a": "Una vez encontrados los archivos, puedes realizar la descarga dando clic en la flecha que se encuentra en la parte superior del menú.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "xml",
+      "archivos",
+      "flecha",
+      "menú",
+      "proceso",
+      "gratis"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de facturas se pueden consultar en el módulo de descarga gratuita?",
+    "a": "Puedes consultar facturas emitidas o recibidas en el módulo de descarga gratuita.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "facturas",
+      "emitidas",
+      "recibidas",
+      "consulta",
+      "descarga",
+      "gratis",
+      "tipos"
+    ]
+  }
+]

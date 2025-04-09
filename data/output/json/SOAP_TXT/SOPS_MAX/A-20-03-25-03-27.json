@@ -1,0 +1,60 @@
+[
+  {
+    "q": "¿Qué tipo de documento es este?",
+    "a": "Este documento es una revisión de soporte temprano para MiAdminXML, con versión 09.09.2020.04.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "documento",
+      "tipo",
+      "revisión",
+      "soporte temprano",
+      "versión"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de soporte mencionado en el documento?",
+    "a": "El nivel de soporte mencionado es Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "soporte",
+      "temprano",
+      "nivel 1"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para recibir soporte en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "soporte",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué es la SOLUCIÓN 1 mencionada en el documento?",
+    "a": "La SOLUCIÓN 1 se refiere al porcentaje que se le da para el porcentaje global que se genera la DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "porcentaje",
+      "global",
+      "diot",
+      "genera"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se menciona en el documento?",
+    "a": "El recurso mencionado es MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recurso",
+      "miadminxml",
+      "mencionado"
+    ]
+  }
+]

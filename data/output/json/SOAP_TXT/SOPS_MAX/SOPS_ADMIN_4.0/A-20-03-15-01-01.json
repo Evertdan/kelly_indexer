@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Cómo puedo usar la herramienta Leer XML en MiAdminXML?",
+    "a": "Para usar la herramienta Leer XML en MiAdminXML, primero ingrese al programa, luego haga clic en Administración XML 4.0, seleccione RC/TIPO/AÑO/MES, y finalmente seleccione la herramienta Leer XML ubicada en la parte superior derecha. Así podrá visualizar sus archivos XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "leer xml",
+      "herramienta",
+      "miadminxml",
+      "proceso",
+      "pasos",
+      "visualizar",
+      "archivos",
+      "administración"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos necesito para utilizar la herramienta Leer XML en MAX?",
+    "a": "Para utilizar la herramienta Leer XML en MAX, es necesario contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "max",
+      "leer xml",
+      "herramienta",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta Leer XML en MiAdminXML?",
+    "a": "La herramienta Leer XML se encuentra en la parte superior derecha de la pantalla después de seleccionar RC/TIPO/AÑO/MES en la sección de Administración XML 4.0.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "leer xml",
+      "herramienta",
+      "miadminxml",
+      "interfaz",
+      "superior derecha",
+      "administración"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para visualizar mis archivos XML en MiAdminXML?",
+    "a": "Los pasos son: 1) Ingresar a MiAdminXML, 2) Dar clic en Administración XML 4.0, 3) Seleccionar RC/TIPO/AÑO/MES, 4) Seleccionar la herramienta Leer XML en la parte superior derecha. Con esto podrá visualizar sus archivos XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "visualizar",
+      "xml",
+      "proceso",
+      "miadminxml",
+      "leer xml",
+      "archivos",
+      "administración"
+    ]
+  },
+  {
+    "q": "¿Puedo usar la herramienta Leer XML sin una licencia de MiAdminXML?",
+    "a": "Sí, puede usar la herramienta Leer XML si está en el periodo demostrativo de MiAdminXML, de lo contrario necesita contar con una licencia activa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "leer xml",
+      "acceso",
+      "herramienta",
+      "miadminxml"
+    ]
+  }
+]

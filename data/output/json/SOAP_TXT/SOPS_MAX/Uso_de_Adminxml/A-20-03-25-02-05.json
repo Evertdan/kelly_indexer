@@ -1,0 +1,101 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de Administración de Retenciones e Información de Pagos en MiAdminXML?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "retenciones",
+      "información de pagos",
+      "licencia",
+      "demostrativo",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Cómo acceder al módulo de Administración de Retenciones e Información de Pagos en MiAdminXML?",
+    "a": "Se accede a MiAdminXML y se da clic en la opción 'Retenciones e Información de Pagos'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "retenciones",
+      "información de pagos",
+      "clic",
+      "opción"
+    ]
+  },
+  {
+    "q": "¿Qué datos se necesitan para ingresar a la ventana de administración de retenciones?",
+    "a": "Se requiere seleccionar el RFC, el tipo (emitidas o recibidas), el año y el mes. El mes se puede seleccionar uno a uno o con la función de multi selección arrastrando hasta el mes deseado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "datos",
+      "ingresar",
+      "ventana",
+      "retenciones",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "multi selección"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica un CFDi de retenciones en MiAdminXML?",
+    "a": "Se selecciona el CFDi y se da clic en 'Verifica CFDi'. Luego, en la ventana que se abre, se agregan los campos Folio Fiscal, RFC del emisor y RFC del receptor, se copia y pega la información con Ctrl C y Ctrl V, se introduce el código captcha y se da clic en 'Verifica CFDi de Retenciones'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar",
+      "cfdi",
+      "retenciones",
+      "folio fiscal",
+      "rfc",
+      "emisor",
+      "receptor",
+      "captcha",
+      "copiar",
+      "pegar"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera un reporte dinámico en Excel desde el módulo de Retenciones e Información de Pagos?",
+    "a": "Se da clic en 'Exportar a Excel', se selecciona la ubicación donde se guardará el archivo y se tendrá el reporte dinámico en Excel con la información deseada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reporte",
+      "dinámico",
+      "excel",
+      "exportar",
+      "guardar",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de complementos de Retenciones e Información de Pagos se pueden generar en PDF?",
+    "a": "Se pueden generar PDF de complementos como Plataformas Tecnológicas, Arrendamiento, Dividendos, Intereses, Pagos a Extranjeros, Planes de Retiro, Premios, Sector Financiero, Operaciones Derivadas, Intereses Hipotecarios y Fideicomisos No Empresariales.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "pdf",
+      "complementos",
+      "retenciones",
+      "información de pagos",
+      "tipos",
+      "ejemplos"
+    ]
+  },
+  {
+    "q": "¿Qué información se muestra después de verificar un CFDi de retenciones?",
+    "a": "Se despliega la información de la verificación del CFDi de retenciones seleccionado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "verificación",
+      "cfdi",
+      "retenciones",
+      "desplegar",
+      "resultados"
+    ]
+  }
+]

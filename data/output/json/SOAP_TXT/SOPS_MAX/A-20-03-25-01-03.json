@@ -1,0 +1,140 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de descarga masiva en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, se debe solucionar el problema por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga masiva",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al SAT para la descarga masiva de XML en MiAdminXML?",
+    "a": "Se puede acceder al SAT utilizando CIEC o FIEL desde el módulo de descarga masiva en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "sat",
+      "ciec",
+      "fiel",
+      "descarga masiva",
+      "xml",
+      "autenticación"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de organización tienen los archivos XML descargados en MiAdminXML?",
+    "a": "Los archivos XML se pueden organizar por tipo de comprobante (Emitidas o Recibidas) y por período (mes o día).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "organización",
+      "archivos",
+      "xml",
+      "comprobantes",
+      "emitidas",
+      "recibidas",
+      "mes",
+      "día"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece el módulo de descarga masiva de MiAdminXML durante la búsqueda?",
+    "a": "Durante la búsqueda, se pueden utilizar filtros similares a los del SAT, ver la barra de estado y estadísticas de la información, y elegir entre buscar y descargar o solo buscar sin descargar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "funcionalidades",
+      "búsqueda",
+      "filtros",
+      "barra de estado",
+      "estadísticas",
+      "descargar",
+      "buscar"
+    ]
+  },
+  {
+    "q": "¿Cuántos XML se pueden descargar aproximadamente por segundo con MiAdminXML?",
+    "a": "Se puede llegar a descargar hasta más de 20 XML por segundo con MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "velocidad",
+      "descarga",
+      "xml",
+      "por segundo",
+      "rendimiento"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra el reporte exportable en Excel de MiAdminXML?",
+    "a": "El reporte exportable en Excel muestra un resumen de la información SAT de los XML encontrados, incluyendo datos sobre el esquema de cancelación como la fecha de cancelado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reporte",
+      "excel",
+      "resumen",
+      "sat",
+      "xml",
+      "esquema de cancelación",
+      "fecha de cancelado"
+    ]
+  },
+  {
+    "q": "¿Cómo se organizan automáticamente los XML descargados en MiAdminXML?",
+    "a": "El sistema organiza y almacena automáticamente los XML clasificándolos por tipo, año, mes y día.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "organización",
+      "almacenamiento",
+      "automático",
+      "xml",
+      "clasificación",
+      "tipo",
+      "año",
+      "mes",
+      "día"
+    ]
+  },
+  {
+    "q": "¿Dónde se pueden encontrar los XML después de la descarga en MiAdminXML?",
+    "a": "Una vez terminada la descarga, los XML se pueden localizar en la BóvedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "xml",
+      "descargados",
+      "bóvedacfdi",
+      "almacenamiento"
+    ]
+  },
+  {
+    "q": "¿Cómo se finaliza la sesión en SAT después de usar el módulo de descarga masiva en MiAdminXML?",
+    "a": "Para finalizar la sesión en SAT y salir del contribuyente, se debe dar clic en 'Cerrar Sesión'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cierre",
+      "sesión",
+      "sat",
+      "contribuyente",
+      "descarga masiva",
+      "seguridad"
+    ]
+  },
+  {
+    "q": "¿Por qué es importante la información sobre la cancelación en los XML de tipo Recibidos?",
+    "a": "Es importante conocer la fecha de cancelado en los XML de tipo Recibidos porque el portal del SAT elimina estos archivos y no es posible descargarlos posteriormente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cancelación",
+      "xml",
+      "recibidos",
+      "fecha de cancelado",
+      "importancia",
+      "sat",
+      "eliminación"
+    ]
+  }
+]

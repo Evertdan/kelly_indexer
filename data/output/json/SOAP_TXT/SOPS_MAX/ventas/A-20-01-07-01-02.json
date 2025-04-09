@@ -1,0 +1,75 @@
+[
+  {
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales de Cómputo Contable?",
+    "a": "El cliente debe ingresar a un correo electrónico de Cómputo Contable, deslizar hacia abajo para encontrar la opción 'DESUSCRIBIR', hacer clic en ella, luego ingresar la información solicitada en la página que aparece y hacer clic en 'no recibir mas promociones'.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "computo contable",
+      "descuentos",
+      "opción",
+      "cliente",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos no se pueden desuscribir?",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten la desuscripción.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "desuscribir",
+      "promocionales",
+      "licencia",
+      "factura",
+      "validación",
+      "tipos"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si un cliente en periodo gratuito intenta desuscribirse de los correos promocionales?",
+    "a": "Los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
+    "product": "General",
+    "keywords": [
+      "periodo gratuito",
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "spam",
+      "cliente",
+      "restricciones"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece al desuscribirse correctamente de los correos promocionales?",
+    "a": "Aparece una pantalla afirmando que se desuscribió de forma correcta.",
+    "product": "General",
+    "keywords": [
+      "desuscribir",
+      "correos",
+      "promocionales",
+      "mensaje",
+      "confirmación",
+      "pantalla",
+      "correcto"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la opción para desuscribirse de los correos promocionales?",
+    "a": "La opción 'DESUSCRIBIR' se encuentra en la parte de abajo de los correos electrónicos enviados por Cómputo Contable, junto al icono de MAX y los términos y condiciones.",
+    "product": "General",
+    "keywords": [
+      "desuscribir",
+      "correos",
+      "promocionales",
+      "opción",
+      "computo contable",
+      "icono",
+      "max",
+      "términos y condiciones"
+    ]
+  }
+]

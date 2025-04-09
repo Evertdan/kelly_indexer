@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente si no recibe el correo de confirmación de registro en MiExpedienteContable?",
+    "a": "El cliente debe proporcionar el correo electrónico registrado en el formulario al ejecutivo para que este verifique en el sistema mediante el comando /confirma MEC seguido del correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "correo",
+      "confirmación",
+      "cliente",
+      "ejecutivo",
+      "verificación",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué comando utiliza el ejecutivo para verificar el envío del correo de confirmación en MiExpedienteContable?",
+    "a": "El ejecutivo utiliza el comando /confirma MEC seguido del correo electrónico del cliente para verificar si se envió el correo de confirmación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "comando",
+      "ejecutivo",
+      "verificación",
+      "correo",
+      "confirmación",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué opciones tiene el ejecutivo si no encuentra solicitudes de registro en MiExpedienteContable?",
+    "a": "Si no se encuentran solicitudes, el ejecutivo informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "ejecutivo",
+      "solicitudes",
+      "no encontradas",
+      "botón",
+      "confirmación",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos debe cumplir un cliente para registrar MiExpedienteContable?",
+    "a": "El cliente debe contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "registro",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene una solicitud de no recepción de correo de confirmación en MiExpedienteContable?",
+    "a": "El nivel de prioridad es 1 - Bajo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "prioridad",
+      "nivel",
+      "bajo",
+      "solicitud",
+      "correo",
+      "confirmación"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando un cliente no puede realizar un pago desde su banca BBVA?",
+    "a": "Es una incidencia tipo 02, nivel 2 – Medio.",
+    "product": "General",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "medio",
+      "bbva",
+      "pago",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿Cómo se debe orientar a un cliente que quiere pagar desde BBVA pero el sistema no se lo permite?",
+    "a": "Se debe preguntar al cliente desde qué banco intenta realizar el pago. Si es desde BBVA, se le debe guiar para que visualice su ficha de pago y coloque los datos exactamente como aparecen en ella.",
+    "product": "General",
+    "keywords": [
+      "orientación",
+      "bbva",
+      "pago",
+      "ficha",
+      "guiar",
+      "datos",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si un cliente tiene problemas para realizar un pago por transferencia desde BBVA?",
+    "a": "Se debe verificar que el cliente esté siguiendo los pasos correctos según su ficha de pago y asegurarse de que los datos ingresados coincidan exactamente con los proporcionados en la ficha.",
+    "product": "General",
+    "keywords": [
+      "problemas",
+      "pago",
+      "transferencia",
+      "bbva",
+      "ficha",
+      "datos",
+      "verificar"
+    ]
+  },
+  {
+    "q": "¿Dónde se puede encontrar más información detallada sobre cómo realizar un pago desde BBVA?",
+    "a": "Para más detalles, se puede consultar el Soporte A-30-01-02-06-05.",
+    "product": "General",
+    "keywords": [
+      "información",
+      "detalles",
+      "bbva",
+      "pago",
+      "soporte",
+      "consulta",
+      "referencia"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene una incidencia donde un cliente no puede pagar desde BBVA?",
+    "a": "Tiene un nivel de prioridad 2 – Medio.",
+    "product": "General",
+    "keywords": [
+      "incidencia",
+      "prioridad",
+      "nivel",
+      "medio",
+      "bbva",
+      "pago",
+      "problema"
+    ]
+  }
+]

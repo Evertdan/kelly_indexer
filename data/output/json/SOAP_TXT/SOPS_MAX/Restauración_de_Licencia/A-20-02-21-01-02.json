@@ -1,0 +1,99 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente si le robaron el equipo donde tenía activa la licencia de MiAdminXML?",
+    "a": "El cliente debe contactar al servicio técnico, proporcionar su número de orden y RFC (si se facturó) o los últimos 5 caracteres de su clave de licencia, y llenar un Oficio de Reactivación para restaurar su licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "robo",
+      "equipo",
+      "licencia",
+      "reactivación",
+      "oficio",
+      "proceso",
+      "cliente",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué información necesita el cliente para iniciar el proceso de reactivación de licencia?",
+    "a": "El cliente debe proporcionar su número de orden y RFC si se facturó, o los últimos 5 caracteres de su clave de licencia para verificar su información.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "reactivación",
+      "licencia",
+      "número de orden",
+      "rfc",
+      "clave",
+      "verificación"
+    ]
+  },
+  {
+    "q": "¿Cuál es el plazo para enviar el Oficio de Reactivación una vez solicitado?",
+    "a": "El cliente cuenta con 72 horas para enviar su información. Si no la envía en este lapso, debe comunicarse nuevamente para reiniciar el proceso.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "plazo",
+      "oficio",
+      "reactivación",
+      "72 horas",
+      "tiempo",
+      "proceso",
+      "reenvío"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si es la segunda vez que un cliente solicita la reactivación de su licencia?",
+    "a": "Si es la segunda reactivación, se envía un formato y el cliente debe pagar el 50% del costo de la clave de licencia para reactivarla.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "segunda reactivación",
+      "costo",
+      "50%",
+      "formato",
+      "pago",
+      "licencia",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cómo se notifica al cliente una vez reactivada su licencia?",
+    "a": "Una vez reactivada la licencia, se le avisa al cliente por correo electrónico que ya puede activar su licencia en el módulo de 'Licenciamiento'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "notificación",
+      "correo electrónico",
+      "reactivación",
+      "licencia",
+      "módulo",
+      "licenciamiento"
+    ]
+  },
+  {
+    "q": "¿Qué áreas pueden realizar el proceso de reactivación de licencia?",
+    "a": "El proceso de reactivación de licencia lo puede realizar cualquier área de ST (Servicio Técnico) o ATC (Atención a Clientes).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "áreas",
+      "reactivación",
+      "st",
+      "atc",
+      "servicio técnico",
+      "atención a clientes",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué comando se usa para solicitar la reactivación de licencia a través del BOT?",
+    "a": "No se especifica el comando exacto en el texto, pero se menciona que se ingresa al BOT con un comando para solicitar la reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bot",
+      "comando",
+      "reactivación",
+      "licencia",
+      "solicitud",
+      "proceso"
+    ]
+  }
+]

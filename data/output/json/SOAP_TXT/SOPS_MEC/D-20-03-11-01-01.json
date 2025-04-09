@@ -1,0 +1,114 @@
+[
+  {
+    "q": "¿Qué es un contador en MiExpedienteContable?",
+    "a": "Un contador es una persona dada de alta en el sistema que puede visualizar información y usar herramientas según el perfil asignado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "contador",
+      "definición",
+      "usuario",
+      "perfil",
+      "sistema",
+      "acceso",
+      "herramientas"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar un nuevo contador en MiExpedienteContable?",
+    "a": "1. Clic en menú desplegable > Administración de contadores. 2. Clic en Agregar. 3. Llenar datos y seleccionar perfil. 4. Clic en Guardar. Se mostrará confirmación de éxito.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "agregar",
+      "contador",
+      "pasos",
+      "administración",
+      "perfil",
+      "guardar",
+      "nuevo usuario"
+    ]
+  },
+  {
+    "q": "¿Cómo editar la información de un contador existente?",
+    "a": "1. Menú > Administración de usuarios. 2. Seleccionar contador. 3. Clic en Editar. 4. Modificar datos. 5. Guardar cambios. Se confirmará con mensaje de éxito.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "editar",
+      "contador",
+      "modificar",
+      "datos",
+      "administración",
+      "usuarios",
+      "actualizar"
+    ]
+  },
+  {
+    "q": "¿Cómo eliminar un contador del sistema?",
+    "a": "1. Menú > Administración de usuarios. 2. Seleccionar contador(es). 3. Clic en Eliminar. 4. Confirmar acción. Se mostrará mensaje de eliminación exitosa.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "eliminar",
+      "contador",
+      "borrar",
+      "administración",
+      "usuarios",
+      "confirmación",
+      "registro"
+    ]
+  },
+  {
+    "q": "¿Cómo cambiar mi contraseña de acceso al sistema?",
+    "a": "1. Menú > Administración de contadores. 2. Clic en 'Cambiar mi contraseña'. 3. Ingresar nueva contraseña. 4. Guardar. Solo aplica para la sesión actual.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "contraseña",
+      "cambiar",
+      "seguridad",
+      "acceso",
+      "sesión",
+      "actual",
+      "modificar"
+    ]
+  },
+  {
+    "q": "¿Cómo generar un reporte personalizado de contadores?",
+    "a": "1. Menú > Administración de contadores. 2. Seleccionar columnas visibles en 'Columnas Visibles'. 3. Clic en Exportar para Excel. 4. Elegir ubicación. Se generará archivo con los datos.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "reporte",
+      "personalizado",
+      "exportar",
+      "excel",
+      "columnas",
+      "contadores",
+      "generar"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar un nuevo perfil en el sistema?",
+    "a": "1. Menú > Administración de usuarios. 2. Clic en 'Agregar Perfil'. 3. Ingresar nombre, descripción y seleccionar privilegios. 4. Guardar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "perfil",
+      "agregar",
+      "privilegios",
+      "nuevo",
+      "configuración",
+      "permisos",
+      "administración"
+    ]
+  },
+  {
+    "q": "¿Cómo editar un perfil existente?",
+    "a": "1. Menú > Administración de contadores. 2. Clic en 'Editar Perfil'. 3. Seleccionar perfil. 4. Modificar privilegios. 5. Guardar cambios.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "editar",
+      "perfil",
+      "modificar",
+      "privilegios",
+      "actualizar",
+      "configuración",
+      "permisos"
+    ]
+  }
+]

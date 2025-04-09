@@ -1,0 +1,58 @@
+[
+  {
+    "q": "¿Qué función tiene la herramienta de Leer complementos en MiAdminXML?",
+    "a": "La herramienta Premium de Leer complementos permite extraer toda la información del complemento seleccionado y agregarlo al reporte, logrando un reporte más detallado. La información se agrega al final de las columnas del reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "leer complementos",
+      "herramienta",
+      "premium",
+      "reporte",
+      "detallado",
+      "información",
+      "columnas"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta de Leer complementos en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo para usar la herramienta de Leer complementos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "leer complementos",
+      "acceso",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo se utiliza la herramienta de Leer complementos en MiAdminXML?",
+    "a": "Para usar la herramienta, se debe seleccionar la información del contribuyente: RFC, Tipo (Emitido/Recibido), Año, Mes. Una vez que se arrojen los resultados en el módulo, el usuario seleccionará el botón 'Leer complementos'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "uso",
+      "procedimiento",
+      "seleccionar",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "botón",
+      "leer complementos"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de información se puede obtener con la herramienta de Leer complementos?",
+    "a": "La herramienta permite extraer toda la información del complemento seleccionado, la cual se agrega al final de las columnas del reporte para lograr un reporte más detallado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "complemento",
+      "reporte",
+      "detallado",
+      "columnas",
+      "extraer"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "q": "¿Qué mensaje recibe el cliente cuando su licencia está en uso en MiExpedienteContable?",
+    "a": "Al cliente le aparece que su licencia está en uso.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "en uso",
+      "mensaje",
+      "cliente",
+      "mi expediente contable"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud es cuando un cliente necesita reactivar su licencia en MiExpedienteContable?",
+    "a": "Es una Solicitud 01.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "reactivación",
+      "licencia",
+      "mi expediente contable"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad para reactivar una licencia en MiExpedienteContable?",
+    "a": "El nivel de complejidad es 2 – Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "medio",
+      "reactivación",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se utiliza para manejar la reactivación de licencias en MiExpedienteContable?",
+    "a": "El recurso utilizado es MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "recurso",
+      "reactivación",
+      "licencia",
+      "mi expediente contable"
+    ]
+  },
+  {
+    "q": "¿Qué política se debe cumplir para reactivar una licencia en MiExpedienteContable?",
+    "a": "Se debe contar con la licencia MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "política",
+      "requisito",
+      "licencia",
+      "mi expediente contable",
+      "reactivación"
+    ]
+  },
+  {
+    "q": "¿Qué se envía al cliente para la primera reactivación de su licencia en MiExpedienteContable?",
+    "a": "Se le envía vía correo electrónico el formato correspondiente, incluyendo una plantilla y una captura de pantalla.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "primera reactivación",
+      "formato",
+      "correo electrónico",
+      "plantilla",
+      "captura de pantalla"
+    ]
+  },
+  {
+    "q": "¿Qué se envía al cliente para la segunda reactivación de su licencia en MiExpedienteContable?",
+    "a": "Se le envía vía correo electrónico el formato correspondiente, incluyendo dos plantillas y una captura de pantalla. Además, se debe enviar un formato para que el cliente indique si requiere factura por el pago realizado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "segunda reactivación",
+      "formato",
+      "correo electrónico",
+      "plantilla",
+      "captura de pantalla",
+      "factura"
+    ]
+  },
+  {
+    "q": "¿Qué documento se debe llenar en cualquier caso de reactivación de licencia en MiExpedienteContable?",
+    "a": "Se debe llenar el control de reactivaciones, ubicado en el drive, siguiendo el instructivo de 'control de Reactivaciones'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "control de reactivaciones",
+      "documento",
+      "drive",
+      "instructivo",
+      "llenar"
+    ]
+  },
+  {
+    "q": "¿Qué se hace después de enviar la información de reactivación al cliente en MiExpedienteContable?",
+    "a": "Se espera la respuesta del cliente para proceder con la reactivación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respuesta",
+      "cliente",
+      "proceder",
+      "reactivación",
+      "esperar"
+    ]
+  }
+]

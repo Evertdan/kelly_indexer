@@ -1,0 +1,84 @@
+[
+  {
+    "q": "¿Por qué no se puede realizar una misma solicitud con los mismos parámetros en el WebServiceSAT?",
+    "a": "Por reglas del WebServiceSAT no es posible realizar una misma solicitud con los mismos parámetros, por lo que se deben variar los segundos para obtener la información del bloque seleccionado.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "webservicesat",
+      "solicitud",
+      "parámetros",
+      "reglas",
+      "variar",
+      "segundos",
+      "bloque"
+    ]
+  },
+  {
+    "q": "¿Qué significa el mensaje 'se han agotado las solicitudes de por vida' en WebServiceSAT?",
+    "a": "El mensaje 'se han agotado las solicitudes de por vida' aparece cuando se realiza una consulta con los mismos parámetros de otra consulta ya realizada.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "webservicesat",
+      "solicitudes",
+      "agotado",
+      "por vida",
+      "mensaje",
+      "consulta",
+      "parámetros"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede solucionar el problema de solicitudes agotadas en WebServiceSAT?",
+    "a": "Se sugiere cambiar los segundos de la solicitud para que pueda proceder la consulta. Por ejemplo, ajustando las fechas y horas de inicio y fin de la consulta.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "webservicesat",
+      "solicitudes",
+      "agotado",
+      "solución",
+      "cambiar",
+      "segundos",
+      "fechas",
+      "horas"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar el WebServiceSAT con MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "miadminxml",
+      "webservicesat",
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de impacto tiene el problema de solicitudes agotadas en WebServiceSAT?",
+    "a": "El problema tiene un nivel de impacto 2 – Medio.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "webservicesat",
+      "solicitudes",
+      "agotado",
+      "impacto",
+      "nivel",
+      "medio"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia representa el problema de solicitudes agotadas en WebServiceSAT?",
+    "a": "El problema está clasificado como INC-02.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "webservicesat",
+      "solicitudes",
+      "agotado",
+      "incidencia",
+      "tipo",
+      "inc-02"
+    ]
+  }
+]

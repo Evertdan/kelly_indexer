@@ -1,0 +1,43 @@
+[
+  {
+    "q": "¿Cuánto tiempo tiene el cliente para pagar la ficha de pago que generó?",
+    "a": "El cliente tiene 8 días para realizar el pago a partir de la fecha de emisión de la ficha de pago.",
+    "product": "Ficha de Pago",
+    "keywords": [
+      "ficha de pago",
+      "tiempo",
+      "pago",
+      "días",
+      "fecha de emisión",
+      "cliente",
+      "plazo"
+    ]
+  },
+  {
+    "q": "¿Dónde puede el cliente encontrar la fecha de vigencia de su ficha de pago?",
+    "a": "En la parte superior izquierda de la ficha de pago se encuentra la fecha de vigencia.",
+    "product": "Ficha de Pago",
+    "keywords": [
+      "ficha de pago",
+      "fecha de vigencia",
+      "ubicación",
+      "superior izquierda",
+      "cliente",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el ejecutivo cuando un cliente pregunta sobre el tiempo para pagar su ficha de pago?",
+    "a": "El ejecutivo debe informar al cliente que tiene 8 días para realizar el pago a partir de la fecha de emisión y indicarle dónde encontrar la fecha de vigencia en la ficha de pago.",
+    "product": "Ficha de Pago",
+    "keywords": [
+      "ejecutivo",
+      "cliente",
+      "informar",
+      "tiempo de pago",
+      "fecha de emisión",
+      "fecha de vigencia",
+      "procedimiento"
+    ]
+  }
+]

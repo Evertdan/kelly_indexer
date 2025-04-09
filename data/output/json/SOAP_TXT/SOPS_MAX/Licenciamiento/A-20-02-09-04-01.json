@@ -1,0 +1,64 @@
+[
+  {
+    "q": "¿Qué error se presenta cuando el número de serie es incorrecto en MiAdminXML?",
+    "a": "El error que se presenta es 'Número de serie incorrecto, por favor verifique, MAX: Incidencia 212: Este no es un número de serie valido'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "número de serie",
+      "incorrecto",
+      "incidencia",
+      "max"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tipo y nivel de la incidencia por número de serie incorrecto en MiAdminXML?",
+    "a": "El tipo de incidencia es 'INC-02' y el nivel es '2 – Medio'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo",
+      "incidencia",
+      "nivel",
+      "medio",
+      "inc-02"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para activar la clave de licencia en MiAdminXML?",
+    "a": "Se necesita contar con una licencia de MiAdminXML para activar la clave de licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activar",
+      "clave",
+      "licencia",
+      "requisitos",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje de error aparece cuando la clave de licencia es inválida en MiAdminXML?",
+    "a": "El mensaje de error es 'Clave de Licencia inválida: La clave de Licencia que introdujo es incorrecta. ¡Por favor, verifique!'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "clave",
+      "licencia",
+      "inválida",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Cuál es la solución recomendada para el error de clave de licencia inválida en MiAdminXML?",
+    "a": "La solución recomendada es verificar junto con el cliente la clave de Licencia, ya que puede haber algún carácter erróneo o faltante. Se sugiere copiar y pegar la clave directamente del correo que recibe el cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "error",
+      "clave",
+      "licencia",
+      "copiar",
+      "pegar",
+      "correo"
+    ]
+  }
+]

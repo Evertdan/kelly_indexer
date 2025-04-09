@@ -1,0 +1,68 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente que quiere volver a recibir correos promocionales de MiAdminXML?",
+    "a": "El cliente debe ir a la pantalla de suscripción exitosa y hacer clic en 'ver preferencias de suscripción', luego llenar el formulario en la página de preferencias y hacer clic en 'Quiero recibir correos otra vez'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "suscripción",
+      "formulario",
+      "preferencias",
+      "recibir",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos pueden desuscribirse los clientes de MiAdminXML?",
+    "a": "Los correos que se pueden desuscribir son los promocionales.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "tipos",
+      "clientes"
+    ]
+  },
+  {
+    "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse y deben aceptar los correos promocionales y de descuentos sin marcar como SPAM.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "periodo",
+      "gratuito",
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "spam",
+      "descuentos"
+    ]
+  },
+  {
+    "q": "¿Dónde está la opción para suscribirse nuevamente a los correos promocionales?",
+    "a": "La opción para suscribirse nuevamente está en la parte de abajo de los correos enviados por MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "suscripción",
+      "correos",
+      "promocionales",
+      "opción",
+      "enviados"
+    ]
+  },
+  {
+    "q": "¿Qué correos son obligatorios para los clientes de MiAdminXML?",
+    "a": "Los correos obligatorios son los de descarga, validación, factura y entrega de licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "descarga",
+      "validación",
+      "factura",
+      "licencia",
+      "clientes"
+    ]
+  }
+]

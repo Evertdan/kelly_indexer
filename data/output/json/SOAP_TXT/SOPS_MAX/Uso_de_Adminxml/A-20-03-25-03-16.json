@@ -1,0 +1,69 @@
+[
+  {
+    "q": "¿Qué permite hacer la herramienta renombrar en MiAdminXML?",
+    "a": "La herramienta renombrar permite modificar el nombre de los archivos XML, incluyendo campos como Folio, serie, RFC emisor, entre otros. Es requisito incluir el campo UUID.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "renombrar",
+      "xml",
+      "modificar",
+      "nombre",
+      "uuid",
+      "campos"
+    ]
+  },
+  {
+    "q": "¿Qué opciones hay para renombrar archivos XML en MiAdminXML?",
+    "a": "Hay dos opciones: 'Renombrar seleccionados', que cambia solo los XML previamente seleccionados, y 'Renombrar todos los XML', que cambia todos los XML del mes o carpeta seleccionada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "renombrar",
+      "xml",
+      "seleccionados",
+      "todos",
+      "carpeta",
+      "mes"
+    ]
+  },
+  {
+    "q": "¿Dónde se visualizan los cambios realizados con la herramienta renombrar?",
+    "a": "Los cambios realizados con la herramienta renombrar se visualizan en la carpeta BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualizar",
+      "cambios",
+      "bovedacfdi",
+      "carpeta",
+      "resultados"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos hay para usar la herramienta renombrar en MiAdminXML?",
+    "a": "Es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo, e incluir el campo UUID en los archivos XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "demostrativo",
+      "uuid",
+      "herramienta",
+      "renombrar"
+    ]
+  },
+  {
+    "q": "¿Qué campos se pueden incluir al renombrar archivos XML en MiAdminXML?",
+    "a": "Se pueden incluir campos como Folio, serie, RFC emisor, entre otros disponibles.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "campos",
+      "folio",
+      "serie",
+      "rfc",
+      "emisor",
+      "renombrar",
+      "xml"
+    ]
+  }
+]

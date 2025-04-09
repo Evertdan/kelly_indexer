@@ -1,0 +1,64 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de catálogo de cuentas en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "catálogo de cuentas",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de catálogo de cuentas en MiAdminXML?",
+    "a": "Se ingresa al programa MiAdminXML, se selecciona el módulo Contabilidad y luego la herramienta XML Catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "catálogo de cuentas",
+      "contabilidad",
+      "herramienta",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué datos se solicitan al ingresar al módulo de catálogo de cuentas?",
+    "a": "Se solicitan los siguientes datos: RFC, Año, Mes y Plantilla de catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "datos",
+      "solicitud",
+      "rfc",
+      "año",
+      "mes",
+      "plantilla",
+      "catálogo de cuentas"
+    ]
+  },
+  {
+    "q": "¿Qué pasa después de iniciar la importación en el módulo de catálogo de cuentas?",
+    "a": "Se muestra un mensaje confirmando que la generación del XML fue correcta y se pregunta si se desea localizar el archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "importación",
+      "mensaje",
+      "confirmación",
+      "xml",
+      "generación"
+    ]
+  },
+  {
+    "q": "¿Cómo se localiza el archivo XML generado en el módulo de catálogo de cuentas?",
+    "a": "Se da clic en el mensaje que pregunta si se desea localizar el archivo y se muestra la ubicación del XML generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "localizar",
+      "archivo",
+      "xml",
+      "ubicación",
+      "generado"
+    ]
+  }
+]

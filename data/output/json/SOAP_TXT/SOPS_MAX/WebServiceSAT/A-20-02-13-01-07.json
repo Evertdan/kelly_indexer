@@ -1,0 +1,88 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es el tiempo de respuesta en la descarga de comprobantes?",
+    "a": "El tipo de incidencia es INC-02.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "respuesta",
+      "descarga",
+      "comprobantes"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de la incidencia por tiempo de respuesta en la descarga de comprobantes?",
+    "a": "El nivel de la incidencia es 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "incidencia",
+      "medio",
+      "respuesta",
+      "descarga"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se utilizan para la descarga de comprobantes?",
+    "a": "Se utiliza MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recursos",
+      "descarga",
+      "comprobantes",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué licencia se necesita para usar la descarga de comprobantes en MiAdminXML?",
+    "a": "Se requiere la licencia MiAdminXML Profesional.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "profesional",
+      "requisitos",
+      "descarga",
+      "comprobantes"
+    ]
+  },
+  {
+    "q": "¿De qué depende el tiempo de respuesta en la descarga de comprobantes?",
+    "a": "El tiempo de respuesta depende del SAT y puede tardar desde minutos hasta 72 horas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "respuesta",
+      "sat",
+      "descarga",
+      "comprobantes",
+      "horas"
+    ]
+  },
+  {
+    "q": "¿Qué hace MiAdminXML en el proceso de descarga de comprobantes?",
+    "a": "MiAdminXML solo manda las solicitudes y descarga la información.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proceso",
+      "solicitudes",
+      "descarga",
+      "información",
+      "comprobantes"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda si la solicitud de descarga excede las 72 horas?",
+    "a": "Se recomienda al cliente que vuelva a hacer otra solicitud, ya que excedió el tiempo de respuesta de 72 horas por el WebServiceSAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "exceder",
+      "tiempo",
+      "respuesta",
+      "recomendación",
+      "horas",
+      "webservicesat"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales en MiExpedienteContable?",
+    "a": "El cliente puede desuscribirse de los correos promocionales utilizando la opción de suscripción que se encuentra en la parte inferior de los correos promocionales enviados.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "desuscripción",
+      "opción",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué correos son obligatorios en MiExpedienteContable?",
+    "a": "Los correos obligatorios son aquellos relacionados con la descarga, validación, factura y entrega de licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "descarga",
+      "validación",
+      "factura",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "periodo",
+      "gratuito",
+      "desuscripción",
+      "correos",
+      "promocionales",
+      "spam"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer un cliente con licencia para no recibir correos promocionales?",
+    "a": "El cliente debe ingresar al programa MiExpedienteContable y no seleccionar ninguna opción en los términos y condiciones relacionados con los correos promocionales.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "correos",
+      "promocionales",
+      "términos",
+      "condiciones",
+      "selección"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer un cliente sin licencia en MiExpedienteContable?",
+    "a": "El cliente sin licencia debe seleccionar las tres pestañas en los términos y condiciones para conocer los beneficios y promociones de MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "sin licencia",
+      "términos",
+      "condiciones",
+      "pestañas",
+      "beneficios",
+      "promociones"
+    ]
+  }
+]

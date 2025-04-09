@@ -1,0 +1,87 @@
+[
+  {
+    "q": "¿Qué hacer si MiAdminXML no permite usar el periodo de prueba?",
+    "a": "Se debe eliminar la base de datos de MiAdminXML y validar el motivo usando el comando /trialmax + número de PC en el bot computoCreativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "periodo de prueba",
+      "trial",
+      "problema",
+      "base de datos",
+      "eliminar",
+      "validar",
+      "comando",
+      "trialmax"
+    ]
+  },
+  {
+    "q": "¿Cómo validar el periodo de prueba en MiAdminXML?",
+    "a": "Dirigirse al bot computoCreativo y usar el comando /trialmax + número de PC, luego validar las fechas de inicio y fin del periodo de prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validar",
+      "periodo de prueba",
+      "trial",
+      "comando",
+      "trialmax",
+      "fechas",
+      "inicio",
+      "fin"
+    ]
+  },
+  {
+    "q": "¿Qué significa si la fecha del trial aparece como 1999 en MiAdminXML?",
+    "a": "Indica que el equipo usó una versión alterada del programa anteriormente, por lo que la versión original detectó esto y negó automáticamente el periodo de prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "fecha",
+      "trial",
+      "1999",
+      "versión alterada",
+      "detectar",
+      "negar",
+      "periodo de prueba"
+    ]
+  },
+  {
+    "q": "¿Qué pasos seguir para solucionar el problema del periodo de prueba en MiAdminXML?",
+    "a": "1. Dar clic en 'Licenciamiento'. 2. Requerir el número de PC en el módulo de 'Licenciamiento'. 3. Usar el comando /trialmax + número de PC en el bot computoCreativo para validar las fechas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "solución",
+      "periodo de prueba",
+      "licenciamiento",
+      "número de pc",
+      "comando",
+      "trialmax"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el problema del periodo de prueba persiste después de seguir los pasos?",
+    "a": "Si el problema persiste por un error en la instalación, se debe revisar con Álvaro y escalar al área de ST para un diagnóstico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "problema persistente",
+      "error",
+      "instalación",
+      "revisar",
+      "escalar",
+      "diagnóstico",
+      "st"
+    ]
+  },
+  {
+    "q": "¿Cuál es el requisito para usar el periodo demostrativo en MiAdminXML?",
+    "a": "Debe encontrarse dentro de los primeros 30 días en los que se otorga el periodo demostrativo/prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisito",
+      "periodo demostrativo",
+      "prueba",
+      "30 días",
+      "tiempo",
+      "otorgar"
+    ]
+  }
+]

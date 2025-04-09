@@ -1,0 +1,50 @@
+[
+  {
+    "q": "¿Qué debo hacer si no se visualiza la información al seleccionar mes o agrupación en MiAdminXML?",
+    "a": "Se debe seleccionar la opción 'Leer XMLs' para que la información se desglose y luego realizar las validaciones o acuses necesarios.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualización",
+      "información",
+      "leer xmls",
+      "validación",
+      "agrupación"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "solución",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué acciones se pueden realizar después de usar la herramienta 'Leer XMLs' en MiAdminXML?",
+    "a": "Después de usar 'Leer XMLs', se puede realizar la 'Validación Estado SAT', 'Acuse de Validación' o cualquier otra acción que el cliente requiera una vez que la información se visualice correctamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "leer xmls",
+      "validación estado sat",
+      "acuse de validación",
+      "acciones",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué es importante verificar antes de visualizar la información en el Módulo de Validaciones de MiAdminXML?",
+    "a": "Es importante verificar si ya se realizó la descarga de comprobantes antes de intentar visualizar la información en el Módulo de Validaciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificación",
+      "descarga",
+      "comprobantes",
+      "módulo de validaciones",
+      "visualización"
+    ]
+  }
+]

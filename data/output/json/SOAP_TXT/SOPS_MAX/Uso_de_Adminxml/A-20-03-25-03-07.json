@@ -1,0 +1,65 @@
+[
+  {
+    "q": "¿Qué permite hacer la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "La herramienta 'Abrir XML' permite abrir y ver el contenido del archivo XML, mostrando su estructura.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "abrir xml",
+      "herramienta",
+      "contenido",
+      "estructura",
+      "visualizar"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "acceso",
+      "necesito"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para abrir un XML en MiAdminXML?",
+    "a": "Primero se debe ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes, y luego seleccionar el XML deseado con el botón 'Abrir XML'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "proceso",
+      "seleccionar",
+      "rfc",
+      "comprobante",
+      "año",
+      "mes",
+      "botón"
+    ]
+  },
+  {
+    "q": "¿Qué información se puede ver al abrir un XML con la herramienta de MiAdminXML?",
+    "a": "Al abrir un XML se puede ver su contenido y la estructura del archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "contenido",
+      "estructura",
+      "visualización",
+      "detalles"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "La herramienta 'Abrir XML' se encuentra en el módulo de Administración de XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "módulo",
+      "administración",
+      "encontrar",
+      "herramienta"
+    ]
+  }
+]

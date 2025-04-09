@@ -1,0 +1,101 @@
+[
+  {
+    "q": "¿Qué error indica que una licencia de MiExpedienteContable está activada en otro equipo?",
+    "a": "El error que indica que la licencia está activada en otro equipo es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "activada",
+      "error",
+      "equipo",
+      "uso",
+      "bloqueo",
+      "reactivación"
+    ]
+  },
+  {
+    "q": "¿Qué casos aplican para la reactivación de una licencia de MiExpedienteContable?",
+    "a": "Los casos que aplican para la reactivación son: error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "reactivación",
+      "casos",
+      "error",
+      "formateo",
+      "cambio",
+      "hdd",
+      "robo"
+    ]
+  },
+  {
+    "q": "¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia?",
+    "a": "El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada y en uso. También requiere el número de serie del equipo donde estaba la licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "ejecutivo",
+      "validación",
+      "sacc",
+      "licencia",
+      "pagada",
+      "vigente",
+      "número de serie"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos de instalación tiene MiExpedienteContable?",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínima de 1GB, 200 MB de espacio en disco duro, y no es compatible con macOS ni con Windows 7, 8 u 8.1.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "instalación",
+      "windows",
+      "java",
+      "internet explorer",
+      "ram",
+      "disco duro",
+      "compatibilidad"
+    ]
+  },
+  {
+    "q": "¿Qué proceso sigue el cliente para solicitar la reactivación de su licencia?",
+    "a": "El cliente debe llenar, firmar y escanear un documento enviado por el ejecutivo. Una vez enviado, debe esperar hasta 48 horas para recibir el oficio de reactivación llenado. Luego, el área de operaciones restaura la licencia y se le avisa al cliente por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "cliente",
+      "proceso",
+      "reactivación",
+      "documento",
+      "firmar",
+      "escanear",
+      "oficio",
+      "48 horas",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo se realiza la reactivación de la licencia una vez recibida la información del cliente?",
+    "a": "Se ingresa al Bot con un comando específico para realizar la reactivación, se espera a que el área de operaciones restaure la licencia y se le avisa al cliente por correo electrónico una vez completado el proceso.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "reactivación",
+      "bot",
+      "comando",
+      "área de operaciones",
+      "restauración",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué sistemas operativos no son compatibles con MiExpedienteContable?",
+    "a": "No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "compatibilidad",
+      "sistemas operativos",
+      "macos",
+      "windows 7",
+      "windows 8",
+      "windows 8.1"
+    ]
+  }
+]

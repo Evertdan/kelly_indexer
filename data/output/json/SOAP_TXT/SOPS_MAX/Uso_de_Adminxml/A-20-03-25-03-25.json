@@ -1,0 +1,94 @@
+[
+  {
+    "q": "¿Qué se necesita para generar la DIOT en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso de generación de la DIOT en MiAdminXML?",
+    "a": "Se ingresa al apartado Contabilidad y se elige el módulo Generar DIOT y Carga Batch.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "proceso",
+      "contabilidad",
+      "generar diot",
+      "carga batch",
+      "inicio"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para generar la DIOT en MiAdminXML?",
+    "a": "Se selecciona el contribuyente, tipo de facturas, periodo de tiempo, se validan las facturas pagadas y no pagadas, se actualiza el estado SAT, y finalmente se genera el archivo DIOT y la carga BATCH.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "pasos",
+      "facturas",
+      "periodo",
+      "validación",
+      "generar archivo"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas están disponibles durante el proceso de generación de la DIOT?",
+    "a": "Se dispone de herramientas como Acreditable, No Acreditable, Tipo de IVA, Operación o Proveedor para atender los apartados de las columnas según el caso.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "herramientas",
+      "acreditable",
+      "iva",
+      "proveedor",
+      "operación"
+    ]
+  },
+  {
+    "q": "¿Cómo se generan los archivos DIOT y BATCH en MiAdminXML?",
+    "a": "Se selecciona el botón Generar DIOT para el reporte y luego el botón Generar BATCH para crear el archivo .txt que se usará en la herramienta DIOT del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "batch",
+      "generar",
+      "archivo",
+      "txt",
+      "sat",
+      "dec"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer con las facturas canceladas durante la generación de la DIOT?",
+    "a": "Se deben seleccionar las facturas con estatus Cancelado y marcarlas como No Pagado para que no se incluyan en la generación del archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "facturas",
+      "canceladas",
+      "no pagado",
+      "excluir",
+      "estatus"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje se muestra al finalizar la generación de la carga BATCH?",
+    "a": "El mensaje final indica la ubicación donde se genera la CARGA BATCH, la cual se puede cargar al sistema del SAT para generar el archivo .dec.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "diot",
+      "batch",
+      "mensaje",
+      "ubicación",
+      "sat",
+      "dec",
+      "finalización"
+    ]
+  }
+]

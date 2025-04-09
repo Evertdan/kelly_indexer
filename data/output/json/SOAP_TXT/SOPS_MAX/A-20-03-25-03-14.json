@@ -1,0 +1,69 @@
+[
+  {
+    "q": "¿Qué versión y revisión tiene el documento de soporte temprano?",
+    "a": "El documento tiene la versión 09.09.2020.04 y revisión 09.09.2020.",
+    "product": "General",
+    "keywords": [
+      "versión",
+      "revisión",
+      "documento",
+      "soporte",
+      "temprano",
+      "fecha"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se describe en el documento?",
+    "a": "El documento describe un soporte de tipo ST (Soporte Temprano) de Nivel 1 - Temprano.",
+    "product": "General",
+    "keywords": [
+      "tipo",
+      "soporte",
+      "st",
+      "nivel",
+      "temprano",
+      "descripción"
+    ]
+  },
+  {
+    "q": "¿Qué producto está relacionado con este soporte temprano?",
+    "a": "El producto relacionado con este soporte temprano es MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "producto",
+      "relacionado",
+      "soporte",
+      "temprano",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para recibir soporte temprano de MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "soporte",
+      "temprano",
+      "licencia",
+      "profesional",
+      "periodo",
+      "demostrativo",
+      "correo",
+      "electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene la Solución 1 mencionada en el documento?",
+    "a": "La Solución 1 enlista los XML por conceptos o productos de pago.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "xml",
+      "conceptos",
+      "productos",
+      "pago",
+      "lista"
+    ]
+  }
+]

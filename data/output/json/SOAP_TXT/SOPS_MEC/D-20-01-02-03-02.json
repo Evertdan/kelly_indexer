@@ -1,0 +1,93 @@
+[
+  {
+    "q": "¿Qué debe hacer el ejecutivo cuando un cliente reporta no recibir su clave de licencia?",
+    "a": "El ejecutivo debe solicitar al cliente su número de orden de compra para validar la información en el bot usando el comando /orden.",
+    "product": "General",
+    "keywords": [
+      "ejecutivo",
+      "cliente",
+      "clave de licencia",
+      "orden de compra",
+      "validar",
+      "bot",
+      "comando"
+    ]
+  },
+  {
+    "q": "¿Qué datos debe confirmar el cliente para recibir su licencia?",
+    "a": "El cliente debe confirmar su correo electrónico, razón social, RFC y el nombre de a quien se llenó la orden de compra.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "confirmar",
+      "datos",
+      "correo electrónico",
+      "razón social",
+      "rfc",
+      "orden de compra"
+    ]
+  },
+  {
+    "q": "¿Cómo se envía la licencia al cliente una vez confirmados los datos?",
+    "a": "Se envía la licencia correspondiente usando el comando /enviarlicencias y se confirma la recepción del correo.",
+    "product": "General",
+    "keywords": [
+      "enviar",
+      "licencia",
+      "comando",
+      "enviarlicencias",
+      "confirmación",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el cliente no confirma los datos requeridos para el envío de la licencia?",
+    "a": "Si el cliente no confirma los datos, la licencia se enviará al correo registrado en el bot.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "confirmación",
+      "datos",
+      "correo registrado",
+      "bot",
+      "envío"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el texto?",
+    "a": "Se describe una situación donde un cliente no ha recibido su clave de licencia y el proceso para solucionarlo.",
+    "product": "General",
+    "keywords": [
+      "situación",
+      "cliente",
+      "clave de licencia",
+      "no recibido",
+      "proceso",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene la situación descrita?",
+    "a": "La situación tiene un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "nivel",
+      "prioridad",
+      "bajo",
+      "situación",
+      "tipo"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se utiliza para validar la información del cliente?",
+    "a": "Se utiliza un BOT para validar la información del cliente.",
+    "product": "General",
+    "keywords": [
+      "recurso",
+      "bot",
+      "validar",
+      "información",
+      "cliente"
+    ]
+  }
+]

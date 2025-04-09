@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Qué sucede cuando no se visualiza la información al seleccionar un mes o agrupación en MiAdminXML?",
+    "a": "No se visualiza la información al momento de seleccionar mes o la agrupación. Para solucionarlo, al dar clic en el mes debe dar clic en la herramienta 'Leer XMLs' para extraer la información en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualización",
+      "información",
+      "mes",
+      "agrupación",
+      "leer xmls",
+      "problema",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede extraer la información de los meses seleccionados en MiAdminXML?",
+    "a": "Se debe dar clic en la herramienta 'Leer XMLs' después de seleccionar el mes para extraer la información en el sistema. También se puede hacer multi-selección de los meses para una mejor conciliación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "extraer",
+      "información",
+      "meses",
+      "leer xmls",
+      "multi-selección",
+      "conciliación"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "solución",
+      "correo electrónico",
+      "visualización"
+    ]
+  },
+  {
+    "q": "¿Qué herramienta se utiliza para extraer la información de los XMLs en MiAdminXML?",
+    "a": "La herramienta 'Leer XMLs' se utiliza para extraer la información en el sistema después de seleccionar el mes o los meses.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "leer xmls",
+      "extraer",
+      "información",
+      "meses",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Se pueden seleccionar múltiples meses en MiAdminXML para conciliación?",
+    "a": "Sí, se puede hacer multi-selección de los meses para una mejor conciliación en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "multi-selección",
+      "meses",
+      "conciliación",
+      "mejor",
+      "seleccionar"
+    ]
+  }
+]

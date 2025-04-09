@@ -1,0 +1,102 @@
+[
+  {
+    "q": "¿Qué error indica que una licencia de MiExpedienteContable está activada en otro equipo?",
+    "a": "El error que indica que la licencia está activada en otro equipo es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "error",
+      "activada",
+      "otro equipo",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Qué casos aplican para la reactivación de una licencia de MiExpedienteContable?",
+    "a": "Los casos que aplican para la reactivación son: error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "reactivación",
+      "casos",
+      "error",
+      "formateo",
+      "cambio hdd",
+      "robo"
+    ]
+  },
+  {
+    "q": "¿Qué pasos sigue el ejecutivo para validar la licencia en el SACC?",
+    "a": "El ejecutivo valida la clave de licencia en el SACC corroborando a nombre de quién está registrada, verificando que esté en estado pagado con fecha vigente y que no se encuentre activada y en uso.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "ejecutivo",
+      "validación",
+      "sacc",
+      "licencia",
+      "pagado",
+      "vigente"
+    ]
+  },
+  {
+    "q": "¿Qué documento necesita el cliente para la reactivación de su licencia?",
+    "a": "El cliente debe llenar, firmar y escanear un oficio de reactivación que el ejecutivo le envía por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "documento",
+      "oficio",
+      "reactivación",
+      "llenar",
+      "firmar",
+      "escanear"
+    ]
+  },
+  {
+    "q": "¿Qué información se debe verificar antes de reactivar una licencia?",
+    "a": "Se debe verificar que la licencia esté registrada a nombre del cliente, en estado pagado con fecha vigente, y que no esté activada y en uso. Además, se requiere el número de serie del equipo donde se encontraba.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "verificación",
+      "licencia",
+      "pagado",
+      "vigente",
+      "número de serie",
+      "equipo"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si es la segunda reactivación de una licencia?",
+    "a": "Si es la segunda reactivación, se debe informar al cliente sobre el costo asociado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "segunda reactivación",
+      "costo",
+      "informar",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo debe esperar el cliente para la reactivación de su licencia?",
+    "a": "El cliente debe esperar un máximo de 72 horas después de enviar el oficio de reactivación llenado.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "tiempo",
+      "espera",
+      "reactivación",
+      "72 horas",
+      "oficio"
+    ]
+  },
+  {
+    "q": "¿Qué pasos sigue el soporte técnico para reactivar una licencia?",
+    "a": "El soporte técnico ingresa al bot con un comando específico para realizar la reactivación, espera a que el área de operaciones restaure la licencia y luego avisa al cliente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "soporte técnico",
+      "reactivación",
+      "bot",
+      "comando",
+      "operaciones",
+      "restaurar"
+    ]
+  }
+]

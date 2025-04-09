@@ -1,0 +1,130 @@
+[
+  {
+    "q": "¿Qué se necesita para generar una carga Batch DIOT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "carga batch",
+      "diot",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso para generar el archivo DIOT en MiAdminXML?",
+    "a": "Se entra en MiAdminXML, se selecciona el módulo de Contabilidad y se da clic en 'Generar DIOT y carga BATCH'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "inicio",
+      "proceso",
+      "diot",
+      "contabilidad",
+      "generar",
+      "módulo",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita seleccionar para generar la DIOT?",
+    "a": "Se debe seleccionar el contribuyente, el tipo 'Recibidas', el año, el mes, el periodo de pago y trabajo para la generación de la DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "seleccionar",
+      "información",
+      "contribuyente",
+      "recibidas",
+      "año",
+      "mes",
+      "periodo",
+      "pago",
+      "trabajo"
+    ]
+  },
+  {
+    "q": "¿Cómo se identifican los CFDi pagados en el proceso de generación de DIOT?",
+    "a": "Los XML aparecen como NO pagados por defecto. Se selecciona el registro y con la herramienta 'Pagado' se mueve a la lista 'Facturas Pagadas'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "identificar",
+      "cfdi",
+      "pagados",
+      "xml",
+      "herramienta",
+      "facturas",
+      "lista"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si un CFDi está cancelado durante la generación de DIOT?",
+    "a": "Si un CFDi está cancelado, se debe quitar de la lista con la herramienta 'NO pagado' ya que no será incluido en la generación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cfdi",
+      "cancelado",
+      "quitar",
+      "lista",
+      "herramienta",
+      "no pagado",
+      "generación"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas están disponibles para modificar las facturas pagadas en la generación de DIOT?",
+    "a": "En la pestaña de 'Facturas Pagadas' se pueden utilizar las herramientas de 'Acreditable', 'NO acreditable', 'Tipo de IVA', 'Operación' o 'Proveedor' para realizar modificaciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "modificar",
+      "facturas",
+      "pagadas",
+      "acreditable",
+      "iva",
+      "operación",
+      "proveedor"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera el archivo DIOT una vez que los datos están correctos?",
+    "a": "Se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte DIOT. Luego, se puede usar la opción 'Carga BATCH' para generar el archivo .txt.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "archivo",
+      "diot",
+      "herramienta",
+      "reporte",
+      "carga batch",
+      "txt"
+    ]
+  },
+  {
+    "q": "¿Qué se hace con el archivo .txt generado en la carga BATCH?",
+    "a": "El archivo .txt generado se puede subir en la Herramienta DIOT de SAT para convertirlo en .dec.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "archivo",
+      "txt",
+      "carga batch",
+      "subir",
+      "herramienta diot",
+      "sat",
+      "dec"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece al finalizar la generación del archivo DIOT?",
+    "a": "Aparece un mensaje con la ubicación del archivo generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mensaje",
+      "finalizar",
+      "generación",
+      "archivo",
+      "diot",
+      "ubicación"
+    ]
+  }
+]

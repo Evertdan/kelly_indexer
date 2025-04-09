@@ -1,0 +1,101 @@
+[
+  {
+    "q": "¿Cómo se realiza la transferencia de información y licencia de MiAdminXML a otro equipo?",
+    "a": "Para transferir la información y licencia de MiAdminXML a otro equipo, primero debes desactivar la licencia en el equipo actual, guardar una copia de la carpeta Bóveda CFDI y el archivo miadminxml2.sqlite. Luego, en el nuevo equipo, instala MiAdminXML actualizado, pega los archivos respaldados en la misma ruta y activa la licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "transferencia",
+      "licencia",
+      "información",
+      "equipo",
+      "desactivar",
+      "activar",
+      "respaldo",
+      "bóveda",
+      "cfdi",
+      "sqlite"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para desactivar la licencia de MiAdminXML en el equipo actual?",
+    "a": "Para desactivar la licencia de MiAdminXML en el equipo actual, debes tener conexión a internet y el programa actualizado. Entra en licenciamiento, haz clic en desactivar, guarda o toma captura del número de serie y confirma la desactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "desactivar",
+      "licencia",
+      "pasos",
+      "internet",
+      "actualizado",
+      "número de serie",
+      "confirmar"
+    ]
+  },
+  {
+    "q": "¿Qué archivos debo respaldar antes de transferir MiAdminXML a otro equipo?",
+    "a": "Antes de transferir MiAdminXML a otro equipo, debes respaldar la carpeta C:\\AdminXML completa o solo C:\\AdminXML\\BovedaCFDi (que contiene los RFC) y el archivo miadminxml2.sqlite (que contiene el catálogo de empresas).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "respaldo",
+      "archivos",
+      "bóveda",
+      "cfdi",
+      "sqlite",
+      "rfc",
+      "catálogo",
+      "empresas"
+    ]
+  },
+  {
+    "q": "¿Cómo activo la licencia de MiAdminXML en el nuevo equipo?",
+    "a": "Para activar la licencia de MiAdminXML en el nuevo equipo, instala el programa actualizado, pega los archivos respaldados en la misma ruta, abre MiAdminXML, haz clic en la opción de Activar en el icono de licenciamiento, llena el formulario y confirma la activación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activar",
+      "licencia",
+      "nuevo equipo",
+      "instalar",
+      "respaldo",
+      "formulario",
+      "confirmar"
+    ]
+  },
+  {
+    "q": "¿Cuántas veces puedo transferir la licencia de MiAdminXML en un año?",
+    "a": "Puedes transferir la licencia de MiAdminXML hasta 5 veces en un año.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "transferencia",
+      "licencia",
+      "límite",
+      "año",
+      "veces",
+      "restricción"
+    ]
+  },
+  {
+    "q": "¿Qué necesito tener antes de desactivar la licencia de MiAdminXML?",
+    "a": "Antes de desactivar la licencia de MiAdminXML, necesitas tener conexión a internet y el programa actualizado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "desactivar",
+      "licencia",
+      "internet",
+      "actualizado",
+      "conexión"
+    ]
+  },
+  {
+    "q": "¿Dónde puedo descargar MiAdminXML para instalarlo en el nuevo equipo?",
+    "a": "Puedes descargar MiAdminXML para instalarlo en el nuevo equipo desde http://www.adminxml.com/es/miadminxml/.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descargar",
+      "instalar",
+      "nuevo equipo",
+      "url",
+      "sitio web",
+      "actualizado"
+    ]
+  }
+]

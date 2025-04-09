@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Cómo puede un cliente verificar la vigencia de su licencia en MiExpedienteContable?",
+    "a": "El cliente debe ingresar a MiExpedienteContable, hacer clic en el icono verde en la parte superior izquierda para acceder al apartado de licenciamiento, donde se mostrará la clave de licencia y su vigencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "vigencia",
+      "verificar",
+      "mi expediente contable",
+      "icono verde",
+      "apartado de licenciamiento"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el cliente si no está en el equipo donde tiene la clave de licencia?",
+    "a": "El cliente debe proporcionar el nombre de la empresa o persona a cuyo nombre está la clave de licencia para que el ejecutivo pueda validar la información en el sistema Sacc.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "clave de licencia",
+      "validar",
+      "nombre de empresa",
+      "sacc",
+      "ejecutivo",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Cuál es el proceso para que un ejecutivo verifique la vigencia de una licencia en Sacc?",
+    "a": "El ejecutivo debe ingresar a Sacc, acceder al apartado de administración de clientes, ingresar el nombre de la empresa o cliente, seleccionar el cliente y dar clic en la opción de licencias.",
+    "product": "Sacc",
+    "keywords": [
+      "ejecutivo",
+      "verificar",
+      "licencia",
+      "sacc",
+      "administración de clientes",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte se requiere para orientar al cliente sobre la vigencia de su licencia?",
+    "a": "Se requiere un nivel de soporte 1 – Avanzado para orientar al cliente sobre cómo visualizar la vigencia de su licencia.",
+    "product": "General",
+    "keywords": [
+      "nivel de soporte",
+      "avanzado",
+      "orientación",
+      "licencia",
+      "vigencia",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué recurso se utiliza para verificar la vigencia de una licencia directamente por el cliente?",
+    "a": "El cliente puede utilizar MiExpedienteContable para verificar directamente la vigencia de su licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "recurso",
+      "verificar",
+      "licencia",
+      "mi expediente contable",
+      "cliente",
+      "directamente"
+    ]
+  }
+]

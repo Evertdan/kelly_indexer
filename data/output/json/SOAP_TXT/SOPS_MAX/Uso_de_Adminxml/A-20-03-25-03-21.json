@@ -1,0 +1,87 @@
+[
+  {
+    "q": "¿Qué es la herramienta Bóveda en Red en MiAdminXML?",
+    "a": "La herramienta Bóveda en Red permite cambiar la ruta de almacenamiento de información (catálogo de contribuyentes, archivos XML y reportes) que el sistema configura por default en C:\\AdminXML a la ubicación que se requiera.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "red",
+      "almacenamiento",
+      "ruta",
+      "información",
+      "xml",
+      "reportes"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la Bóveda en Red?",
+    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "bóveda",
+      "red"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede a la herramienta Bóveda en Red?",
+    "a": "Se ingresa al módulo de Administración y se selecciona el botón correspondiente a la Bóveda en Red.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "administración",
+      "botón",
+      "bóveda",
+      "red"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para cambiar la ruta de almacenamiento con Bóveda en Red?",
+    "a": "1. Ingresar al módulo de Administración. 2. Seleccionar el botón de Bóveda en Red. 3. En la nueva ventana, elegir la nueva ruta con el botón de Buscar. 4. Dar clic en Aceptar y confirmar el mensaje. 5. Reiniciar la aplicación para efectuar los cambios.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "cambiar",
+      "ruta",
+      "almacenamiento",
+      "bóveda",
+      "red",
+      "aceptar",
+      "reiniciar"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica que el cambio de ruta se realizó correctamente?",
+    "a": "Después de reiniciar la aplicación, se puede validar el cambio yendo al módulo de Administración (o cualquier otro) y verificando la leyenda 'Ruta de Bóveda XML' en la parte inferior izquierda, que mostrará la ruta actualizada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar",
+      "cambio",
+      "ruta",
+      "validar",
+      "administración",
+      "bóveda",
+      "xml",
+      "actualizada"
+    ]
+  },
+  {
+    "q": "¿Qué información se almacena en la nueva ruta después del cambio?",
+    "a": "A partir del cambio, las descargas de información y generación de reportes se guardarán en la nueva ubicación seleccionada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "almacenada",
+      "descargas",
+      "reportes",
+      "nueva",
+      "ruta",
+      "bóveda",
+      "red"
+    ]
+  }
+]

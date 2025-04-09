@@ -1,0 +1,57 @@
+[
+  {
+    "q": "¿Cuáles son los costos de las licencias de MiExpedienteContable?",
+    "a": "La Licencia Plus tiene un costo de $1498.00 anuales y la Licencia Profesional cuesta $1996.00 anuales.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "costos",
+      "licencia",
+      "plus",
+      "profesional",
+      "precios",
+      "anual",
+      "paquetes"
+    ]
+  },
+  {
+    "q": "¿Cómo puede el cliente solicitar información sobre los costos de las licencias?",
+    "a": "El cliente puede contactar vía telefónica o email para solicitar información sobre los costos de las licencias.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "contacto",
+      "telefono",
+      "email",
+      "solicitar",
+      "informacion",
+      "costos",
+      "licencias"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de licencias están disponibles para MiExpedienteContable?",
+    "a": "MiExpedienteContable ofrece la Licencia Plus y la Licencia Profesional.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencias",
+      "plus",
+      "profesional",
+      "tipos",
+      "disponibles",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Cuál es el objetivo al informar al cliente sobre los costos de los paquetes?",
+    "a": "El objetivo es informar al cliente sobre los costos de los paquetes e incentivarlo a realizar la compra.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "objetivo",
+      "informar",
+      "costos",
+      "paquetes",
+      "incentivar",
+      "compra",
+      "ventas"
+    ]
+  }
+]

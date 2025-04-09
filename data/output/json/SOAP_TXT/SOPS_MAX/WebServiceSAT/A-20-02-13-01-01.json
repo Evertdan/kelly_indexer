@@ -1,0 +1,119 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de descarga masiva WebService SAT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado, y usar la FIEL del contribuyente para acceder al módulo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga masiva",
+      "webservice sat",
+      "requisitos",
+      "licencia",
+      "fiel",
+      "acceso",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Cuántos XML se pueden descargar en una sola consulta con el WebService SAT?",
+    "a": "Se pueden descargar hasta 200,000 XML en una sola consulta desde el portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "xml",
+      "límite",
+      "consulta",
+      "webservice sat",
+      "cantidad"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de descarga masiva WebService SAT en MiAdminXML?",
+    "a": "Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando en el equipo los archivos .cer, .key y la clave privada correspondiente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "descarga masiva",
+      "fiel",
+      "archivos",
+      "cer",
+      "key",
+      "clave privada"
+    ]
+  },
+  {
+    "q": "¿Qué parámetros se pueden seleccionar para la descarga de comprobantes en el WebService SAT?",
+    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o Mes), y los parámetros de búsqueda como un día, mes o año completo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "parámetros",
+      "búsqueda",
+      "comprobantes",
+      "emitidas",
+      "recibidas",
+      "organización",
+      "día",
+      "mes",
+      "año"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra la tabla de tareas después de realizar una consulta en el WebService SAT?",
+    "a": "La tabla de tareas muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes, fechas inicial y final, cantidad de CFDI's, tipo de organización y descripción del avance de la consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tabla",
+      "tareas",
+      "consulta",
+      "estado",
+      "id",
+      "fechas",
+      "cfdi",
+      "avance",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo puede tomar la descarga de XML después de realizar la solicitud en el WebService SAT?",
+    "a": "El tiempo de espera puede variar desde minutos hasta horas o incluso días, dependiendo del WebService SAT. Se recomienda verificar constantemente el estado de la solicitud.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "espera",
+      "descarga",
+      "solicitud",
+      "webservice sat",
+      "verificación",
+      "estado"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda hacer si faltan paquetes al descargar comprobantes en el WebService SAT?",
+    "a": "Se recomienda seguir los pasos indicados en el módulo, verificar el estado de la solicitud constantemente y asegurarse de tener los permisos de administrador y las excepciones necesarias en el antivirus Kaspersky.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "problemas",
+      "paquetes",
+      "faltantes",
+      "solución",
+      "permisos",
+      "antivirus",
+      "kaspersky",
+      "recomendaciones"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para usar el módulo de descarga masiva WebService SAT?",
+    "a": "Se debe contar con la licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "políticas",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "actualización",
+      "permisos",
+      "administrador"
+    ]
+  }
+]

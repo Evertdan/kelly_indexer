@@ -1,0 +1,104 @@
+[
+  {
+    "q": "¿Qué se necesita para realizar la transferencia de información en MiAdminXML?",
+    "a": "Se necesita tener conexión a internet, tener AdminXML actualizado, entrar en licenciamiento y dar clic en desactivar, guardar el número de serie para la próxima activación y confirmar la desactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "transferencia",
+      "información",
+      "conexión",
+      "internet",
+      "actualizado",
+      "licenciamiento",
+      "desactivar",
+      "número de serie"
+    ]
+  },
+  {
+    "q": "¿Cómo se respalda la información antes de la transferencia en MiAdminXML?",
+    "a": "Se recomienda copiar la carpeta C:\\AdminXML completa o solo c:\\AdminXML\\BovedaCFDi (donde se encuentran sus RFC) y miadminxml2.sqlite (su catálogo de empresas).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "respaldo",
+      "información",
+      "carpeta",
+      "bovedacfdi",
+      "rfc",
+      "miadminxml2.sqlite",
+      "catálogo",
+      "empresas"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para instalar MiAdminXML en un nuevo equipo?",
+    "a": "Instalar MiAdminXML actualizado, tener conexión a internet, pegar el respaldo en el nuevo equipo en la misma ruta, abrir MiAdminXML, en el icono de licenciamiento dar clic en la opción de Activar, llenar el formulario y confirmar activación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "instalar",
+      "nuevo equipo",
+      "actualizado",
+      "conexión",
+      "internet",
+      "respaldo",
+      "licenciamiento",
+      "activar",
+      "formulario"
+    ]
+  },
+  {
+    "q": "¿Cuántas veces se puede realizar la transferencia de licencia en MiAdminXML en un año?",
+    "a": "Este movimiento lo puedes realizar solo 5 veces en 1 año.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "transferencia",
+      "licencia",
+      "veces",
+      "año",
+      "límite",
+      "activación"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se deben seguir al realizar una transferencia en MiAdminXML?",
+    "a": "Realizar respaldo de la información de la clave de licencia, guardar carpeta Boveda CFDis y el archivo miadminxml2.sqlite.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "políticas",
+      "respaldo",
+      "clave",
+      "licencia",
+      "boveda",
+      "cfdis",
+      "miadminxml2.sqlite",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer después de pegar el respaldo en el nuevo equipo en MiAdminXML?",
+    "a": "Abrir MiAdminXML, en el icono de licenciamiento dar clic en la opción de Activar, llenar el formulario y confirmar activación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "respaldo",
+      "nuevo equipo",
+      "abrir",
+      "licenciamiento",
+      "activar",
+      "formulario",
+      "confirmar"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje se muestra al finalizar la migración en MiAdminXML?",
+    "a": "Termina Migración, felicidades puedes seguir utilizando el programa de MiAdminXML según el paquete contratado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "migración",
+      "finalizar",
+      "mensaje",
+      "felicidades",
+      "programa",
+      "paquete",
+      "contratado"
+    ]
+  }
+]

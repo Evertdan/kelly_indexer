@@ -1,0 +1,75 @@
+[
+  {
+    "q": "¿Qué se necesita para registrar MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo",
+      "mi expediente contable"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el cliente no recibe el correo de registro de MiExpedienteContable?",
+    "a": "En caso de no recibir el correo, se puede verificar y confirmar mediante el bot con el comando: /bot confirma MEC correo_registrado_usuario.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "registro",
+      "verificación",
+      "bot",
+      "no recibido",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Cómo se confirma que el registro de MiExpedienteContable fue exitoso?",
+    "a": "Al finalizar el registro, el sistema mostrará una leyenda indicando que se ha registrado con éxito la aplicación MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro exitoso",
+      "confirmación",
+      "leyenda",
+      "finalización",
+      "aplicación"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si el usuario marca la casilla 'Ya cuento con clave de licencia' durante el registro?",
+    "a": "Si el usuario marca la casilla 'Ya cuento con clave de licencia', el sistema indicará que se activó con éxito, lo cual se puede validar en el módulo de LICENCIAMIENTO al ingresar a la aplicación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "clave de licencia",
+      "activación",
+      "módulo",
+      "licenciamiento",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento D-20-03-03-01-01?",
+    "a": "El documento describe el proceso de registro del formulario MiExpedienteContable por parte del cliente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "documento",
+      "situación",
+      "registro",
+      "formulario",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad del proceso de registro de MiExpedienteContable?",
+    "a": "El nivel de complejidad del proceso de registro es 1 - Bajo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "bajo",
+      "registro",
+      "proceso"
+    ]
+  }
+]

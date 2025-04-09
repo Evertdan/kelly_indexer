@@ -1,0 +1,160 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de Nómina en MiAdminXML?",
+    "a": "Es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo, además de tener previamente la información descargada que se necesita consultar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "nómina",
+      "requisitos",
+      "licencia",
+      "demostrativo",
+      "información",
+      "descargada"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo al módulo de Nómina en MiAdminXML?",
+    "a": "Se accede a MiAdminXML, se selecciona Administración de XML y se da clic en “Nómina 1.2”.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "nómina",
+      "administración",
+      "xml",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para visualizar los XML en el módulo de Nómina?",
+    "a": "Se selecciona el listado dando clic sobre RFC, Tipo, Año, Meses, Agrupaciones (si es necesario), y se da clic en la herramienta Leer XMLs para visualizar los XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualizar",
+      "xml",
+      "listado",
+      "rfc",
+      "tipo",
+      "año",
+      "meses",
+      "agrupaciones",
+      "leer"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo filtrar y buscar información en el módulo de Nómina?",
+    "a": "Se puede realizar una búsqueda y filtrado de la información utilizando diferentes apartados como RFC Receptor, Folio, etc., para generar un reporte específico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "filtrar",
+      "buscar",
+      "información",
+      "rfc",
+      "folio",
+      "reporte",
+      "específico"
+    ]
+  },
+  {
+    "q": "¿Qué información puedo visualizar en el visor del módulo de Nómina?",
+    "a": "El visor muestra diferentes pestañas: Percepciones, Deducciones, Otros pagos, así como el total de percepciones, deducciones, otros pagos y el total de nóminas encontradas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visor",
+      "pestañas",
+      "percepciones",
+      "deducciones",
+      "otros pagos",
+      "total",
+      "nóminas"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo personalizar las columnas en el reporte del módulo de Nómina?",
+    "a": "Se puede agregar o eliminar columnas desde el botón “columnas visibles”, seleccionando las columnas deseadas y dando clic en “Aplicar”. Se puede guardar la configuración o aplicarla solo una vez.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "personalizar",
+      "columnas",
+      "reporte",
+      "columnas visibles",
+      "aplicar",
+      "guardar",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas básicas incluye el módulo de Nómina?",
+    "a": "Incluye herramientas como Válida Estado SAT, Exportar a Excel, Guardar a Excel y Abrir XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "básicas",
+      "válida estado sat",
+      "exportar",
+      "excel",
+      "guardar",
+      "abrir",
+      "xml"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas adicionales ofrece el módulo de Nómina para licencias Plus/Profesional?",
+    "a": "Ofrece herramientas como Generar PDF, Localizar XML, Verificado o Asoc, Copiar Rutas XML(s), PDFs Masivos, Renombrar XML, XML Externos, Cancelar, Escríbenos, Video Manual y Cerrar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "adicionales",
+      "licencias",
+      "plus",
+      "profesional",
+      "generar",
+      "pdf",
+      "localizar",
+      "verificado",
+      "copiar",
+      "rutas",
+      "masivos",
+      "renombrar",
+      "externos",
+      "cancelar",
+      "escríbenos",
+      "video",
+      "manual",
+      "cerrar"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo generar un reporte en Excel desde el módulo de Nómina?",
+    "a": "Se puede crear un reporte utilizando las herramientas Exportar Excel o Guarda Excel, que permiten cambiar la ubicación de guardado o almacenarlo automáticamente en la BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "reporte",
+      "excel",
+      "exportar",
+      "guarda",
+      "ubicación",
+      "bovedacfdi",
+      "almacenar"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidad ofrece la herramienta Verificado o Asoc en el módulo de Nómina?",
+    "a": "Es una etiqueta multipropósito que ayuda a tener control sobre los XML asociados a programas contables o verificados, y sirve como etiqueta de control dentro del reporte de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "verificado",
+      "asoc",
+      "etiqueta",
+      "multipropósito",
+      "control",
+      "xml",
+      "programas",
+      "contables",
+      "reporte"
+    ]
+  }
+]

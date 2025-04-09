@@ -1,0 +1,66 @@
+[
+  {
+    "q": "¿Cómo puedo descargar MiExpedienteContable?",
+    "a": "Para descargar MiExpedienteContable, debe ingresar a la página www.miexpedientecontable.com, registrarse en el formulario proporcionando Nombre, Apellido y Correo Electrónico, y recibirá el instalador del sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "instalador",
+      "registro",
+      "formulario",
+      "miexpedientecontable",
+      "sitio web"
+    ]
+  },
+  {
+    "q": "¿Qué información necesito para registrarme y descargar MiExpedienteContable?",
+    "a": "Para registrarse y descargar MiExpedienteContable, debe proporcionar su Nombre, Apellido y Correo Electrónico en el formulario de la página web.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "información",
+      "nombre",
+      "apellido",
+      "correo electrónico",
+      "formulario"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo obtener los 30 días gratis de MiExpedienteContable?",
+    "a": "Para disfrutar de los 30 días gratis de MiExpedienteContable, debe descargar e instalar el sistema en un equipo que no haya tenido el sistema instalado previamente. De lo contrario, se le solicitará una clave de licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "30 días gratis",
+      "promoción",
+      "instalación",
+      "equipo",
+      "clave de licencia",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir después de descargar el instalador de MiExpedienteContable?",
+    "a": "Después de descargar el instalador, debe seleccionar las opciones correspondientes durante la instalación, marcar la casilla 'Ejecutar MiExpedienteContable' al finalizar, y realizar el registro del sistema para completar la instalación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación",
+      "pasos",
+      "instalador",
+      "ejecutar",
+      "registro",
+      "finalizar"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si ya he instalado MiExpedienteContable en mi equipo anteriormente?",
+    "a": "Si el equipo ya ha tenido MiExpedienteContable instalado previamente, el sistema solicitará ingresar una clave de licencia y no podrá acceder a los 30 días gratis.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación previa",
+      "clave de licencia",
+      "30 días gratis",
+      "restricciones",
+      "equipo"
+    ]
+  }
+]

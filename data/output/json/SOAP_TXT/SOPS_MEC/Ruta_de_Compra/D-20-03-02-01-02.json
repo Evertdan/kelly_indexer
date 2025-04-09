@@ -1,0 +1,63 @@
+[
+  {
+    "q": "¿Qué bancos están disponibles para realizar el pago de la licencia en MiExpedienteContable?",
+    "a": "Los bancos disponibles para realizar el pago son BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "bancos",
+      "pago",
+      "licencia",
+      "disponibles",
+      "bbva",
+      "banorte",
+      "santander",
+      "scotiabank",
+      "hsbc",
+      "inbursa"
+    ]
+  },
+  {
+    "q": "¿Dónde puedo encontrar información sobre los bancos para pagar la licencia?",
+    "a": "La información sobre los bancos disponibles para el pago se puede encontrar en la página www.miexpedientecontable.com.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "información",
+      "bancos",
+      "pago",
+      "licencia",
+      "página web",
+      "miexpedientecontable",
+      "encontrar"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe cuando el cliente no sabe en qué bancos puede pagar?",
+    "a": "Se describe una situación donde el cliente no identifica en qué bancos puede realizar su pago, clasificada como FAQ-03 con un nivel de dificultad bajo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "situación",
+      "cliente",
+      "bancos",
+      "pago",
+      "faq-03",
+      "nivel",
+      "bajo",
+      "identificar"
+    ]
+  },
+  {
+    "q": "¿Qué resultado se espera al resolver la duda sobre los bancos para pagar?",
+    "a": "El resultado esperado es una compra de licencia exitosa una vez que el cliente conoce los bancos disponibles para el pago.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "resultado",
+      "compra",
+      "licencia",
+      "exitosa",
+      "bancos",
+      "pago",
+      "resolver",
+      "duda"
+    ]
+  }
+]

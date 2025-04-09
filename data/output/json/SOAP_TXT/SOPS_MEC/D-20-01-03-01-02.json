@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué debe hacer el cliente si no recibe el correo de confirmación de MiExpedienteContable?",
+    "a": "El cliente debe proporcionar el correo electrónico registrado en el formulario para que el ejecutivo valide la información en el sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "confirmación",
+      "registro",
+      "cliente",
+      "validación",
+      "ejecutivo",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué comando se utiliza para verificar el envío del correo de confirmación en MiExpedienteContable?",
+    "a": "Se utiliza el comando '/confirma MEC' seguido del correo electrónico del cliente para verificar si se realizó la validación y se envió el correo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "comando",
+      "confirma",
+      "mec",
+      "correo",
+      "validación",
+      "verificación",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué opciones tiene el ejecutivo si no se encuentra la solicitud de confirmación en el sistema?",
+    "a": "Si no se encuentran solicitudes, el ejecutivo debe informar al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "ejecutivo",
+      "solicitud",
+      "confirmación",
+      "correo",
+      "botón",
+      "enviar",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos debe cumplir el cliente para registrar MiExpedienteContable?",
+    "a": "El cliente debe contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "registro",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud es cuando un cliente no recibe el correo de confirmación de MiExpedienteContable?",
+    "a": "Es una solicitud tipo SOL-01 con un nivel de prioridad 1 - Bajo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "sol-01",
+      "nivel",
+      "prioridad",
+      "bajo",
+      "correo",
+      "confirmación"
+    ]
+  }
+]

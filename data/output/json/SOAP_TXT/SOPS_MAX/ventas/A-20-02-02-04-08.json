@@ -1,0 +1,64 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente si no recibe su clave de licencia después de pagar por Transferencia?",
+    "a": "El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos como Concepto, Referencia y Clave de rastreo.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "transferencia",
+      "clave de licencia",
+      "comprobante",
+      "ficha de pago"
+    ]
+  },
+  {
+    "q": "¿Qué datos debe incluir el cliente en el correo para verificar su pago por Transferencia?",
+    "a": "El cliente debe incluir en el correo su ficha de pago y comprobante de pago, mostrando claramente el Concepto, Referencia y Clave de rastreo.",
+    "product": "General",
+    "keywords": [
+      "datos",
+      "correo",
+      "verificación",
+      "transferencia",
+      "comprobante",
+      "ficha de pago"
+    ]
+  },
+  {
+    "q": "¿Qué acción debe tomar el agente si los datos del pago por Transferencia son correctos pero el cliente no recibió su clave de licencia?",
+    "a": "El agente debe explicarle al cliente que los datos son correctos y no hay motivo para la devolución del dinero, y el cliente deberá generar una nueva orden de compra y realizar el pago nuevamente.",
+    "product": "General",
+    "keywords": [
+      "agente",
+      "verificación",
+      "datos correctos",
+      "nueva orden",
+      "pago",
+      "transferencia"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si el problema de no recibir la clave de licencia persiste después de realizar una nueva orden de compra?",
+    "a": "En caso de que vuelva a pasar lo mismo, se debe pasar el caso a gerencia para darle el seguimiento oportuno.",
+    "product": "General",
+    "keywords": [
+      "problema persistente",
+      "gerencia",
+      "seguimiento",
+      "clave de licencia",
+      "orden de compra"
+    ]
+  },
+  {
+    "q": "¿Cuál es el correo al que se deben enviar los comprobantes de pago por Transferencia?",
+    "a": "Los comprobantes de pago por Transferencia deben enviarse al correo ventas.computocontable@gmail.com.",
+    "product": "General",
+    "keywords": [
+      "correo",
+      "comprobante",
+      "transferencia",
+      "envío",
+      "ventas"
+    ]
+  }
+]

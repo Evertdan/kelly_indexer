@@ -1,0 +1,70 @@
+[
+  {
+    "q": "¿Qué requisitos se necesitan para utilizar la funcionalidad de agrupaciones en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "agrupaciones",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de agrupaciones se pueden realizar en MiAdminXML?",
+    "a": "Se pueden agrupar archivos XML/PDF en carpetas según necesidades como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina y Pagos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "agrupaciones",
+      "tipos",
+      "xml",
+      "pdf",
+      "carpetas",
+      "importe",
+      "emisor",
+      "receptor",
+      "cancelados"
+    ]
+  },
+  {
+    "q": "¿Cómo se realiza el proceso de agrupación en MiAdminXML?",
+    "a": "Se selecciona la opción de agrupar en la pestaña correspondiente, se completan los datos en las ventanas que aparecen y al finalizar se crea la carpeta en el Disco local 'C' y se muestran en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proceso",
+      "agrupación",
+      "pestaña",
+      "ventanas",
+      "disco local",
+      "carpeta",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Dónde se guardan las agrupaciones creadas en MiAdminXML?",
+    "a": "Las agrupaciones se guardan en una carpeta creada en el Disco local 'C' y aparecen en el sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "guardar",
+      "agrupaciones",
+      "disco local",
+      "carpeta",
+      "sistema",
+      "ubicación"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la funcionalidad de agrupaciones en MiAdminXML?",
+    "a": "La funcionalidad de agrupaciones tiene un nivel de soporte 'Nivel 1 - Temprano'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel",
+      "temprano",
+      "agrupaciones",
+      "funcionalidad"
+    ]
+  }
+]

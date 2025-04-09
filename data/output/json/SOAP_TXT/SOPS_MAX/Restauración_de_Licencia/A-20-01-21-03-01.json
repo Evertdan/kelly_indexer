@@ -1,0 +1,101 @@
+[
+  {
+    "q": "¿Qué tipo de error indica que una licencia de MiAdminXML está actualmente en uso en otro equipo?",
+    "a": "El error 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo' indica que la licencia está siendo utilizada en otro equipo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "en uso",
+      "error",
+      "activación",
+      "equipo",
+      "bloqueo",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué casos aplican para la reactivación de una licencia de MiAdminXML?",
+    "a": "Los casos que aplican para la reactivación son: error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "casos",
+      "error",
+      "formateo",
+      "cambio hdd",
+      "robo",
+      "cambio equipo"
+    ]
+  },
+  {
+    "q": "¿Qué datos debe corroborar el AMS para reactivar una licencia de MiAdminXML?",
+    "a": "El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico, RFC, que la licencia esté en estado pagado con fecha vigente y si es primera o segunda reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ams",
+      "datos",
+      "corroborar",
+      "licencia",
+      "registro",
+      "correo",
+      "rfc",
+      "pagado",
+      "vigente"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el AMS una vez enviado el oficio de reactivación de la licencia?",
+    "a": "Una vez enviado el oficio de reactivación, el AMS debe esperar a recibir el oficio de reactivación llenado con los datos del cliente (espera máxima de 72 horas).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ams",
+      "oficio",
+      "reactivación",
+      "espera",
+      "72 horas",
+      "datos",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cómo se procede a reactivar la licencia de MiAdminXML una vez validada la información?",
+    "a": "Una vez validada la información, se debe ingresar al BOT con el comando correspondiente para realizar la reactivación, esperar a que el área de operaciones restaure la licencia y luego avisar al cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "bot",
+      "comando",
+      "operaciones",
+      "restauración",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué áreas pueden realizar la reactivación de la licencia de MiAdminXML?",
+    "a": "La reactivación de la licencia puede ser realizada por cualquier área (ATC o ST).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "áreas",
+      "atc",
+      "st",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad para reactivar una licencia de MiAdminXML?",
+    "a": "El nivel de complejidad para reactivar una licencia de MiAdminXML es 2-Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "medio",
+      "reactivación",
+      "licencia",
+      "miadminxml"
+    ]
+  }
+]

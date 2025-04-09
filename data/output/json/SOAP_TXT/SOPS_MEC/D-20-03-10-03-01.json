@@ -1,0 +1,95 @@
+[
+  {
+    "q": "¿Qué tipos de instalación soporta MiExpedienteContable?",
+    "a": "MiExpedienteContable puede ser utilizado en modalidad red (servidor y terminales) o en forma local (para un solo equipo).",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación",
+      "modalidad",
+      "red",
+      "servidor",
+      "terminales",
+      "local",
+      "equipo"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para instalar MiExpedienteContable?",
+    "a": "Abrir el instalador del sistema dando doble clic, se mostrará una ventana para permitir que el instalador realice cambios, dar clic en sí.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "instalación",
+      "primer paso",
+      "instalador",
+      "doble clic",
+      "ventana",
+      "permisos"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer en la ventana de términos y condiciones de licencia?",
+    "a": "Leer atentamente los términos y condiciones, si se aceptan seleccionar la opción de acepto el acuerdo y dar clic en siguiente, en caso contrario no se podrá continuar con la instalación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "términos",
+      "condiciones",
+      "licencia",
+      "aceptar",
+      "acuerdo",
+      "siguiente",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Cómo seleccionar el tipo de instalación en MiExpedienteContable?",
+    "a": "Seleccionar el tipo de instalación, en este caso elegir Servidor y dar clic en siguiente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "tipo",
+      "instalación",
+      "servidor",
+      "siguiente",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Qué opción se debe verificar antes de continuar con la instalación?",
+    "a": "Verificar que esté activa la casilla 'Crear un acceso directo en el escritorio' y dar clic en siguiente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "opción",
+      "verificar",
+      "acceso directo",
+      "escritorio",
+      "siguiente",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si no se inicia el proceso de instalación por aplicaciones en uso?",
+    "a": "Seleccionar la opción 'Cerrar las aplicaciones automáticamente' (antes de realizar este paso verificar con el cliente que guarde los cambios en los aplicativos para evitar perdida de información) y dar clic en siguiente, se iniciará el proceso de instalación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "proceso",
+      "instalación",
+      "aplicaciones",
+      "uso",
+      "cerrar",
+      "automáticamente",
+      "guardar",
+      "cambios",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Cómo finalizar la instalación de MiExpedienteContable?",
+    "a": "Para terminar la instalación dar clic en 'Finalizar'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "finalizar",
+      "instalación",
+      "clic",
+      "terminar"
+    ]
+  }
+]

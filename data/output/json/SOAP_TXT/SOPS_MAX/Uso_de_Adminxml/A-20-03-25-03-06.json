@@ -1,0 +1,53 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar la herramienta guardar Excel en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "guardar excel",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué sucede al hacer clic en la opción guardar Excel en MiAdminXML?",
+    "a": "Se guarda un reporte automáticamente en la bóvedaCFDi y se muestra un mensaje de que la Exportación de Información es completa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "guardar excel",
+      "reporte",
+      "bóvedacfdi",
+      "exportación",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Dónde se pueden encontrar los reportes guardados con la herramienta guardar Excel en MiAdminXML?",
+    "a": "Los reportes se guardan en el disco local C, en la carpeta AdminXML, dentro de BóvedaCFDi, en la subcarpeta del RFC del contribuyente, tipo de comprobante y año. Además, se crea una nueva carpeta llamada 'reportes' donde se almacenan los reportes guardados por el programa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reportes",
+      "ubicación",
+      "disco local",
+      "bóvedacfdi",
+      "rfc",
+      "comprobante",
+      "año",
+      "carpeta reportes"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de archivo se genera al usar la herramienta guardar Excel en MiAdminXML?",
+    "a": "La herramienta genera un reporte en formato Excel que se guarda automáticamente en la ubicación especificada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "formato",
+      "excel",
+      "reporte",
+      "archivo",
+      "generación"
+    ]
+  }
+]

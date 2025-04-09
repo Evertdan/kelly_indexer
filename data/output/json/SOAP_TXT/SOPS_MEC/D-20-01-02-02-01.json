@@ -1,0 +1,95 @@
+[
+  {
+    "q": "¿Qué tipo de solicitud es cuando un cliente pide su factura?",
+    "a": "Es una solicitud de tipo SOL-01 con un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "factura",
+      "tipo",
+      "sol-01",
+      "prioridad",
+      "bajo"
+    ]
+  },
+  {
+    "q": "¿Qué datos se pueden solicitar al cliente para encontrar su factura?",
+    "a": "Se pueden solicitar algunos de los siguientes datos: No. Orden de compra, RFC, correo electrónico registrado o fecha de compra.",
+    "product": "General",
+    "keywords": [
+      "datos",
+      "cliente",
+      "factura",
+      "orden de compra",
+      "rfc",
+      "correo electrónico",
+      "fecha de compra"
+    ]
+  },
+  {
+    "q": "¿Cómo se busca la información de la compra en el BOT?",
+    "a": "Se utiliza el comando /orden si se tiene el número de orden o el comando /bo si se tiene el correo electrónico.",
+    "product": "General",
+    "keywords": [
+      "bot",
+      "buscar",
+      "información",
+      "compra",
+      "comando",
+      "orden",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si se busca la compra con el correo electrónico en el BOT?",
+    "a": "El BOT mostrará todas las órdenes de compra asociadas a ese correo, y se debe seleccionar la orden con la fecha deseada para ver los datos.",
+    "product": "General",
+    "keywords": [
+      "bot",
+      "correo electrónico",
+      "órdenes de compra",
+      "fecha",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Cómo se envía la factura al cliente?",
+    "a": "Se usa el comando /enviarfactura seguido del número de orden para enviar la factura al correo registrado en la orden de compra.",
+    "product": "General",
+    "keywords": [
+      "enviar",
+      "factura",
+      "comando",
+      "enviarfactura",
+      "orden",
+      "correo registrado"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si el correo registrado no es correcto o se desea enviar la factura a otro correo?",
+    "a": "Se debe modificar el comando para especificar el nuevo correo al que se desea enviar la factura.",
+    "product": "General",
+    "keywords": [
+      "correo",
+      "incorrecto",
+      "modificar",
+      "comando",
+      "enviar",
+      "factura",
+      "otro correo"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje muestra el BOT antes de enviar la factura?",
+    "a": "El BOT pregunta si se desea hacer el envío al correo registrado con un mensaje de confirmación, donde se debe hacer clic en 'Enviar Factura' si el correo es correcto.",
+    "product": "General",
+    "keywords": [
+      "bot",
+      "mensaje",
+      "confirmación",
+      "enviar factura",
+      "correo registrado",
+      "clic"
+    ]
+  }
+]

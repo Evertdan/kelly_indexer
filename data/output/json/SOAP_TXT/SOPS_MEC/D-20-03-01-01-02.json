@@ -1,0 +1,82 @@
+[
+  {
+    "q": "¿Qué es Mi Expediente Contable (MEC)?",
+    "a": "Mi Expediente Contable es un programa que automatiza el trabajo de tu despacho con distintas herramientas, permitiendo llevar un histórico de los datos más importantes de tus contribuyentes, gestionar altas, modificaciones y eliminaciones, personalizar columnas y generar información a través de Excel.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "mi expediente contable",
+      "mec",
+      "programa",
+      "automatización",
+      "despacho",
+      "herramientas",
+      "datos",
+      "contribuyentes"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece Mi Expediente Contable?",
+    "a": "Mi Expediente Contable permite descargar archivos oficiales como la opinión de cumplimiento y la constancia de situación fiscal, gestionar contraseñas y certificados, acceder a portales desde el programa, gestionar declaraciones mensuales y anuales, descargar archivos desde el SAT o importar bases de PDF, y llevar registro de pagos IMSS, Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "funcionalidades",
+      "descargar archivos",
+      "constancia fiscal",
+      "declaraciones",
+      "sat",
+      "imss",
+      "infonavit",
+      "trabajadores"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo generar información de mis contribuyentes en Mi Expediente Contable?",
+    "a": "Puedes personalizar columnas para generar información de tus contribuyentes a través de Excel con tan solo un par de clics.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "generar información",
+      "contribuyentes",
+      "excel",
+      "personalizar columnas",
+      "clics"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de archivos oficiales puedo descargar con Mi Expediente Contable?",
+    "a": "Puedes descargar archivos oficiales como la opinión de cumplimiento y la constancia de situación fiscal.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "archivos oficiales",
+      "descargar",
+      "opinión de cumplimiento",
+      "constancia fiscal",
+      "documentos"
+    ]
+  },
+  {
+    "q": "¿Puedo gestionar declaraciones con Mi Expediente Contable?",
+    "a": "Sí, puedes gestionar declaraciones mensuales y anuales directamente desde el programa.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "declaraciones",
+      "mensuales",
+      "anuales",
+      "gestión",
+      "programa"
+    ]
+  },
+  {
+    "q": "¿Qué beneficios ofrece Mi Expediente Contable para el control de trabajadores?",
+    "a": "Ofrece herramientas para llevar el registro de pagos IMSS, Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de tus trabajadores.",
+    "product": "Mi Expediente Contable",
+    "keywords": [
+      "trabajadores",
+      "imss",
+      "infonavit",
+      "incapacidades",
+      "movimientos afiliatorios",
+      "pagos",
+      "obligaciones"
+    ]
+  }
+]

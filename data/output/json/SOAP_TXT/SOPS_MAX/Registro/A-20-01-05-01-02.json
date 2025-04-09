@@ -1,0 +1,96 @@
+[
+  {
+    "q": "¿Qué problema común enfrentan los usuarios durante el registro de MiAdminXML?",
+    "a": "Los usuarios no reciben el correo de confirmación necesario para culminar el registro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "registro",
+      "problema",
+      "correo",
+      "confirmación",
+      "no llega",
+      "usuario",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para resolver el problema de no recibir el correo de confirmación en MiAdminXML?",
+    "a": "Si aún estás en el paso dos del registro, haz clic en el botón 'Confirmar mi correo Electrónico' para recibir el correo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "paso 1",
+      "confirmar correo",
+      "botón",
+      "registro",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Dónde se debe buscar el correo de confirmación si no aparece en la bandeja de entrada?",
+    "a": "Debes revisar la bandeja de correos no deseados o el apartado SPAM.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correo",
+      "spam",
+      "no deseados",
+      "bandeja",
+      "buscar",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer después de confirmar el correo electrónico en MiAdminXML?",
+    "a": "Haz clic en el botón 'ya validé mi correo electrónico' y luego en 'finalizar' para ingresar al sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "confirmación",
+      "validar",
+      "botón",
+      "finalizar",
+      "ingresar",
+      "sistema"
+    ]
+  },
+  {
+    "q": "¿Qué solución alternativa existe si el correo de confirmación no llega?",
+    "a": "Se puede realizar una confirmación manual ingresando el comando '/confirma (max o mec) + correo electrónico' en el BOT y luego hacer clic en 'confirmar'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución alternativa",
+      "confirmación manual",
+      "bot",
+      "comando",
+      "correo electrónico",
+      "confirmar"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para resolver el problema de confirmación de correo en MiAdminXML?",
+    "a": "Es necesario tener el programa MiAdminXML instalado correctamente y seguir los pasos de confirmación o usar la confirmación manual si el correo no llega.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "instalación",
+      "correcta",
+      "confirmación",
+      "manual",
+      "correo",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Cuál es el objetivo final de confirmar el correo electrónico en MiAdminXML?",
+    "a": "El objetivo es permitir que el cliente culmine el registro del programa y pueda ingresar al sistema.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "objetivo",
+      "confirmación",
+      "correo",
+      "registro",
+      "culminar",
+      "ingresar",
+      "sistema"
+    ]
+  }
+]

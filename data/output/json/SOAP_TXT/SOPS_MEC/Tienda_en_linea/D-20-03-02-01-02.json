@@ -1,0 +1,54 @@
+[
+  {
+    "q": "¿Qué bancos están disponibles para realizar el pago de la licencia en MiExpedienteContable?",
+    "a": "Los bancos disponibles para realizar el pago son BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "bancos",
+      "pago",
+      "licencia",
+      "disponibles",
+      "mi expediente contable",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Dónde puedo encontrar información sobre los bancos para pagar la licencia?",
+    "a": "Puedes encontrar esta información en la página www.miexpedientecontable.com.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "información",
+      "bancos",
+      "pago",
+      "sitio web",
+      "licencia",
+      "consulta"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación resuelve este FAQ-03?",
+    "a": "Este FAQ-03 resuelve la situación donde el cliente no identifica en qué bancos puede realizar su pago.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "faq",
+      "situación",
+      "bancos",
+      "pago",
+      "cliente",
+      "identificar"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad de la pregunta sobre los bancos para pagar?",
+    "a": "El nivel de complejidad es 1 – Bajo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "bajo",
+      "pregunta",
+      "bancos",
+      "pago"
+    ]
+  }
+]

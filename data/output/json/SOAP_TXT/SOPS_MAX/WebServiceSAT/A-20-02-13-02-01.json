@@ -1,0 +1,103 @@
+[
+  {
+    "q": "¿Qué tipo de error se presenta al generar una solicitud en el Web Service SAT?",
+    "a": "Al generar una solicitud aparece un error de conexión al servidor del SAT.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "error",
+      "conexión",
+      "servidor",
+      "sat",
+      "solicitud"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de incidencia tiene el error de conexión al servidor del SAT?",
+    "a": "El nivel de incidencia es 2 – Medio.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "nivel",
+      "incidencia",
+      "medio",
+      "error",
+      "conexión"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se necesitan para solucionar el error de conexión al servidor del SAT?",
+    "a": "Se necesita contar con licencia MiAdminXML, MiAdminXML actualizado y Supremo Control / AnyDesk.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "recursos",
+      "licencia",
+      "miadminxml",
+      "actualizado",
+      "supremo control",
+      "anydesk"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para solucionar el error de conexión al servidor del SAT?",
+    "a": "Se debe contar con licencia MiAdminXML, MiAdminXML actualizado y permisos de Administrador en el usuario.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "políticas",
+      "licencia",
+      "miadminxml",
+      "actualizado",
+      "permisos",
+      "administrador"
+    ]
+  },
+  {
+    "q": "¿Qué alcances se consideran para solucionar el error de conexión al servidor del SAT?",
+    "a": "Se debe agregar excepciones al antivirus correspondiente que esté generando el bloqueo en el equipo y sincronizar la fecha y hora.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "alcances",
+      "antivirus",
+      "excepciones",
+      "bloqueo",
+      "sincronización",
+      "fecha",
+      "hora"
+    ]
+  },
+  {
+    "q": "¿Cuál es la primera solución recomendada para el error de conexión al servidor del SAT?",
+    "a": "Se recomienda verificar que la fecha y hora estén sincronizadas con conexión a internet desde la opción 'Ajustar Fecha y Hora'.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "solución",
+      "fecha",
+      "hora",
+      "sincronización",
+      "internet",
+      "ajustar"
+    ]
+  },
+  {
+    "q": "¿Qué se puede hacer si el cliente tiene complicaciones para sincronizar la fecha y hora?",
+    "a": "Se puede realizar una Sesión Remota para validar este tema y algún posible bloqueo por parte del antivirus.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "sesión remota",
+      "validación",
+      "bloqueo",
+      "antivirus",
+      "complicaciones"
+    ]
+  },
+  {
+    "q": "¿Cuál es la segunda solución para el error de conexión al servidor del SAT?",
+    "a": "Compartir una guía al cliente que le indicará cuáles son las direcciones o exclusiones que tiene que configurar correctamente.",
+    "product": "Web Service SAT",
+    "keywords": [
+      "solución",
+      "guía",
+      "direcciones",
+      "exclusiones",
+      "configuración"
+    ]
+  }
+]

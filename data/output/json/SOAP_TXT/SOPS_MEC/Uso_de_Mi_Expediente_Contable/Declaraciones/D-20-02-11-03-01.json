@@ -1,0 +1,105 @@
+[
+  {
+    "q": "¿Qué tipo de licencia se necesita para visualizar declaraciones en MiExpedienteContable?",
+    "a": "Se requiere contar con la licencia Plus o Profesional de MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "plus",
+      "profesional",
+      "requisitos",
+      "visualizar",
+      "declaraciones"
+    ]
+  },
+  {
+    "q": "¿Cómo descargar declaraciones anuales para Personas Morales del Portal del SAT?",
+    "a": "Ingresar a la liga https://anualpm.clouda.sat.gob.mx/, iniciar sesión, dar clic en 'Consultar declaración', llenar el filtrado, buscar la declaración y descargar el PDF.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "declaraciones",
+      "anuales",
+      "personas morales",
+      "sat",
+      "portal"
+    ]
+  },
+  {
+    "q": "¿Cómo descargar declaraciones anuales para Personas Físicas del Portal del SAT?",
+    "a": "Ingresar a la liga https://anualpf.clouda.sat.gob.mx/, iniciar sesión, dar clic en 'Consultar declaración', llenar el filtrado, buscar la declaración y descargar el PDF.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "declaraciones",
+      "anuales",
+      "personas físicas",
+      "sat",
+      "portal"
+    ]
+  },
+  {
+    "q": "¿Cómo descargar declaraciones mensuales del Portal del SAT?",
+    "a": "Ingresar a la liga https://ptscdecprov.clouda.sat.gob.mx/, iniciar sesión, dar clic en 'Consultas', seleccionar la declaración, llenar el filtrado, buscar y descargar el PDF.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "declaraciones",
+      "mensuales",
+      "sat",
+      "portal"
+    ]
+  },
+  {
+    "q": "¿Cómo descargar declaraciones bimestrales para Personas Físicas régimen RIF del Portal del SAT?",
+    "a": "Ingresar a la liga https://rfs.siat.sat.gob.mx/PTSC/RFS/menu/faces/pages/lanzador.jsf?url=/PTSC/DPS/RIF/faces/resources/pages/autc/panel/panelConsultaRIF.jsf?idRegimen=621&tipoLogeo=c&target=principal, iniciar sesión, seleccionar el filtrado, dar clic en 'Reimpresión' y descargar el PDF.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "declaraciones",
+      "bimestrales",
+      "rif",
+      "personas físicas",
+      "sat",
+      "portal"
+    ]
+  },
+  {
+    "q": "¿Cómo importar declaraciones descargadas del SAT a MiExpedienteContable?",
+    "a": "En el módulo 'Declaraciones y Pagos SAT', seleccionar 'Agregar desde PDF', elegir el tipo de importación (Uno en Uno o Masiva), seleccionar la ruta del PDF y dar clic en 'Cargar datos'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "importar",
+      "declaraciones",
+      "pdf",
+      "mi expediente contable",
+      "módulo",
+      "cargar datos"
+    ]
+  },
+  {
+    "q": "¿Qué pasos seguir para descargar declaraciones de pagos provisionales 2022 del SAT?",
+    "a": "Ingresar a la liga https://pstcdypisr.clouda.sat.gob.mx/, iniciar sesión, dar clic en 'Consultas', seleccionar la declaración, llenar el filtrado, buscar y descargar el PDF.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "declaraciones",
+      "pagos provisionales",
+      "2022",
+      "sat",
+      "portal"
+    ]
+  },
+  {
+    "q": "¿Dónde se visualizan las declaraciones importadas en MiExpedienteContable?",
+    "a": "Las declaraciones importadas se visualizan en el módulo 'Declaraciones y Pagos SAT' del programa MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "visualizar",
+      "declaraciones",
+      "importadas",
+      "módulo",
+      "mi expediente contable"
+    ]
+  }
+]

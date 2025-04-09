@@ -1,0 +1,62 @@
+[
+  {
+    "q": "¿Cómo puede un cliente desuscribirse de los correos promocionales?",
+    "a": "El cliente puede desuscribirse utilizando el enlace que aparece en la parte inferior de los correos promocionales enviados.",
+    "product": "General",
+    "keywords": [
+      "desuscripción",
+      "correos",
+      "promocionales",
+      "enlace",
+      "opción"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de correos no se pueden desuscribir?",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "no desuscribir",
+      "descarga",
+      "factura"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si un cliente está en periodo gratuito y quiere desuscribirse de los correos promocionales?",
+    "a": "Los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
+    "product": "General",
+    "keywords": [
+      "periodo gratuito",
+      "correos promocionales",
+      "no desuscribir",
+      "spam",
+      "aceptar"
+    ]
+  },
+  {
+    "q": "¿Cómo se maneja la desuscripción por vía telefónica?",
+    "a": "El ejecutivo envía un correo electrónico al cliente con un enlace para que este pueda desuscribirse de los correos promocionales.",
+    "product": "General",
+    "keywords": [
+      "desuscripción",
+      "telefónica",
+      "ejecutivo",
+      "correo",
+      "enlace"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud es la desuscripción de correos promocionales?",
+    "a": "La desuscripción de correos promocionales es una solicitud de tipo 01 y nivel 1 – Avanzado.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "tipo 01",
+      "nivel 1",
+      "avanzado",
+      "desuscripción"
+    ]
+  }
+]

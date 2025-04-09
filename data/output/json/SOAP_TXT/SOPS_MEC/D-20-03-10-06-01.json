@@ -1,0 +1,78 @@
+[
+  {
+    "q": "¿Qué se necesita para cambiar la ruta de Bóveda en MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "cambio",
+      "ruta",
+      "bóveda",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los modos de conexión disponibles en MiExpedienteContable?",
+    "a": "MiExpedienteContable cuenta con dos modos de conexión: terminal y servidor.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "modos",
+      "conexión",
+      "terminal",
+      "servidor",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Cómo se cambia la ruta de Bóveda en modo local en MiExpedienteContable?",
+    "a": "Se debe ingresar al sistema sin iniciar sesión, dirigirse al menú principal y seleccionar 'Configurar conexión'. Luego, seleccionar la opción de conexión modo local y elegir la nueva ruta (carpeta) donde se realizará el cambio de la Bóveda.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "modo local",
+      "cambio",
+      "ruta",
+      "bóveda",
+      "configuración",
+      "carpeta"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer para migrar toda la información a una nueva ubicación en MiExpedienteContable?",
+    "a": "Se debe copiar la carpeta 'MiExpedienteContable' a la ruta deseada antes de seleccionar la nueva ubicación. De lo contrario, el sistema cargará sin información.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "migrar",
+      "información",
+      "ubicación",
+      "carpeta",
+      "copia",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Cómo se configura la conexión en modo servidor en MiExpedienteContable?",
+    "a": "Se debe seleccionar la opción de conexión modo servidor, ingresar el Nombre o IP Fija del servidor y la carpeta compartida del servidor. Además, se requiere configurar el servidor adecuadamente, instalar el sistema seleccionando la opción terminal y llenar el registro.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "modo servidor",
+      "configuración",
+      "ip",
+      "servidor",
+      "carpeta compartida",
+      "instalación"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir después de configurar la conexión en MiExpedienteContable?",
+    "a": "Una vez realizado el proceso de configuración, se debe dar clic en 'Aceptar' para reiniciar MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "configuración",
+      "conexión",
+      "aceptar",
+      "reiniciar",
+      "pasos"
+    ]
+  }
+]

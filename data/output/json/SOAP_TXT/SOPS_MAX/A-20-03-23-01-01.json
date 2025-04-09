@@ -1,0 +1,88 @@
+[
+  {
+    "q": "¿Qué se necesita para realizar la actualización de MiAdminXML?",
+    "a": "Se requiere contar con el archivo MiActualizacionAdminXML6.exe en su última versión.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "requisitos",
+      "miadminxml",
+      "archivo",
+      "versión"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para actualizar MiAdminXML?",
+    "a": "El primer paso es cerrar el sistema de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "paso",
+      "cerrar",
+      "sistema",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Dónde se debe ejecutar el archivo de actualización de MiAdminXML?",
+    "a": "El archivo MiActualizacionAdminXML6.exe debe ejecutarse en la carpeta AdminXML, ubicada en la ruta C:\\AdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "ejecutar",
+      "archivo",
+      "ruta",
+      "carpeta",
+      "adminxml"
+    ]
+  },
+  {
+    "q": "¿Qué se debe verificar después de ejecutar la actualización de MiAdminXML?",
+    "a": "Se debe verificar que MiAdminXML se abra correctamente después de la actualización.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "verificación",
+      "apertura",
+      "miadminxml",
+      "correctamente"
+    ]
+  },
+  {
+    "q": "¿Qué información se guarda en el catálogo de contribuyentes durante la actualización?",
+    "a": "Durante la actualización, se guarda el RFC de los contribuyentes en el catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "catálogo",
+      "contribuyentes",
+      "rfc",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la actualización de MiAdminXML?",
+    "a": "La actualización de MiAdminXML tiene un nivel de soporte Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel",
+      "temprano",
+      "actualización",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se brinda para la actualización de MiAdminXML?",
+    "a": "El tipo de soporte brindado para la actualización de MiAdminXML es ST (Soporte Temprano).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "tipo",
+      "st",
+      "temprano",
+      "actualización",
+      "miadminxml"
+    ]
+  }
+]

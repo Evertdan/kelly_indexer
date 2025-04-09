@@ -1,0 +1,97 @@
+[
+  {
+    "q": "¿Qué se necesita para instalar MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "instalación",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "necesito"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para instalar MiAdminXML?",
+    "a": "Ingresar a www.adminxml.com.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "instalación",
+      "primer paso",
+      "sitio web",
+      "adminxml"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer después de llenar el formulario en el sitio web de MiAdminXML?",
+    "a": "Dar clic en 'Descargar XML' y luego esperar un correo electrónico con el enlace 'Descargar MiAdminXML'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "formulario",
+      "descargar",
+      "correo electrónico",
+      "enlace",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir durante la instalación de MiAdminXML?",
+    "a": "Aceptar el acuerdo de licencia, dar clic en 'siguiente', seleccionar 'Instalar', y seguir las instrucciones hasta finalizar la instalación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "instalación",
+      "pasos",
+      "acuerdo de licencia",
+      "siguiente",
+      "instalar"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer después de que aparezca el icono de MiAdminXML en el escritorio?",
+    "a": "Aceptar los términos y condiciones (seleccionar las 3 casillas), escribir nombre, apellido y correo electrónico, y si ya tiene licencia, seleccionar 'ya compré MiAdminXML y tengo clave de licencia'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "términos y condiciones",
+      "registro",
+      "correo electrónico",
+      "licencia",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Cómo confirmo mi correo electrónico después de instalar MiAdminXML?",
+    "a": "Dirigirse al correo electrónico y seleccionar la opción 'Confirmar mi correo electrónico', luego ir al actualizador y dar clic en 'ya validé mi correo'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "confirmación",
+      "correo electrónico",
+      "validación",
+      "actualizador",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué hago si aparecen los términos y condiciones después de instalar MiAdminXML?",
+    "a": "Ver la SOP Activación de licencia: A-20-03-05-05-01.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "términos y condiciones",
+      "activación",
+      "licencia",
+      "sop",
+      "documentación"
+    ]
+  },
+  {
+    "q": "¿Cómo sé que la instalación de MiAdminXML ha finalizado correctamente?",
+    "a": "Aparecerá un icono de MiAdminXML en el escritorio y se tendrá acceso al programa después de confirmar el correo electrónico y finalizar el proceso.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "finalización",
+      "icono",
+      "escritorio",
+      "acceso",
+      "confirmación"
+    ]
+  }
+]

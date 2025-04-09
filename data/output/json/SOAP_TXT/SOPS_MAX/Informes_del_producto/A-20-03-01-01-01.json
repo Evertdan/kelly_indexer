@@ -1,0 +1,194 @@
+[
+  {
+    "q": "¿Qué módulos de descarga ofrece MAX y cuáles son sus límites?",
+    "a": "MAX ofrece cuatro módulos de descarga: 1) Descarga de XML gratis (hasta 2,000 XML por día), 2) Solicitud y Recuperación de Paquetes XML (hasta 2,000 XML en paquetes ZIP de 500, requiere Licencia Plus o Pro), 3) Descarga masiva +D500 (más de 2,000 XML por día, requiere Licencia Plus o Pro), y 4) Web Service SAT (hasta 200,000 XML por solicitud, requiere Licencia Pro).",
+    "product": "MAX",
+    "keywords": [
+      "módulos",
+      "descarga",
+      "xml",
+      "límites",
+      "licencia",
+      "plus",
+      "pro",
+      "web service",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Cómo organiza MAX los XML descargados?",
+    "a": "MAX organiza automáticamente los XML descargados en carpetas por RFC -> Tipo (Emitidas o Recibidas) -> Año -> Mes, e incluso Día.",
+    "product": "MAX",
+    "keywords": [
+      "organización",
+      "xml",
+      "carpetas",
+      "rfc",
+      "emitidas",
+      "recibidas",
+      "año",
+      "mes",
+      "día"
+    ]
+  },
+  {
+    "q": "¿Qué beneficios ofrece el módulo de Descarga de XML gratis?",
+    "a": "El módulo de Descarga de XML gratis permite descargar hasta 2,000 XML por día y contribuyente en bloques de 500, clasifica y organiza los XML en carpetas, y valida en tiempo real el estado del comprobante (Vigente o Cancelado) para hasta 50 XML.",
+    "product": "MAX",
+    "keywords": [
+      "descarga",
+      "xml",
+      "gratis",
+      "beneficios",
+      "clasificación",
+      "validación",
+      "estado",
+      "comprobante"
+    ]
+  },
+  {
+    "q": "¿Cómo funciona el módulo de Solicitud y Recuperación de Paquetes XML?",
+    "a": "Este módulo permite enviar una solicitud al SAT (ejemplo: Facturas Emitidas de Octubre 2023), que es atendida en un plazo máximo de 48 horas. Una vez aprobada, el SAT entrega paquetes ZIP que MAX descarga, descomprime y organiza automáticamente. Requiere Licencia Plus o Pro.",
+    "product": "MAX",
+    "keywords": [
+      "solicitud",
+      "recuperación",
+      "paquetes",
+      "xml",
+      "sat",
+      "licencia",
+      "plus",
+      "pro",
+      "zip"
+    ]
+  },
+  {
+    "q": "¿Qué ventajas tiene el módulo Descarga Masiva +D500?",
+    "a": "El módulo Descarga Masiva +D500 utiliza un algoritmo potente para descargar comprobantes más rápido y permite descargar más de 2,000 XML por día y por RFC. También organiza los XML y valida su estado en tiempo real. Requiere Licencia Plus o Pro.",
+    "product": "MAX",
+    "keywords": [
+      "descarga",
+      "masiva",
+      "d500",
+      "ventajas",
+      "algoritmo",
+      "rápido",
+      "xml",
+      "licencia",
+      "plus",
+      "pro"
+    ]
+  },
+  {
+    "q": "¿Qué ofrece el módulo Web Service SAT?",
+    "a": "El módulo Web Service SAT permite recuperar desde unos cuantos comprobantes hasta 200,000 XML por solicitud, con solicitudes ilimitadas. Es ideal para empresas con altos volúmenes de facturación y requiere Licencia Pro y E.Firma para el acceso.",
+    "product": "MAX",
+    "keywords": [
+      "web service",
+      "sat",
+      "descarga",
+      "xml",
+      "alta capacidad",
+      "licencia",
+      "pro",
+      "e.firma"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades incluye el módulo de Administración de XML 4.0?",
+    "a": "Este módulo permite visualizar XML descargados, generar reportes, validar estados SAT, convertir XML a Representación Impresa o PDF, agrupar comprobantes y generar reportes específicos para un mejor control.",
+    "product": "MAX",
+    "keywords": [
+      "administración",
+      "xml",
+      "4.0",
+      "reportes",
+      "validación",
+      "conversión",
+      "pdf",
+      "agrupación",
+      "comprobantes"
+    ]
+  },
+  {
+    "q": "¿Qué características tiene el módulo de Nómina 1.2?",
+    "a": "El módulo de Nómina 1.2 permite generar reportes con información de nómina, exportar a Excel para tablas dinámicas, filtrar información específica y procesar altos volúmenes de XML. Requiere Licencia Plus o Pro.",
+    "product": "MAX",
+    "keywords": [
+      "nómina",
+      "1.2",
+      "reportes",
+      "excel",
+      "tablas dinámicas",
+      "filtros",
+      "licencia",
+      "plus",
+      "pro"
+    ]
+  },
+  {
+    "q": "¿Qué reportes se pueden generar con el módulo de Retenciones e Información de Pagos?",
+    "a": "Este módulo permite generar reportes dinámicos y especializados de XML de retención de plataformas tecnológicas 1.1 y 1.2. Requiere Licencia Pro.",
+    "product": "MAX",
+    "keywords": [
+      "retenciones",
+      "información",
+      "pagos",
+      "reportes",
+      "xml",
+      "plataformas tecnológicas",
+      "licencia",
+      "pro"
+    ]
+  },
+  {
+    "q": "¿Cómo ayuda el módulo de Control y Conciliación de Pagos?",
+    "a": "Este módulo identifica Facturas PPD y complementos de pagos, conciliando automáticamente facturas pagadas, no pagadas y parcialmente pagadas, generando un reporte detallado para control de pagos a proveedores o cobros a clientes. Requiere Licencia Pro.",
+    "product": "MAX",
+    "keywords": [
+      "control",
+      "conciliación",
+      "pagos",
+      "facturas",
+      "ppd",
+      "reporte",
+      "proveedores",
+      "clientes",
+      "licencia",
+      "pro"
+    ]
+  },
+  {
+    "q": "¿Qué validaciones se pueden realizar con el módulo de Validaciones?",
+    "a": "El módulo de Validaciones permite validar XML vs listas negras (CAOS, EFOS, EDOS, incumplidos y no localizados), generar reportes y acuses de validación.",
+    "product": "MAX",
+    "keywords": [
+      "validaciones",
+      "xml",
+      "listas negras",
+      "caos",
+      "efos",
+      "edos",
+      "reportes",
+      "acuses"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece el módulo de Contabilidad?",
+    "a": "El módulo de Contabilidad permite generar DIOT y carga BATCH, reportes de IVA por RFC, archivos XML/ZIP para Contabilidad Electrónica, validar archivos del SAT y acceder a catálogos de códigos agrupadores. Requiere Licencia Plus o Pro.",
+    "product": "MAX",
+    "keywords": [
+      "contabilidad",
+      "diot",
+      "carga batch",
+      "iva",
+      "rfc",
+      "contabilidad electrónica",
+      "validación",
+      "sat",
+      "licencia",
+      "plus",
+      "pro"
+    ]
+  }
+]

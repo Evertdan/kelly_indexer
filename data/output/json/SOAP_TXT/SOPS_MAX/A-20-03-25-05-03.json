@@ -1,0 +1,73 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el Catálogo de Cuentas en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "catálogo de cuentas",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para generar el XML del Catálogo de Cuentas?",
+    "a": "Se necesita el RFC, el año, el mes y la plantilla del catálogo de cuentas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml",
+      "generación",
+      "rfc",
+      "año",
+      "mes",
+      "plantilla",
+      "catálogo de cuentas",
+      "información necesaria"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se siguen para generar el XML del Catálogo de Cuentas en MiAdminXML?",
+    "a": "1. Se elige el RFC, año, mes y plantilla del catálogo de cuentas. 2. Se da clic en 'Iniciar importación', mostrando un mensaje de generación correcta del XML. 3. Aparece un mensaje preguntando si se desea localizar el archivo y se da clic. 4. Se muestra la localización del XML generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "generación",
+      "xml",
+      "catálogo de cuentas",
+      "iniciar importación",
+      "mensaje",
+      "localización",
+      "archivo"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se brinda para el Catálogo de Cuentas en MiAdminXML?",
+    "a": "El soporte es de nivel 1 - Temprano, y se soluciona el problema por correo electrónico si no se cuenta con la licencia Profesional o el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel 1",
+      "temprano",
+      "correo electrónico",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se utilizan para el Catálogo de Cuentas en MiAdminXML?",
+    "a": "El recurso utilizado es MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recursos",
+      "miadminxml",
+      "catálogo de cuentas",
+      "herramienta",
+      "plataforma"
+    ]
+  }
+]

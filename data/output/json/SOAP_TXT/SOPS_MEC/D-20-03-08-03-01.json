@@ -1,0 +1,70 @@
+[
+  {
+    "q": "¿Cómo puedo desactivar mi licencia en MiExpedienteContable?",
+    "a": "Para desactivar la licencia en MiExpedienteContable, ingresa al módulo de licenciamiento, ubica tu clave de licencia activa y haz clic en el botón 'desactivar'. Confirma la acción en la pantalla que aparece y guarda el número de serie para futuras activaciones.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "desactivar",
+      "licencia",
+      "módulo",
+      "licenciamiento",
+      "clave",
+      "botón",
+      "confirmar",
+      "número de serie"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer antes de desactivar mi licencia en MiExpedienteContable?",
+    "a": "Antes de desactivar la licencia, se recomienda guardar, copiar o tomar una captura de pantalla del número de serie para facilitar la próxima activación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "antes",
+      "desactivar",
+      "licencia",
+      "guardar",
+      "número de serie",
+      "captura",
+      "próxima activación"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para confirmar la desactivación de la licencia en MiExpedienteContable?",
+    "a": "Después de hacer clic en 'desactivar', aparecerá una pantalla de confirmación donde debes dar clic en 'aceptar' para completar el proceso de desactivación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "confirmar",
+      "desactivación",
+      "licencia",
+      "pantalla",
+      "aceptar",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo respaldar mi información antes de desactivar la licencia en MiExpedienteContable?",
+    "a": "Para respaldar la información antes de desactivar la licencia, haz clic en el icono del sistema, selecciona 'Respaldar/Restaurar' y luego elige 'Restaurar'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "respaldar",
+      "información",
+      "desactivar",
+      "licencia",
+      "icono",
+      "sistema",
+      "restaurar"
+    ]
+  },
+  {
+    "q": "¿Qué módulo debo usar para desactivar mi licencia en MiExpedienteContable?",
+    "a": "Debes ingresar al módulo de licenciamiento dentro de MiExpedienteContable para desactivar tu licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "módulo",
+      "licenciamiento",
+      "desactivar",
+      "licencia",
+      "ingresar"
+    ]
+  }
+]

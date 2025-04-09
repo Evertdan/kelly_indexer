@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Cómo puedo cambiar mi clave de licencia de equipo en MiExpedienteContable?",
+    "a": "Para cambiar la clave de licencia, ingrese a MiExpedienteContable, haga clic en el botón MEC y seleccione LICENCIAMIENTO. Copie y pegue su clave de licencia, luego desactívela. Instale MiExpedienteContable en el nuevo equipo, seleccione 'TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en ACTIVAR.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "cambio",
+      "licencia",
+      "equipo",
+      "mec",
+      "licenciamiento",
+      "activación",
+      "desactivar",
+      "clave"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer antes de cambiar mi licencia a otro equipo en MiExpedienteContable?",
+    "a": "Antes de cambiar la licencia, debe copiar y pegar su clave de licencia actual, ya que la necesitará para la activación en el nuevo equipo. Luego, debe desactivar la licencia en el equipo actual.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "preparación",
+      "cambio",
+      "licencia",
+      "copiar",
+      "pegar",
+      "clave",
+      "desactivar",
+      "equipo"
+    ]
+  },
+  {
+    "q": "¿Qué opción debo seleccionar para activar mi licencia en un nuevo equipo de MiExpedienteContable?",
+    "a": "Para activar la licencia en un nuevo equipo, debe seleccionar 'TENGO UNA CLAVE DE LICENCIA' en el módulo de Licenciamiento, ingresar la clave y hacer clic en ACTIVAR.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "activación",
+      "licencia",
+      "nuevo equipo",
+      "licenciamiento",
+      "clave",
+      "opción",
+      "tengo una clave"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de activar la licencia en MiExpedienteContable?",
+    "a": "Después de activar la licencia, aparecerá un recuadro con la confirmación de la activación. Debe hacer clic en ACEPTAR y el programa se reiniciará.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "activación",
+      "confirmación",
+      "recuadro",
+      "aceptar",
+      "reinicio",
+      "programa",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos necesito para cambiar mi licencia de equipo en MiExpedienteContable?",
+    "a": "Debe contar con una licencia MiExpedienteContable activada y tener acceso a la clave de licencia actual para realizar el cambio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "activa",
+      "clave",
+      "cambio",
+      "equipo",
+      "acceso"
+    ]
+  }
+]

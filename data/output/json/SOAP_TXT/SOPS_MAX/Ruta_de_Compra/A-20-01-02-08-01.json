@@ -1,0 +1,92 @@
+[
+  {
+    "q": "¿Qué tipo de solicitud es cuando un cliente no ha recibido su licencia?",
+    "a": "Es una solicitud tipo SOL-01, con un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "licencia",
+      "nivel",
+      "prioridad",
+      "sol-01"
+    ]
+  },
+  {
+    "q": "¿Cómo se valida la información para reenviar una licencia?",
+    "a": "Se valida con el comando BOT: /orden + Número de orden y se confirman al menos 3 datos: correo electrónico, razón social, RFC o nombre de quien llenó la orden de compra.",
+    "product": "General",
+    "keywords": [
+      "validación",
+      "bot",
+      "comando",
+      "orden",
+      "datos",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué comando se usa para enviar una licencia después de validar los datos?",
+    "a": "Se usa el comando /enviarlicencias + Número de orden para enviar la licencia al correo registrado.",
+    "product": "General",
+    "keywords": [
+      "comando",
+      "enviar",
+      "licencia",
+      "orden",
+      "correo",
+      "registrado"
+    ]
+  },
+  {
+    "q": "¿Cómo se envía la licencia a un correo diferente al registrado?",
+    "a": "Se debe confirmar los datos del cliente y usar el comando /enviarlicencias + Número de orden + Correo alternativo donde se enviará la información.",
+    "product": "General",
+    "keywords": [
+      "enviar",
+      "licencia",
+      "correo",
+      "alternativo",
+      "comando",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si no se confirman los datos del cliente para reenviar la licencia?",
+    "a": "Si no se confirman los datos, la licencia se enviará al correo registrado en el BOT.",
+    "product": "General",
+    "keywords": [
+      "confirmación",
+      "datos",
+      "correo",
+      "registrado",
+      "bot",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se utilizan para resolver el problema de no recepción de licencia?",
+    "a": "Se utiliza el BOT para validar y reenviar la licencia.",
+    "product": "General",
+    "keywords": [
+      "recursos",
+      "bot",
+      "validación",
+      "reenvío",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Cuál es el alcance de la solución para el problema de no recepción de licencia?",
+    "a": "El alcance incluye el reenvío y recepción exitosa de la clave de licencia.",
+    "product": "General",
+    "keywords": [
+      "alcance",
+      "solución",
+      "reenvío",
+      "recepción",
+      "licencia",
+      "éxito"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "q": "¿Qué se necesita para configurar una bóveda en red con MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "red",
+      "configuración",
+      "licencia",
+      "profesional",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Qué se puede compartir en la bóveda CFDI ubicada en RED con MiAdminXML?",
+    "a": "Se puede compartir la carpeta con archivos XML y PDF en la bóveda CFDI ubicada en RED.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "cfdi",
+      "red",
+      "compartir",
+      "archivos",
+      "xml",
+      "pdf"
+    ]
+  },
+  {
+    "q": "¿Cómo se selecciona la ruta de destino para la bóveda en red en MiAdminXML?",
+    "a": "Se da clic en el botón de la 'Lupa' para mostrar la ventana de la ruta a elegir. Una vez seleccionada la ruta, el sistema mostrará una ventana de advertencia indicando la dirección donde se guardarán y tomarán los XML descargados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "red",
+      "ruta",
+      "destino",
+      "selección",
+      "lupa",
+      "ventana",
+      "advertencia"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la configuración de bóveda en red en MiAdminXML?",
+    "a": "La configuración de bóveda en red tiene un nivel de soporte Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "red",
+      "soporte",
+      "nivel",
+      "temprano",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación describe la configuración de bóveda en red en MiAdminXML?",
+    "a": "La configuración de bóveda en red se describe como una situación de tipo ST (Soporte Temprano).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda",
+      "red",
+      "tipo",
+      "situación",
+      "st",
+      "soporte temprano"
+    ]
+  }
+]

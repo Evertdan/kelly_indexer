@@ -1,0 +1,106 @@
+[
+  {
+    "q": "¿Qué tipo de problema reporta el cliente en el catálogo de contribuyentes?",
+    "a": "El cliente no encuentra la información de su catálogo de contribuyentes.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "problema",
+      "cliente",
+      "catálogo",
+      "contribuyentes",
+      "información",
+      "no encuentra"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tipo de incidencia reportada para este problema?",
+    "a": "El tipo de incidencia es INC-02.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "inc-02",
+      "problema",
+      "reporte"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene este problema?",
+    "a": "El nivel de prioridad es 1 – Bajo.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "nivel",
+      "prioridad",
+      "bajo",
+      "problema",
+      "incidencia"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para poder usar el Catálogo de Contribuyentes?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en periodo demostrativo.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "acceso",
+      "catálogo"
+    ]
+  },
+  {
+    "q": "¿Qué información se proporciona para el llenado del Catálogo de Contribuyentes?",
+    "a": "Se proporciona información de manera correcta para el llenado del Catálogo de Contribuyentes.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "información",
+      "llenado",
+      "correcta",
+      "catálogo",
+      "contribuyentes"
+    ]
+  },
+  {
+    "q": "¿Qué requiere el cliente específicamente en su solicitud?",
+    "a": "El cliente requiere información acerca de cómo agregar un RFC en el Catálogo de Contribuyentes.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "solicitud",
+      "cliente",
+      "agregar",
+      "rfc",
+      "catálogo",
+      "contribuyentes"
+    ]
+  },
+  {
+    "q": "¿Qué sucede cuando la base de datos del Catálogo de Contribuyentes cambia de versión?",
+    "a": "Cuando la base de datos es modificada o cambia de versión, en ocasiones se elimina la información ya guardada, por lo que es necesario registrar y actualizar los datos del contribuyente nuevamente.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "base de datos",
+      "versión",
+      "modificación",
+      "eliminar",
+      "información",
+      "actualizar",
+      "datos",
+      "contribuyente"
+    ]
+  },
+  {
+    "q": "¿Se recupera automáticamente la información del contribuyente después de un cambio de versión?",
+    "a": "No, la información no se recupera automáticamente por el cambio de versión, es necesario registrar y actualizar los datos del contribuyente nuevamente.",
+    "product": "Catálogo de Contribuyentes",
+    "keywords": [
+      "recuperación",
+      "automática",
+      "información",
+      "versión",
+      "actualizar",
+      "datos",
+      "contribuyente"
+    ]
+  }
+]

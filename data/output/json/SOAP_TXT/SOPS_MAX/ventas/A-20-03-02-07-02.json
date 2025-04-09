@@ -1,0 +1,90 @@
+[
+  {
+    "q": "¿Cómo puedo realizar una compra y pagar en Oxxo en AdminXML?",
+    "a": "Para realizar una compra y pagar en Oxxo, sigue estos pasos: 1) Ingresa a www.adminxml.com, 2) Ve a precios, 3) Selecciona el paquete y haz clic en 'comprar licencia...', 4) Llena el formulario de datos de contacto (marcando 'Requiere factura' si es necesario), 5) Verifica la cantidad de licencias y haz clic en continuar, 6) Selecciona el método de pago 'Oxxo'.",
+    "product": "AdminXML",
+    "keywords": [
+      "compra",
+      "oxxo",
+      "pago",
+      "adminxml",
+      "licencia",
+      "pasos",
+      "factura",
+      "formulario"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer para pagar en una tienda Oxxo después de generar la ficha de pago?",
+    "a": "Para pagar en Oxxo: 1) Acude a una tienda Oxxo, 2) Menciona que quieres realizar un pago de OXXOPay, 3) Dicta el número de referencia de tu ficha, 4) Realiza el pago. La licencia y factura (si se solicitó) llegarán al correo registrado en 3 a 24 horas.",
+    "product": "AdminXML",
+    "keywords": [
+      "oxxo",
+      "pago",
+      "tienda",
+      "referencia",
+      "ficha",
+      "licencia",
+      "factura",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cómo verifico si mi pago en Oxxo fue procesado?",
+    "a": "Para verificar si el pago fue procesado, ingresa al chat de Computo Creativo Bot en Telegram y usa el comando '/orden (Referencia)' o '/orden (número de orden)', donde la referencia aparece en la Ficha de Pago como 'llave'.",
+    "product": "AdminXML",
+    "keywords": [
+      "verificar",
+      "pago",
+      "oxxo",
+      "telegram",
+      "computo creativo",
+      "referencia",
+      "orden",
+      "ficha"
+    ]
+  },
+  {
+    "q": "¿Qué información necesito para solicitar factura en mi compra?",
+    "a": "Para solicitar factura, debes habilitar la casilla 'Requiere factura' en el formulario de datos de contacto durante la compra y tener a la mano tu CSF actualizada.",
+    "product": "AdminXML",
+    "keywords": [
+      "factura",
+      "compra",
+      "csf",
+      "formulario",
+      "datos",
+      "contacto",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en llegar la licencia después de pagar en Oxxo?",
+    "a": "Después de realizar el pago en Oxxo, la clave de licencia y factura (si se solicitó) se envían automáticamente al correo registrado en un lapso de 3 a 24 horas. Si no aparece en la bandeja principal, verifica en correos no deseados o SPAM.",
+    "product": "AdminXML",
+    "keywords": [
+      "licencia",
+      "tiempo",
+      "envío",
+      "correo",
+      "oxxo",
+      "pago",
+      "factura",
+      "spam"
+    ]
+  },
+  {
+    "q": "¿Desde qué correo se envía la licencia después de pagar en Oxxo?",
+    "a": "La licencia y factura (si se solicitó) se envían desde el correo ventas@computocontable.com, el cual solo tiene la función de enviar licencias y no recibe solicitudes.",
+    "product": "AdminXML",
+    "keywords": [
+      "correo",
+      "envío",
+      "licencia",
+      "factura",
+      "ventas",
+      "computocontable",
+      "oxxo"
+    ]
+  }
+]

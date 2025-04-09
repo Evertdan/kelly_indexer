@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook?",
+    "a": "Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "outlook",
+      "correo",
+      "confirmación",
+      "spam",
+      "remitentes seguros"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo asegurarme de recibir correos de MiExpedienteContable en Gmail?",
+    "a": "Iniciar sesión en Gmail, agregar el contacto ventas@correo1.computocontable.com en la lista de contactos y luego intentar nuevamente el proceso de registro y validación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "gmail",
+      "contactos",
+      "correo",
+      "registro",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para recibir correos de MiExpedienteContable en Yahoo?",
+    "a": "Agregar un nuevo contacto en Yahoo con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com, luego guardar el contacto.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "yahoo",
+      "contactos",
+      "correo",
+      "computo contable",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para recibir soporte sobre correos no recibidos en MiExpedienteContable?",
+    "a": "Contar con una licencia de MiExpedienteContable o estar en periodo demostrativo, de lo contrario la solución se enviará por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia es no recibir correos de confirmación en MiExpedienteContable?",
+    "a": "Es una incidencia tipo INC-02 con nivel de prioridad 2 - Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "prioridad",
+      "correo confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué correo debo agregar como contacto para recibir correos de MiExpedienteContable?",
+    "a": "Debes agregar el correo ventas@correo1.computocontable.com como contacto en tu cliente de correo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "contacto",
+      "ventas",
+      "computocontable",
+      "agregar"
+    ]
+  }
+]

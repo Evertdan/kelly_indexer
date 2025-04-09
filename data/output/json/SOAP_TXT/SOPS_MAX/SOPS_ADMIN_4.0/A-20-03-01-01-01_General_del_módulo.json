@@ -1,0 +1,138 @@
+[
+  {
+    "q": "¿Qué es el módulo de Administración 4.0 en MiAdminXML?",
+    "a": "El módulo de Administración 4.0 es una herramienta dentro de MiAdminXML que permite llevar un control de archivos XMLs y ofrece diversas funciones para su gestión.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "administración",
+      "4.0",
+      "miadminxml",
+      "herramientas",
+      "xml",
+      "control"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo acceder al módulo de Administración 4.0?",
+    "a": "Para acceder al módulo de Administración 4.0, primero debes ingresar al programa MiAdminXML y luego seleccionar este módulo específico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "administración",
+      "4.0",
+      "miadminxml",
+      "ingresar",
+      "programa"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas básicas incluye el módulo de Administración 4.0?",
+    "a": "El módulo incluye herramientas como Valida Estado SAT, Exportar, Generar PDF, Abrir XLM, Localizar XML, Verificado o asociado, Copiar Ruta (s) XML, Conceptos, Renombrar XML, Catálogo de logos, XML Externos, Cancelar, Escríbenos, Video Manual y Cerrar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramientas",
+      "módulo",
+      "administración",
+      "4.0",
+      "funciones",
+      "xml",
+      "gestión"
+    ]
+  },
+  {
+    "q": "¿Para qué sirve la herramienta Valida Estado SAT?",
+    "a": "La herramienta Valida Estado SAT permite verificar si los comprobantes son vigentes o cancelados con el estado más actual.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "valida",
+      "estado",
+      "sat",
+      "comprobantes",
+      "vigentes",
+      "cancelados",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo exportar reportes desde el módulo de Administración 4.0?",
+    "a": "Puedes exportar reportes a Excel de facturas, nóminas y notas de crédito utilizando la herramienta Exportar dentro del módulo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "reportes",
+      "excel",
+      "facturas",
+      "nóminas",
+      "notas de crédito",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene la herramienta Generar PDF en el módulo de Administración 4.0?",
+    "a": "La herramienta Generar PDF permite crear archivos PDF a partir de los archivos XMLs.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "pdf",
+      "xml",
+      "archivos",
+      "herramienta",
+      "conversión"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo ver la estructura original de un archivo XML en el módulo?",
+    "a": "Puedes ver la estructura original de un archivo XML utilizando la herramienta Abrir XLM, que muestra el archivo con el visor predeterminado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "abrir",
+      "xml",
+      "estructura",
+      "visor",
+      "predeterminado",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué permite hacer la herramienta Localizar XML?",
+    "a": "La herramienta Localizar XML muestra la carpeta donde se encuentra almacenado el archivo XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "localizar",
+      "xml",
+      "carpeta",
+      "ubicación",
+      "archivo",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo contactar al soporte desde el módulo de Administración 4.0?",
+    "a": "Puedes contactar al soporte utilizando la herramienta Escríbenos, que permite enviar dudas, comentarios y sugerencias al área de atención a cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "escríbenos",
+      "soporte",
+      "contacto",
+      "dudas",
+      "comentarios",
+      "sugerencias",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Hay tutoriales disponibles para el módulo de Administración 4.0?",
+    "a": "Sí, puedes acceder a videos tutoriales del módulo utilizando la herramienta Video Manual.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "video",
+      "manual",
+      "tutoriales",
+      "aprendizaje",
+      "herramienta",
+      "módulo"
+    ]
+  }
+]

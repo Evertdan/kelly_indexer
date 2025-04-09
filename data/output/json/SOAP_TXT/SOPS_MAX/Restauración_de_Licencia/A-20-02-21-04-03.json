@@ -1,0 +1,96 @@
+[
+  {
+    "q": "¿Qué error aparece cuando un cliente intenta activar una licencia que ya está en uso en otro equipo?",
+    "a": "El error que aparece es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "error",
+      "activación",
+      "uso",
+      "equipo"
+    ]
+  },
+  {
+    "q": "¿En qué casos aplica el procedimiento de reactivación de licencia en MiAdminXML?",
+    "a": "Aplica en casos de error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "casos",
+      "error",
+      "formateo",
+      "hdd",
+      "robo",
+      "cambio equipo"
+    ]
+  },
+  {
+    "q": "¿Qué datos debe corroborar el AMS antes de proceder con la reactivación de una licencia?",
+    "a": "El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico, RFC, estado de pago de la licencia y si es primera o segunda reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ams",
+      "datos",
+      "corroborar",
+      "licencia",
+      "reactivación",
+      "registro",
+      "correo",
+      "rfc"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación de licencia?",
+    "a": "El tiempo máximo de espera para recibir el oficio de reactivación es de 72 horas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "oficio",
+      "reactivación",
+      "tiempo",
+      "espera",
+      "horas",
+      "72"
+    ]
+  },
+  {
+    "q": "¿Qué comando se debe usar en el BOT para realizar la reactivación de una licencia?",
+    "a": "Se debe ingresar al BOT con un comando específico (no mencionado en el texto) para realizar la reactivación de la licencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bot",
+      "comando",
+      "reactivación",
+      "licencia",
+      "procedimiento"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el cliente si cambia el HDD de su equipo sin desactivar previamente la licencia?",
+    "a": "El cliente debe contactar al soporte para realizar el procedimiento de reactivación de la licencia, ya que esta quedó activada en el equipo anterior.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "hdd",
+      "cambio",
+      "licencia",
+      "reactivación",
+      "soporte",
+      "equipo"
+    ]
+  },
+  {
+    "q": "¿Qué áreas son responsables de reactivar la licencia una vez recibido el oficio de reactivación?",
+    "a": "Cualquier área (ATC o ST) puede proceder a reactivar la licencia una vez recibido y validado el oficio de reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "áreas",
+      "atc",
+      "st",
+      "reactivación",
+      "licencia",
+      "oficio",
+      "validación"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Qué solicita el cliente en este caso?",
+    "a": "El cliente solicita los datos fiscales para dar de alta a proveedor.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "solicitud",
+      "datos fiscales",
+      "alta",
+      "proveedor"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tipo de solicitud en este caso?",
+    "a": "El tipo de solicitud es SOL-01.",
+    "product": "General",
+    "keywords": [
+      "tipo",
+      "solicitud",
+      "sol-01",
+      "clasificación"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de prioridad de esta solicitud?",
+    "a": "El nivel de prioridad es 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "nivel",
+      "prioridad",
+      "bajo",
+      "urgencia"
+    ]
+  },
+  {
+    "q": "¿Qué resultado se espera de esta solicitud?",
+    "a": "Se espera enviar al usuario los datos de proveedor solicitados.",
+    "product": "General",
+    "keywords": [
+      "resultado",
+      "enviar",
+      "datos",
+      "proveedor",
+      "solicitud"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se utilizan para atender esta solicitud?",
+    "a": "Los recursos utilizados son los datos de facturación.",
+    "product": "General",
+    "keywords": [
+      "recursos",
+      "datos",
+      "facturación",
+      "utilizados"
+    ]
+  },
+  {
+    "q": "¿Cómo se enviarán los datos al cliente?",
+    "a": "Los datos se enviarán al cliente vía correo electrónico.",
+    "product": "General",
+    "keywords": [
+      "enviar",
+      "datos",
+      "correo electrónico",
+      "cliente",
+      "método"
+    ]
+  },
+  {
+    "q": "¿Qué debe proporcionar el cliente para recibir los datos fiscales?",
+    "a": "El cliente debe proporcionar un correo electrónico para recibir la información requerida.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "proporcionar",
+      "correo electrónico",
+      "datos fiscales",
+      "requisito"
+    ]
+  }
+]

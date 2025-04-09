@@ -1,0 +1,73 @@
+[
+  {
+    "q": "¿Qué se necesita para exportar un reporte a Excel en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "excel",
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "reporte",
+      "necesito"
+    ]
+  },
+  {
+    "q": "¿Cómo se exporta un reporte a Excel en MiAdminXML?",
+    "a": "Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic en Leer XMLs, luego en Exportar, selecciona Exportar a Excel y guarda el archivo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "excel",
+      "pasos",
+      "proceso",
+      "reporte",
+      "administración",
+      "xml",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué opciones hay para guardar un reporte en Excel en MiAdminXML?",
+    "a": "Puedes seleccionar 'Exportar a Excel' y guardar el archivo manualmente o elegir 'Guardar en Excel' para que el reporte se abra automáticamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "excel",
+      "opciones",
+      "guardar",
+      "automático",
+      "reporte",
+      "selección"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita seleccionar antes de exportar a Excel en MiAdminXML?",
+    "a": "Debes seleccionar el RFC, Tipo, Año y mes del reporte que deseas exportar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "excel",
+      "selección",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "filtros"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta Exportar en MiAdminXML?",
+    "a": "La herramienta Exportar se encuentra del lado derecho después de desglosar la información al hacer clic en Leer XMLs.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "herramienta",
+      "ubicación",
+      "derecho",
+      "leer xmls",
+      "interfaz"
+    ]
+  }
+]

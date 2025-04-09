@@ -1,0 +1,75 @@
+[
+  {
+    "q": "¿Qué debo hacer si realicé un pago por transferencia y no recibí mi clave de licencia?",
+    "a": "Debes enviar tu ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos: Concepto, Referencia y Clave de rastreo.",
+    "product": "General",
+    "keywords": [
+      "pago",
+      "transferencia",
+      "clave",
+      "licencia",
+      "comprobante",
+      "ficha",
+      "correo",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué datos deben estar visibles en el comprobante de pago para validar mi transferencia?",
+    "a": "El comprobante debe mostrar claramente el Concepto, la Referencia y la Clave de rastreo.",
+    "product": "General",
+    "keywords": [
+      "comprobante",
+      "pago",
+      "datos",
+      "concepto",
+      "referencia",
+      "clave",
+      "rastreo",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si los datos de mi pago por transferencia no son correctos?",
+    "a": "El agente analizará la información y, si los datos no son correctos, te explicará cómo realizar el pago de manera correcta con los datos proporcionados en la ficha.",
+    "product": "General",
+    "keywords": [
+      "pago",
+      "transferencia",
+      "datos",
+      "incorrectos",
+      "corrección",
+      "agente",
+      "ficha",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué significa si en mi comprobante de pago aparece que debo hablar a mi banco?",
+    "a": "Significa que la operación no fue aplicada y debes contactar a tu banco para resolver el problema.",
+    "product": "General",
+    "keywords": [
+      "comprobante",
+      "pago",
+      "banco",
+      "operación",
+      "no aplicada",
+      "contactar",
+      "problema"
+    ]
+  },
+  {
+    "q": "¿A qué correo debo enviar mi comprobante de pago por transferencia?",
+    "a": "Debes enviarlo al correo ventas.computocontable@gmail.com.",
+    "product": "General",
+    "keywords": [
+      "comprobante",
+      "pago",
+      "transferencia",
+      "correo",
+      "ventas",
+      "soporte",
+      "enviar"
+    ]
+  }
+]

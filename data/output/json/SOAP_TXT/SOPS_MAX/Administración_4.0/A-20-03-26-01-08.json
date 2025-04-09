@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Qué es la herramienta 'Copiar ruta de XML' en MiAdminXML?",
+    "a": "La herramienta 'Copiar ruta de XML' permite pasar al portapapeles la ubicación del archivo seleccionado en el registro para localizarlo fácilmente, por ejemplo al cargar pólizas en programas contables.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "copiar ruta",
+      "xml",
+      "herramienta",
+      "portapapeles",
+      "ubicación",
+      "archivo",
+      "localizar"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta 'Copiar ruta de XML'?",
+    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "copiar ruta",
+      "xml"
+    ]
+  },
+  {
+    "q": "¿Cómo acceder a la herramienta 'Copiar ruta de XML' en MiAdminXML?",
+    "a": "Para acceder: 1) Ingresar al Módulo de Administración de XML, 2) Seleccionar administración de XML 4.0, 3) Seleccionar RFC, tipo de comprobante, año y mes(es), 4) Dar clic en leer XMLS, 5) Dar clic al botón Copiar ruta (s) XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "administración xml",
+      "pasos",
+      "seleccionar",
+      "leer xmls",
+      "botón"
+    ]
+  },
+  {
+    "q": "¿Cómo seleccionar múltiples meses al usar la herramienta 'Copiar ruta de XML'?",
+    "a": "Para selección múltiple de meses es necesario palomear los meses necesarios en la interfaz.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "selección múltiple",
+      "meses",
+      "palomear",
+      "copiar ruta",
+      "xml"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de hacer clic en el botón 'Copiar ruta (s) XML'?",
+    "a": "Aparecerá una ventana para confirmar el movimiento y luego podrás copiar la ruta donde desees.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "confirmación",
+      "ventana",
+      "copiar",
+      "ruta",
+      "ubicación",
+      "archivo"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "q": "¿Qué se necesita para resolver problemas relacionados con cuentas bancarias en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cuentas bancarias",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "requisitos",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede marcar el control de pagado y no pagado de los XML en MiAdminXML?",
+    "a": "Se puede utilizar la multi selección o seleccionar el XML específico que se desea marcar o desmarcar en el reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "marcar",
+      "pagado",
+      "no pagado",
+      "xml",
+      "reporte",
+      "multi selección",
+      "seleccionar",
+      "herramientas"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se ofrece para problemas con cuentas bancarias en MiAdminXML?",
+    "a": "Se ofrece soporte temprano de nivel 1 para problemas relacionados con cuentas bancarias en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "nivel 1",
+      "cuentas bancarias",
+      "problemas",
+      "tipo de soporte"
+    ]
+  },
+  {
+    "q": "¿Qué versión del documento describe la situación de cuentas bancarias en MiAdminXML?",
+    "a": "La versión del documento es 09.09.2020.04, con fecha de revisión 09.09.2020.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "versión",
+      "documento",
+      "revisión",
+      "fecha",
+      "cuentas bancarias",
+      "situación"
+    ]
+  }
+]

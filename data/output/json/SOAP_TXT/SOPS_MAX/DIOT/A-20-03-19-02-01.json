@@ -1,0 +1,113 @@
+[
+  {
+    "q": "¿Cómo puedo ingresar a la aplicación para realizar la declaración de la DIOT?",
+    "a": "Puedes ingresar a la aplicación desde el icono de acceso directo en el escritorio de tu equipo de cómputo o siguiendo los pasos indicados en la pantalla de inicio.",
+    "product": "DIOT",
+    "keywords": [
+      "ingresar",
+      "aplicación",
+      "declaración",
+      "diot",
+      "acceso",
+      "escritorio",
+      "icono"
+    ]
+  },
+  {
+    "q": "¿Cómo se da de alta un contribuyente en el programa de la DIOT?",
+    "a": "Con el botón derecho del mouse, haz clic en 'Contribuyentes', selecciona 'Nuevo' y luego 'Contribuyente'. Captura los datos correspondientes y haz clic en 'Aceptar'.",
+    "product": "DIOT",
+    "keywords": [
+      "alta",
+      "contribuyente",
+      "diot",
+      "captura",
+      "datos",
+      "mouse",
+      "nuevo"
+    ]
+  },
+  {
+    "q": "¿Cómo se da de alta una declaración en el programa de la DIOT?",
+    "a": "Con el botón derecho del mouse, haz clic en el RFC del contribuyente, selecciona 'Nuevo' y luego 'Declaración'. Selecciona el ejercicio fiscal y haz clic en 'Aceptar'.",
+    "product": "DIOT",
+    "keywords": [
+      "alta",
+      "declaración",
+      "diot",
+      "rfc",
+      "ejercicio",
+      "fiscal",
+      "aceptar"
+    ]
+  },
+  {
+    "q": "¿Cómo importo un archivo .txt a la DIOT desde MiAdminXML?",
+    "a": "En el menú desplegable de 'Herramientas', selecciona 'Importar Declaración'. Ubica el archivo .txt generado previamente con las especificaciones del Layout y sigue las instrucciones.",
+    "product": "DIOT",
+    "keywords": [
+      "importar",
+      "archivo",
+      "txt",
+      "diot",
+      "miadminxml",
+      "herramientas",
+      "layout"
+    ]
+  },
+  {
+    "q": "¿Qué formato debe tener el archivo .txt para importar a la DIOT?",
+    "a": "Todos los campos del Layout deben estar en un solo renglón, separados por el símbolo | (pipe), dentro de un archivo de texto. Ejemplo: Campo1|Campo2|Campo3...",
+    "product": "DIOT",
+    "keywords": [
+      "formato",
+      "archivo",
+      "txt",
+      "diot",
+      "layout",
+      "pipe",
+      "campos"
+    ]
+  },
+  {
+    "q": "¿Cómo se valida la declaración de la DIOT?",
+    "a": "Después de capturar y verificar los datos, selecciona el icono de validación en la parte superior izquierda de la pantalla.",
+    "product": "DIOT",
+    "keywords": [
+      "validación",
+      "declaración",
+      "diot",
+      "icono",
+      "captura",
+      "verificación"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera el paquete de envío para la DIOT?",
+    "a": "Después de validar la declaración, haz clic en el icono de encriptación en la parte superior izquierda de la pantalla. Confirma la encriptación y sigue las instrucciones para generar el archivo a enviar.",
+    "product": "DIOT",
+    "keywords": [
+      "generación",
+      "paquete",
+      "envío",
+      "diot",
+      "encriptación",
+      "icono",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué mensajes aparecen al generar el paquete de envío de la DIOT?",
+    "a": "Aparecen dos mensajes: uno preguntando si deseas ejecutar la encriptación (clic en 'Sí') y otro indicando que la declaración puede enviarse por internet (clic en 'Aceptar').",
+    "product": "DIOT",
+    "keywords": [
+      "mensajes",
+      "paquete",
+      "envío",
+      "diot",
+      "encriptación",
+      "internet",
+      "aceptar"
+    ]
+  }
+]

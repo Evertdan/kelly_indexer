@@ -1,0 +1,86 @@
+[
+  {
+    "q": "¿Qué debe hacer el cliente para solicitar su factura?",
+    "a": "El cliente debe proporcionar su RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra.",
+    "product": "General",
+    "keywords": [
+      "factura",
+      "solicitud",
+      "cliente",
+      "datos",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué información necesita el ejecutivo para enviar la factura?",
+    "a": "El ejecutivo necesita el RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra del cliente.",
+    "product": "General",
+    "keywords": [
+      "ejecutivo",
+      "factura",
+      "información",
+      "requisitos",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué comando usa el BOT para validar los datos de la orden de compra?",
+    "a": "El BOT usa el comando '/orden numero_orden_compra' para validar los datos.",
+    "product": "General",
+    "keywords": [
+      "bot",
+      "comando",
+      "validación",
+      "orden",
+      "compra"
+    ]
+  },
+  {
+    "q": "¿Qué comando usa el BOT para enviar la factura?",
+    "a": "El BOT usa el comando '/enviarfactura orden' para enviar la factura.",
+    "product": "General",
+    "keywords": [
+      "bot",
+      "comando",
+      "enviar",
+      "factura",
+      "orden"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el cliente no ha solicitado la factura previamente?",
+    "a": "Se solicita un correo electrónico al cliente para enviarle un archivo de refacturación, que debe llenar y pagar los costos de servicio para proceder con la refacturación.",
+    "product": "General",
+    "keywords": [
+      "factura",
+      "no solicitada",
+      "refacturación",
+      "correo",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Cuál es el tipo de solicitud cuando un cliente pide su factura?",
+    "a": "El tipo de solicitud es SOL-01.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "factura",
+      "cliente",
+      "SOL-01"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de prioridad de una solicitud de factura?",
+    "a": "El nivel de prioridad es 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "prioridad",
+      "nivel",
+      "factura",
+      "solicitud",
+      "bajo"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "q": "¿Cuáles son los pasos para registrarse por primera vez en MiAdminXML?",
+    "a": "1. Aceptar los Términos y Condiciones. 2. Llenar los campos de Nombre, Apellidos y Correo electrónico. 3. Contestar dos preguntas. 4. Confirmar el correo electrónico. 5. Buscar y hacer clic en el correo de confirmación. 6. Regresar a MiAdminXML. 7. Validar el correo. 8. Finalizar el registro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "registro",
+      "primer uso",
+      "pasos",
+      "términos",
+      "condiciones",
+      "correo electrónico",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiAdminXML?",
+    "a": "Como último recurso, se puede usar el comando '/confirma (producto max, mjp,mec) nombre o correo electrónico' para confirmar manualmente. Ejemplo: '/confirma max Carlos.barcenas@outlook.com'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correo",
+      "confirmación",
+      "no recibido",
+      "solución",
+      "comando",
+      "manual"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de notificaciones puedo seleccionar durante el registro en MiAdminXML?",
+    "a": "El cliente puede deseleccionar las notificaciones o seleccionar las que desee que le lleguen a su correo electrónico. Si está en modo gratuito, debe seleccionar las 3.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "notificaciones",
+      "selección",
+      "correo electrónico",
+      "gratuito",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si ya tengo una licencia activa al registrarme en MiAdminXML?",
+    "a": "Si el cliente está actualizando y tiene una licencia activada, el sistema respetará la licencia y no pedirá ingresar la clave de licencia, al igual que el periodo de prueba.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "activada",
+      "actualización",
+      "clave",
+      "periodo de prueba"
+    ]
+  },
+  {
+    "q": "¿Cómo confirmo manualmente mi correo electrónico en MiAdminXML?",
+    "a": "Se puede confirmar manualmente usando el comando '/confirma (producto max, mjp,mec) nombre o correo electrónico', por ejemplo: '/confirma max Carlos.barcenas@outlook.com'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "confirmación",
+      "manual",
+      "correo electrónico",
+      "comando",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje veré al finalizar el registro exitoso en MiAdminXML?",
+    "a": "Al finalizar el registro, aparecerá la pantalla de 'Felicidades Acabas de registrarte exitosamente' y se verá la nueva imagen de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "registro exitoso",
+      "mensaje",
+      "finalización",
+      "felicitaciones",
+      "nueva imagen"
+    ]
+  }
+]

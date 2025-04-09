@@ -1,0 +1,77 @@
+[
+  {
+    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook?",
+    "a": "Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "confirmación",
+      "outlook",
+      "spam",
+      "contacto",
+      "remitentes seguros",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo asegurarme de recibir correos de MiExpedienteContable en Gmail?",
+    "a": "Agregar el correo ventas@correo1.computocontable.com como contacto en la lista de contactos de Gmail y luego intentar nuevamente el proceso de registro y validación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "gmail",
+      "contactos",
+      "correo",
+      "registro",
+      "validación",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para recibir correos de MiExpedienteContable en Yahoo?",
+    "a": "Agregar un nuevo contacto en Yahoo con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com, luego guardar los cambios.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "yahoo",
+      "contactos",
+      "correo",
+      "solución",
+      "registro"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para recibir correos de confirmación de MiExpedienteContable?",
+    "a": "Contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "correo",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia es no recibir correos de MiExpedienteContable?",
+    "a": "Es una incidencia tipo INC-02 con un nivel de prioridad 2 – Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "prioridad",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cuál es el alcance de la verificación cuando no se reciben correos de MiExpedienteContable?",
+    "a": "El alcance es verificar el envío del correo de confirmación.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "alcance",
+      "verificación",
+      "correo",
+      "confirmación",
+      "envío"
+    ]
+  }
+]

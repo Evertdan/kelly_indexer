@@ -1,0 +1,98 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando los correos de MiExpedienteContable llegan a SPAM?",
+    "a": "El tipo de incidencia es INC-02 con un nivel de 2 – Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "incidencia",
+      "spam",
+      "tipo",
+      "nivel",
+      "correos"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para resolver el problema de correos en SPAM en MiExpedienteContable?",
+    "a": "Se requiere contar con licencia MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se envía solución por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "solucion",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cómo mover correos de SPAM a la bandeja de entrada en Outlook?",
+    "a": "Dar clic derecho sobre el correo, seleccionar 'Marcar como correo deseado'. Luego agregar el contacto y el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "outlook",
+      "spam",
+      "bandeja entrada",
+      "mover correo",
+      "remitentes seguros"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Outlook?",
+    "a": "Ir a la opción de 'Contactos', dar clic en 'Nuevo', agregar 'Cómputo Contable' con el correo 'ventas@correo1.computocontable.com' y dar clic en 'Crear'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "outlook",
+      "contactos",
+      "agregar",
+      "computo contable",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar el dominio de Computo Contable a remitentes seguros en Outlook?",
+    "a": "Ir a 'Configuración', seleccionar 'Ver toda la configuración de Outlook', buscar 'Correo no deseado', en 'Remitentes y dominios seguros' dar clic en agregar, ingresar 'ventas@correo1.computocontable.com' y guardar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "outlook",
+      "remitentes seguros",
+      "dominio",
+      "configuración",
+      "correo no deseado"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Gmail?",
+    "a": "Iniciar sesión en Gmail, ir a 'Contactos' desde Google Apps, dar clic en 'Agregar un contacto' o 'Crear contacto', llenar los datos con 'ventas@correo1.computocontable.com' y guardar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "gmail",
+      "contactos",
+      "agregar",
+      "computo contable",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Yahoo?",
+    "a": "Dar clic en 'Contactos', luego en 'Nuevo contacto', llenar los datos con Nombre 'Computo Contable' y correo 'ventas@correo1.computocontable.com', y dar clic en 'Guardar'.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "yahoo",
+      "contactos",
+      "agregar",
+      "computo contable",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué correo se debe agregar como contacto seguro para evitar SPAM en MiExpedienteContable?",
+    "a": "Se debe agregar el correo 'ventas@correo1.computocontable.com' como contacto seguro en el cliente de correo que se esté utilizando.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "contacto seguro",
+      "spam",
+      "ventas",
+      "computocontable"
+    ]
+  }
+]

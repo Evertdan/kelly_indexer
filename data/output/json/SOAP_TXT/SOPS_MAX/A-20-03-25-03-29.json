@@ -1,0 +1,45 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta IVA Personalizado en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "iva",
+      "personalizado",
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de IVA están disponibles en MiAdminXML?",
+    "a": "Se puede seleccionar diferentes apartados para el uso del IVA, puede ser tasa del 16, 0 exento y personalizada.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "iva",
+      "opciones",
+      "tasa",
+      "16",
+      "0",
+      "exento",
+      "personalizada",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Qué sucede al elegir la tasa de IVA personalizada en MiAdminXML?",
+    "a": "Al elegir tasa personalizada, se mostrará una ventana en la cual se puede ingresar diferente tipo de importes, que puede teclear al cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "iva",
+      "personalizada",
+      "ventana",
+      "importes",
+      "ingresar",
+      "teclear",
+      "cliente"
+    ]
+  }
+]

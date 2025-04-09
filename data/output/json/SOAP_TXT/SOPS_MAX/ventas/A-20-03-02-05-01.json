@@ -1,0 +1,62 @@
+[
+  {
+    "q": "¿Qué debo hacer si un cliente no sabe en qué tiendas puede realizar su pago?",
+    "a": "Informar al cliente las tiendas afiliadas donde puede realizar su pago, como Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
+    "product": "General",
+    "keywords": [
+      "tiendas",
+      "pago",
+      "afiliadas",
+      "información",
+      "cliente",
+      "conveniencia",
+      "ubicación",
+      "lista"
+    ]
+  },
+  {
+    "q": "¿Cómo se maneja la solicitud de información de tiendas para pago si el cliente contacta por correo electrónico?",
+    "a": "Se envía al cliente la lista de tiendas afiliadas utilizando la respuesta automática llamada 'pago por tiendas de conveniencia'.",
+    "product": "General",
+    "keywords": [
+      "correo",
+      "electrónico",
+      "respuesta",
+      "automática",
+      "tiendas",
+      "pago",
+      "afiliadas",
+      "conveniencia"
+    ]
+  },
+  {
+    "q": "¿Qué tiendas están afiliadas para realizar pagos?",
+    "a": "Las tiendas afiliadas incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
+    "product": "General",
+    "keywords": [
+      "tiendas",
+      "afiliadas",
+      "pago",
+      "conveniencia",
+      "lista",
+      "ubicación",
+      "farmacias",
+      "supermercados"
+    ]
+  },
+  {
+    "q": "¿Cuál es el primer paso para responder a un cliente que pregunta sobre tiendas para pago?",
+    "a": "Seleccionar la respuesta automática llamada 'pago por tiendas de conveniencia' para proporcionar al cliente la información necesaria.",
+    "product": "General",
+    "keywords": [
+      "paso",
+      "respuesta",
+      "automática",
+      "tiendas",
+      "pago",
+      "proceso",
+      "información",
+      "cliente"
+    ]
+  }
+]

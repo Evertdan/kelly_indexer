@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué es MiExpedienteContable?",
+    "a": "MiExpedienteContable es un programa que automatiza el trabajo de un despacho contable, permitiendo llevar un histórico de los datos más importantes de los contribuyentes, gestionar altas, modificaciones y eliminaciones, personalizar columnas, y generar información a través de Excel.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "expediente",
+      "contable",
+      "programa",
+      "automatización",
+      "datos",
+      "contribuyentes",
+      "excel"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece MiExpedienteContable?",
+    "a": "MiExpedienteContable permite descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, gestionar contraseñas y certificados, acceder a portales desde el programa, gestionar declaraciones mensuales y anuales, descargar archivos del SAT, importar PDFs, registrar pagos IMSS/Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "funcionalidades",
+      "descargas",
+      "archivos",
+      "oficiales",
+      "declaraciones",
+      "pagos",
+      "imss",
+      "infonavit",
+      "trabajadores"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo obtener MiExpedienteContable?",
+    "a": "El ejecutivo ofrece apoyo en el proceso de compra de MiExpedienteContable, aunque no se especifican los requisitos o pasos detallados en el texto.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "compra",
+      "proceso",
+      "soporte",
+      "ejecutivo",
+      "adquisición"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de información puedo gestionar con MiExpedienteContable?",
+    "a": "Con MiExpedienteContable puedes gestionar datos históricos de contribuyentes, declaraciones fiscales, pagos (IMSS, Infonavit, estatales), incapacidades y movimientos afiliatorios de trabajadores, así como archivos oficiales del SAT.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "información",
+      "gestión",
+      "contribuyentes",
+      "declaraciones",
+      "pagos",
+      "incapacidades",
+      "trabajadores",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Puedo personalizar la información en MiExpedienteContable?",
+    "a": "Sí, MiExpedienteContable permite personalizar columnas para generar información de contribuyentes a través de Excel según tus necesidades.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "personalización",
+      "columnas",
+      "excel",
+      "información",
+      "contribuyentes",
+      "adaptable"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué se necesita para generar una carga Batch en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "carga batch",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cuál es el proceso para generar un archivo .txt para la Herramienta DIOT del SAT?",
+    "a": "Primero se verifica la información en el reporte de FacturasPagadas, se realizan los cambios necesarios y se valida. Luego, se utiliza la opción Carga BATCH para generar el archivo .txt, el cual se puede subir a la Herramienta DIOT del SAT para convertirlo en .dec.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proceso",
+      "archivo txt",
+      "herramienta diot",
+      "sat",
+      "carga batch",
+      "facturaspagadas",
+      "validación",
+      "generación",
+      "conversión"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece después de generar el archivo .txt con la opción Carga BATCH?",
+    "a": "Aparece un mensaje con la ubicación del archivo generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mensaje",
+      "ubicación",
+      "archivo",
+      "txt",
+      "carga batch",
+      "confirmación",
+      "generación"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la generación de carga Batch en MiAdminXML?",
+    "a": "El nivel de soporte para la generación de carga Batch es Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel soporte",
+      "temprano",
+      "nivel 1",
+      "carga batch",
+      "soporte técnico",
+      "prioridad"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el texto relacionado con MiAdminXML?",
+    "a": "Se describe la situación de generar carga Batch en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "situación",
+      "generación",
+      "carga batch",
+      "descripción",
+      "contexto",
+      "proceso"
+    ]
+  }
+]

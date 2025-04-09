@@ -1,0 +1,132 @@
+[
+  {
+    "q": "¿Qué permite el módulo Control y Conciliación de Pagos en MiAdminXML?",
+    "a": "El módulo permite tener un mayor control en las facturas PPD, realiza una conciliación automática con los complementos de pago y las facturas PPD, generando un reporte automático para facilitar el control de las facturas pendientes por pagar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control",
+      "conciliación",
+      "pagos",
+      "facturas",
+      "ppd",
+      "reporte",
+      "automático"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar el módulo Control y Conciliación de Pagos?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Cómo acceder al módulo Control y Conciliación de Pagos en MiAdminXML?",
+    "a": "Para acceder, abre MiAdminXML, ingresa al módulo de Control y Conciliación de Pagos, selecciona RFC, tipo de comprobante, año y mes(es), y haz clic en el botón 'Leer XMLs'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "selección",
+      "rfc",
+      "comprobante",
+      "año",
+      "mes",
+      "leer xmls"
+    ]
+  },
+  {
+    "q": "¿Qué información se muestra en la pestaña 'Facturas PPD'?",
+    "a": "En la pestaña 'Facturas PPD' se muestran las facturas con pago en Parcialidades o Diferido.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "facturas",
+      "ppd",
+      "pestaña",
+      "parcialidades",
+      "diferido"
+    ]
+  },
+  {
+    "q": "¿Qué información se muestra en la pestaña 'Facturas P'?",
+    "a": "En la pestaña 'Facturas P' se muestran las facturas completamente pagadas, incluyendo el desglose de impuestos como TotalRetencionesIVA, TotalRetencionesISR, TotalRetencionesIEPS, entre otros.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "facturas",
+      "pagadas",
+      "pestaña",
+      "impuestos",
+      "desglose"
+    ]
+  },
+  {
+    "q": "¿Qué información se muestra en la pestaña 'Pagos'?",
+    "a": "En la pestaña 'Pagos' se muestran los complementos de pagos de las facturas PPD, con el desglose de impuestos como IVA Exento, IVA Cero, IVA 8, IVA 16, IEPS, ISR Retenido, entre otros.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pagos",
+      "pestaña",
+      "complementos",
+      "impuestos",
+      "desglose"
+    ]
+  },
+  {
+    "q": "¿Qué son los 'DoctosRelacionados' en el módulo Control y Conciliación de Pagos?",
+    "a": "Los 'DoctosRelacionados' son comprobantes fiscales que se vinculan con una factura emitida previamente, mostrando el desglose de impuestos como IVA Exento, IVA Cero, IEPS, entre otros.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "doctosrelacionados",
+      "comprobantes",
+      "vinculados",
+      "impuestos",
+      "desglose"
+    ]
+  },
+  {
+    "q": "¿Qué muestra la pestaña 'Conciliación'?",
+    "a": "La pestaña 'Conciliación' muestra el resultado de la conciliación entre facturas PPD y pagos, indicando si las facturas están parcialmente pagadas, no pagadas o totalmente pagadas, así como el importe pagado y saldo insoluto.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "pestaña",
+      "facturas",
+      "ppd",
+      "pagos",
+      "importe",
+      "saldo"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede filtrar la información de los XML en el módulo Control y Conciliación de Pagos?",
+    "a": "Para filtrar, ingresa un dato como RFC emisor en el recuadro 'Buscar por', selecciona la opción correspondiente en 'dentro del campo' y haz clic en 'Buscar'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "filtrar",
+      "xml",
+      "rfc",
+      "emisor",
+      "buscar",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene la herramienta 'Generar PDF' en el módulo Control y Conciliación de Pagos?",
+    "a": "La herramienta 'Generar PDF' permite al usuario generar la representación impresa de las Facturas del Tipo Pago, con el desglose de sus impuestos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "generar",
+      "pdf",
+      "facturas",
+      "pago",
+      "impuestos",
+      "representación",
+      "impresa"
+    ]
+  }
+]

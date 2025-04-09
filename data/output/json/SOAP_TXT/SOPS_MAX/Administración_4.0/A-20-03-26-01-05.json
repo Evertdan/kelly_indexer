@@ -1,0 +1,70 @@
+[
+  {
+    "q": "¿Qué permite hacer la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "La herramienta 'Abrir XML' permite abrir y ver el contenido del archivo XML, mostrando su estructura.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "abrir xml",
+      "herramienta",
+      "visualizar",
+      "estructura",
+      "contenido",
+      "xml",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "abrir xml",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para abrir un XML en MiAdminXML?",
+    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic derecho en la herramienta 'Leer XMLs'. 5. Seleccionar el XML a visualizar. 6. Dar clic en la herramienta 'Abrir XML'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "abrir xml",
+      "proceso",
+      "administración xml",
+      "seleccionar",
+      "visualizar",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Dónde se muestra el contenido del XML al usar la herramienta 'Abrir XML'?",
+    "a": "El contenido del XML se abre en una pestaña del navegador.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "mostrar",
+      "contenido",
+      "pestaña",
+      "navegador",
+      "abrir xml",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué información se debe seleccionar antes de usar la herramienta 'Abrir XML'?",
+    "a": "Antes de usar la herramienta, se debe seleccionar el RFC, Tipo, Año y mes del XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "seleccionar",
+      "información",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "abrir xml",
+      "miadminxml"
+    ]
+  }
+]

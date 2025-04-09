@@ -1,0 +1,99 @@
+[
+  {
+    "q": "¿Cómo se agrega un nuevo contribuyente en el Módulo de Contribuyentes?",
+    "a": "Para agregar un nuevo contribuyente, sigue estos pasos: 1) Ingresa a la pestaña 'Contribuyentes'. 2) Haz clic en 'Agregar'. 3) Llena los datos generales (Razón social y RFC obligatorios). 4) Selecciona los documentos en la segunda pestaña. 5) Asigna obligaciones SAT, IMSS y estatales. 6) Haz clic en 'Guardar' para confirmar el alta.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "agregar",
+      "contribuyente",
+      "datos",
+      "rfc",
+      "razón social",
+      "obligaciones",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Cómo se visualiza la lista de contribuyentes asignados?",
+    "a": "Para ver la lista de contribuyentes: 1) Haz clic en 'Contribuyentes' dentro de la pestaña correspondiente. 2) Selecciona un contribuyente y haz clic en 'Editar'. 3) En 'Expediente General', puedes ver archivos, su ubicación o el histórico de cambios. 4) Guarda los cambios si es necesario.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "lista",
+      "contribuyentes",
+      "visualizar",
+      "editar",
+      "expediente",
+      "histórico",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para eliminar un contribuyente?",
+    "a": "Para eliminar un contribuyente: 1) Accede a la pestaña 'Contribuyentes' y haz clic en el botón correspondiente. 2) Selecciona el contribuyente y haz clic en 'Eliminar'. 3) Confirma la acción en el mensaje emergente. 4) Recibirás una confirmación de eliminación exitosa.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "eliminar",
+      "contribuyente",
+      "confirmación",
+      "pestaña",
+      "lista",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera un reporte personalizado de contribuyentes?",
+    "a": "Para generar un reporte: 1) Ve a la pestaña 'Contribuyentes' y despliega la lista. 2) Selecciona columnas visibles en 'Columnas Visibles'. 3) Filtra datos con la barra de búsqueda si es necesario. 4) Exporta a Excel con el botón 'Exportar' y elige la ubicación del archivo. 5) Confirma la exportación exitosa.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "reporte",
+      "personalizado",
+      "columnas",
+      "exportar",
+      "excel",
+      "filtro",
+      "búsqueda"
+    ]
+  },
+  {
+    "q": "¿Cómo se importan contribuyentes de forma masiva?",
+    "a": "Para importar contribuyentes masivamente: 1) Ve a la pestaña 'Contribuyentes'. 2) Haz clic en 'Importar' y descarga la plantilla base. 3) Llena el Excel con los datos. 4) Carga el archivo y haz clic en 'Iniciar'. 5) Espera el mensaje de finalización de la importación.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "importar",
+      "masivo",
+      "plantilla",
+      "excel",
+      "cargar",
+      "archivo",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué información es obligatoria al agregar un contribuyente?",
+    "a": "Al agregar un contribuyente, es obligatorio ingresar la Razón social y el RFC en la pestaña de datos generales. Las obligaciones SAT se llenan automáticamente al seleccionar el régimen.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "obligatorio",
+      "razón social",
+      "rfc",
+      "datos",
+      "generales",
+      "régimen",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece el Módulo de Contribuyentes?",
+    "a": "El módulo permite agregar, editar, consultar y eliminar contribuyentes, realizar búsquedas, generar reportes personalizados e importar datos de forma masiva mediante archivos Excel.",
+    "product": "Módulo de Contribuyentes",
+    "keywords": [
+      "funcionalidades",
+      "agregar",
+      "editar",
+      "consultar",
+      "reportes",
+      "importar",
+      "excel"
+    ]
+  }
+]

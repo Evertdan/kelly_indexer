@@ -1,0 +1,77 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta de conciliación en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "herramienta",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta de conciliación en MiAdminXML?",
+    "a": "La herramienta de conciliación se encuentra en el módulo Control de Pagos dentro del apartado Administración de XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "herramienta",
+      "ubicación",
+      "control de pagos",
+      "administración de xml"
+    ]
+  },
+  {
+    "q": "¿Qué información se puede verificar con la herramienta de conciliación?",
+    "a": "La herramienta permite verificar el control de la contabilización de un contribuyente específico, seleccionando el ejercicio requerido.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "verificación",
+      "contabilización",
+      "contribuyente",
+      "ejercicio"
+    ]
+  },
+  {
+    "q": "¿Qué datos se deben seleccionar para realizar la conciliación?",
+    "a": "Se debe seleccionar el RFC, el tipo (Emitido/Recibido), los años y los meses (pueden ser uno o más meses), y luego dar clic en 'Leer Directorios'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "datos",
+      "rfc",
+      "tipo",
+      "años",
+      "meses",
+      "leer directorios"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera el reporte de conciliación?",
+    "a": "Una vez que se muestra la información en el módulo, se da clic en el botón 'Conciliar' y el sistema genera un reporte con detalles como fecha de pago, método de pago y resultados de la conciliación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "reporte",
+      "generar",
+      "fecha de pago",
+      "método de pago",
+      "resultados"
+    ]
+  },
+  {
+    "q": "¿Se puede exportar el reporte de conciliación a Excel?",
+    "a": "Sí, en la pestaña de Conciliación se puede generar el reporte a Excel siguiendo el procedimiento tradicional.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "reporte",
+      "excel",
+      "exportar",
+      "pestaña"
+    ]
+  }
+]

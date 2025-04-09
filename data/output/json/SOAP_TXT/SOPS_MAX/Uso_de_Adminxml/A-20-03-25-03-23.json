@@ -1,0 +1,64 @@
+[
+  {
+    "q": "¿Qué herramienta de MiAdminXML permite gestionar cuentas bancarias?",
+    "a": "La herramienta llamada 'Cuentas Bancarias' dentro del módulo 'Control de CxC y CxP' permite administrar y almacenar información de cuentas bancarias.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cuentas bancarias",
+      "herramienta",
+      "control de cxc y cxp",
+      "administrar",
+      "almacenar"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta de Cuentas Bancarias en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "acceso",
+      "cuentas bancarias"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede a la herramienta de Cuentas Bancarias en MiAdminXML?",
+    "a": "Se ingresa al módulo 'Control de CxC y CxP' en el menú principal, se selecciona el RFC de la cuenta bancaria a registrar y se da clic en la herramienta 'Cuentas Bancarias'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "control de cxc y cxp",
+      "menú principal",
+      "rfc",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Qué datos se pueden registrar en la herramienta de Cuentas Bancarias de MiAdminXML?",
+    "a": "Se pueden registrar los siguientes datos: Prefijo (identifica la cuenta mediante un número), Número de cuenta y Banco.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "datos",
+      "registrar",
+      "prefijo",
+      "número de cuenta",
+      "banco",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Cómo se visualizan las cuentas bancarias registradas en MiAdminXML?",
+    "a": "Cada vez que se registra una nueva cuenta, esta se muestra en el listado de la herramienta 'Cuentas Bancarias'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualizar",
+      "listado",
+      "cuentas registradas",
+      "mostrar",
+      "nueva cuenta"
+    ]
+  }
+]

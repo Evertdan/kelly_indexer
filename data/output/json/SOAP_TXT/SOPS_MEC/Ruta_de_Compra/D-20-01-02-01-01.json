@@ -1,0 +1,124 @@
+[
+  {
+    "q": "¿Qué documentos se pueden enviar para el alta de proveedor en Computo Contable?",
+    "a": "Se pueden enviar la Constancia de situación fiscal, Opinión de cumplimiento, RFC e INE frontal, siempre que estén vigentes.",
+    "product": "Computo Contable",
+    "keywords": [
+      "alta proveedor",
+      "documentos",
+      "constancia fiscal",
+      "opinión cumplimiento",
+      "rfc",
+      "ine frontal",
+      "vigentes"
+    ]
+  },
+  {
+    "q": "¿Qué información se puede proporcionar si el cliente solo solicita RFC y Razón Social por teléfono?",
+    "a": "Se puede proporcionar el RFC y la Razón Social si el cliente contacta vía telefónica y solo solicita esa información.",
+    "product": "Computo Contable",
+    "keywords": [
+      "rfc",
+      "razón social",
+      "teléfono",
+      "información",
+      "proporcionar"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si el cliente solicita más documentos para el alta de proveedor?",
+    "a": "Se debe solicitar un correo electrónico al cliente para enviar los documentos permitidos, como la Constancia de situación fiscal, Opinión de cumplimiento, RFC e INE frontal.",
+    "product": "Computo Contable",
+    "keywords": [
+      "documentos",
+      "solicitud",
+      "correo electrónico",
+      "envío",
+      "proveedor"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para enviar los documentos por correo electrónico?",
+    "a": "Los pasos son: 1) Ingresar al correo, 2) Insertar la plantilla 'Datos alta proveedor', 3) Enviar los documentos permitidos (Constancia de situación fiscal, Opinión de cumplimiento, RFC, INE frontal).",
+    "product": "Computo Contable",
+    "keywords": [
+      "pasos",
+      "correo electrónico",
+      "plantilla",
+      "documentos",
+      "envío"
+    ]
+  },
+  {
+    "q": "¿Qué restricciones hay al enviar documentos para el alta de proveedor?",
+    "a": "Los documentos deben estar vigentes y no pueden contener la firma de LSC. César Rogelio Coronado Bárcenas.",
+    "product": "Computo Contable",
+    "keywords": [
+      "restricciones",
+      "documentos",
+      "vigentes",
+      "firma",
+      "prohibido"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el cliente solicita un comprobante de domicilio?",
+    "a": "Se le informa que el domicilio ya está en la cédula y se evita enviar el comprobante. Si es muy necesario, se pregunta para qué fines lo solicita.",
+    "product": "Computo Contable",
+    "keywords": [
+      "comprobante domicilio",
+      "cedula",
+      "domicilio",
+      "solicitud",
+      "fines"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el cliente solicita la carátula de cuenta bancaria?",
+    "a": "Se le informa que toda la compra es en línea y no se tiene acceso a esa información.",
+    "product": "Computo Contable",
+    "keywords": [
+      "carátula",
+      "cuenta bancaria",
+      "compra en línea",
+      "acceso",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el cliente envía un contrato o términos y condiciones para firmar?",
+    "a": "Se deben leer, anotar lo que no se entienda, pasarlo a revisión al gerente de operaciones, quien informará si pasa a firma o no y explicará las razones en caso negativo.",
+    "product": "Computo Contable",
+    "keywords": [
+      "contrato",
+      "términos y condiciones",
+      "firma",
+      "revisión",
+      "gerente operaciones"
+    ]
+  },
+  {
+    "q": "¿Qué documentos no se pueden enviar para el alta de proveedor?",
+    "a": "No se pueden enviar documentos que contengan la firma de LSC. César Rogelio Coronado Bárcenas ni documentos no vigentes.",
+    "product": "Computo Contable",
+    "keywords": [
+      "documentos",
+      "no enviar",
+      "firma",
+      "vigentes",
+      "restricciones"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si los documentos para el alta de proveedor no están vigentes?",
+    "a": "Se debe solicitar los documentos vigentes al líder de área o al gerente de operaciones.",
+    "product": "Computo Contable",
+    "keywords": [
+      "documentos",
+      "vigentes",
+      "solicitar",
+      "líder área",
+      "gerente operaciones"
+    ]
+  }
+]

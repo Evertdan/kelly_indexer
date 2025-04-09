@@ -1,0 +1,76 @@
+[
+  {
+    "q": "¿Qué es el módulo XML Simplificado para el SAT en MiAdminXML?",
+    "a": "El módulo de XML Simplificado para el SAT ayuda a sintetizar el catálogo de cuentas y balanza de comprobación para la contabilidad electrónica del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml simplificado",
+      "sat",
+      "contabilidad electrónica",
+      "catálogo de cuentas",
+      "balanza de comprobación"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar el módulo XML Simplificado para el SAT?",
+    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo, y tener los XML del catálogo de empresas y balanza de comprobación previamente generados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "xml",
+      "catálogo de empresas",
+      "balanza de comprobación"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo XML Simplificado para el SAT en MiAdminXML?",
+    "a": "Se accede desde el icono de Contabilidad en MiAdminXML, seleccionando generación de XML para Contabilidad electrónica y luego XML Simplificado para el SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "contabilidad",
+      "generación xml",
+      "menú",
+      "navegación"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se siguen para generar un XML simplificado en MiAdminXML?",
+    "a": "Se seleccionan los XML de balanza de comprobación y catálogo de empresas, se elige Año, Mes y Tipo de Envío (Normal o Complementaria), se hace clic en Iniciar Importación y luego en Genera XML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "generar xml",
+      "selección",
+      "año",
+      "mes",
+      "tipo de envío",
+      "importación"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de envío están disponibles en el módulo XML Simplificado para el SAT?",
+    "a": "Los tipos de envío disponibles son Normal o Complementaria.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipos de envío",
+      "normal",
+      "complementaria",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Dónde se guarda el XML simplificado generado en MiAdminXML?",
+    "a": "Al finalizar el proceso, el sistema muestra la carpeta donde se localiza el nuevo XML generado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "carpeta",
+      "guardado",
+      "xml generado",
+      "resultado"
+    ]
+  }
+]

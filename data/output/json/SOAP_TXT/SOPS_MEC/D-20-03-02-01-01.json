@@ -1,0 +1,105 @@
+[
+  {
+    "q": "¿Cuáles son los pasos para realizar una compra en miexpedientecontable.com?",
+    "a": "1. Ingresar a www.miexpedientecontable.com. 2. Posicionarse en el apartado de precios y beneficios y dar clic en 'Comprar Ahora'. 3. Llenar la orden de compra con datos de contacto. 4. Marcar la casilla 'Requiero factura' si es necesario. 5. Seleccionar la cantidad de licencias y dar clic en continuar. 6. Confirmar los datos de facturación.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "compra",
+      "pasos",
+      "orden",
+      "licencias",
+      "factura",
+      "datos",
+      "contacto",
+      "página"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de realizar una compra por transferencia o pago en tienda?",
+    "a": "En un lapso de 3 a 24 horas recibirás tu clave de licencia y factura (si la solicitaste) al correo registrado en la orden de compra.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "transferencia",
+      "pago",
+      "tienda",
+      "clave",
+      "licencia",
+      "factura",
+      "correo",
+      "orden"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si no llega la clave de licencia después de 3-4 horas?",
+    "a": "Comunicarse al área de atención a clientes con el número de orden de compra a la mano.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "clave",
+      "licencia",
+      "espera",
+      "atención",
+      "clientes",
+      "orden",
+      "compra",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Cómo se recibe la clave de licencia al pagar con tarjeta de crédito o débito?",
+    "a": "Aparecerá una pantalla con la clave de licencia y factura inmediatamente después del pago exitoso, además de ser enviada por correo electrónico.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "tarjeta",
+      "crédito",
+      "débito",
+      "pago",
+      "clave",
+      "licencia",
+      "factura",
+      "correo",
+      "inmediato"
+    ]
+  },
+  {
+    "q": "¿Dónde se debe hacer clic para iniciar el proceso de compra?",
+    "a": "En el apartado de precios y beneficios, en el botón 'Comprar Ahora' del paquete deseado.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "compra",
+      "iniciar",
+      "precios",
+      "beneficios",
+      "botón",
+      "paquete",
+      "clic"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para llenar la orden de compra?",
+    "a": "Se requieren los datos de contacto del cliente.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "orden",
+      "compra",
+      "datos",
+      "contacto",
+      "llenar",
+      "información",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cómo solicitar factura durante el proceso de compra?",
+    "a": "Marcando la casilla 'Requiero factura' al llenar la orden de compra.",
+    "product": "miexpedientecontable.com",
+    "keywords": [
+      "factura",
+      "solicitar",
+      "casilla",
+      "orden",
+      "compra",
+      "marcar",
+      "requerir"
+    ]
+  }
+]

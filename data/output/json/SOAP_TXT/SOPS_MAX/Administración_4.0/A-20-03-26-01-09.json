@@ -1,0 +1,75 @@
+[
+  {
+    "q": "¿Qué es la herramienta de conceptos en MiAdminXML?",
+    "a": "La herramienta de conceptos enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "conceptos",
+      "productos",
+      "pago",
+      "descripción",
+      "xml",
+      "lista"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta de conceptos en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "acceso",
+      "herramienta",
+      "conceptos"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la herramienta de conceptos en MiAdminXML?",
+    "a": "Para acceder a la herramienta de conceptos: 1) Ingresa al módulo 'Administración de XML', 2) Selecciona el submódulo 'Administración de XML 4.0', 3) Selecciona RFC, Tipo, Año y mes, 4) Da clic en 'Conceptos' (parte derecha).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo",
+      "administración",
+      "xml",
+      "submódulo",
+      "pasos",
+      "procedimiento",
+      "conceptos"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra la herramienta de conceptos en MiAdminXML?",
+    "a": "La herramienta muestra los detalles del producto en una pestaña específica, incluyendo la descripción, clave del producto y descripción de la unidad.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "detalles",
+      "producto",
+      "descripción",
+      "clave",
+      "unidad",
+      "pestaña",
+      "reporte"
+    ]
+  },
+  {
+    "q": "¿Qué hace el módulo de conceptos en MiAdminXML después de seleccionar los filtros?",
+    "a": "El módulo genera un reporte mostrando los detalles del producto en la pestaña de conceptos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "módulo",
+      "generar",
+      "reporte",
+      "detalles",
+      "producto",
+      "pestaña",
+      "conceptos",
+      "filtros"
+    ]
+  }
+]

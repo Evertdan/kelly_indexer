@@ -1,0 +1,122 @@
+[
+  {
+    "q": "¿Qué sucede si un cliente marca como SPAM los correos de MiAdminXML?",
+    "a": "Si un cliente marca como SPAM los correos de MiAdminXML, se le solicitará que agregue a ventas@computocontable.com como remitente seguro. Si no responde, se restringirá el uso de MiAdminXML hasta que realice la configuración.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "spam",
+      "correo",
+      "restricción",
+      "remitente seguro",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Qué correo se envía inicialmente a un cliente que marcó como SPAM los correos de MiAdminXML?",
+    "a": "Se envía un correo con el asunto 'Problemas de entrega de correo', informando que debido a que marcó el correo como SPAM, se está afectando el servicio de entrega de licencias y facturas, y solicitando que agregue a ventas@computocontable.com como remitente seguro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correo inicial",
+      "spam",
+      "problemas entrega",
+      "remitente seguro",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si el cliente no responde al primer correo sobre el marcado como SPAM?",
+    "a": "Si el cliente no responde en 3 días, se envía un segundo correo advirtiendo sobre la restricción del uso de MiAdminXML hasta que agregue a ventas@computocontable.com como remitente seguro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "segundo correo",
+      "no respuesta",
+      "restricción",
+      "remitente seguro",
+      "plazo"
+    ]
+  },
+  {
+    "q": "¿Qué ocurre con los clientes con licencia que no responden a los correos sobre SPAM?",
+    "a": "Se les incluye en el 'listado de no envío de correos', lo que les impide recibir fichas de compra, claves de licencias, facturas, códigos de validación, y se les restringe el uso de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "clientes con licencia",
+      "no respuesta",
+      "listado no envío",
+      "restricción",
+      "correos"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica si un correo está en la lista de SPAM o no envío?",
+    "a": "Usando el comando /listacorreo en el bot, seguido de la dirección de correo electrónico, se busca en la lista de dominios incorrectos y en la lista de no envío.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificación",
+      "correo",
+      "listado spam",
+      "comando",
+      "bot"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer soporte técnico una vez que el cliente acepta agregar el remitente seguro?",
+    "a": "Soporte técnico debe realizar la configuración para agregar a ventas@computocontable.com como contacto y dominio seguro, y luego avisar al área de desarrollo para permitir que el cliente pase del Pre-registro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte técnico",
+      "configuración",
+      "remitente seguro",
+      "desarrollo",
+      "pre-registro"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en habilitarse el acceso a MiAdminXML después de la configuración?",
+    "a": "Una vez que soporte técnico realiza la configuración y avisa al área de desarrollo, el cliente podrá ingresar nuevamente a MiAdminXML en un plazo de 3 a 5 minutos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo",
+      "habilitación",
+      "acceso",
+      "configuración",
+      "desarrollo"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de dominios son afectados cuando un cliente marca como SPAM los correos de MiAdminXML?",
+    "a": "Los dominios afectados son @hotmail.com, @outlook.com, @msn.com, @live.com y similares, ya que Microsoft Live limita la entrega de correos electrónicos a estas direcciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "dominios",
+      "afectados",
+      "microsoft live",
+      "correos",
+      "spam"
+    ]
+  },
+  {
+    "q": "¿Qué información contiene el segundo correo enviado a clientes sin licencia?",
+    "a": "El segundo correo a clientes sin licencia tiene el asunto 'Aviso de restricción de uso de MiAdminXML' y advierte que se reserva el derecho de uso de MiAdminXML básico hasta que agregue a ventas@computocontable.com como remitente seguro.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "segundo correo",
+      "clientes sin licencia",
+      "restricción",
+      "aviso",
+      "remitente seguro"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si un cliente no responde a los correos y está en el listado de no envío?",
+    "a": "Cuando los clientes en el listado de no envío ingresan a MiAdminXML, el sistema los regresará al Pre-registro y no les permitirá avanzar más allá de ese punto.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "listado no envío",
+      "pre-registro",
+      "restricción",
+      "ingreso",
+      "clientes"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales de Cómputo Contable?",
+    "a": "El cliente debe ingresar a un correo electrónico de Cómputo Contable, desplazarse hacia abajo hasta encontrar la opción 'DESUSCRIBIR', hacer clic en ella, luego ingresar la información solicitada en la página que aparece y finalmente hacer clic en 'no recibir mas promociones'.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "computo contable",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos no se pueden desuscribir?",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "no desuscribir",
+      "tipos",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si un cliente está en periodo gratuito y quiere desuscribirse de los correos promocionales?",
+    "a": "Los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM.",
+    "product": "General",
+    "keywords": [
+      "periodo gratuito",
+      "correos promocionales",
+      "desuscripción",
+      "restricciones",
+      "spam"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece después de que un cliente se desuscribe correctamente de los correos promocionales?",
+    "a": "Aparece una pantalla afirmando que se desuscribió de forma correcta.",
+    "product": "General",
+    "keywords": [
+      "mensaje",
+      "desuscripción",
+      "correcta",
+      "confirmación",
+      "pantalla"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la opción para desuscribirse de los correos promocionales?",
+    "a": "La opción 'DESUSCRIBIR' se encuentra en la parte de abajo de los correos electrónicos enviados por Cómputo Contable.",
+    "product": "General",
+    "keywords": [
+      "opción",
+      "desuscribir",
+      "correos",
+      "computo contable",
+      "ubicación"
+    ]
+  },
+  {
+    "q": "¿Qué información se solicita al desuscribirse de los correos promocionales?",
+    "a": "La página de desuscripción solicita información del cliente antes de confirmar la desuscripción.",
+    "product": "General",
+    "keywords": [
+      "información",
+      "solicitud",
+      "desuscripción",
+      "correos",
+      "promocionales"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "q": "¿Qué es el módulo de descarga +D500 en MiAdminXML?",
+    "a": "El módulo de descarga +D500 en MiAdminXML permite descargar archivos XML de manera masiva, realizando búsquedas por meses completos y obteniendo hasta más de 2000 XML por día y por RFC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga masiva",
+      "d500",
+      "xml",
+      "sat",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar el módulo de descarga +D500?",
+    "a": "Para usar el módulo de descarga +D500, se debe contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "demostrativo",
+      "acceso",
+      "d500"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso de descarga masiva en MiAdminXML?",
+    "a": "Para iniciar el proceso de descarga masiva, se ingresa al programa MiAdminXML, se selecciona la opción 'Descarga masiva +D500' y luego se da clic en 'Asistente de descarga'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "iniciar",
+      "proceso",
+      "descarga",
+      "asistente",
+      "pasos"
+    ]
+  },
+  {
+    "q": "¿Qué métodos de acceso al SAT se pueden usar en el módulo +D500?",
+    "a": "En el módulo +D500 se puede acceder al SAT utilizando CIEC o FIEL.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "sat",
+      "ciec",
+      "fiel",
+      "métodos"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de búsqueda están disponibles en el módulo +D500?",
+    "a": "En el módulo +D500 se pueden seleccionar el tipo de comprobante (Emitidas o Recibidas), la organización por mes o por día, y aplicar filtros similares a los del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "búsqueda",
+      "comprobantes",
+      "emitidas",
+      "recibidas",
+      "filtros"
+    ]
+  },
+  {
+    "q": "¿Qué información muestra la barra de estado durante la descarga?",
+    "a": "La barra de estado muestra estadísticas como la cantidad de XML encontrados, si son vigentes o cancelados, y el tiempo que tarda en descargar los XML, con una velocidad aproximada de más de 20 XML por segundo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "barra de estado",
+      "estadísticas",
+      "xml",
+      "vigentes",
+      "cancelados"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede exportar la información de los XML descargados?",
+    "a": "La información de los XML descargados se puede exportar a un reporte en Excel dando clic en 'Exportar reporte', el cual muestra los datos en pantalla y un resumen de la información SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "reporte",
+      "excel",
+      "resumen",
+      "datos"
+    ]
+  },
+  {
+    "q": "¿Qué datos importantes se pueden encontrar en el reporte de XML?",
+    "a": "En el reporte se pueden encontrar datos como el esquema de cancelación y la fecha de cancelado, especialmente relevante para XML de tipo Recibidos ya que el SAT elimina estos archivos y no es posible descargarlos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reporte",
+      "cancelación",
+      "fecha",
+      "recibidos",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Cómo se organizan los XML descargados en MiAdminXML?",
+    "a": "El sistema organiza y almacena automáticamente los XML descargados, clasificándolos por tipo, año, mes y día.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "organización",
+      "almacenamiento",
+      "xml",
+      "clasificación",
+      "automático"
+    ]
+  },
+  {
+    "q": "¿Dónde se pueden localizar los XML después de la descarga?",
+    "a": "Los XML descargados se pueden localizar en la BóvedaCFDi una vez finalizada la descarga.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "localizar",
+      "bóvedacfdi",
+      "xml",
+      "descarga",
+      "finalizada"
+    ]
+  },
+  {
+    "q": "¿Cómo se cierra la sesión en el SAT después de usar el módulo +D500?",
+    "a": "Para cerrar la sesión en el SAT y salir del contribuyente, se debe dar clic en 'Cerrar Sesión'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cerrar sesión",
+      "sat",
+      "contribuyente",
+      "finalizar",
+      "módulo"
+    ]
+  }
+]

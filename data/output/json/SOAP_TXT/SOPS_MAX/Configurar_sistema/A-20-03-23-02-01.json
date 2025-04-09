@@ -1,0 +1,63 @@
+[
+  {
+    "q": "¿Qué se necesita para configurar la Bóveda en Red en MiAdminXML?",
+    "a": "Se requiere contar con una clave de licencia de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bóveda en red",
+      "configuración",
+      "requisitos",
+      "licencia",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cuál es la ruta default donde se almacenan los archivos en MiAdminXML?",
+    "a": "La ruta default es C:\\AdminXML\\BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ruta default",
+      "almacenamiento",
+      "archivos",
+      "bóvedacfdi",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo se cambia la ubicación de la BóvedaCFDi en MiAdminXML?",
+    "a": "Se debe tener una ubicación o carpeta ya sea compartida o local, luego seleccionar la herramienta 'Bóveda en red' para cambiar la ubicación, buscar la carpeta deseada y aceptar los cambios.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cambiar ubicación",
+      "bóvedacfdi",
+      "herramienta",
+      "bóveda en red",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué pasa con la información ya descargada al cambiar la ubicación de la BóvedaCFDi?",
+    "a": "Si ya se tenía información descargada, el cliente debe cambiar las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información descargada",
+      "cambio de ubicación",
+      "bóvedacfdi",
+      "migración",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para configurar la Bóveda en Red en MiAdminXML?",
+    "a": "1. Acceder a MiAdminXML en el ícono de 'Administración de XML'. 2. Tener una ubicación o carpeta compartida o local. 3. Seleccionar la herramienta 'Bóveda en red'. 4. Buscar la carpeta deseada. 5. Seleccionar la carpeta y aceptar. 6. Asignar la ubicación y aceptar. 7. Reiniciar la aplicación y verificar el cambio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "configuración",
+      "bóveda en red",
+      "herramienta",
+      "miadminxml",
+      "proceso"
+    ]
+  }
+]

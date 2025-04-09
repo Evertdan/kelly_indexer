@@ -1,0 +1,94 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de Control de Pagos en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "requisitos",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué función tiene el módulo de Control de Pagos en MiAdminXML?",
+    "a": "El módulo permite tener un mayor control en las facturas PPD, realiza una conciliación automática con los complementos de pago y las facturas PPD para generar un reporte automático y sencillo, facilitando el control de las facturas pendientes por pagar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "funcionalidad",
+      "facturas ppd",
+      "conciliación automática",
+      "reporte",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de Control de Pagos en MiAdminXML?",
+    "a": "Se selecciona el módulo de Administración de XML y en las opciones desplegadas se elige 'Control de Pagos'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "acceso",
+      "administración de xml",
+      "módulo",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para consultar en el módulo de Control de Pagos?",
+    "a": "Se requiere seleccionar el RFC a consultar, el tipo (Emitidas o Recibidas), el año y el mes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "consulta",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué herramienta se debe usar para cargar la información en la tabla de tareas en el módulo de Control de Pagos?",
+    "a": "Para cargar la información en la tabla de tareas, es importante dar clic en la herramienta 'leer directorios'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "herramienta",
+      "leer directorios",
+      "tabla de tareas",
+      "carga de información",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo se inicia el proceso de conciliación en el módulo de Control de Pagos?",
+    "a": "Una vez que se cuenta con la información en la tabla de tareas, se visualizan las facturas PPD y se da clic en la herramienta 'conciliar' para iniciar el proceso.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "conciliación",
+      "facturas ppd",
+      "herramienta conciliar",
+      "proceso",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Dónde se visualizan los resultados del proceso de conciliación en el módulo de Control de Pagos?",
+    "a": "Los resultados del proceso de conciliación se visualizan en la pestaña de 'Conciliación', donde se observan detalles como la fecha de pago, método de pago y resultado de conciliación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "control de pagos",
+      "resultados",
+      "conciliación",
+      "pestaña",
+      "fecha de pago",
+      "método de pago",
+      "miadminxml"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "q": "¿Qué se necesita para acceder al soporte temprano de MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte temprano",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "acceso",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué es un código agrupador en MiAdminXML?",
+    "a": "Los códigos agrupadores son códigos que muestran una descripción específica, como por ejemplo '000' para uso exclusivo de contribuyentes del sector financiero o '100' para Activo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "código agrupador",
+      "descripción",
+      "ejemplos",
+      "financiero",
+      "activo"
+    ]
+  },
+  {
+    "q": "¿Cuál es el código para 'Activo a corto plazo' en MiAdminXML?",
+    "a": "El código para 'Activo a corto plazo' es '100.01'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activo",
+      "corto plazo",
+      "código",
+      "100.01",
+      "ejemplo"
+    ]
+  },
+  {
+    "q": "¿Qué representa el código '102.01' en MiAdminXML?",
+    "a": "El código '102.01' representa 'Bancos nacionales'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bancos",
+      "nacionales",
+      "código",
+      "102.01",
+      "descripción"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de cuentas incluye el código '105' en MiAdminXML?",
+    "a": "El código '105' incluye cuentas como 'Clientes nacionales', 'Clientes extranjeros', 'Clientes nacionales parte relacionada' y 'Clientes extranjeros parte relacionada'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "clientes",
+      "código",
+      "105",
+      "nacionales",
+      "extranjeros",
+      "parte relacionada"
+    ]
+  },
+  {
+    "q": "¿Qué representa el código '171.01' en MiAdminXML?",
+    "a": "El código '171.01' representa 'Depreciación acumulada de edificios'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "depreciación",
+      "edificios",
+      "código",
+      "171.01",
+      "activos fijos"
+    ]
+  },
+  {
+    "q": "¿Qué incluye el código '201' en MiAdminXML?",
+    "a": "El código '201' incluye cuentas como 'Proveedores nacionales', 'Proveedores extranjeros', 'Proveedores nacionales parte relacionada' y 'Proveedores extranjeros parte relacionada'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "proveedores",
+      "código",
+      "201",
+      "nacionales",
+      "extranjeros",
+      "parte relacionada"
+    ]
+  },
+  {
+    "q": "¿Qué representa el código '301.01' en MiAdminXML?",
+    "a": "El código '301.01' representa 'Capital fijo'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "capital",
+      "fijo",
+      "código",
+      "301.01",
+      "capital contable"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de ingresos incluye el código '401.01' en MiAdminXML?",
+    "a": "El código '401.01' incluye 'Ventas y/o servicios gravados a la tasa general'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ingresos",
+      "ventas",
+      "servicios",
+      "gravados",
+      "tasa general",
+      "código",
+      "401.01"
+    ]
+  },
+  {
+    "q": "¿Qué representa el código '601.01' en MiAdminXML?",
+    "a": "El código '601.01' representa 'Sueldos y salarios' en la categoría de gastos generales.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "gastos",
+      "sueldos",
+      "salarios",
+      "código",
+      "601.01",
+      "generales"
+    ]
+  }
+]

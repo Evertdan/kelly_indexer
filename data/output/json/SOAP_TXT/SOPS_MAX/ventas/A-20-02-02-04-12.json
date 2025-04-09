@@ -1,0 +1,99 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia se describe en el texto?",
+    "a": "La incidencia descrita es del Tipo 02.",
+    "product": "General",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "02",
+      "descripción",
+      "situación"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de la incidencia reportada?",
+    "a": "El nivel de la incidencia es 2 – Medio.",
+    "product": "General",
+    "keywords": [
+      "nivel",
+      "incidencia",
+      "medio",
+      "prioridad",
+      "reporte"
+    ]
+  },
+  {
+    "q": "¿Qué banco utiliza el cliente para realizar pagos?",
+    "a": "El cliente realiza pagos a través de la cuenta HSBC.",
+    "product": "General",
+    "keywords": [
+      "banco",
+      "hsbc",
+      "pagos",
+      "cuenta",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué acción se tomó para resolver la incidencia?",
+    "a": "Se aplicó una excepción para recibir el pago por medio de HSBC.",
+    "product": "General",
+    "keywords": [
+      "acción",
+      "resolución",
+      "excepción",
+      "pago",
+      "hsbc"
+    ]
+  },
+  {
+    "q": "¿Qué información solicita el AMS al cliente para validar el pago?",
+    "a": "El AMS solicita la información del comprobante al cliente para validar si el pago fue realizado correctamente.",
+    "product": "General",
+    "keywords": [
+      "ams",
+      "información",
+      "comprobante",
+      "validación",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿A nombre de quién se realizan actualmente las transferencias?",
+    "a": "Actualmente las transferencias se realizan a nombre de Cómputo Contable Soft.",
+    "product": "General",
+    "keywords": [
+      "transferencias",
+      "nombre",
+      "cómputo contable soft",
+      "actual",
+      "cuenta"
+    ]
+  },
+  {
+    "q": "¿Qué banco se utiliza actualmente para las transferencias?",
+    "a": "Las transferencias se realizan a través del Banco BBVA.",
+    "product": "General",
+    "keywords": [
+      "banco",
+      "bbva",
+      "transferencias",
+      "actual",
+      "pagos"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda al cliente hacer con el dinero transferido a la cuenta incorrecta?",
+    "a": "Se invita al cliente a validar con su banco la devolución del dinero ya que es una cuenta que ya no está activa.",
+    "product": "General",
+    "keywords": [
+      "cliente",
+      "devolución",
+      "dinero",
+      "cuenta",
+      "inactiva",
+      "banco"
+    ]
+  }
+]

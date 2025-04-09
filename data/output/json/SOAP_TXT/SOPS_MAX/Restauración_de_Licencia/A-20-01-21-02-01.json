@@ -1,0 +1,110 @@
+[
+  {
+    "q": "¿Qué debo hacer si mi licencia de MiAdminXML no aparece activada en mi equipo?",
+    "a": "Puedes utilizar la herramienta de Utilidades en MiAdminXML y seleccionar la opción de Restauración por Formateo, introduciendo tu clave de licencia y verificando el correo electrónico registrado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "activación",
+      "problema",
+      "restauración",
+      "formateo",
+      "utilidades",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los requisitos para poder restaurar una licencia de MiAdminXML?",
+    "a": "Debes contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "restauración",
+      "componentes",
+      "hardware",
+      "no cambiar"
+    ]
+  },
+  {
+    "q": "¿En qué casos se puede utilizar la opción de restauración de licencia en MiAdminXML?",
+    "a": "Se puede usar en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en los archivos CL de las licencias o cuando la licencia se desactiva por alguna incidencia.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "casos",
+      "restauración",
+      "formateo",
+      "actualización",
+      "antivirus",
+      "archivos cl",
+      "incidencia"
+    ]
+  },
+  {
+    "q": "¿Qué pasos debo seguir para restaurar mi licencia de MiAdminXML usando la opción de Restauración por Formateo?",
+    "a": "Dirígete a Utilidades en MiAdminXML, selecciona Restauración por Formateo, introduce tu clave de licencia, verifica el correo electrónico registrado y haz clic en continuar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "restauración",
+      "formateo",
+      "utilidades",
+      "clave",
+      "correo electrónico",
+      "continuar"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer si el correo electrónico mostrado no coincide con el registrado al activar la licencia?",
+    "a": "Si el correo electrónico no coincide, debes sustituirlo por el correcto antes de dar clic en continuar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correo electrónico",
+      "no coincide",
+      "sustituir",
+      "correcto",
+      "continuar"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo reactivar mi licencia de MiAdminXML si la restauración por formateo no funciona?",
+    "a": "Puedes llenar un oficio con datos como Nombre o Razón Social, Número de Licencia, motivo detallado del problema, nombre y firma del solicitante, y enviarlo firmado y escaneado a soporte.computocontable@gmail.com dentro de 72 horas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "oficio",
+      "datos",
+      "motivo",
+      "firma",
+      "enviar",
+      "72 horas"
+    ]
+  },
+  {
+    "q": "¿Qué información debo incluir en el oficio para reactivar mi licencia de MiAdminXML?",
+    "a": "Debes incluir Nombre o Razón Social, Número de Licencia, motivo detallado del problema (con captura de pantalla), nombre y firma del solicitante.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "oficio",
+      "información",
+      "nombre",
+      "razón social",
+      "número de licencia",
+      "motivo",
+      "firma",
+      "captura"
+    ]
+  },
+  {
+    "q": "¿Cuál es el plazo máximo para enviar la documentación de reactivación de licencia?",
+    "a": "La documentación debe ser recibida en un plazo no mayor a 72 horas, de lo contrario la solicitud se dará de baja automáticamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "plazo",
+      "documentación",
+      "72 horas",
+      "baja",
+      "automática"
+    ]
+  }
+]

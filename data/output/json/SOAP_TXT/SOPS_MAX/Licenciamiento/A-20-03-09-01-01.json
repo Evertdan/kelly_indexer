@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Cómo puedo activar mi licencia de MiAdminXML desde el registro?",
+    "a": "Para activar la licencia desde el registro, sigue estos pasos: 1) Ejecuta el programa como administrador. 2) Acepta los términos y condiciones. 3) Llena el registro con tus datos y clave de licencia. 4) Responde las preguntas de identificación. 5) Confirma tu correo electrónico. 6) Valida tu correo en el programa. 7) Finaliza el proceso y el programa se reiniciará con acceso a los módulos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activación",
+      "licencia",
+      "registro",
+      "pasos",
+      "correo",
+      "validación",
+      "términos",
+      "condiciones"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para activar la licencia de MiAdminXML desde el menú de licenciamiento?",
+    "a": "Para activar la licencia desde el menú de licenciamiento: 1) Abre MiAdminXML y haz clic en 'Licenciamiento'. 2) Selecciona 'Activar'. 3) Ingresa tu clave de licencia y haz clic en 'Activar'. 4) Confirma el mensaje de activación y el programa se reiniciará con acceso a los módulos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activación",
+      "licencia",
+      "menú",
+      "licenciamiento",
+      "clave",
+      "pasos",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Qué debo hacer después de recibir el correo de confirmación para activar MiAdminXML?",
+    "a": "Después de recibir el correo de confirmación, debes hacer clic en 'Confirmar mi correo' en el email y luego regresar al programa MiAdminXML para hacer clic en 'Ya validé mi correo'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "correo",
+      "confirmación",
+      "validación",
+      "activación",
+      "pasos",
+      "programa"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de activar la licencia de MiAdminXML?",
+    "a": "Después de activar la licencia, el programa se reiniciará automáticamente y tendrás acceso a los módulos correspondientes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "activación",
+      "licencia",
+      "reinicio",
+      "módulos",
+      "acceso",
+      "programa"
+    ]
+  },
+  {
+    "q": "¿Es necesario ejecutar MiAdminXML como administrador para activar la licencia?",
+    "a": "Sí, para activar la licencia desde el registro, es necesario ejecutar el programa como administrador.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ejecutar",
+      "administrador",
+      "activación",
+      "licencia",
+      "registro",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué información necesito para activar mi licencia de MiAdminXML?",
+    "a": "Necesitas tu nombre, apellidos, correo electrónico y la clave de licencia para activar MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "activación",
+      "licencia",
+      "datos",
+      "correo",
+      "clave"
+    ]
+  }
+]

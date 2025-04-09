@@ -1,0 +1,114 @@
+[
+  {
+    "q": "¿Qué se necesita para usar el módulo de CxC CxP en MiAdminXML?",
+    "a": "Se debe contar con una licencia MiAdminXML o estar en periodo demostrativo, y tener información previamente almacenada en la BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cxc",
+      "cxp",
+      "requisitos",
+      "licencia",
+      "bovedacfdi",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de Control de CxC y CxP en MiAdminXML?",
+    "a": "Se accede a través del icono de Control de CxC y CxP dentro de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "cxc",
+      "cxp",
+      "icono",
+      "modulo"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera un reporte en el módulo de CxC CxP?",
+    "a": "Se selecciona el listado dando clic sobre RFC, tipo, año, mes o agrupación, lo que desglosará el reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reporte",
+      "generar",
+      "cxc",
+      "cxp",
+      "listado",
+      "rfc",
+      "agrupación"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede ver la información detallada de un XML en el módulo de CxC CxP?",
+    "a": "Al seleccionar cada registro se puede ver su información o abrir el archivo en formato XML o PDF.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml",
+      "información",
+      "detalle",
+      "pdf",
+      "registro"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica si un XML está vigente o cancelado en el módulo de CxC CxP?",
+    "a": "Se utiliza la herramienta Válida Estado SAT para conocer si el XML aún es vigente o ya cancelado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml",
+      "vigente",
+      "cancelado",
+      "valida estado sat",
+      "verificación"
+    ]
+  },
+  {
+    "q": "¿Cómo se registra una cuenta bancaria en el módulo de CxC CxP?",
+    "a": "Se da clic en la herramienta de Cuenta Bancaria, se llena la ventana de Administración de Cuentas con datos como prefijos, número de cuenta y el Banco, y se da clic en Agregar.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cuenta bancaria",
+      "registro",
+      "alta",
+      "banco",
+      "número de cuenta",
+      "prefijos"
+    ]
+  },
+  {
+    "q": "¿Cómo se marca un pago como realizado en el módulo de CxC CxP?",
+    "a": "Se selecciona el XML o grupo de XMLs, se da clic en Pagado, se elige la fecha, método de pago, número de cuenta y banco, y se da clic en Pagado nuevamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pago",
+      "marcar",
+      "realizado",
+      "fecha",
+      "método de pago",
+      "cuenta bancaria"
+    ]
+  },
+  {
+    "q": "¿Cómo se desmarca un pago en el módulo de CxC CxP?",
+    "a": "Se selecciona el registro, se da clic en No pagado y luego en No.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pago",
+      "desmarcar",
+      "no pagado",
+      "registro"
+    ]
+  },
+  {
+    "q": "¿Cómo se exporta un reporte en el módulo de CxC CxP?",
+    "a": "Una vez terminado el listado, se puede ver el total de Pagado y No pagado en las estadísticas y dar clic en la opción de Exportar Reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reporte",
+      "exportar",
+      "estadísticas",
+      "pagado",
+      "no pagado"
+    ]
+  }
+]

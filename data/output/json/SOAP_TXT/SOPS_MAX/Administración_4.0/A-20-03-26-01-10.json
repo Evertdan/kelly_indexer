@@ -1,0 +1,104 @@
+[
+  {
+    "q": "¿Qué permite hacer la herramienta Renombrar en MiAdminXML?",
+    "a": "La herramienta Renombrar permite modificar el nombre de los archivos XML para generar una mejor identificación de los mismos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "renombrar",
+      "xml",
+      "herramienta",
+      "identificación",
+      "archivos"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para usar la herramienta Renombrar en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "renombrar",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Cómo se renombran XML seleccionados en MiAdminXML?",
+    "a": "Para renombrar XML seleccionados, se debe ingresar al Módulo de Administración de XML, seleccionar el submódulo de Administración de XML 4.0, elegir RFC, tipo de comprobante, año y mes, dar clic en Leer XMLs, seleccionar los XML a renombrar, dar clic en Renombrar XML, elegir los campos deseados (incluyendo el UUID), generar la estructura y finalmente dar clic en Renombrar XMLs seleccionados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "renombrar",
+      "xml seleccionados",
+      "pasos",
+      "administración",
+      "módulo",
+      "submódulo",
+      "estructura",
+      "uuid"
+    ]
+  },
+  {
+    "q": "¿Cómo se renombran todos los XMLs en MiAdminXML?",
+    "a": "Para renombrar todos los XMLs, se debe ingresar al Módulo de Administración de XML, seleccionar el submódulo de Administración de XML 4.0, elegir RFC, tipo de comprobante, año y mes, dar clic en Leer XMLs, dar clic en Renombrar XML, elegir los campos deseados (incluyendo el UUID), generar la estructura y finalmente dar clic en Renombrar todos los XMLs.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "renombrar",
+      "todos los xml",
+      "pasos",
+      "administración",
+      "módulo",
+      "submódulo",
+      "estructura",
+      "uuid"
+    ]
+  },
+  {
+    "q": "¿Qué campo es obligatorio incluir al renombrar XMLs en MiAdminXML?",
+    "a": "El UUID siempre debe ser parte de la estructura al renombrar XMLs.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "uuid",
+      "obligatorio",
+      "renombrar",
+      "estructura",
+      "campo"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede validar que el proceso de renombrado se completó correctamente?",
+    "a": "Se puede validar que el proceso se generó correctamente ingresando a la bóveda CFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "validar",
+      "renombrar",
+      "proceso",
+      "bóveda",
+      "cfdi"
+    ]
+  },
+  {
+    "q": "¿Qué opciones hay para renombrar XMLs en MiAdminXML?",
+    "a": "Hay dos opciones: Renombrar XML seleccionados o Renombrar todos los XMLs.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "renombrar",
+      "xml seleccionados",
+      "todos los xml",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo se realiza la selección múltiple de meses en MiAdminXML?",
+    "a": "Para realizar selección múltiple de meses es necesario palomear los meses necesarios en la interfaz.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "selección múltiple",
+      "meses",
+      "palomear",
+      "interfaz",
+      "administración"
+    ]
+  }
+]

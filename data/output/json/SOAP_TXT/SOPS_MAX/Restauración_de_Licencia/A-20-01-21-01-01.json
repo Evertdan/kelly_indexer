@@ -1,0 +1,76 @@
+[
+  {
+    "q": "¿Qué se necesita para solicitar una reactivación de licencia en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML y enviar un Oficio de Reactivación al correo electrónico indicado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "requisitos",
+      "oficio",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de documento se envía para una primera reactivación de licencia?",
+    "a": "Para una primera reactivación, se envía la plantilla ubicada en Missive llamada 'Primera Reactivación' junto con el formato correspondiente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "primera reactivación",
+      "plantilla",
+      "missive",
+      "formato",
+      "documento"
+    ]
+  },
+  {
+    "q": "¿Qué documentos se envían para una segunda reactivación de licencia?",
+    "a": "Para una segunda reactivación, se envía la plantilla '2nda reactivación PRO' o '2nda Reactivación PLS' junto con un formato adicional donde el cliente indica si requiere factura por el pago realizado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "segunda reactivación",
+      "plantilla",
+      "pro",
+      "pls",
+      "factura",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Qué debe hacer el cliente después de enviar la información para la reactivación?",
+    "a": "El cliente debe llenar el control de reactivaciones ubicado en el drive y esperar la respuesta para proceder con la reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cliente",
+      "control",
+      "reactivaciones",
+      "drive",
+      "respuesta"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene una solicitud de reactivación de licencia?",
+    "a": "La solicitud de reactivación de licencia tiene un nivel de prioridad 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "prioridad",
+      "nivel",
+      "medio",
+      "solicitud",
+      "reactivación"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud es la SOL-01 en MiAdminXML?",
+    "a": "La SOL-01 es una solicitud de reactivación de licencia cuando está en uso y se ha hecho algún cambio de equipo o componente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solicitud",
+      "sol-01",
+      "reactivación",
+      "licencia",
+      "cambio",
+      "equipo"
+    ]
+  }
+]

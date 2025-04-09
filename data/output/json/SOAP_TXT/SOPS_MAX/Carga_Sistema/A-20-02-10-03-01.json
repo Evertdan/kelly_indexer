@@ -1,0 +1,90 @@
+[
+  {
+    "q": "¿Qué tipo de problema se describe en el documento?",
+    "a": "El documento describe un problema relacionado con el cambio de certificado que impide la ejecución correcta de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "problema",
+      "cambio",
+      "certificado",
+      "ejecución",
+      "error"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de gravedad tiene el problema descrito?",
+    "a": "El problema tiene un nivel de gravedad 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "medio",
+      "problema",
+      "incidente"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar el problema en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "solución",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para solucionar el error en Windows 8 u 8.1?",
+    "a": "En Windows 8 u 8.1, se debe hacer clic en 'Mas Información' en la ventana que aparece, verificar los datos del editor y el nombre del programa (MiAdminXML.com), y luego hacer clic en 'Ejecutar de todas formas'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "windows",
+      "8",
+      "8.1",
+      "solución",
+      "error",
+      "ejecutar",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para solucionar el error en Windows 10?",
+    "a": "En Windows 10, se debe hacer clic en 'Mas información' en la ventana que aparece, verificar los datos del editor y el nombre del programa (MiAdminXML.com), y luego hacer clic en 'Ejecutar de todas formas'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "windows",
+      "10",
+      "solución",
+      "error",
+      "ejecutar",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje de error se menciona en el documento?",
+    "a": "El documento menciona un error de SmartScreen que impide la ejecución correcta de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "smartscreen",
+      "ejecución",
+      "problema",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Qué sucede después de seguir los pasos para solucionar el error?",
+    "a": "Después de seguir los pasos indicados, el error de SmartScreen ya no aparecerá y se podrá ejecutar MiAdminXML sin problemas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "error",
+      "smartscreen",
+      "ejecución",
+      "sin problemas"
+    ]
+  }
+]

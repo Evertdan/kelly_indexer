@@ -1,0 +1,65 @@
+[
+  {
+    "q": "¿Qué sistema se va a instalar según el documento?",
+    "a": "El sistema a instalar es MiExpedienteContable.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "sistema",
+      "instalación",
+      "miexpedientecontable",
+      "descripción",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cómo puede el cliente descargar MiExpedienteContable?",
+    "a": "El cliente debe ingresar a la página proporcionada, registrarse en el formulario ingresando Nombre, Apellido y Correo Electrónico, y recibirá el instalador del sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "descargar",
+      "registro",
+      "formulario",
+      "instalador",
+      "página",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué se requiere para disfrutar de los 30 días gratis de MiExpedienteContable?",
+    "a": "Para disfrutar de los 30 días gratis, el sistema debe descargarse en un equipo que no haya tenido instalado MiExpedienteContable previamente. De lo contrario, solicitará ingresar una clave de licencia.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "30 días gratis",
+      "requisitos",
+      "equipo",
+      "licencia",
+      "instalación previa"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir después de descargar el instalador de MiExpedienteContable?",
+    "a": "Después de descargar el instalador, se deben seleccionar las opciones correspondientes, marcar la casilla de 'Ejecutar MiExpedienteContable' al finalizar la instalación, y realizar el registro del sistema para completar el proceso.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "pasos",
+      "instalación",
+      "ejecutar",
+      "registro",
+      "finalizar",
+      "opciones"
+    ]
+  },
+  {
+    "q": "¿Qué información debe proporcionar el cliente para registrarse y descargar MiExpedienteContable?",
+    "a": "El cliente debe proporcionar su Nombre, Apellido y Correo Electrónico en el formulario de registro para recibir el instalador del sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "información",
+      "nombre",
+      "apellido",
+      "correo electrónico",
+      "formulario"
+    ]
+  }
+]

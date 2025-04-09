@@ -1,0 +1,62 @@
+[
+  {
+    "q": "¿Qué se necesita para registrar MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro",
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "formulario"
+    ]
+  },
+  {
+    "q": "¿Qué sucede si el usuario no recibe el correo de registro de MiExpedienteContable?",
+    "a": "En caso de no recibir el correo, se puede verificar y confirmar mediante el comando /bot confirma MEC correo_registrado_usuario.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo",
+      "registro",
+      "verificación",
+      "bot",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Cómo se confirma que el registro de MiExpedienteContable fue exitoso?",
+    "a": "Al finalizar el registro, el sistema mostrará una leyenda indicando que el registro fue exitoso. Si se marcó la casilla 'Ya cuento con clave de licencia', también se indicará que la activación fue exitosa, lo cual se puede validar en el módulo de LICENCIAMIENTO.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "registro exitoso",
+      "confirmación",
+      "leyenda",
+      "activación",
+      "módulo licenciamiento"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento?",
+    "a": "El documento describe el proceso de registro del formulario MiExpedienteContable por parte del cliente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "situación",
+      "registro",
+      "formulario",
+      "proceso",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de complejidad tiene el registro de MiExpedienteContable?",
+    "a": "El nivel de complejidad del registro de MiExpedienteContable es bajo (Nivel 1).",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "bajo",
+      "registro",
+      "soporte"
+    ]
+  }
+]

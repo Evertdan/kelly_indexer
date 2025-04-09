@@ -1,0 +1,48 @@
+[
+  {
+    "q": "¿En qué bancos se puede realizar el pago de la licencia de AdminXML?",
+    "a": "Los bancos donde se puede realizar el pago de la licencia son: BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa.",
+    "product": "AdminXML",
+    "keywords": [
+      "bancos",
+      "pago",
+      "licencia",
+      "adminxml",
+      "bbva",
+      "banorte",
+      "santander",
+      "scotiabank",
+      "hsbc",
+      "inbursa"
+    ]
+  },
+  {
+    "q": "¿Dónde puedo encontrar información sobre los bancos para pagar la licencia de AdminXML?",
+    "a": "La información sobre los bancos donde se puede realizar el pago está disponible en la página www.adminxml.com.",
+    "product": "AdminXML",
+    "keywords": [
+      "información",
+      "bancos",
+      "pago",
+      "licencia",
+      "adminxml",
+      "página",
+      "web"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de consulta es la pregunta sobre los bancos para pagar la licencia?",
+    "a": "La pregunta sobre los bancos para pagar la licencia está clasificada como FAQ-03 y tiene un nivel de dificultad 1 – Bajo.",
+    "product": "AdminXML",
+    "keywords": [
+      "consulta",
+      "tipo",
+      "faq",
+      "nivel",
+      "dificultad",
+      "bajo",
+      "pago",
+      "licencia"
+    ]
+  }
+]

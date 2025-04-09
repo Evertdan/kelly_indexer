@@ -1,0 +1,82 @@
+[
+  {
+    "q": "¿Qué se necesita para solucionar un error de conexión al servidor del SAT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con esto, se debe contactar por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "conexión",
+      "sat",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Cómo verificar si el equipo tiene acceso al portal del SAT?",
+    "a": "Se debe revisar el portal del SAT en https://portalcfdi.facturaelectronica.sat.gob.mx/. Si no hay acceso, puede ser debido a fallas o modificaciones en el portal del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar",
+      "acceso",
+      "portal",
+      "sat",
+      "fallas",
+      "modificaciones"
+    ]
+  },
+  {
+    "q": "¿Qué pasos seguir para actualizar MiAdminXML de forma manual?",
+    "a": "1. Dar clic en 'Utilidades'. 2. Dar clic en 'Resetear Internet Explorer'. 3. Marcar la casilla 'Eliminar configuración' y dar clic en 'Restablecer'. 4. Cerrar la pantalla y el programa. 5. Agregar en la configuración de JAVA la página del SAT https://www.sat.gob.mx/. 6. Volver a abrir MiAdminXML y realizar una prueba de conexión.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualizar",
+      "manual",
+      "utilidades",
+      "resetear",
+      "internet explorer",
+      "java",
+      "prueba conexión"
+    ]
+  },
+  {
+    "q": "¿Qué configuraciones de red se deben revisar para desbloquear la conexión en MiAdminXML?",
+    "a": "Se debe tener conexión a internet, actualizar MiAdminXML, agregar MiAdminXML.exe en excepciones de antivirus o firewall, y si es necesario agregar en firewall, proxy, dominio u otras configuraciones de RED las IPs www.adminxml.com (207.244.103.231 sin puerto) y https://api.computocontable.com (con puerto 443).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "configuración",
+      "red",
+      "conexión",
+      "antivirus",
+      "firewall",
+      "proxy",
+      "dominio",
+      "ip"
+    ]
+  },
+  {
+    "q": "¿Cómo ejecutar MiAdminXML con permisos de administrador?",
+    "a": "Se debe ejecutar la aplicación en la cuenta de administrador o con permisos de administrador.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ejecutar",
+      "permisos",
+      "administrador",
+      "cuenta",
+      "aplicación"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el portal del SAT no está accesible?",
+    "a": "Si el portal del SAT no está accesible, puede ser debido a fallas o modificaciones en el portal y hay que esperar a que se restablezca para continuar con la búsqueda y descarga.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "portal",
+      "sat",
+      "accesible",
+      "fallas",
+      "modificaciones",
+      "restablecer"
+    ]
+  }
+]

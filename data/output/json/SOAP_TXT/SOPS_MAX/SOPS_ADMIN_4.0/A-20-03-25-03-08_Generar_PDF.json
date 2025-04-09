@@ -1,0 +1,67 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar la herramienta Generar PDF en MAX?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MAX",
+    "keywords": [
+      "generar pdf",
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "periodo demostrativo",
+      "max"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para generar un PDF desde MAX?",
+    "a": "1. Ingresar al módulo de administración. 2. Seleccionar el RFC/Tipo/Año/Mes. 3. Dar clic en Leer XMLs. 4. Seleccionar la herramienta Generar PDF. 5. Esperar a que cargue la herramienta. 6. Elegir entre generación masiva o individual. 7. Seleccionar abrir archivo(s) PDF. 8. Dar clic en Generar PDF. 9. Visualizar el archivo con el visor predeterminado.",
+    "product": "MAX",
+    "keywords": [
+      "pasos",
+      "generar pdf",
+      "max",
+      "proceso",
+      "xml",
+      "herramienta",
+      "administración"
+    ]
+  },
+  {
+    "q": "¿Qué opciones tengo al generar un PDF en MAX?",
+    "a": "Puedes elegir entre generar el PDF de manera masiva o individual.",
+    "product": "MAX",
+    "keywords": [
+      "opciones",
+      "generar pdf",
+      "masiva",
+      "individual",
+      "max",
+      "elección"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo visualizar el PDF generado en MAX?",
+    "a": "El PDF generado se visualiza automáticamente con el visor predeterminado del sistema.",
+    "product": "MAX",
+    "keywords": [
+      "visualizar",
+      "pdf",
+      "visor",
+      "predeterminado",
+      "max",
+      "generar"
+    ]
+  },
+  {
+    "q": "¿Qué módulo debo usar en MAX para generar un PDF?",
+    "a": "Debes ingresar al módulo de administración de MAX para generar un PDF.",
+    "product": "MAX",
+    "keywords": [
+      "módulo",
+      "administración",
+      "max",
+      "generar pdf",
+      "acceso"
+    ]
+  }
+]

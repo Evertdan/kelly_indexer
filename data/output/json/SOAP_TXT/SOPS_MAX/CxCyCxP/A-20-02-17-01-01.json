@@ -1,0 +1,86 @@
+[
+  {
+    "q": "¿Qué tipo de problema se describe en el texto?",
+    "a": "No se crea correctamente la base de datos que almacena la información en CxC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "problema",
+      "base de datos",
+      "cxc",
+      "error",
+      "creación"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de gravedad del problema descrito?",
+    "a": "El nivel de gravedad es 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "medio",
+      "problema",
+      "severidad"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para resolver el problema descrito?",
+    "a": "Se necesita tener MiAdminXML actualizado y contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "actualizado",
+      "periodo demostrativo",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Qué archivo se debe eliminar si no se crea correctamente la base de datos en CxC?",
+    "a": "Se debe eliminar el archivo 'SU_RFC.sqlite' si su tamaño es '0KB'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "archivo",
+      "sqlite",
+      "eliminar",
+      "0kb",
+      "base de datos"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra el archivo que debe ser eliminado?",
+    "a": "El archivo se encuentra en la carpeta C:\\AdminXML\\BovedaCFDi, dentro de la carpeta correspondiente al RFC del usuario.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ubicación",
+      "carpeta",
+      "bovedacfdi",
+      "rfc",
+      "archivo"
+    ]
+  },
+  {
+    "q": "¿Qué pasos se deben seguir después de eliminar el archivo SQLITE?",
+    "a": "Después de eliminar el archivo, se debe volver a entrar en Control de CxC y CxP y probar el sistema para verificar si ya se permite la 'Creación de Cuentas Bancarias'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "probar",
+      "cxc",
+      "cxp",
+      "cuentas bancarias"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer antes de eliminar el archivo SQLITE?",
+    "a": "Antes de eliminar el archivo SQLITE, se debe cerrar el programa de MiAdminXML y/o terminar los procesos en el Administrador de Tareas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "cerrar",
+      "programa",
+      "administrador de tareas",
+      "procesos",
+      "antes"
+    ]
+  }
+]

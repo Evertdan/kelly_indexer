@@ -1,0 +1,75 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información?",
+    "a": "Es una incidencia tipo INC 02, con un nivel de dificultad medio (Nivel 2).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "alta",
+      "contribuyente",
+      "información",
+      "nivel",
+      "medio",
+      "inc02"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para dar de alta contribuyentes en MiAdminXML?",
+    "a": "Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "alta",
+      "contribuyentes",
+      "licencia",
+      "periodo",
+      "demostrativo",
+      "clave"
+    ]
+  },
+  {
+    "q": "¿Qué datos son obligatorios para dar de alta un contribuyente en MiAdminXML?",
+    "a": "Los datos obligatorios son RFC, Nombre o Razón Social, y Contraseña.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "datos",
+      "obligatorios",
+      "alta",
+      "contribuyente",
+      "rfc",
+      "nombre",
+      "razón social",
+      "contraseña"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si falta información para dar de alta un contribuyente en MiAdminXML?",
+    "a": "Se debe llenar todos los datos requeridos, incluyendo RFC, Nombre o Razón Social, y Contraseña, para completar el alta correctamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "falta",
+      "información",
+      "alta",
+      "contribuyente",
+      "llenar",
+      "datos",
+      "requeridos",
+      "solución"
+    ]
+  },
+  {
+    "q": "¿Cuál es el nivel de dificultad de una incidencia por falta de información en el alta de contribuyentes?",
+    "a": "El nivel de dificultad es medio (Nivel 2).",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "dificultad",
+      "incidencia",
+      "alta",
+      "contribuyente",
+      "medio",
+      "nivel2"
+    ]
+  }
+]

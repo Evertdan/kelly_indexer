@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué sucede cuando la base de datos es modificada o cambia de versión en MiAdminXML?",
+    "a": "Puede que se elimine la información del catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "base de datos",
+      "modificación",
+      "cambio de versión",
+      "catálogo",
+      "eliminación"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede solucionar la pérdida de información del catálogo en MiAdminXML?",
+    "a": "Volver a registrar los datos del contribuyente, ya que no es recuperable por el cambio de versión.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "solución",
+      "pérdida de información",
+      "catálogo",
+      "registrar",
+      "contribuyente"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para resolver problemas relacionados con el catálogo en MiAdminXML?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico. También se requiere RFC y CIEC.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico",
+      "rfc",
+      "ciec"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de impacto tiene la pérdida de información del catálogo en MiAdminXML?",
+    "a": "El nivel de impacto es 1 – Bajo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel de impacto",
+      "bajo",
+      "catálogo",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia es la pérdida de información del catálogo en MiAdminXML?",
+    "a": "El tipo de incidencia es INC-02.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo de incidencia",
+      "inc-02",
+      "catálogo",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué información se ve afectada cuando se pierde el catálogo en MiAdminXML?",
+    "a": "Se ve afectada la información del llenado del catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información afectada",
+      "catálogo",
+      "contribuyentes",
+      "llenado"
+    ]
+  }
+]

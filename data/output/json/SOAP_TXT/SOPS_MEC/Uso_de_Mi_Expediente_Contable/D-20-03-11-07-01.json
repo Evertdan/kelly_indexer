@@ -1,0 +1,98 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar el módulo de Certificados en MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "módulo",
+      "certificados",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo ver mis certificados vigentes en MiExpedienteContable?",
+    "a": "Debes dar clic en el botón 'CERTIFICADOS VIGENTES' dentro del módulo de Certificados.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "certificados",
+      "vigentes",
+      "botón",
+      "visualizar",
+      "módulo"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo ver mis certificados próximos a vencer y vencidos en MiExpedienteContable?",
+    "a": "Debes dar clic en los botones 'PRÓXIMOS A VENCER' y 'VENCIDOS'. En la celda 'Detalle' del botón 'Próximos a vencer' verás una alarma que muestra los días próximos a caducar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "certificados",
+      "próximos a vencer",
+      "vencidos",
+      "alarma",
+      "días caducar"
+    ]
+  },
+  {
+    "q": "¿Cómo programar una alerta de renovación de certificados en MiExpedienteContable?",
+    "a": "Ve a la pestaña de Certificados, selecciona un contribuyente, da clic en 'Días Alerta Renovación', ingresa el número de días para la alerta y haz clic en 'Guardar'. Las notificaciones aparecerán en la parte superior izquierda de la pantalla.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "alerta",
+      "renovación",
+      "certificados",
+      "notificaciones",
+      "programar"
+    ]
+  },
+  {
+    "q": "¿Cómo actualizar un certificado en MiExpedienteContable?",
+    "a": "Ve a la pestaña 'Certificados', selecciona un contribuyente, elige un certificado caducado, da clic en 'Actualizar Certificado', llena los datos del nuevo certificado y guarda los cambios. Se te pedirá confirmación antes de finalizar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "actualizar",
+      "certificado",
+      "caducado",
+      "nuevo",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Cómo exportar a Excel el reporte de certificados en MiExpedienteContable?",
+    "a": "Ve a la pestaña 'Certificados', selecciona un contribuyente, elige el listado a exportar (vigentes, próximos a vencer o vencidos), da clic en 'Exportar a Excel' y selecciona la ruta donde guardar el archivo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "exportar",
+      "excel",
+      "reporte",
+      "certificados",
+      "ruta"
+    ]
+  },
+  {
+    "q": "¿Dónde aparecen las notificaciones de renovación de certificados en MiExpedienteContable?",
+    "a": "Las notificaciones aparecen en la parte superior izquierda de la pantalla del sistema. Para verlas, debes dar clic sobre el icono de notificaciones.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "notificaciones",
+      "renovación",
+      "certificados",
+      "icono",
+      "pantalla"
+    ]
+  },
+  {
+    "q": "¿Qué pasa con los archivos cambiados al actualizar un certificado en MiExpedienteContable?",
+    "a": "Todos los archivos que sean cambiados al actualizar un certificado serán respaldados automáticamente.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "archivos",
+      "cambiados",
+      "actualizar",
+      "certificado",
+      "respaldados"
+    ]
+  }
+]

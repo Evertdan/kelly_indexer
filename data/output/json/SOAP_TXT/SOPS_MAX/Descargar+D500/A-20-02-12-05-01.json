@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Qué puede causar que no se descarguen todos los paquetes en MiAdminXML?",
+    "a": "Puede ser por el rendimiento del equipo o intermitencia de internet.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "descarga",
+      "paquetes",
+      "problema",
+      "rendimiento",
+      "internet",
+      "intermitencia",
+      "falla"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar problemas de descarga en MiAdminXML?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, se debe solucionar el problema por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico",
+      "solucionar"
+    ]
+  },
+  {
+    "q": "¿Cómo solucionar el problema de descarga incompleta usando la herramienta Desmarcable en MiAdminXML?",
+    "a": "Dar clic derecho en los paquetes que no descargaron correctamente, seleccionar Desmarcable, volver a dar clic derecho a marcable y luego dar clic en verificar para intentar la descarga nuevamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "desmarcable",
+      "herramienta",
+      "solución",
+      "clic derecho",
+      "verificar",
+      "descarga",
+      "paquetes"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si la solución con Desmarcable no funciona en MiAdminXML?",
+    "a": "Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud. Por ejemplo, ajustar las fechas de inicio y fin de la consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "consulta",
+      "generar",
+      "fechas",
+      "segundos",
+      "solicitud",
+      "ajustar",
+      "reintentar"
+    ]
+  },
+  {
+    "q": "¿Cómo ajustar las fechas de consulta para reintentar la descarga en MiAdminXML?",
+    "a": "Por ejemplo, si está consultando datos del mes de mayo, podría iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 01 de junio a las 00:00:00.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "fechas",
+      "consulta",
+      "ajuste",
+      "ejemplo",
+      "mayo",
+      "abril",
+      "junio",
+      "formato"
+    ]
+  }
+]

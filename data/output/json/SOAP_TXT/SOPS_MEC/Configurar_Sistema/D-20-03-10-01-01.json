@@ -1,0 +1,78 @@
+[
+  {
+    "q": "¿Qué se necesita para cambiar la ruta de la Bóveda en Red en MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "bóveda",
+      "red",
+      "cambio",
+      "ruta",
+      "licencia",
+      "requisitos",
+      "periodo demostrativo"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los modos de conexión disponibles en MiExpedienteContable?",
+    "a": "MiExpedienteContable cuenta con dos modos de conexión: terminal y servidor.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "conexión",
+      "modos",
+      "terminal",
+      "servidor",
+      "configuración"
+    ]
+  },
+  {
+    "q": "¿Cómo configurar la conexión en modo servidor en MiExpedienteContable?",
+    "a": "Para configurar la conexión en modo servidor, se debe instalar el sistema bajo la opción Servidor, registrar el sistema, compartir la carpeta de instalación (C:\\MiExpedienteContable) y configurar el puerto como excepción en el firewall del equipo.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "configuración",
+      "servidor",
+      "instalación",
+      "carpeta compartida",
+      "firewall",
+      "puerto"
+    ]
+  },
+  {
+    "q": "¿Qué pasos seguir para configurar el firewall en MiExpedienteContable?",
+    "a": "Para configurar el firewall, se debe ingresar a Panel de Control/Firewall de Windows Defender, seleccionar Configuración avanzada, Reglas de entrada y Nueva Regla, eligiendo la opción Puerto y separando por comas los puertos necesarios.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "firewall",
+      "configuración",
+      "windows defender",
+      "reglas",
+      "puertos"
+    ]
+  },
+  {
+    "q": "¿Cómo configurar la conexión en modo terminal en MiExpedienteContable?",
+    "a": "Para configurar la conexión en modo terminal, se debe instalar el sistema bajo la opción Terminal, registrar el sistema, ingresar el Nombre o IP Fija del servidor y la carpeta compartida del servidor, y luego reiniciar el sistema.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "configuración",
+      "terminal",
+      "instalación",
+      "servidor",
+      "ip",
+      "carpeta compartida"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer para migrar la información a otra ubicación en MiExpedienteContable?",
+    "a": "Para migrar toda la información a otra ubicación, se debe copiar la carpeta MiExpedienteContable a la ruta deseada. De lo contrario, al elegir una nueva ruta, el sistema cargará sin información.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "migración",
+      "información",
+      "carpeta",
+      "ruta",
+      "copia"
+    ]
+  }
+]

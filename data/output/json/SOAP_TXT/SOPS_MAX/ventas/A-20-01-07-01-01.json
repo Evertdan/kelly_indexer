@@ -1,0 +1,66 @@
+[
+  {
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales y de descuentos?",
+    "a": "El cliente puede desuscribirse de los correos promocionales utilizando la opción de desuscripción que se encuentra en la parte inferior de los correos que enviamos.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "descuentos",
+      "desuscripción",
+      "opción"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos son obligatorios y no se pueden desuscribir?",
+    "a": "Los correos obligatorios son aquellos relacionados con la descarga, validación, factura y entrega de licencia. Estos no se pueden desuscribir.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "descarga",
+      "validación",
+      "factura",
+      "licencia"
+    ]
+  },
+  {
+    "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
+    "product": "General",
+    "keywords": [
+      "periodo",
+      "gratuito",
+      "correos",
+      "promocionales",
+      "desuscribirse",
+      "spam"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer al abrir el programa por primera vez para evitar recibir correos promocionales?",
+    "a": "Al abrir el programa por primera vez, no se deben marcar las casillas en la pantalla de Términos y Condiciones para evitar recibir correos promocionales.",
+    "product": "General",
+    "keywords": [
+      "programa",
+      "primera vez",
+      "términos",
+      "condiciones",
+      "correos",
+      "promocionales",
+      "marcar",
+      "casillas"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de correos se pueden desuscribir?",
+    "a": "Los correos que se pueden desuscribir son los promocionales.",
+    "product": "General",
+    "keywords": [
+      "correos",
+      "promocionales",
+      "desuscribir",
+      "tipo"
+    ]
+  }
+]

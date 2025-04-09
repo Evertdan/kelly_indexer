@@ -1,0 +1,42 @@
+[
+  {
+    "q": "¿En cuántos equipos se puede utilizar la clave de licencia de MiExpedienteContable?",
+    "a": "La clave de licencia de MiExpedienteContable se usa únicamente en un equipo y/o sesión de usuario.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "licencia",
+      "equipos",
+      "clave",
+      "uso",
+      "sesión",
+      "usuario",
+      "restricciones"
+    ]
+  },
+  {
+    "q": "¿Qué restricciones tiene la clave de licencia de MiExpedienteContable?",
+    "a": "La clave de licencia de MiExpedienteContable está restringida a un solo equipo y/o sesión de usuario.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "restricciones",
+      "licencia",
+      "equipo",
+      "sesión",
+      "usuario",
+      "limitaciones"
+    ]
+  },
+  {
+    "q": "¿Puedo usar MiExpedienteContable en varios equipos con la misma licencia?",
+    "a": "No, la clave de licencia de MiExpedienteContable solo puede ser utilizada en un equipo y/o sesión de usuario.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "varios equipos",
+      "licencia",
+      "uso",
+      "restricción",
+      "sesión",
+      "usuario"
+    ]
+  }
+]

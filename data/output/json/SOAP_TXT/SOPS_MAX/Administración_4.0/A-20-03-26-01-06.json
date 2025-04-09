@@ -1,0 +1,63 @@
+[
+  {
+    "q": "¿Qué permite hacer la herramienta Localizar XML en MiAdminXML?",
+    "a": "La herramienta Localizar XML permite encontrar de forma rápida la ubicación exacta dentro del equipo de cómputo del archivo XML. Abre la carpeta donde se encuentra el XML y lo selecciona.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "localizar xml",
+      "herramienta",
+      "ubicación",
+      "archivo",
+      "carpeta",
+      "seleccionar",
+      "equipo",
+      "computo"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta Localizar XML?",
+    "a": "Se requiere contar con Licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "herramienta",
+      "localizar xml",
+      "necesito"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los pasos para usar la herramienta Localizar XML en MiAdminXML?",
+    "a": "1. Ingresa al módulo de Administración de XML. 2. Selecciona el submódulo de Administración de XML 4.0. 3. Selecciona RFC, Tipo, Año y Mes(es). 4. Da clic de lado derecho en la herramienta Leer XMLs. 5. Seleccionar el XML y dar clic al botón Localizar XML. 6. Se abre la ventana de la carpeta de ubicación y selecciona automáticamente el XML localizado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "pasos",
+      "procedimiento",
+      "localizar xml",
+      "herramienta",
+      "administración",
+      "xml",
+      "seleccionar",
+      "rfc",
+      "tipo",
+      "año",
+      "mes"
+    ]
+  },
+  {
+    "q": "¿Qué sucede al dar clic en el botón Localizar XML?",
+    "a": "Se abre la ventana de la carpeta de ubicación y selecciona automáticamente el XML localizado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "botón",
+      "localizar xml",
+      "acción",
+      "ventana",
+      "carpeta",
+      "ubicación",
+      "selección",
+      "automático"
+    ]
+  }
+]

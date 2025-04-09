@@ -1,0 +1,61 @@
+[
+  {
+    "q": "¿Qué tipo de operación se puede modificar con la herramienta en MiAdminXML?",
+    "a": "La herramienta de tipo de operación se utiliza para modificar dependiendo las prestaciones de servicio, arrendamiento u otros.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo de operación",
+      "modificar",
+      "prestaciones de servicio",
+      "arrendamiento",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Qué versión del documento se está revisando?",
+    "a": "La versión del documento es 09.09.2020.04.",
+    "product": "General",
+    "keywords": [
+      "versión",
+      "documento",
+      "revisión",
+      "09.09.2020.04"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte se menciona en el documento?",
+    "a": "El nivel de soporte mencionado es Nivel 1 - Temprano.",
+    "product": "General",
+    "keywords": [
+      "nivel de soporte",
+      "temprano",
+      "nivel 1",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar problemas en MiAdminXML según las políticas?",
+    "a": "Se debe contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "solucionar problemas",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Para qué se utiliza la herramienta de tipo de operación en MiAdminXML?",
+    "a": "La herramienta de tipo de operación se utiliza para que al generar la DIOT puedan aparecer con el tipo de operación que pertenecen.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "tipo de operación",
+      "DIOT",
+      "generar",
+      "pertenecen"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "q": "¿Qué se necesita para usar la herramienta Verificar series en MiAdminXML?",
+    "a": "Se requiere tener la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Además, es necesario tener información previamente almacenada en la BovedaCFDi.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "verificar series",
+      "requisitos",
+      "licencia",
+      "profesional",
+      "bovedacfdi",
+      "herramienta",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la herramienta Verificar series en MiAdminXML?",
+    "a": "Se accede a MiAdminXML, se da clic en el icono de Administración de XML, se selecciona el listado por RFC, tipo, año, mes o agrupación, y en el reporte de Facturas se selecciona la herramienta Verificar series.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "herramienta",
+      "verificar series",
+      "administración",
+      "xml",
+      "reporte",
+      "facturas"
+    ]
+  },
+  {
+    "q": "¿Qué información puedo obtener con la herramienta Verificar series?",
+    "a": "La herramienta permite conocer si las series y folios internos están duplicados o faltantes, verificar que los folios sean continuos, y generar reportes del listado en Excel.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "series",
+      "folios",
+      "duplicados",
+      "faltantes",
+      "continuos",
+      "reportes",
+      "excel"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo verificar folios duplicados en MiAdminXML?",
+    "a": "Se utiliza la opción Extrae Duplicados dentro de la herramienta Verificar series para identificar si algún folio se duplicó al emitirse.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "folios",
+      "duplicados",
+      "extrae duplicados",
+      "verificar series",
+      "herramienta"
+    ]
+  },
+  {
+    "q": "¿Cómo puedo exportar los resultados de la verificación de series en MiAdminXML?",
+    "a": "Se puede exportar el listado original, los folios duplicados o faltantes, y el reporte corregido a Excel usando las opciones Exportar lista de CFDI, Exportar resultados y Lista depurada respectivamente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "exportar",
+      "resultados",
+      "excel",
+      "lista cfdi",
+      "folios duplicados",
+      "faltantes",
+      "lista depurada"
+    ]
+  },
+  {
+    "q": "¿Qué hago si no tengo la licencia MiAdminXML Profesional ni estoy en el periodo demostrativo?",
+    "a": "Si no se cuenta con la licencia Profesional ni se está en el periodo demostrativo, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ]
+  }
+]

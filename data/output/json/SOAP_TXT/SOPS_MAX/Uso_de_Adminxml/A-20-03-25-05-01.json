@@ -1,0 +1,68 @@
+[
+  {
+    "q": "¿Qué módulo de MiAdminXML permite gestionar RFC y contraseñas de contribuyentes?",
+    "a": "El módulo de catálogo contribuyentes en MiAdminXML permite mantener los RFC y contraseñas guardadas en el equipo para facilitar el acceso rápido al SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "catálogo contribuyentes",
+      "rfc",
+      "contraseñas",
+      "gestión",
+      "módulo",
+      "sat",
+      "acceso rápido"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar el módulo de catálogo contribuyentes en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo del software.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "catálogo contribuyentes",
+      "acceso"
+    ]
+  },
+  {
+    "q": "¿Cómo se accede al módulo de catálogo contribuyentes en MiAdminXML?",
+    "a": "Para acceder al módulo, se debe ingresar al programa MiAdminXML y seleccionar el módulo de Contabilidad, donde se desplegará la ventana del catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "módulo contabilidad",
+      "catálogo contribuyentes",
+      "ventana",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Qué acciones se pueden realizar en el catálogo de contribuyentes de MiAdminXML?",
+    "a": "En el catálogo de contribuyentes se pueden realizar tres acciones principales: agregar un nuevo contribuyente (ingresando RFC, razón social y clave CIEC), modificar los datos de un contribuyente existente o eliminar un RFC de la lista.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acciones",
+      "agregar",
+      "modificar",
+      "eliminar",
+      "rfc",
+      "razón social",
+      "clave ciec",
+      "catálogo"
+    ]
+  },
+  {
+    "q": "¿Qué información se necesita para agregar un nuevo contribuyente al catálogo en MiAdminXML?",
+    "a": "Para agregar un nuevo contribuyente al catálogo, se debe ingresar el RFC, la razón social y la clave CIEC del contribuyente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nuevo contribuyente",
+      "agregar",
+      "rfc",
+      "razón social",
+      "clave ciec",
+      "datos requeridos"
+    ]
+  }
+]

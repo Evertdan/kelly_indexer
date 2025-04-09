@@ -1,0 +1,57 @@
+[
+  {
+    "q": "¿Qué función tiene la herramienta 'Tipo de Operación' en el módulo Generación de DIOT de MiAdminXML?",
+    "a": "La herramienta 'Tipo de Operación' permite modificar las facturas seleccionadas de acuerdo a tres factores: Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros, para que al generar el archivo DIOT se muestre el tipo correspondiente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tipo de operación",
+      "diot",
+      "modificar facturas",
+      "prestaciones de servicios",
+      "arrendamiento",
+      "otros",
+      "generación de carga batch"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la generación de carga Batch DIOT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML para utilizar la generación de carga Batch DIOT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "miadminxml",
+      "generación de carga",
+      "batch",
+      "diot"
+    ]
+  },
+  {
+    "q": "¿Cómo se aplica el tipo de operación a las facturas en MiAdminXML?",
+    "a": "Para aplicar el tipo de operación, se selecciona el tipo requerido (Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros) y se hace clic en el botón Aceptar. El resultado se verá reflejado en el documento generado al realizar el proceso de generación de carga batch.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "aplicar tipo de operación",
+      "facturas",
+      "seleccionar tipo",
+      "prestaciones de servicios",
+      "arrendamiento",
+      "otros",
+      "botón aceptar",
+      "generación batch"
+    ]
+  },
+  {
+    "q": "¿Qué opciones de tipo de operación están disponibles en MiAdminXML?",
+    "a": "Las opciones disponibles para el tipo de operación son: Prestaciones de servicios profesionales, Arrendamiento de inmuebles y Otros.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "opciones",
+      "tipo de operación",
+      "prestaciones de servicios",
+      "arrendamiento",
+      "otros",
+      "miadminxml"
+    ]
+  }
+]

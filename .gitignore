@@ -1,0 +1,182 @@
+# kelly_indexer/.gitignore
+
+# === Archivos de Bytecode y Caché de Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# === Entornos Virtuales ===
+# Ignorar directorios de entornos virtuales comunes (venv, conda generalmente está fuera)
+venv/
+.venv/
+env/
+*/venv/
+*/.venv/
+*/env/
+# Archivos específicos de Conda si se generan localmente (raro)
+conda-meta/
+
+# === Artefactos de Distribución/Build ===
+build/
+dist/
+*.egg-info/
+*.egg
+wheelhouse/
+target/
+sdist/
+*.tar.gz
+*.whl
+
+# === Caché de Instaladores y Herramientas ===
+.pip-cache/
+pip-wheel-metadata/
+.mypy_cache/
+.ruff_cache/
+
+# === Artefactos y Caché de Pruebas ===
+.pytest_cache/
+.coverage*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+junit*.xml
+
+# === Logs ===
+# Ignorar archivos de log genéricos. Sé específico si necesitas alguno en git.
+*.log
+logs/
+# Ignorar archivo de log por defecto si se genera (según config.py opcional)
+# data/output/reports/indexer.log
+
+# === IDEs y Editores ===
+# IntelliJ / PyCharm
+.idea/
+*.iml
+# VS Code (ajusta si compartes configuraciones específicas)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# === Archivos del Sistema Operativo ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# === Secretos y Configuración Local ===
+# ¡¡¡ MUY IMPORTANTE: Nunca subir el archivo .env con secretos !!!
+.env
+# Ignorar también otros archivos .env locales si usas patrones como .env.local, .env.development
+.env.*
+!.env.s# kelly_indexer/.gitignore
+
+# === Archivos de Bytecode y Caché de Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# === Entornos Virtuales ===
+# Ignorar directorios de entornos virtuales comunes (venv, conda generalmente está fuera)
+venv/
+.venv/
+env/
+*/venv/
+*/.venv/
+*/env/
+# Archivos específicos de Conda si se generan localmente (raro)
+conda-meta/
+
+# === Artefactos de Distribución/Build ===
+build/
+dist/
+*.egg-info/
+*.egg
+wheelhouse/
+target/
+sdist/
+*.tar.gz
+*.whl
+
+# === Caché de Instaladores y Herramientas ===
+.pip-cache/
+pip-wheel-metadata/
+.mypy_cache/
+.ruff_cache/
+
+# === Artefactos y Caché de Pruebas ===
+.pytest_cache/
+.coverage*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+junit*.xml
+
+# === Logs ===
+# Ignorar archivos de log genéricos. Sé específico si necesitas alguno en git.
+*.log
+logs/
+# Ignorar archivo de log por defecto si se genera (según config.py opcional)
+# data/output/reports/indexer.log
+
+# === IDEs y Editores ===
+# IntelliJ / PyCharm
+.idea/
+*.iml
+# VS Code (ajusta si compartes configuraciones específicas)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# === Archivos del Sistema Operativo ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+# Archivos de compilación/ejecutables de Windows
+*.[Oo]bj
+*.exe
+*.pdb
+*.ilk
+*.msi
+*.msm
+*.msp
+# Linux / Vim / Otros
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# === Secretos y Configuración Local ===
+# ¡¡¡ MUY IMPORTANTE: Nunca subir el archivo .env con secretos !!!
+.env
+# Ignorar también otros archivos .env locales si usas patrones como .env.local, .env.development
+.env.*
+!.env.sample # Asegurarse de que el ejemplo SÍ esté incluido

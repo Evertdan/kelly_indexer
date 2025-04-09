@@ -1,0 +1,65 @@
+[
+  {
+    "q": "¿Qué es la herramienta XML externos en MiAdminXML?",
+    "a": "La herramienta de XML externos sirve para leer de forma rápida los XML que tengas en una USB o una carpeta externa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "xml externos",
+      "herramienta",
+      "lectura",
+      "usb",
+      "carpeta externa",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué necesito para utilizar la herramienta XML externos en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "xml externos",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Cómo accedo a la herramienta XML externos en MiAdminXML?",
+    "a": "Para acceder a la herramienta XML externos, debes ingresar a MiAdminXML y seleccionar la herramienta XML externos.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "acceso",
+      "herramienta",
+      "xml externos",
+      "miadminxml",
+      "seleccionar"
+    ]
+  },
+  {
+    "q": "¿Cómo visualizo los XML con la herramienta XML externos?",
+    "a": "Selecciona la carpeta donde están ubicados los XML y aparecerán automáticamente para su visualización.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "visualización",
+      "xml",
+      "carpeta",
+      "ubicación",
+      "automático",
+      "miadminxml"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de almacenamiento externo son compatibles con la herramienta XML externos?",
+    "a": "La herramienta XML externos puede leer XML desde una USB o una carpeta externa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "almacenamiento",
+      "usb",
+      "carpeta externa",
+      "compatibilidad",
+      "xml",
+      "miadminxml"
+    ]
+  }
+]

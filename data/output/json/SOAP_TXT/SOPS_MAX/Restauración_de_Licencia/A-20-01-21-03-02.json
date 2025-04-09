@@ -1,0 +1,95 @@
+[
+  {
+    "q": "¿Qué mensaje aparece cuando una licencia de MiAdminXML no tiene activaciones globales disponibles?",
+    "a": "Aparece el mensaje 'Activaciones Globales Terminadas' o 'La clave de licencia tiene sus activaciones agotadas. Compruebe con el área de Soporte.'",
+    "product": "MiAdminXML",
+    "keywords": [
+      "licencia",
+      "activaciones",
+      "agotadas",
+      "mensaje",
+      "error",
+      "globales",
+      "terminadas"
+    ]
+  },
+  {
+    "q": "¿Qué debe verificar el AMS cuando un cliente reporta que su licencia no tiene activaciones disponibles?",
+    "a": "El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico y RFC, verificar que la licencia esté en estado pagado con fecha vigente, y confirmar que efectivamente ya no cuente con Activaciones disponibles.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ams",
+      "verificación",
+      "datos",
+      "licencia",
+      "pagado",
+      "vigente",
+      "activaciones",
+      "disponibles"
+    ]
+  },
+  {
+    "q": "¿Qué acción debe tomar el AMS después de verificar los datos de una licencia sin activaciones?",
+    "a": "El AMS debe enviar un Oficio de Reactivación al correo registrado u otro proporcionado por el cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ams",
+      "oficio",
+      "reactivación",
+      "correo",
+      "registrado",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo se debe esperar para recibir el oficio de reactivación llenado por el cliente?",
+    "a": "Se debe esperar un máximo de 72 horas para recibir el oficio de reactivación llenado con los datos del cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "oficio",
+      "reactivación",
+      "tiempo",
+      "espera",
+      "72 horas",
+      "cliente"
+    ]
+  },
+  {
+    "q": "¿Qué comando se debe usar para reactivar una licencia de MiAdminXML?",
+    "a": "Se debe ingresar al BOT con un comando específico (no detallado en el texto) para realizar la reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "bot",
+      "comando",
+      "restauración"
+    ]
+  },
+  {
+    "q": "¿Quién es responsable de reactivar la licencia una vez recibido el oficio llenado?",
+    "a": "Cualquier área (ATC o ST) puede proceder a reactivar la licencia una vez recibida y validada la información del oficio de reactivación.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "reactivación",
+      "licencia",
+      "área",
+      "atc",
+      "st",
+      "oficio",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer después de que se restaura la licencia de MiAdminXML?",
+    "a": "Una vez restaurada la licencia, se le debe avisar al cliente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "restauración",
+      "licencia",
+      "aviso",
+      "cliente",
+      "finalización"
+    ]
+  }
+]

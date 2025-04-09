@@ -1,0 +1,60 @@
+[
+  {
+    "q": "¿Qué tiendas están afiliadas para realizar pagos en OpenPay?",
+    "a": "Las tiendas afiliadas para realizar pagos en OpenPay incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart y Waldos.",
+    "product": "OpenPay",
+    "keywords": [
+      "tiendas",
+      "afiliadas",
+      "openpay",
+      "pagos",
+      "farmacias",
+      "7 eleven",
+      "bodega aurrera",
+      "wal-mart",
+      "waldos"
+    ]
+  },
+  {
+    "q": "¿Cómo se informa al cliente sobre las tiendas afiliadas si contacta por correo electrónico?",
+    "a": "Si el cliente contacta por correo electrónico, se le envía la lista de tiendas afiliadas utilizando la respuesta automática llamada 'Tiendas OpenPay' que se encuentra en Missive.",
+    "product": "OpenPay",
+    "keywords": [
+      "correo electrónico",
+      "respuesta automática",
+      "tiendas openpay",
+      "missive",
+      "información",
+      "cliente",
+      "contacto"
+    ]
+  },
+  {
+    "q": "¿Dónde puedo encontrar más información sobre las tiendas afiliadas de OpenPay?",
+    "a": "Puedes encontrar más información sobre las tiendas afiliadas de OpenPay en la página paynet.com.mx.",
+    "product": "OpenPay",
+    "keywords": [
+      "información",
+      "tiendas",
+      "afiliadas",
+      "openpay",
+      "paynet",
+      "página",
+      "consulta"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud de cliente se aborda en este procedimiento?",
+    "a": "Este procedimiento aborda solicitudes de clientes que no identifican en qué tiendas pueden realizar su pago.",
+    "product": "OpenPay",
+    "keywords": [
+      "solicitud",
+      "cliente",
+      "tiendas",
+      "pago",
+      "identificar",
+      "procedimiento",
+      "información"
+    ]
+  }
+]

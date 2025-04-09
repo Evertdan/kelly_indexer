@@ -1,0 +1,94 @@
+[
+  {
+    "q": "¿Qué tipo de error se presenta cuando no se descargan los XML en MiAdminXML?",
+    "a": "Los errores incluyen error de conexión al servidor, no aparece código captcha, mensaje de datos incorrectos y no muestra información al hacer búsquedas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "error",
+      "descarga",
+      "xml",
+      "conexión",
+      "servidor",
+      "captcha",
+      "datos incorrectos",
+      "búsquedas"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para descargar XML en MiAdminXML?",
+    "a": "Se requiere contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado, Supremo Control y permisos de administrador en el usuario.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "actualizado",
+      "permisos",
+      "administrador"
+    ]
+  },
+  {
+    "q": "¿Qué factores pueden bloquear la descarga de XML en MiAdminXML?",
+    "a": "Los factores incluyen sincronización incorrecta de la zona horaria, bloqueos por antivirus, firewall, proxy, aplicación de Java no actualizada o falta de Java.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "bloqueos",
+      "zona horaria",
+      "antivirus",
+      "firewall",
+      "proxy",
+      "java",
+      "actualización"
+    ]
+  },
+  {
+    "q": "¿Cómo se actualiza MiAdminXML para resolver problemas de descarga?",
+    "a": "Se debe actualizar MiAdminXML con el archivo MiAdminXML7 ubicado en la ruta C:\\AdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "actualización",
+      "archivo",
+      "ruta",
+      "MiAdminXML7",
+      "C:\\AdminXML"
+    ]
+  },
+  {
+    "q": "¿Qué versión de .NET Framework se necesita para MiAdminXML?",
+    "a": "Se requiere la última versión de .NET Framework 4.8.1 para una conexión correcta con MiAdminXML y los servicios del SAT.",
+    "product": "MiAdminXML",
+    "keywords": [
+      ".net framework",
+      "versión",
+      "4.8.1",
+      "conexión",
+      "requerimientos",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Qué se debe configurar en el antivirus Kaspersky para MiAdminXML?",
+    "a": "Se deben agregar excepciones al antivirus Kaspersky para permitir el funcionamiento de MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "antivirus",
+      "kaspersky",
+      "excepciones",
+      "configuración",
+      "bloqueos"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de impacto tiene el problema de descarga de XML en MiAdminXML?",
+    "a": "El problema tiene un nivel de impacto 2 – Medio.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "nivel",
+      "impacto",
+      "medio",
+      "problema",
+      "descarga",
+      "xml"
+    ]
+  }
+]

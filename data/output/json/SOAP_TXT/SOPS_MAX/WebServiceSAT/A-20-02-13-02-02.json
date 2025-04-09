@@ -1,0 +1,99 @@
+[
+  {
+    "q": "¿Qué error puede aparecer al ingresar al WebServiceSAT?",
+    "a": "Puede aparecer un error de conexión al servidor del SAT.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "error",
+      "conexión",
+      "servidor",
+      "sat",
+      "webservicesat"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de incidencia es el error de conexión al servidor del SAT?",
+    "a": "El tipo de incidencia es INC-02 con un nivel de 2 – Medio.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "medio",
+      "error"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se necesitan para resolver el error de conexión al WebServiceSAT?",
+    "a": "Se necesitan MiAdminXML y Supremo control.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "recursos",
+      "miadminxml",
+      "supremo control",
+      "error",
+      "conexión"
+    ]
+  },
+  {
+    "q": "¿Qué política se debe cumplir para usar el WebServiceSAT?",
+    "a": "Se debe contar con la licencia MiAdminXML Profesional.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "política",
+      "licencia",
+      "miadminxml",
+      "profesional",
+      "requisito"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si aparece un error de conexión al servidor del SAT?",
+    "a": "Se debe hacer una prueba en el portal del SAT y en el programa para verificar que no exista intermitencia. Si es así, se debe informar al cliente para que compruebe la información en el portal del SAT.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "solución",
+      "error",
+      "conexión",
+      "sat",
+      "portal",
+      "verificación"
+    ]
+  },
+  {
+    "q": "¿Qué solución aplica el soporte técnico para el error de conexión al WebServiceSAT?",
+    "a": "El soporte técnico puede ingresar al equipo del cliente para validar bloqueos por parte del antivirus o accesos a las páginas del SAT, utilizando Supremo Control para la conexión.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "soporte técnico",
+      "solución",
+      "antivirus",
+      "bloqueo",
+      "supremo control"
+    ]
+  },
+  {
+    "q": "¿Qué URLs se deben validar para asegurar el acceso al WebServiceSAT?",
+    "a": "Se deben validar URLs como https://api.computocontable.com, http://www.adminxml.com, https://www.adminxml.com, http://adminxml.com, https://adminxml.com, http://webs.computocontable.com, https://webs.computocontable.com, https://consultaqr.facturaelectronica.sat.gob.mx, https://portalcfdi.facturaelectronica.sat.gob.mx, https://cfdiau.sat.gob.mx, y https://cfdidescargamasivasolicitud.clouda.sat.gob.mx.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "urls",
+      "validación",
+      "acceso",
+      "sat",
+      "webservice"
+    ]
+  },
+  {
+    "q": "¿Qué configuración adicional se debe validar para el WebServiceSAT?",
+    "a": "Se debe validar que la zona horaria y la hora del equipo estén correctamente configuradas.",
+    "product": "WebServiceSAT",
+    "keywords": [
+      "configuración",
+      "zona horaria",
+      "hora",
+      "equipo",
+      "validación"
+    ]
+  }
+]

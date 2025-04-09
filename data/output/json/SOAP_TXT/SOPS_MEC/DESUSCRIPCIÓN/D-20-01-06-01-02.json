@@ -1,0 +1,77 @@
+[
+  {
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales de MEC?",
+    "a": "El cliente debe ingresar al correo que no desea recibir o visitar el enlace https://www.miexpedientecontable.com/index.php/desuscripcion-de-correos-cp/, desplazarse hacia abajo, encontrar el icono de MEC, términos y condiciones, y hacer clic en la palabra 'DESUSCRIBIR'. Luego, ingresar la información solicitada y hacer clic en 'no recibir más promociones'.",
+    "product": "MEC",
+    "keywords": [
+      "desuscripción",
+      "correos",
+      "promocionales",
+      "pasos",
+      "enlace",
+      "mec",
+      "no recibir",
+      "proceso"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de correos no se pueden desuscribir en MEC?",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten la desuscripción.",
+    "product": "MEC",
+    "keywords": [
+      "correos",
+      "obligatorios",
+      "no desuscribir",
+      "promocionales",
+      "tipos",
+      "mec",
+      "licencia",
+      "factura"
+    ]
+  },
+  {
+    "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
+    "product": "MEC",
+    "keywords": [
+      "periodo gratuito",
+      "desuscripción",
+      "correos",
+      "promocionales",
+      "no permitido",
+      "mec",
+      "spam",
+      "requisitos"
+    ]
+  },
+  {
+    "q": "¿Qué mensaje aparece al desuscribirse correctamente de los correos promocionales de MEC?",
+    "a": "Aparece una pantalla afirmando que se desuscribió de forma correcta.",
+    "product": "MEC",
+    "keywords": [
+      "mensaje",
+      "confirmación",
+      "desuscripción",
+      "correcta",
+      "pantalla",
+      "mec",
+      "promociones",
+      "final"
+    ]
+  },
+  {
+    "q": "¿Dónde se encuentra la opción para desuscribirse en los correos promocionales de MEC?",
+    "a": "La opción de desuscribirse se encuentra en la parte inferior de los correos enviados, junto al icono de MEC, términos y condiciones, con la palabra 'DESUSCRIBIR'.",
+    "product": "MEC",
+    "keywords": [
+      "ubicación",
+      "opción",
+      "desuscripción",
+      "correos",
+      "parte inferior",
+      "mec",
+      "términos",
+      "icono"
+    ]
+  }
+]

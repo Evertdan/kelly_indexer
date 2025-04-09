@@ -1,0 +1,69 @@
+[
+  {
+    "q": "¿Cómo se agrega un pago de forma manual en el módulo de Pagos IMSS, INFONAVIT y Estatales?",
+    "a": "Para agregar un pago manualmente, sigue estos pasos: 1) Ve a la pestaña contribuyentes y selecciona uno de la lista, luego haz clic en 'Pagos IMSS, INFONAVIT y Estatales'. 2) Haz clic en 'Agregar'. 3) Completa los datos obligatorios (Tipo, Periodicidad, Periodo, Ejercicio) y haz clic en 'Guardar'. 4) Verás un mensaje de confirmación y el pago aparecerá en la lista.",
+    "product": "Pagos IMSS, INFONAVIT y Estatales",
+    "keywords": [
+      "pago manual",
+      "imss",
+      "infonavit",
+      "agregar pago",
+      "pasos",
+      "formulario",
+      "guardar"
+    ]
+  },
+  {
+    "q": "¿Cómo se agrega un pago desde un PDF en el módulo de Pagos IMSS, INFONAVIT y Estatales?",
+    "a": "Para agregar un pago desde PDF: 1) Ve a la pestaña contribuyentes y selecciona uno, luego haz clic en 'Pagos IMSS, INFONAVIT y Estatales'. 2) Haz clic en 'Agregar desde PDF'. 3) Selecciona el tipo de importación (individual o masiva), elige el archivo o carpeta y haz clic en 'Cargar datos'. 4) Verás un mensaje de confirmación.",
+    "product": "Pagos IMSS, INFONAVIT y Estatales",
+    "keywords": [
+      "pago pdf",
+      "importar",
+      "archivo pdf",
+      "masivo",
+      "individual",
+      "cargar datos",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Cómo se edita un pago existente en el módulo de Pagos IMSS, INFONAVIT y Estatales?",
+    "a": "Para editar un pago: 1) Ve a la pestaña contribuyentes y selecciona uno, luego haz clic en 'Pagos IMSS, INFONAVIT y Estatales'. 2) Selecciona el pago a editar y haz clic en 'Actualizar'. 3) Modifica los datos necesarios y haz clic en 'Guardar'. 4) Verás un mensaje de confirmación.",
+    "product": "Pagos IMSS, INFONAVIT y Estatales",
+    "keywords": [
+      "editar pago",
+      "actualizar",
+      "modificar",
+      "formulario",
+      "guardar cambios",
+      "confirmación"
+    ]
+  },
+  {
+    "q": "¿Cómo se elimina un pago en el módulo de Pagos IMSS, INFONAVIT y Estatales?",
+    "a": "Para eliminar un pago: 1) Ve a la pestaña contribuyentes y selecciona uno, luego haz clic en 'Pagos IMSS, INFONAVIT y Estatales'. 2) Selecciona el pago a eliminar y haz clic en 'Eliminar'. 3) Confirma la eliminación haciendo clic en 'Sí'. 4) Verás un mensaje de confirmación.",
+    "product": "Pagos IMSS, INFONAVIT y Estatales",
+    "keywords": [
+      "eliminar pago",
+      "confirmación",
+      "borrar",
+      "listado",
+      "mensaje"
+    ]
+  },
+  {
+    "q": "¿Cómo se genera un reporte personalizado de pagos en el módulo de Pagos IMSS, INFONAVIT y Estatales?",
+    "a": "Para generar un reporte: 1) Ve a la pestaña contribuyentes y selecciona uno, luego haz clic en 'Pagos IMSS, INFONAVIT y Estatales'. 2) Haz clic en 'Columnas Visibles' para seleccionar qué información mostrar. 3) Filtra la información si es necesario usando la barra de búsqueda. 4) Haz clic en 'Exportar' para guardar el reporte en Excel. 5) Verás un mensaje de confirmación.",
+    "product": "Pagos IMSS, INFONAVIT y Estatales",
+    "keywords": [
+      "reporte",
+      "personalizado",
+      "exportar",
+      "excel",
+      "columnas visibles",
+      "filtrar",
+      "búsqueda"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "q": "¿Qué se necesita para realizar una conciliación en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo, y tener información relacionada para realizar la conciliación de manera correcta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "información"
+    ]
+  },
+  {
+    "q": "¿Qué debo verificar si no se muestra la conciliación en MiAdminXML?",
+    "a": "Debes verificar que los XML estén validados, que se seleccionen todos los meses involucrados, la estructura de los XML y si existen documentos relacionados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "xml",
+      "validados",
+      "meses",
+      "estructura",
+      "documentos"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede conciliar información de un año anterior en MiAdminXML?",
+    "a": "Copiando la información del año anterior y pegándola donde se hará la conciliación, para así conciliar con lo descargado del año vigente y obtener una conciliación completa.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "año anterior",
+      "copiar",
+      "pegar",
+      "vigente",
+      "completa"
+    ]
+  },
+  {
+    "q": "¿Qué tipos de facturas se pueden validar en la conciliación de MiAdminXML?",
+    "a": "Se pueden validar facturas Totales, Parciales o No Pagadas en la pestaña correspondiente.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "facturas",
+      "total",
+      "parcial",
+      "no pagadas",
+      "validar"
+    ]
+  },
+  {
+    "q": "¿Qué puede causar que no se guarde o encuentre la información de conciliación en MiAdminXML?",
+    "a": "Puede deberse a una mala configuración o modificación por parte del usuario.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "conciliación",
+      "guardar",
+      "encontrar",
+      "configuración",
+      "modificación",
+      "error"
+    ]
+  }
+]

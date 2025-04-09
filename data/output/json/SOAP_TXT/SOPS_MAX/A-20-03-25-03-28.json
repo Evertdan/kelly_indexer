@@ -1,0 +1,55 @@
+[
+  {
+    "q": "¿Qué se necesita para generar carga BATCH en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "carga batch",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "requisitos",
+      "soporte",
+      "correo electrónico"
+    ]
+  },
+  {
+    "q": "¿Qué herramientas están disponibles en la pestaña de Facturas Pagadas en MiAdminXML?",
+    "a": "En la pestaña de Facturas Pagadas se pueden utilizar las herramientas de Acreditable, NO acreditable, Tipo de IVA, Operación o Proveedor para realizar modificaciones.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "facturas pagadas",
+      "herramientas",
+      "acreditable",
+      "no acreditable",
+      "tipo de iva",
+      "operación",
+      "proveedor",
+      "modificaciones"
+    ]
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la generación de carga BATCH en MiAdminXML?",
+    "a": "La generación de carga BATCH tiene un nivel de soporte Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "nivel 1",
+      "temprano",
+      "carga batch",
+      "tipo de soporte"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento para MiAdminXML?",
+    "a": "El documento describe la situación de generar carga BATCH en MiAdminXML.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "situación",
+      "descripción",
+      "generar",
+      "carga batch",
+      "documento"
+    ]
+  }
+]

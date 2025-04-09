@@ -1,0 +1,87 @@
+[
+  {
+    "q": "¿Qué debe hacer un cliente si su pago por transferencia es devuelto y no recibe la clave de licencia?",
+    "a": "El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se verifiquen los datos de Concepto, Referencia y Clave de rastreo.",
+    "product": "General",
+    "keywords": [
+      "pago",
+      "transferencia",
+      "devolución",
+      "clave",
+      "licencia",
+      "ficha",
+      "comprobante",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué datos deben coincidir en la ficha de pago para que el pago sea correcto?",
+    "a": "Los datos que deben coincidir son el Concepto de pago (20 números) y la Referencia (7 números).",
+    "product": "General",
+    "keywords": [
+      "datos",
+      "ficha",
+      "pago",
+      "concepto",
+      "referencia",
+      "coincidir",
+      "correcto"
+    ]
+  },
+  {
+    "q": "¿Qué pasa si los datos de Concepto y Referencia no coinciden en la ficha de pago?",
+    "a": "El banco devolverá el dinero al cliente para que pueda volver a realizar el pago con los datos correctos.",
+    "product": "General",
+    "keywords": [
+      "datos",
+      "concepto",
+      "referencia",
+      "coincidir",
+      "devolución",
+      "banco",
+      "pago"
+    ]
+  },
+  {
+    "q": "¿Cómo se verifica si el cliente no recibió la devolución de su pago?",
+    "a": "Se verifica en Banxico (https://www.banxico.org.mx/cep/) ingresando los datos solicitados y consultando el pago. Se descarga el PDF para validar la operación con el banco.",
+    "product": "General",
+    "keywords": [
+      "verificación",
+      "devolución",
+      "banxico",
+      "consulta",
+      "pago",
+      "pdf",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer si el pago aparece como 'Liquidado' en Banxico pero como 'No procesado' en el sistema?",
+    "a": "Se debe pasar el caso a gerencia de operaciones para dar una solución a la brevedad.",
+    "product": "General",
+    "keywords": [
+      "pago",
+      "liquidado",
+      "no procesado",
+      "gerencia",
+      "operaciones",
+      "solución",
+      "brevedad"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda al cliente al volver a realizar el pago por transferencia?",
+    "a": "Se recomienda que los datos de Concepto de pago y Referencia se coloquen tal cual están en la ficha de pago, sin agregar números ni letras.",
+    "product": "General",
+    "keywords": [
+      "recomendación",
+      "pago",
+      "transferencia",
+      "concepto",
+      "referencia",
+      "ficha",
+      "datos"
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "q": "¿Qué debe hacer el cliente si no recibe su factura?",
+    "a": "El cliente debe comunicarse para solicitar el reenvío de su factura.",
+    "product": "General",
+    "keywords": [
+      "factura",
+      "reenvío",
+      "cliente",
+      "comunicación",
+      "solicitud"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de solicitud es el reenvío de factura?",
+    "a": "El reenvío de factura es una solicitud tipo SOL-01 con un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "keywords": [
+      "solicitud",
+      "tipo",
+      "SOL-01",
+      "nivel",
+      "prioridad",
+      "bajo"
+    ]
+  },
+  {
+    "q": "¿Qué recursos se utilizan para el reenvío de factura?",
+    "a": "Se utiliza un BOT para el reenvío de factura.",
+    "product": "General",
+    "keywords": [
+      "recursos",
+      "bot",
+      "reenvío",
+      "factura"
+    ]
+  },
+  {
+    "q": "¿Qué políticas se aplican para reenviar la factura a un correo diferente al registrado?",
+    "a": "El cliente debe confirmar al menos 2 datos relacionados a la compra por seguridad. Si no confirma, la factura se enviará al correo registrado en la orden de compra web.",
+    "product": "General",
+    "keywords": [
+      "políticas",
+      "reenvío",
+      "factura",
+      "correo",
+      "seguridad",
+      "datos",
+      "compra"
+    ]
+  },
+  {
+    "q": "¿Cuáles son las opciones para buscar la orden de compra?",
+    "a": "Opción 1: Buscar por número de orden de compra usando el comando /orden. Opción 2: Buscar por RFC o correo usando el comando /bo.",
+    "product": "General",
+    "keywords": [
+      "búsqueda",
+      "orden",
+      "compra",
+      "comando",
+      "/orden",
+      "/bo",
+      "RFC",
+      "correo"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el RFC del cliente tiene distintas licencias?",
+    "a": "Se mostrará el histórico de órdenes de compra, desglosadas de la más actual a la más antigua. Se debe verificar con el cliente cuál es la orden correcta.",
+    "product": "General",
+    "keywords": [
+      "RFC",
+      "licencias",
+      "histórico",
+      "órdenes",
+      "compra",
+      "actual",
+      "antigua"
+    ]
+  },
+  {
+    "q": "¿Cómo identificar la última orden de compra del cliente?",
+    "a": "Los primeros 6 dígitos de la orden corresponden a la fecha en que el cliente generó la orden, lo que ayuda a identificar la última orden de compra.",
+    "product": "General",
+    "keywords": [
+      "identificar",
+      "orden",
+      "compra",
+      "última",
+      "dígitos",
+      "fecha"
+    ]
+  },
+  {
+    "q": "¿Cómo realizar el reenvío de la factura?",
+    "a": "Paso 1: Validar la información y usar el comando /enviarfactura + número de orden de compra. Paso 2: Confirmar el reenvío o cancelar en el mensaje que aparece.",
+    "product": "General",
+    "keywords": [
+      "reenvío",
+      "factura",
+      "comando",
+      "/enviarfactura",
+      "orden",
+      "compra",
+      "confirmar",
+      "cancelar"
+    ]
+  },
+  {
+    "q": "¿Qué hacer si el cliente solicita enviar la factura a un correo diferente?",
+    "a": "Validar con el cliente: RFC, Nombre o Razón Social. Usar el comando /enviarfactura + número de orden de compra + correo electrónico y confirmar el envío.",
+    "product": "General",
+    "keywords": [
+      "correo",
+      "diferente",
+      "validar",
+      "RFC",
+      "nombre",
+      "razón social",
+      "comando",
+      "/enviarfactura"
+    ]
+  },
+  {
+    "q": "¿Cómo cancelar el envío de la factura?",
+    "a": "Si se debe cancelar el envío, dar clic en Abortar en el mensaje de confirmación.",
+    "product": "General",
+    "keywords": [
+      "cancelar",
+      "envío",
+      "factura",
+      "abortar",
+      "clic",
+      "confirmación"
+    ]
+  }
+]

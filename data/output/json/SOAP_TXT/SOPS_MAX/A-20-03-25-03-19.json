@@ -1,0 +1,56 @@
+[
+  {
+    "q": "¿Qué se necesita para utilizar la herramienta de lectura de complementos en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "complementos",
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
+      "requisitos",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidad ofrece la herramienta Premium de MiAdminXML para los complementos?",
+    "a": "La herramienta Premium permite extraer toda la información del complemento seleccionado y agregarlo al reporte, logrando un reporte más detallado. La información se agrega al final de las columnas del reporte.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta premium",
+      "complementos",
+      "extraer información",
+      "reporte detallado",
+      "columnas",
+      "funcionalidad"
+    ]
+  },
+  {
+    "q": "¿Qué tipo de soporte se ofrece para problemas con la lectura de complementos en MiAdminXML?",
+    "a": "El soporte es de tipo Soporte Temprano (ST) y se clasifica como Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "soporte",
+      "temprano",
+      "nivel 1",
+      "problemas",
+      "lectura",
+      "complementos",
+      "tipo"
+    ]
+  },
+  {
+    "q": "¿Cómo se agrega la información de los complementos en los reportes de MiAdminXML?",
+    "a": "La información de los complementos se agrega al final de las columnas del reporte, permitiendo un reporte más detallado.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "información",
+      "complementos",
+      "reporte",
+      "columnas",
+      "detallado",
+      "agregar"
+    ]
+  }
+]

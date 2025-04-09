@@ -1,0 +1,89 @@
+[
+  {
+    "q": "¿Qué tipo de incidencia es cuando los correos de MiExpedienteContable llegan a la bandeja de SPAM?",
+    "a": "Es una incidencia tipo INC-02 con un nivel de prioridad 2 – Medio.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "spam",
+      "prioridad",
+      "nivel",
+      "medio",
+      "inc-02"
+    ]
+  },
+  {
+    "q": "¿Qué se necesita para resolver el problema de correos en SPAM con MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "solucion",
+      "correo electronico"
+    ]
+  },
+  {
+    "q": "¿Cómo mover correos de SPAM a la bandeja de entrada en Outlook?",
+    "a": "Dar clic derecho sobre el correo y seleccionar 'Marcar como correo deseado'. Además, agregar el contacto y el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "outlook",
+      "spam",
+      "bandeja entrada",
+      "marcar correo deseado",
+      "contactos",
+      "remitentes seguros"
+    ]
+  },
+  {
+    "q": "¿Qué pasos seguir para agregar un contacto seguro en Gmail para MiExpedienteContable?",
+    "a": "Iniciar sesión en Gmail, ir a Contactos, agregar un nuevo contacto con el correo 'ventas@correo1.computocontable.com' y guardar. Luego reintentar el proceso de registro.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "gmail",
+      "contactos",
+      "agregar contacto",
+      "correo seguro",
+      "registro"
+    ]
+  },
+  {
+    "q": "¿Cómo configurar Yahoo para evitar que los correos de MiExpedienteContable vayan a SPAM?",
+    "a": "Ir a Contactos en Yahoo, crear un nuevo contacto con nombre 'Computo Contable' y correo 'ventas.computocontable@gmailcom', luego guardar.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "yahoo",
+      "contactos",
+      "nuevo contacto",
+      "spam",
+      "configuracion"
+    ]
+  },
+  {
+    "q": "¿Cuál es el correo electrónico de contacto para Cómputo Contable en las soluciones proporcionadas?",
+    "a": "Los correos proporcionados son 'ventas.computocontable.@gmail.com' para Outlook y 'ventas@correo1.computocontable.com' para Gmail.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "correo electronico",
+      "contacto",
+      "computo contable",
+      "outlook",
+      "gmail"
+    ]
+  },
+  {
+    "q": "¿Qué se debe hacer después de agregar los contactos seguros en cualquier cliente de correo?",
+    "a": "Reintentar el proceso de registro y validación de MiExpedienteContable para verificar que los correos lleguen a la bandeja de entrada.",
+    "product": "MiExpedienteContable",
+    "keywords": [
+      "proceso",
+      "registro",
+      "validacion",
+      "bandeja entrada",
+      "verificacion"
+    ]
+  }
+]

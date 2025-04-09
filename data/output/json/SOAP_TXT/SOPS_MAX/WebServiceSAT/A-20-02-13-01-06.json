@@ -1,0 +1,64 @@
+[
+  {
+    "q": "¿Qué sucede cuando el tiempo de descarga de comprobantes se vence en MiAdminXML?",
+    "a": "El tiempo de espera para la descarga depende del WebService del SAT. Una vez realizada la solicitud, debe esperar a que el estado cambie a 'Disponible'. Si no se descarga dentro de 72 horas, el estado cambiará a 'Vencido'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo de descarga",
+      "vencido",
+      "webservice",
+      "sat",
+      "estado",
+      "disponible",
+      "72 horas"
+    ]
+  },
+  {
+    "q": "¿Qué se recomienda hacer si la solicitud de descarga de comprobantes ha vencido?",
+    "a": "Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud para que pueda proceder nuevamente. Por ejemplo, ajustando las fechas de inicio y fin de la consulta.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "recomendación",
+      "solicitud vencida",
+      "generar consulta",
+      "cambiar segundos",
+      "fechas"
+    ]
+  },
+  {
+    "q": "¿Cuánto tiempo se tiene para descargar los comprobantes una vez que el estado está 'Disponible'?",
+    "a": "Una vez que el estado de la solicitud pasa a 'Disponible', se tienen hasta 72 horas para realizar la descarga. Pasado este tiempo, el estado cambiará a 'Vencido'.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "tiempo de descarga",
+      "72 horas",
+      "estado disponible",
+      "vencido",
+      "solicitud"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la descarga de comprobantes en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con ninguno de estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico",
+      "soporte"
+    ]
+  },
+  {
+    "q": "¿Cómo se puede ajustar la solicitud de descarga para evitar que venza?",
+    "a": "Se sugiere cambiar los segundos de la solicitud. Por ejemplo, si se consulta el mes de mayo, se puede iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 01 de junio a las 00:00:00.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "ajustar solicitud",
+      "cambiar segundos",
+      "fechas",
+      "ejemplo",
+      "consulta"
+    ]
+  }
+]

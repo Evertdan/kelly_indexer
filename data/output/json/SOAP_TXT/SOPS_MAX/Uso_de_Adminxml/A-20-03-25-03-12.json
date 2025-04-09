@@ -1,0 +1,70 @@
+[
+  {
+    "q": "¿Qué es la herramienta verificado y asociado en MiAdminXML?",
+    "a": "Es una herramienta multi-propósito que permite tener control de los movimientos realizados con el XML, apoyando en el control de XML asociados a programas contables para despachos contables y en el control de XML verificados para empresas.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "herramienta",
+      "verificado",
+      "asociado",
+      "multi-propósito",
+      "control",
+      "xml",
+      "despachos",
+      "empresas"
+    ]
+  },
+  {
+    "q": "¿Cómo se usa la herramienta verificado y asociado en MiAdminXML?",
+    "a": "Al dar clic en el botón sobre un XML, se agrega una etiqueta 'SI' en el reporte. También funciona con multi-selección para etiquetar o eliminar la etiqueta de varios archivos a la vez.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "uso",
+      "herramienta",
+      "verificado",
+      "asociado",
+      "etiqueta",
+      "multi-selección",
+      "archivos",
+      "reporte"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para usar la herramienta verificado y asociado en MiAdminXML?",
+    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "herramienta",
+      "verificado",
+      "asociado"
+    ]
+  },
+  {
+    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado en MiAdminXML para despachos contables?",
+    "a": "Les apoya para tener un control sobre los XML asociados a sus programas contables.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "beneficios",
+      "despachos contables",
+      "control",
+      "xml",
+      "asociados",
+      "programas contables"
+    ]
+  },
+  {
+    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado en MiAdminXML para empresas?",
+    "a": "Les apoya en tener un control sobre los XML verificados.",
+    "product": "MiAdminXML",
+    "keywords": [
+      "beneficios",
+      "empresas",
+      "control",
+      "xml",
+      "verificados"
+    ]
+  }
+]

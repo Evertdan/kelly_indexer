@@ -1,0 +1,163 @@
+[
+  {
+    "q": "¿Qué es MAX y cuáles son sus beneficios?",
+    "a": "MAX es un sistema que ofrece diferentes módulos para la descarga y administración de XML, con beneficios como la organización automática de archivos, validación de comprobantes y generación de reportes específicos.",
+    "product": "MAX",
+    "keywords": [
+      "max",
+      "beneficios",
+      "descarga",
+      "xml",
+      "organización",
+      "reportes"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los módulos de descarga disponibles en MAX?",
+    "a": "Los módulos de descarga disponibles son: Descarga de XML gratis, Solicitud y Recuperación de Paquetes XML, Descarga masiva +D500 y Web service SAT.",
+    "product": "MAX",
+    "keywords": [
+      "módulos",
+      "descarga",
+      "xml",
+      "gratis",
+      "paquetes",
+      "masiva",
+      "web service"
+    ]
+  },
+  {
+    "q": "¿Qué permite el módulo de Descarga de XML gratis?",
+    "a": "Permite la descarga de hasta 2,000 XML por día y contribuyente en bloques de 500, con clasificación automática en carpetas por RFC, tipo, año, mes y día, además de validar el estado del comprobante.",
+    "product": "MAX",
+    "keywords": [
+      "descarga",
+      "xml",
+      "gratis",
+      "límite",
+      "organización",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Qué requisitos tiene el módulo de Solicitud y Recuperación de Paquetes XML?",
+    "a": "Requiere una Licencia Plus o Pro y permite descargar hasta 2,000 comprobantes en paquetes ZIP de 500 XML, gestionados mediante turnos en el Portal del SAT.",
+    "product": "MAX",
+    "keywords": [
+      "solicitud",
+      "recuperación",
+      "paquetes",
+      "licencia",
+      "plus",
+      "pro",
+      "sat"
+    ]
+  },
+  {
+    "q": "¿Qué ventajas ofrece el módulo Descarga masiva +D500?",
+    "a": "Ofrece un algoritmo potente para descargas rápidas de más de 2,000 XML por día, con organización automática en carpetas y validación en tiempo real del estado de los comprobantes.",
+    "product": "MAX",
+    "keywords": [
+      "descarga",
+      "masiva",
+      "d500",
+      "rápida",
+      "organización",
+      "validación"
+    ]
+  },
+  {
+    "q": "¿Cómo funciona el módulo WebService SAT?",
+    "a": "Permite recuperar desde unos cuantos comprobantes hasta 200,000 XML por solicitud, con solicitudes ilimitadas. Requiere Licencia Pro y acceso con E.Firma.",
+    "product": "MAX",
+    "keywords": [
+      "web service",
+      "sat",
+      "descarga",
+      "licencia",
+      "pro",
+      "e.firma",
+      "volumen"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades ofrece el módulo de Administración de XML 4.0?",
+    "a": "Permite visualizar XML descargados, generar reportes, validar estados SAT, convertir XML a PDF, agrupar comprobantes y generar reportes específicos.",
+    "product": "MAX",
+    "keywords": [
+      "administración",
+      "xml",
+      "reportes",
+      "validación",
+      "pdf",
+      "agrupación"
+    ]
+  },
+  {
+    "q": "¿Qué se puede hacer con el módulo de Nómina 1.2?",
+    "a": "Permite generar reportes de nómina, exportar a Excel, implementar tablas dinámicas y procesar altos volúmenes de XML.",
+    "product": "MAX",
+    "keywords": [
+      "nómina",
+      "reportes",
+      "excel",
+      "tablas",
+      "dinámicas",
+      "procesamiento"
+    ]
+  },
+  {
+    "q": "¿Qué ofrece el módulo de Retenciones e Información de pagos?",
+    "a": "Ofrece la generación de reportes dinámicos y especializados para XML de retención de plataformas tecnológicas 1.1 y 1.2.",
+    "product": "MAX",
+    "keywords": [
+      "retenciones",
+      "pagos",
+      "reportes",
+      "xml",
+      "plataformas",
+      "tecnológicas"
+    ]
+  },
+  {
+    "q": "¿Cómo ayuda el módulo de Control y conciliación de pagos?",
+    "a": "Identifica facturas PPD y complementos de pagos, conciliando automáticamente facturas pagadas, no pagadas y parcialmente pagadas, generando reportes detallados.",
+    "product": "MAX",
+    "keywords": [
+      "control",
+      "conciliación",
+      "pagos",
+      "facturas",
+      "ppd",
+      "reportes"
+    ]
+  },
+  {
+    "q": "¿Qué permite el módulo de Validaciones?",
+    "a": "Permite validar XML contra listas negras (CAOS, EFOS, EDOS, incumplidos y no localizados) y generar reportes de validación.",
+    "product": "MAX",
+    "keywords": [
+      "validaciones",
+      "xml",
+      "listas",
+      "negras",
+      "reportes",
+      "caos",
+      "efos"
+    ]
+  },
+  {
+    "q": "¿Qué funcionalidades tiene el módulo de Contabilidad?",
+    "a": "Permite generar DIOT, carga BATCH, reporte de IVA por RFC, archivos XML/ZIP para contabilidad electrónica, validar archivos y usar catálogos del SAT.",
+    "product": "MAX",
+    "keywords": [
+      "contabilidad",
+      "diot",
+      "batch",
+      "iva",
+      "xml",
+      "zip",
+      "sat"
+    ]
+  }
+]

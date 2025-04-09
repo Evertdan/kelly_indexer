@@ -47,20 +47,19 @@ Automatiza el pipeline completo para convertir Q&As en vectores listos para Qdra
 
 ```mermaid
 graph TD
-    A[Inicio: Ejecutar index_qdrant.py] --> B[Cargar Config (.env)]
-    B --> C[Cargar Estado Anterior (.json)]
-    C --> D[Escanear y Cargar Q&As actuales]
-    D --> E[Detectar cambios: nuevos, modificados o eliminados]
-    E --> F[Generar embeddings de preguntas (Q)]
-    F --> G[Chunkear respuestas largas (A)]
-    G --> H[Preparar lote Upsert (vector + payload)]
-    E --> I[Preparar lote Delete para eliminados]
-    H --> J[Ejecutar Upsert en Qdrant]
-    I --> K[Ejecutar Delete en Qdrant]
-    J --> L[Actualizar y guardar estado]
+    A[Iniciar script: index_qdrant.py] --> B[Cargar configuración (.env)]
+    B --> C[Cargar estado previo (JSON)]
+    C --> D[Leer archivos JSON con Q&As]
+    D --> E[Comparar con estado (identificar cambios)]
+    E --> F[Embeddings para preguntas nuevas o modificadas]
+    F --> G[Dividir respuestas largas (chunking)]
+    G --> H[Preparar lote para Upsert]
+    E --> I[Preparar lote para Delete]
+    H --> J[Enviar Upsert a Qdrant]
+    I --> K[Enviar Delete a Qdrant]
+    J --> L[Actualizar archivo de estado]
     K --> L
     L --> M[Mostrar resumen final]
-    E --> M
 ```
 
 ---

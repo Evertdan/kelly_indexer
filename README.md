@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-**Kelly Indexer** es una herramienta robusta y autónoma para convertir archivos `.json` con pares Pregunta/Respuesta (Q&A) —generados por [`kelly_soap`](https://github.com/tu-org/kelly_soap)— en vectores que se indexan eficientemente en una base de datos vectorial **Qdrant Cloud**. Está optimizada para sistemas **RAG (Retrieval-Augmented Generation)** y asistentes inteligentes como **KellyBot**.
+**Kelly Indexer** es una herramienta robusta y autónoma para convertir archivos `.json` con pares Pregunta/Respuesta (Q&A) —generados por [`kelly_soap`](https://github.com/Evertdan/kelly_soap)— en vectores que se indexan eficientemente en una base de datos vectorial **Qdrant Cloud**. Está optimizada para sistemas **RAG (Retrieval-Augmented Generation)** y asistentes inteligentes como **KellyBot**.
 
 ---
 

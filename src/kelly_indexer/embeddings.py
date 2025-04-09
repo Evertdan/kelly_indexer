@@ -10,44 +10,37 @@ Funciones:
 """
 
 import logging
-from typing import List, Optional, Union, Sequence # Añadir Sequence
-from functools import lru_cache # Para cachear el modelo cargado
+# CORRECCIÓN: Añadir Any e importar siempre Optional/List/Sequence
+from typing import List, Optional, Any, Sequence
+from functools import lru_cache
 
-# Importar dependencias de terceros
+# CORRECCIÓN: Hacer numpy una dependencia obligatoria para simplificar tipos
 try:
-    # Especificar numpy explícitamente ya que SentenceTransformer lo devuelve
     import numpy as np
-    # Tipado específico para numpy si se usa
-    NumpyArray = np.ndarray[Any, Any] # Definir un tipo más específico si es posible
+    # CORRECCIÓN: Definir NumpyArray consistentemente
+    NumpyArray = np.ndarray # Opcional: np.ndarray[Any, Any] para más detalle
 except ImportError:
-    print("[ADVERTENCIA EMBEDDINGS] Librería 'numpy' no instalada. Funciones podrían fallar. Ejecuta: pip install numpy")
-    np = None # Definir dummy
-    NumpyArray = List[List[float]] # Usar lista de listas como fallback para type hints
+    print("[ERROR CRÍTICO] Librería 'numpy' no instalada. Es REQUERIDA. Ejecuta: pip install numpy")
+    np = None # type: ignore # Definir para que el resto del código no falle en importación
+    NumpyArray = None # type: ignore # El tipado fallará, pero evita NameError
 
 try:
     from sentence_transformers import SentenceTransformer
 except ImportError:
-    print("[ERROR CRÍTICO] Librería 'sentence-transformers' no instalada. Este módulo es esencial. Ejecuta: pip install sentence-transformers")
-    # Definir clase dummy para evitar errores de importación, pero el código fallará en runtime
-    SentenceTransformer = type("SentenceTransformer", (object,), {}) # type: ignore
-    # Salir podría ser apropiado si esta librería es crítica en el momento de importar
-    # import sys
-    # sys.exit(1)
-
+    print("[ERROR CRÍTICO] Librería 'sentence-transformers' no instalada. Ejecuta: pip install sentence-transformers")
+    SentenceTransformer = None # type: ignore
 
 # Obtener logger para este módulo
 logger = logging.getLogger(__name__)
 
-# Variable global para cachear el modelo (alternativa a lru_cache si se prefiere control manual)
-# _model_cache: Dict[str, SentenceTransformer] = {}
 
-@lru_cache(maxsize=2) # Cachear los últimos 2 modelos cargados (normalmente solo usarás 1)
+@lru_cache(maxsize=2) # Cachear los últimos 2 modelos cargados
 def get_embedding_model(model_name: str = "all-MiniLM-L6-v2", device: str = 'cpu') -> Optional[SentenceTransformer]:
     """
     Carga y devuelve una instancia de un modelo SentenceTransformer.
 
     Utiliza caché para evitar recargar el mismo modelo múltiples veces.
-    Fuerza el uso de CPU por defecto según requerimientos.
+    Fuerza el uso de CPU por defecto.
 
     Args:
         model_name: El nombre del modelo a cargar (ej. 'all-MiniLM-L6-v2').
@@ -55,84 +48,90 @@ def get_embedding_model(model_name: str = "all-MiniLM-L6-v2", device: str = 'cpu
 
     Returns:
         Una instancia del modelo SentenceTransformer si se carga correctamente,
-        o None si ocurre un error.
+        o None si ocurre un error o faltan dependencias.
     """
+    # CORRECCIÓN: Verificar dependencias críticas al inicio
     if SentenceTransformer is None or np is None:
          logger.critical("Dependencias 'sentence-transformers' o 'numpy' no disponibles.")
          return None
 
     try:
         logger.info(f"Cargando modelo SentenceTransformer: '{model_name}' en dispositivo '{device}'...")
-        # Forzar CPU si se especificó 'cpu' o si la librería no maneja bien 'auto'
-        # sentence-transformers maneja bien device=None (auto-detect), pero forzamos 'cpu'
-        # para cumplir el requisito de no dependencia de GPU.
+        # Forzar CPU para cumplir requisito de no dependencia GPU explícita
         model = SentenceTransformer(model_name_or_path=model_name, device=device)
         logger.info(f"Modelo '{model_name}' cargado exitosamente.")
         return model
-    except ImportError:
-        logger.critical("Dependencia 'sentence-transformers' no encontrada. Por favor, instálala.")
+    except ImportError: # Aunque ya chequeamos, por si acaso
+        logger.critical("Dependencia 'sentence-transformers' no encontrada.")
         return None
     except OSError as e:
-         # Errores comunes: modelo no encontrado localmente y sin conexión para descargar,
-         # problemas de disco, etc.
-         logger.error(f"Error de OS al cargar el modelo '{model_name}': {e}. ¿Nombre correcto? ¿Conexión a internet?")
+         logger.error(f"Error de OS al cargar el modelo '{model_name}': {e}. ¿Nombre correcto? ¿Conexión?")
          return None
     except Exception as e:
-        logger.exception(f"Error inesperado al cargar el modelo SentenceTransformer '{model_name}': {e}")
+        logger.exception(f"Error inesperado al cargar modelo '{model_name}': {e}")
         return None
 
 def generate_embeddings(
     model: SentenceTransformer,
     texts: List[str],
-    batch_size: int = 64, # Un batch size razonable para CPU
-    show_progress_bar: bool = False # Desactivar barra interna por defecto
-) -> Optional[NumpyArray]:
+    batch_size: int = 64,
+    show_progress_bar: bool = False
+) -> Optional[NumpyArray]: # CORRECCIÓN: El tipo de retorno es NumpyArray o None
     """
-    Genera embeddings para una lista de textos usando un modelo SentenceTransformer cargado.
+    Genera embeddings para una lista de textos usando un modelo cargado.
 
     Args:
         model: La instancia del modelo SentenceTransformer cargado.
-        texts: Una lista de strings (textos) para generar embeddings.
+        texts: Lista de strings (textos) para generar embeddings.
         batch_size: Tamaño del lote para procesar los textos.
-        show_progress_bar: Si se muestra la barra de progreso interna de sentence-transformers.
+        show_progress_bar: Si se muestra la barra de progreso interna.
 
     Returns:
-        Un array de NumPy con los embeddings generados (cada fila es un vector),
-        o None si ocurre un error.
+        Un array de NumPy con los embeddings generados, o None si ocurre un error.
     """
+    # CORRECCIÓN: Verificar dependencias críticas y modelo válido
+    if np is None or SentenceTransformer is None:
+         logger.critical("Dependencias (numpy/sentence-transformers) no disponibles para generar embeddings.")
+         return None
     if not isinstance(model, SentenceTransformer):
          logger.error("Se proporcionó un objeto inválido como modelo.")
          return None
+
     if not texts:
         logger.warning("Se recibió una lista de textos vacía para generar embeddings.")
-        # Devolver un array vacío de la forma correcta si numpy está disponible
-        return np.empty((0, model.get_sentence_embedding_dimension())) if np else []
+        # CORRECCIÓN: Devolver un array numpy vacío con la forma correcta
+        try:
+            dim = model.get_sentence_embedding_dimension()
+            return np.empty((0, dim), dtype=np.float32)
+        except Exception as e:
+             logger.error(f"No se pudo obtener la dimensión del modelo para crear array vacío: {e}")
+             # Devolver array 2D vacío genérico como último recurso
+             return np.empty((0, 0), dtype=np.float32)
+
 
     logger.info(f"Generando embeddings para {len(texts)} textos con batch_size={batch_size}...")
     try:
-        # Usar model.encode() para generar los embeddings
         embeddings_array = model.encode(
             texts,
             batch_size=batch_size,
             show_progress_bar=show_progress_bar,
-            # Podríamos especificar normalize_embeddings=True si la métrica de distancia (Coseno) lo requiere,
-            # pero Qdrant también puede normalizar. Consultar documentación de Qdrant/modelo.
-            # Por defecto, all-MiniLM-L6-v2 produce vectores normalizados.
-            # normalize_embeddings=False (default)
+            # normalize_embeddings=False (all-MiniLM-L6-v2 ya está normalizado)
         )
-        logger.info(f"Embeddings generados exitosamente. Shape: {embeddings_array.shape}")
-        # Asegurarse de que sea un numpy array (aunque encode usualmente lo devuelve)
-        if np and isinstance(embeddings_array, np.ndarray):
+        logger.info(f"Embeddings generados exitosamente. Shape: {getattr(embeddings_array, 'shape', 'N/A')}")
+
+        # CORRECCIÓN: Asegurarse de que sea ndarray y devolver None si no
+        if isinstance(embeddings_array, np.ndarray):
+            # Convertir a float32 si no lo es (Qdrant a menudo prefiere float32)
+            if embeddings_array.dtype != np.float32:
+                logger.debug(f"Convirtiendo embeddings de {embeddings_array.dtype} a float32.")
+                return embeddings_array.astype(np.float32)
             return embeddings_array
-        elif isinstance(embeddings_array, list): # Fallback si no se usa numpy
-             logger.warning("La salida de embeddings fue una lista, no un array NumPy.")
-             return embeddings_array # Devolver lista de listas
         else:
-             logger.error(f"Tipo inesperado devuelto por model.encode: {type(embeddings_array)}")
+             # Esto no debería pasar si sentence-transformers funciona bien
+             logger.error(f"model.encode() devolvió un tipo inesperado: {type(embeddings_array)}")
              return None
 
     except AttributeError:
-        # Si el objeto 'model' no es realmente un SentenceTransformer válido
         logger.error("El objeto 'model' proporcionado no tiene el método 'encode'. ¿Es un modelo válido?")
         return None
     except Exception as e:
@@ -141,43 +140,50 @@ def generate_embeddings(
 
 # --- Bloque para pruebas rápidas ---
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO) # Configurar logging para prueba
+    logging.basicConfig(level=logging.INFO)
     print("--- Probando Módulo de Embeddings ---")
 
-    # 1. Cargar modelo
-    model_name_test = "all-MiniLM-L6-v2" # Modelo pequeño y rápido
-    loaded_model = get_embedding_model(model_name_test)
-
-    if loaded_model:
-        print(f"\nModelo '{model_name_test}' cargado.")
-        dimension = loaded_model.get_sentence_embedding_dimension()
-        print(f"Dimensión del vector: {dimension}")
-
-        # 2. Generar embeddings para textos de ejemplo
-        sample_texts = [
-            "¿Cómo funciona el indexador Kelly?",
-            "Esta es una prueba de generación de embeddings.",
-            "El cielo es azul.",
-            "all-MiniLM-L6-v2 es un modelo de sentence-transformers."
-        ]
-        print(f"\nGenerando embeddings para {len(sample_texts)} textos de ejemplo...")
-        embeddings_result = generate_embeddings(loaded_model, sample_texts)
-
-        if embeddings_result is not None:
-            print(f"Embeddings generados. Tipo: {type(embeddings_result)}")
-            if np and isinstance(embeddings_result, np.ndarray):
-                print(f"Shape del array: {embeddings_result.shape}")
-                # Verificar shape: (num_textos, dimension_modelo)
-                assert embeddings_result.shape == (len(sample_texts), dimension)
-            elif isinstance(embeddings_result, list):
-                 print(f"Número de vectores: {len(embeddings_result)}")
-                 if embeddings_result: print(f"Dimensión del primer vector: {len(embeddings_result[0])}")
-                 assert len(embeddings_result) == len(sample_texts)
-                 if embeddings_result: assert len(embeddings_result[0]) == dimension
-
-
-            print("\nPrueba de embeddings completada exitosamente.")
-        else:
-            print("\nFallo al generar embeddings.")
+    # Verificar dependencias antes de continuar
+    if SentenceTransformer is None or np is None:
+        print("Dependencias críticas (numpy o sentence-transformers) no encontradas. Saliendo de la prueba.")
     else:
-        print("\nFallo al cargar el modelo.")
+        # 1. Cargar modelo
+        model_name_test = "all-MiniLM-L6-v2" # Modelo pequeño y rápido
+        loaded_model = get_embedding_model(model_name_test, device='cpu') # Forzar CPU en prueba también
+
+        if loaded_model:
+            print(f"\nModelo '{model_name_test}' cargado.")
+            try:
+                dimension = loaded_model.get_sentence_embedding_dimension()
+                print(f"Dimensión del vector: {dimension}")
+            except Exception as e:
+                print(f"Error obteniendo dimensión del modelo: {e}")
+                dimension = None # Marcar como desconocido
+
+            # 2. Generar embeddings para textos de ejemplo
+            sample_texts = [
+                "¿Cómo funciona el indexador Kelly?",
+                "Esta es una prueba de generación de embeddings.",
+                "El cielo es azul.",
+                "all-MiniLM-L6-v2 es un modelo de sentence-transformers."
+            ]
+            print(f"\nGenerando embeddings para {len(sample_texts)} textos de ejemplo...")
+            embeddings_result = generate_embeddings(loaded_model, sample_texts)
+
+            if embeddings_result is not None:
+                print(f"Embeddings generados. Tipo: {type(embeddings_result)}")
+                # Verificar si es array numpy y tiene shape correcto
+                if isinstance(embeddings_result, np.ndarray):
+                    print(f"Shape del array: {embeddings_result.shape}")
+                    if dimension is not None:
+                         assert embeddings_result.shape == (len(sample_texts), dimension), "Shape incorrecto"
+                else: # Si por alguna razón no es ndarray (no debería pasar)
+                     print(f"Resultado no es un array NumPy. Longitud: {len(embeddings_result)}")
+                     assert len(embeddings_result) == len(sample_texts)
+
+
+                print("\nPrueba de embeddings completada exitosamente.")
+            else:
+                print("\nFallo al generar embeddings.")
+        else:
+            print("\nFallo al cargar el modelo.")

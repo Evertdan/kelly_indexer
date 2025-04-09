@@ -40,6 +40,8 @@ dependencies = [
     "qdrant-client>=1.9.0,<2.0.0",
     # Para generar embeddings localmente
     "sentence-transformers>=2.2.0,<3.0.0",
+    # CORRECCIÓN: Añadir numpy como dependencia explícita
+    "numpy>=1.21.0,<2.0.0",
     # Para manejar la configuración (.env, validación)
     # Incluye pydantic y python-dotenv
     "pydantic-settings>=2.0.0,<3.0.0",
@@ -47,11 +49,9 @@ dependencies = [
     "langchain-text-splitters>=0.2.0,<0.3.0",
     # Para barras de progreso en la consola
     "tqdm>=4.60.0,<5.0.0",
-    # Nota: uuid es parte de la librería estándar de Python
 ]
 
 # (Opcional) Scripts de consola
-# Si quieres instalar un comando global (ej. 'kelly-index')
 # [project.scripts]
 # kelly-index = "kelly_indexer.scripts.indexer.index_qdrant:main" # Ajustar ruta si es necesario
 
@@ -91,8 +91,9 @@ exclude = [
     "data", # Excluir directorio de datos
     ".env", ".env.sample",
 ]
-# Configuración de isort dentro de ruff
-[tool.ruff.isort]
+
+# CORRECCIÓN: Mover configuración de isort a lint.isort para versiones recientes de Ruff
+[tool.ruff.lint.isort]
 known_first_party = ["kelly_indexer"] # Definir tu paquete como propio
 
 # Configuración para pytest

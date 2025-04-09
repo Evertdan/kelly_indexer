@@ -9,30 +9,30 @@ Utiliza RecursiveCharacterTextSplitter de langchain_text_splitters.
 """
 
 import logging
-from typing import List, Optional, Any
+# CORRECCIÓN: Añadir Dict y Tuple a las importaciones de typing
+from typing import List, Optional, Any, Dict, Tuple
+from functools import lru_cache
 
 # Importar dependencia de Langchain
 try:
     from langchain_text_splitters import RecursiveCharacterTextSplitter
 except ImportError:
-    print("[ERROR CRÍTICO] Librería 'langchain-text-splitters' no instalada. Este módulo es esencial para dividir textos largos. Ejecuta: pip install langchain-text-splitters")
-    # Definir dummy para evitar errores de importación, pero el código fallará
+    print("[ERROR CRÍTICO] Librería 'langchain-text-splitters' no instalada. Ejecuta: pip install langchain-text-splitters")
     RecursiveCharacterTextSplitter = None # type: ignore
 
 logger = logging.getLogger(__name__)
 
-# Variable para cachear el chunker si se usa la misma configuración repetidamente
-# (Alternativa a crear una instancia nueva cada vez en get_answer_chunker)
+# Caché para reutilizar instancias de chunker con la misma configuración
+# CORRECCIÓN: Añadir tipo correcto al caché
 _chunker_cache: Dict[Tuple[int, int], RecursiveCharacterTextSplitter] = {}
 
+@lru_cache(maxsize=4) # Usar lru_cache es generalmente más simple y eficiente que el dict manual
 def get_answer_chunker(
     chunk_size: int = 1000,
     chunk_overlap: int = 150
 ) -> Optional[RecursiveCharacterTextSplitter]:
     """
-    Obtiene una instancia configurada de RecursiveCharacterTextSplitter.
-
-    Utiliza un caché simple para reutilizar instancias con la misma configuración.
+    Obtiene una instancia configurada de RecursiveCharacterTextSplitter usando caché.
 
     Args:
         chunk_size: Tamaño máximo de cada fragmento (en caracteres).
@@ -46,28 +46,34 @@ def get_answer_chunker(
         logger.critical("Dependencia 'langchain-text-splitters' no disponible.")
         return None
 
+    if not isinstance(chunk_size, int) or chunk_size <= 0:
+        logger.error(f"Configuración inválida: chunk_size ({chunk_size}) debe ser un entero positivo.")
+        return None
+    if not isinstance(chunk_overlap, int) or chunk_overlap < 0:
+         logger.error(f"Configuración inválida: chunk_overlap ({chunk_overlap}) debe ser un entero no negativo.")
+         return None
     if chunk_overlap >= chunk_size:
         logger.error(f"Configuración inválida: chunk_overlap ({chunk_overlap}) debe ser menor que chunk_size ({chunk_size}).")
-        # Devolver None o lanzar error, dependiendo de cómo se quiera manejar
         return None
 
-    config_tuple = (chunk_size, chunk_overlap)
-    if config_tuple in _chunker_cache:
-        logger.debug("Reutilizando instancia de TextSplitter cacheada.")
-        return _chunker_cache[config_tuple]
-
-    logger.info(f"Creando nueva instancia de RecursiveCharacterTextSplitter (size={chunk_size}, overlap={chunk_overlap})...")
+    # lru_cache maneja el cacheo basado en los argumentos de la función
+    logger.info(f"Obteniendo/Creando instancia de RecursiveCharacterTextSplitter (size={chunk_size}, overlap={chunk_overlap})...")
     try:
         # Usar separadores por defecto de Langchain: ["\n\n", "\n", " ", ""]
-        # length_function=len es el default para contar caracteres
         chunker = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap,
             length_function=len,
-            is_separator_regex=False, # Usar separadores literales
+            is_separator_regex=False,
         )
-        _chunker_cache[config_tuple] = chunker
-        return chunker
+        # CORRECCIÓN: Verificar el tipo devuelto por si acaso (aunque debería ser correcto)
+        # y para satisfacer a mypy si lru_cache ofusca el tipo.
+        if isinstance(chunker, RecursiveCharacterTextSplitter):
+             logger.debug("Instancia de chunker obtenida/creada.")
+             return chunker
+        else:
+             logger.error("La creación de RecursiveCharacterTextSplitter devolvió un tipo inesperado.")
+             return None
     except Exception as e:
         logger.exception(f"Error inesperado al crear RecursiveCharacterTextSplitter: {e}")
         return None
@@ -79,37 +85,33 @@ def chunk_text(
     """
     Divide un texto dado en fragmentos usando un TextSplitter configurado.
 
-    Si el texto es None, vacío, o más corto que chunk_size (considerando overlap),
-    generalmente devolverá una lista con el texto original como único elemento
-    (dependiendo del comportamiento exacto del splitter).
+    Si el texto es None, vacío, o más corto que chunk_size, generalmente
+    devolverá una lista con el texto original como único elemento.
 
     Args:
         chunker: La instancia de RecursiveCharacterTextSplitter a usar.
         text: El texto a dividir.
 
     Returns:
-        Una lista de strings, donde cada string es un fragmento del texto original.
-        Devuelve una lista vacía si el texto de entrada es None o vacío, o si
-        el chunker no es válido.
+        Una lista de strings (fragmentos). Lista vacía si la entrada es inválida o hay error.
     """
     if not isinstance(chunker, RecursiveCharacterTextSplitter):
-        logger.error("Se proporcionó un objeto chunker inválido o None.")
-        return []
+        logger.error("Se proporcionó un objeto chunker inválido o None a chunk_text.")
+        return [] # Devolver lista vacía en caso de error
     if not text: # Manejar None o string vacío
-        logger.debug("Texto de entrada para chunking está vacío o es None. Devolviendo lista vacía.")
-        return []
+        logger.debug("Texto de entrada para chunking está vacío o es None.")
+        return [] # Devolver lista vacía consistentemente
 
+    # El chunker de Langchain maneja textos más cortos que chunk_size devolviendo [texto]
     try:
-        logger.debug(f"Dividiendo texto (longitud: {len(text)}) en chunks...")
-        # split_text devuelve la lista de fragmentos
+        logger.debug(f"Dividiendo texto (longitud: {len(text)}) en chunks (size={chunker._chunk_size}, overlap={chunker._chunk_overlap})...")
         chunks = chunker.split_text(text)
         logger.debug(f"Texto dividido en {len(chunks)} chunks.")
         return chunks
     except Exception as e:
         logger.exception(f"Error inesperado durante la división del texto: {e}")
-        # Devolver el texto original en una lista como fallback seguro en caso de error?
-        # O devolver lista vacía para indicar fallo? Optamos por lista vacía.
-        return []
+        # Considerar devolver [text] como fallback si falló la división? O vacía?
+        return [] # Devolver lista vacía para indicar fallo
 
 
 # --- Bloque para pruebas rápidas ---
@@ -132,8 +134,9 @@ if __name__ == "__main__":
         print(f"\nProbando texto largo (len={len(texto_largo)}):")
         chunks_largos = chunk_text(mi_chunker, texto_largo)
         print(f"  Número de chunks generados: {len(chunks_largos)}")
-        for i, chunk in enumerate(chunks_largos):
-            print(f"  Chunk {i+1} (len={len(chunk)}): '{chunk[:50]}...{chunk[-20:]}'") # Mostrar inicio y fin
+        if chunks_largos:
+             for i, chunk in enumerate(chunks_largos):
+                 print(f"  Chunk {i+1} (len={len(chunk)}): '{chunk[:40]}...{chunk[-20:]}'" if len(chunk)>60 else f"  Chunk {i+1} (len={len(chunk)}): '{chunk}'")
 
         print(f"\nProbando texto corto (len={len(texto_corto)}):")
         chunks_cortos = chunk_text(mi_chunker, texto_corto)
@@ -148,9 +151,19 @@ if __name__ == "__main__":
         print(f"  Número de chunks generados: {len(chunks_vacios)}")
         assert chunks_vacios == []
 
+        print("\nProbando texto None:")
+        chunks_none = chunk_text(mi_chunker, None)
+        print(f"  Número de chunks generados: {len(chunks_none)}")
+        assert chunks_none == []
+
         print("\nProbando chunker cacheado:")
         mi_chunker_2 = get_answer_chunker(chunk_size=test_chunk_size, chunk_overlap=test_overlap)
-        assert mi_chunker is mi_chunker_2 # Debería ser la misma instancia gracias al caché
+        # lru_cache devuelve la misma instancia para los mismos argumentos
+        assert mi_chunker is mi_chunker_2
+
+        print("\nProbando configuración inválida (overlap >= size):")
+        chunker_invalido = get_answer_chunker(chunk_size=50, chunk_overlap=60)
+        assert chunker_invalido is None
 
     else:
-        print("Fallo al obtener la instancia del chunker.")
+        print("Fallo al obtener la instancia inicial del chunker.")

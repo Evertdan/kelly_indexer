@@ -3,52 +3,54 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-**Kelly Indexer** es una herramienta robusta y autónoma para convertir archivos `.json` con pares Pregunta/Respuesta (Q&A) —generados por [`kelly_soap`](https://github.com/Evertdan/kelly_soap)— en vectores que se indexan eficientemente en una base de datos vectorial **Qdrant Cloud**. Está optimizada para sistemas **RAG (Retrieval-Augmented Generation)** y asistentes inteligentes como **KellyBot**.
+**Kelly Indexer** es una herramienta robusta y autónoma diseñada para transformar archivos JSON con pares Pregunta/Respuesta (Q&A) —generados por [`kelly_soap`](https://github.com/Evertdan/kelly_soap)— en vectores listos para ser indexados en **Qdrant Cloud**. Genera embeddings de preguntas usando `sentence-transformers`, fragmenta respuestas largas con `langchain-text-splitters`, mantiene un estado de idempotencia y facilita integraciones RAG con sistemas como KellyBot.
 
 ---
 
-## 🧠 1. Introducción
+## 1. 🧠 Introducción
 
-### 🎯 El Desafío
+### 🧩 El desafío
 
-Los sistemas RAG modernos requieren bases de datos vectoriales con información estructurada y actualizada. Aunque el formato Q&A es ideal, necesita ser vectorizado, enriquecido con metadatos y correctamente indexado.
+Los sistemas RAG necesitan información vectorizada, actualizada y sin duplicados. Los datos en formato Q&A son ideales, pero deben convertirse en vectores con metadatos enriquecidos, controlando cambios y eliminaciones.
 
-### 💡 La Solución: Kelly Indexer
+### 🛠 La solución: Kelly Indexer
 
-Automatiza el pipeline completo para convertir Q&As en vectores listos para Qdrant:
+Automatiza todo el pipeline:
 
-1. 📂 **Carga y descubrimiento de archivos** `.json` (incluyendo subdirectorios).
-2. 🧠 **Generación de embeddings** para preguntas utilizando `sentence-transformers`.
-3. ✂️ **Fragmentación de respuestas** largas en chunks configurables.
-4. 📦 **Construcción de payloads ricos**: incluye respuestas, producto, keywords, archivo fuente.
-5. 🚀 **Indexación eficiente en Qdrant**, usando `upsert` y `delete` en lotes.
-6. 🔁 **Idempotencia segura** mediante un archivo de estado inteligente.
-7. 📊 **Reporte final de cambios** (agregados, modificados, eliminados).
-
----
-
-## ⚙️ 2. Características Principales
-
-- 🗂️ **Entrada recursiva** desde un directorio configurable (`.json` con listas de Q&A).
-- 🧬 **Vectorización de preguntas** con `all-MiniLM-L6-v2` por defecto.
-- 🧾 **Metadatos completos**: respuesta, producto, keywords, chunks, fuente.
-- 🧠 **UUIDs deterministas + SHA256** para detectar cambios reales en Q&As.
-- ✂️ **Chunking automático** de respuestas largas (tamaño y solapamiento configurables).
-- ☁️ **Integración con Qdrant Cloud** o local (métrica por defecto: `Cosine`).
-- 🧾 **Archivo de estado** para evitar duplicados o reprocesamientos innecesarios.
-- 🧪 **CLI potente y flexible** con soporte para dry-run, forzado, control de batch, etc.
-- 📈 **Progreso visual** con `tqdm` y logging configurable (nivel y archivo).
-- 💥 **Manejo de errores inteligente**: no se detiene por archivos defectuosos.
-- 🧪 **Entorno reproducible** con Conda y pruebas unitarias (`pytest`).
+1. Lee archivos `.json` de entrada.
+2. Compara con el estado previo.
+3. Genera embeddings (preguntas).
+4. Fragmenta respuestas.
+5. Construye vectores con payloads.
+6. Indexa en Qdrant (`upsert`, `delete`).
+7. Actualiza el estado.
+8. Reporta cambios en consola.
 
 ---
 
-## 🔁 3. Flujo de Trabajo
+## 2. ⚙️ Características Principales
+
+- 🧪 Entrada desde carpetas recursivas (`data/input/json/SOAP_TXT/` por defecto).
+- 🔁 Idempotencia con UUIDv5 y hashes SHA256.
+- 🧬 Embeddings vía `sentence-transformers` (modelo local, sin GPU).
+- ✂️ Fragmentación de respuestas largas (`langchain-text-splitters`).
+- ☁️ Compatible con Qdrant Cloud o local.
+- 🧾 Payload completo: pregunta, respuesta, producto, keywords, origen.
+- 🛡️ Gestión robusta del estado (`index_state_qdrant.json`).
+- 🔧 Configuración por `.env` y validación con `pydantic-settings`.
+- 📊 Barra de progreso (`tqdm`) + logging centralizado.
+- 🧪 CLI con soporte para dry-run y reindexado forzado.
+- 🧩 Estructura modular con pruebas automatizadas (`pytest`).
+- 📜 Licencia MIT.
+
+---
+
+## 3. 🔁 Flujo de Trabajo
 
 ```mermaid
 graph TD
-    A[Iniciar script: index_qdrant.py] --> B[Cargar configuración (.env)]
-    B --> C[Cargar estado previo (JSON)]
+    A[Inicio: Ejecutar index_qdrant.py] --> B[Cargar configuración (.env)]
+    B --> C[Cargar estado anterior (JSON)]
     C --> D[Leer archivos JSON con Q&As]
     D --> E[Comparar con estado (identificar cambios)]
     E --> F[Embeddings para preguntas nuevas o modificadas]
@@ -64,146 +66,113 @@ graph TD
 
 ---
 
-## 🛠 4. Instalación y Configuración (Ubuntu 24 + Conda)
-
-### 🐍 Paso 1: Clonar el repositorio
+## 4. 🧰 Instalación (Ubuntu 24 + Conda)
 
 ```bash
-git clone <URL_DEL_REPOSITORIO_KELLY_INDEXER>
+# Clona el repositorio
+git clone git@github.com:Evertdan/kelly_indexer.git
 cd kelly_indexer
-```
 
-### 🧪 Paso 2: Crear entorno Conda
-
-```bash
-conda create --name kelly_indexer_env python=3.10 -y
+# Crea entorno
+conda create -n kelly_indexer_env python=3.10 -y
 conda activate kelly_indexer_env
-```
 
-### 📦 Paso 3: Instalar dependencias
-
-```bash
-# Para desarrollo y pruebas
+# Instala dependencias
 pip install -e .[dev,test]
 
-# Solo para ejecución
-# pip install -e .
-```
-
-### ⚙️ Paso 4: Configurar `.env`
-
-```bash
+# Copia y edita configuración
 cp .env.sample .env
-nano .env
+nano .env  # Ajusta claves de Qdrant, rutas, modelo, etc.
 ```
-
-Edita los siguientes valores mínimos:
-
-- `QDRANT_URL`  
-- `QDRANT_API_KEY`
-
-Y ajusta los demás valores según necesidad (`CHUNK_SIZE`, `LOG_LEVEL`, etc.).
 
 ---
 
-## ⚙️ 5. Variables Importantes del `.env`
+## 5. ⚙️ Variables `.env` importantes
 
 | Variable | Descripción |
 |----------|-------------|
-| `QDRANT_URL` | 🌐 URL de tu instancia Qdrant Cloud |
-| `QDRANT_API_KEY` | 🔑 Token de autenticación |
-| `QDRANT_COLLECTION_NAME` | 🗃 Nombre de colección en Qdrant (default: `kellybot-docs-v1`) |
-| `EMBEDDING_MODEL_NAME` | 🧬 Modelo de embeddings (default: `all-MiniLM-L6-v2`) |
-| `VECTOR_DIMENSION` | 🔢 Dimensión del vector (ej: 384) |
-| `INPUT_JSON_DIR` | 📂 Ruta a los `.json` generados por `kelly_soap` |
-| `STATE_FILE_PATH` | 📄 Archivo de estado para evitar duplicados |
-| `CHUNK_SIZE` | 📏 Longitud máxima de fragmento de respuesta |
-| `CHUNK_OVERLAP` | 🔄 Solapamiento entre fragmentos |
-| `QDRANT_BATCH_SIZE` | 📦 Tamaño de lote para upserts |
-| `LOG_LEVEL` | 📣 Nivel de log (`INFO`, `DEBUG`, etc.) |
-| `LOG_FILE` | 📝 Archivo para logs persistentes |
+| `QDRANT_URL` | URL de tu instancia de Qdrant |
+| `QDRANT_API_KEY` | Clave API (si usas Qdrant Cloud) |
+| `INPUT_JSON_DIR` | Carpeta donde están los `.json` |
+| `STATE_FILE_PATH` | Ruta al archivo de estado |
+| `CHUNK_SIZE` / `CHUNK_OVERLAP` | Parámetros de fragmentación |
+| `QDRANT_COLLECTION_NAME` | Nombre de colección a usar |
+| `EMBEDDING_MODEL_NAME` | Modelo local a usar |
+| `LOG_LEVEL` / `LOG_FILE` | Logging personalizado |
 
 ---
 
-## 🚀 6. Ejecutar el Indexador
+## 6. 🚀 Ejecutar el Indexador
 
 ```bash
-# Asegúrate de tener el entorno activo:
-conda activate kelly_indexer_env
+# Simula (no escribe en Qdrant ni guarda estado)
+python scripts/indexer/index_qdrant.py --dry-run
 
-# Ejecución estándar:
+# Ejecuta en modo real
 python scripts/indexer/index_qdrant.py
 ```
 
-### 🧾 Opciones útiles:
+### 🧾 Argumentos útiles
 
-| Flag | Descripción |
-|------|-------------|
-| `--source` | Ruta de entrada personalizada |
-| `--state-file` | Ruta del archivo de estado |
-| `--batch-size` | Número de puntos por lote |
-| `--force-reindex` | Ignora el estado previo y reindexa todo |
-| `--dry-run` | Simula todo sin escribir ni eliminar nada |
+- `--source`: ruta personalizada de entrada
+- `--state-file`: ruta personalizada para estado
+- `--force-reindex`: reindexa todo ignorando estado
+- `--batch-size`: cambia lote para Qdrant
+- `--dry-run`: simula sin efectos colaterales
 
 ---
 
-## 📤 7. Resultado Esperado
+## 7. 📦 Estado y salida esperada
 
-- En **Qdrant** se almacenan vectores de preguntas con este payload:
+- Qdrant tendrá vectores con payload completo (`question`, `answer`, `product`, `keywords`, `source`).
+- Archivo `index_state_qdrant.json` se actualizará.
+- Consola mostrará resumen del proceso y errores (si los hubo).
 
-```json
-{
-  "question": "¿Qué es MiAdminXML?",
-  "answer": ["Respuesta fragmentada...", "Segundo chunk..."],
-  "product": "MiAdminXML",
-  "keywords": ["xml", "sat", "estado"],
-  "source": "SOAP_TXT/archivo.json"
-}
+---
+
+## 8. 🧯 Troubleshooting
+
+- ❌ **Error de conexión Qdrant**: revisa `QDRANT_URL` y API Key.
+- ❌ **Problemas con modelo**: verifica `EMBEDDING_MODEL_NAME`, red e instalación.
+- ❌ **Permisos de archivos**: asegúrate de tener lectura/escritura en los directorios involucrados.
+- 🐌 **Proceso lento**: embeddings en CPU + latencia red. Ajusta `QDRANT_BATCH_SIZE`.
+
+---
+
+## 9. 🧩 Estructura del Código
+
+```text
+src/kelly_indexer/
+├── config.py           # Configuración global
+├── data_loader.py      # Lectura de archivos
+├── embeddings.py       # Generación de vectores
+├── qdrant_ops.py       # Conexión con Qdrant
+├── state_manager.py    # Cálculo de diferencias y control de estado
+├── text_chunker.py     # Fragmentación de respuestas
+└── utils/
+    └── logging_setup.py
 ```
 
-- En `scripts/indexer/index_state_qdrant.json` queda guardado el estado actual:
-
-```json
-{
-  "version": "1.0",
-  "last_run_utc": "2025-04-08T21:45:00Z",
-  "indexed_points": {
-    "uuid-v5": {
-      "source_file": "subfolder/file1.json",
-      "question_hash": "9c1e..."
-    }
-  }
-}
-```
-
 ---
 
-## 🧯 8. Solución de Problemas
-
-| Problema | Solución |
-|---------|----------|
-| ❌ Falla `.env` | Asegúrate de copiar y configurar correctamente `.env` |
-| 🔐 Qdrant 401 | Verifica `QDRANT_API_KEY` |
-| 📡 Timeout / Conexión | Verifica tu red o URL de Qdrant |
-| 🧠 Modelo no encontrado | Revisa `EMBEDDING_MODEL_NAME`, requiere conexión para descarga inicial |
-| 🧮 Errores de memoria | Reduce `QDRANT_BATCH_SIZE` si hay muchos Q&A |
-| 📁 Permisos | Asegura permisos de lectura/escritura sobre input y output |
-
----
-
-## 🧪 9. Desarrollo
+## 10. 🧪 Desarrollo
 
 ```bash
 conda activate kelly_indexer_env
 pip install -e .[dev,test]
+
+# Ejecuta pruebas
 pytest tests/
+
+# Verifica calidad de código
+ruff check src tests scripts
 ruff format src tests scripts
 mypy src
 ```
 
 ---
 
-## 📄 10. Licencia
+## 11. 📄 Licencia
 
-Licencia [MIT](./LICENSE).
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 

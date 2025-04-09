@@ -3,46 +3,58 @@
     "q": "¿Qué error aparece al intentar subir la DIOT en MiAdminXML?",
     "a": "Aparece el error: 'DIOT: Msg: El número de columnas no es válido actuales 24: requeridas 22'.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "diot",
       "error",
       "columnas",
-      "subir",
-      "mensaje",
       "número",
-      "válido"
-    ]
+      "válido",
+      "subir",
+      "mensaje"
+    ],
+    "faq_id": "A-20-02-19-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece al intentar subir la DIOT en MiAdminXML? Respuesta: Aparece el error: 'DIOT: Msg: El número de columnas no es válido actuales 24: requeridas 22'."
   },
   {
-    "q": "¿Cuántas columnas requiere actualmente la DIOT y cuántas se están enviando?",
-    "a": "Actualmente la DIOT requiere 24 columnas, pero el sistema está esperando 22 columnas.",
+    "q": "¿Cuántas columnas requiere actualmente la DIOT y cuántas intenta subir el sistema?",
+    "a": "La DIOT requiere 24 columnas actualmente, pero el sistema intenta subir 22 columnas.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "diot",
       "columnas",
       "requeridas",
       "actuales",
-      "número",
-      "cambio"
-    ]
+      "24",
+      "22",
+      "error"
+    ],
+    "faq_id": "A-20-02-19-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántas columnas requiere actualmente la DIOT y cuántas intenta subir el sistema? Respuesta: La DIOT requiere 24 columnas actualmente, pero el sistema intenta subir 22 columnas."
   },
   {
     "q": "¿Qué se sugiere hacer para solucionar el error de columnas en la DIOT?",
-    "a": "Se sugiere actualizar el aplicativo 'DIOT' para que acepte las 24 columnas requeridas actualmente.",
+    "a": "Se sugiere actualizar el aplicativo 'DIOT' para que solicite las 24 columnas requeridas actualmente.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "diot",
-      "solución",
       "actualizar",
       "aplicativo",
       "columnas",
+      "24",
+      "solución",
       "error"
-    ]
+    ],
+    "faq_id": "A-20-02-19-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se sugiere hacer para solucionar el error de columnas en la DIOT? Respuesta: Se sugiere actualizar el aplicativo 'DIOT' para que solicite las 24 columnas requeridas actualmente."
   },
   {
-    "q": "¿Cuándo se realizaron los cambios en los requisitos de columnas de la DIOT?",
-    "a": "Los cambios en los requisitos de columnas de la DIOT se realizaron en enero y febrero de 2022.",
-    "product": "DIOT",
+    "q": "¿Cuándo se realizaron los cambios en los requisitos de columnas para la DIOT?",
+    "a": "Los cambios en los requisitos de columnas para la DIOT se realizaron en enero y febrero de 2022.",
+    "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "diot",
       "cambios",
@@ -51,60 +63,77 @@
       "febrero",
       "2022",
       "requisitos"
-    ]
+    ],
+    "faq_id": "A-20-02-19-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuándo se realizaron los cambios en los requisitos de columnas para la DIOT? Respuesta: Los cambios en los requisitos de columnas para la DIOT se realizaron en enero y febrero de 2022."
   },
   {
-    "q": "¿Dónde se puede descargar la aplicación de DIOT?",
-    "a": "La aplicación de DIOT se puede descargar en: https://www.sat.gob.mx/declaracion/31931/declaracion-informativa-de-operaciones-con-terceros-(diot)-a-29",
-    "product": "DIOT",
+    "q": "¿Dónde se puede descargar la DIOT actualizada?",
+    "a": "La DIOT actualizada se puede descargar en la página del SAT: https://www.sat.gob.mx/declaracion/31931/declaracion-informativa-de-operaciones-con-terceros-(diot)-a-29.",
+    "product": "MiAdminXML",
+    "categoria": "Recursos",
     "keywords": [
       "diot",
       "descargar",
-      "aplicación",
       "sat",
+      "página",
+      "actualizada",
       "enlace",
-      "url"
-    ]
+      "formato"
+    ],
+    "faq_id": "A-20-02-19-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se puede descargar la DIOT actualizada? Respuesta: La DIOT actualizada se puede descargar en la página del SAT: https://www.sat.gob.mx/declaracion/31931/declaracion-informativa-de-operaciones-con-terceros-(diot)-a-29."
   },
   {
     "q": "¿Qué tipo de archivo acepta la página del SAT para la DIOT?",
     "a": "La página del SAT solo acepta archivos con extensión .dec para la DIOT.",
-    "product": "DIOT",
+    "product": "MiAdminXML",
+    "categoria": "Formatos",
     "keywords": [
       "diot",
       "sat",
       "archivo",
       "dec",
       "extensión",
-      "acepta"
-    ]
+      "acepta",
+      "subir"
+    ],
+    "faq_id": "A-20-02-19-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de archivo acepta la página del SAT para la DIOT? Respuesta: La página del SAT solo acepta archivos con extensión .dec para la DIOT."
   },
   {
-    "q": "¿Qué tipo de archivo genera MiAdminXML para la DIOT?",
-    "a": "MiAdminXML genera la carga batch de la DIOT en un archivo .txt.",
+    "q": "¿Qué tipo de archivo genera MiAdminXML para la carga batch de DIOT?",
+    "a": "MiAdminXML genera la carga batch de DIOT en un archivo .txt.",
     "product": "MiAdminXML",
+    "categoria": "Formatos",
     "keywords": [
       "diot",
+      "carga",
+      "batch",
       "archivo",
       "txt",
-      "generar",
-      "carga",
-      "batch"
-    ]
+      "genera",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-19-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de archivo genera MiAdminXML para la carga batch de DIOT? Respuesta: MiAdminXML genera la carga batch de DIOT en un archivo .txt."
   },
   {
-    "q": "¿Cómo se debe proceder para subir la DIOT al SAT usando MiAdminXML?",
+    "q": "¿Cómo se debe proceder para subir la DIOT a la página del SAT usando MiAdminXML?",
     "a": "Se debe subir el archivo .txt generado por MiAdminXML a la aplicación de DIOT para generar el archivo .dec, y luego subir este archivo .dec a la página del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "diot",
-      "proceso",
       "subir",
       "sat",
       "txt",
       "dec",
-      "aplicación",
+      "proceso",
+      "miadminxml",
       "archivo"
-    ]
+    ],
+    "faq_id": "A-20-02-19-03-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se debe proceder para subir la DIOT a la página del SAT usando MiAdminXML? Respuesta: Se debe subir el archivo .txt generado por MiAdminXML a la aplicación de DIOT para generar el archivo .dec, y luego subir este archivo .dec a la página del SAT."
   }
 ]

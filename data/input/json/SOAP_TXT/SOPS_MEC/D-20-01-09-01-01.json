@@ -1,110 +1,77 @@
 [
   {
-    "q": "¿Qué mensaje recibe el cliente cuando su licencia está en uso en MiExpedienteContable?",
-    "a": "Al cliente le aparece que su licencia está en uso.",
+    "q": "¿Qué debo hacer si mi licencia de MiExpedienteContable aparece como en uso?",
+    "a": "Debes solicitar la reactivación de la licencia. El equipo de soporte te enviará un formato vía correo electrónico para completar el proceso.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de Licencia",
     "keywords": [
       "licencia",
       "en uso",
-      "mensaje",
-      "cliente",
-      "mi expediente contable"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de solicitud es cuando un cliente necesita reactivar su licencia en MiExpedienteContable?",
-    "a": "Es una Solicitud 01.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "solicitud",
-      "tipo",
       "reactivación",
-      "licencia",
-      "mi expediente contable"
-    ]
+      "formato",
+      "soporte"
+    ],
+    "faq_id": "D-20-01-09-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si mi licencia de MiExpedienteContable aparece como en uso? Respuesta: Debes solicitar la reactivación de la licencia. El equipo de soporte te enviará un formato vía correo electrónico para completar el proceso."
   },
   {
-    "q": "¿Cuál es el nivel de complejidad para reactivar una licencia en MiExpedienteContable?",
-    "a": "El nivel de complejidad es 2 – Medio.",
+    "q": "¿Qué se necesita para solicitar la primera reactivación de la licencia de MiExpedienteContable?",
+    "a": "Para la primera reactivación, el equipo de soporte enviará una plantilla y un formato específico vía correo electrónico que el cliente debe completar.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "nivel",
-      "complejidad",
-      "medio",
-      "reactivación",
-      "licencia"
-    ]
-  },
-  {
-    "q": "¿Qué recurso se utiliza para manejar la reactivación de licencias en MiExpedienteContable?",
-    "a": "El recurso utilizado es MiExpedienteContable.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "recurso",
-      "reactivación",
-      "licencia",
-      "mi expediente contable"
-    ]
-  },
-  {
-    "q": "¿Qué política se debe cumplir para reactivar una licencia en MiExpedienteContable?",
-    "a": "Se debe contar con la licencia MiExpedienteContable.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "política",
-      "requisito",
-      "licencia",
-      "mi expediente contable",
-      "reactivación"
-    ]
-  },
-  {
-    "q": "¿Qué se envía al cliente para la primera reactivación de su licencia en MiExpedienteContable?",
-    "a": "Se le envía vía correo electrónico el formato correspondiente, incluyendo una plantilla y una captura de pantalla.",
-    "product": "MiExpedienteContable",
+    "categoria": "Reactivación de Licencia",
     "keywords": [
       "primera reactivación",
       "formato",
-      "correo electrónico",
       "plantilla",
-      "captura de pantalla"
-    ]
+      "correo electrónico",
+      "soporte"
+    ],
+    "faq_id": "D-20-01-09-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para solicitar la primera reactivación de la licencia de MiExpedienteContable? Respuesta: Para la primera reactivación, el equipo de soporte enviará una plantilla y un formato específico vía correo electrónico que el cliente debe completar."
   },
   {
-    "q": "¿Qué se envía al cliente para la segunda reactivación de su licencia en MiExpedienteContable?",
-    "a": "Se le envía vía correo electrónico el formato correspondiente, incluyendo dos plantillas y una captura de pantalla. Además, se debe enviar un formato para que el cliente indique si requiere factura por el pago realizado.",
+    "q": "¿Qué diferencia hay entre la primera y segunda reactivación de la licencia en MiExpedienteContable?",
+    "a": "En la segunda reactivación, además de enviar la plantilla y el formato, se debe enviar un formato adicional para que el cliente indique si requiere factura por el pago realizado.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de Licencia",
     "keywords": [
       "segunda reactivación",
-      "formato",
-      "correo electrónico",
-      "plantilla",
-      "captura de pantalla",
-      "factura"
-    ]
+      "factura",
+      "pago",
+      "formato adicional",
+      "diferencias"
+    ],
+    "faq_id": "D-20-01-09-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué diferencia hay entre la primera y segunda reactivación de la licencia en MiExpedienteContable? Respuesta: En la segunda reactivación, además de enviar la plantilla y el formato, se debe enviar un formato adicional para que el cliente indique si requiere factura por el pago realizado."
   },
   {
-    "q": "¿Qué documento se debe llenar en cualquier caso de reactivación de licencia en MiExpedienteContable?",
-    "a": "Se debe llenar el control de reactivaciones, ubicado en el drive, siguiendo el instructivo de 'control de Reactivaciones'.",
+    "q": "¿Qué documento se debe llenar en todas las reactivaciones de licencia de MiExpedienteContable?",
+    "a": "En todas las reactivaciones, ya sea primera o segunda, se debe llenar el control de reactivaciones ubicado en el drive, siguiendo el instructivo correspondiente.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de Licencia",
     "keywords": [
       "control de reactivaciones",
-      "documento",
       "drive",
       "instructivo",
-      "llenar"
-    ]
+      "documento",
+      "obligatorio"
+    ],
+    "faq_id": "D-20-01-09-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documento se debe llenar en todas las reactivaciones de licencia de MiExpedienteContable? Respuesta: En todas las reactivaciones, ya sea primera o segunda, se debe llenar el control de reactivaciones ubicado en el drive, siguiendo el instructivo correspondiente."
   },
   {
-    "q": "¿Qué se hace después de enviar la información de reactivación al cliente en MiExpedienteContable?",
-    "a": "Se espera la respuesta del cliente para proceder con la reactivación.",
+    "q": "¿Qué sucede después de enviar la solicitud de reactivación de la licencia?",
+    "a": "Una vez enviada la solicitud, se espera la respuesta del cliente para proceder con la reactivación de la licencia.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de Licencia",
     "keywords": [
+      "solicitud",
       "respuesta",
       "cliente",
-      "proceder",
-      "reactivación",
-      "esperar"
-    ]
+      "proceso",
+      "reactivación"
+    ],
+    "faq_id": "D-20-01-09-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de enviar la solicitud de reactivación de la licencia? Respuesta: Una vez enviada la solicitud, se espera la respuesta del cliente para proceder con la reactivación de la licencia."
   }
 ]

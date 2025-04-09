@@ -1,23 +1,27 @@
 [
   {
     "q": "¿Qué es la herramienta verificado y asociado en MiAdminXML?",
-    "a": "Es una herramienta multi-propósito que permite tener control de los movimientos realizados con el XML, apoyando en el control de XML asociados a programas contables para despachos contables y en el control de XML verificados para empresas.",
+    "a": "Es una herramienta multi-propósito que permite tener control de los movimientos realizados con el XML, tanto para despachos contables como para empresas, ayudando a gestionar XML asociados a programas contables o verificados.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "herramienta",
       "verificado",
       "asociado",
-      "multi-propósito",
-      "control",
       "xml",
-      "despachos",
+      "control",
+      "multi-propósito",
+      "despachos contables",
       "empresas"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta verificado y asociado en MiAdminXML? Respuesta: Es una herramienta multi-propósito que permite tener control de los movimientos realizados con el XML, tanto para despachos contables como para empresas, ayudando a gestionar XML asociados a programas contables o verificados."
   },
   {
     "q": "¿Cómo se usa la herramienta verificado y asociado en MiAdminXML?",
     "a": "Al dar clic en el botón sobre un XML, se agrega una etiqueta 'SI' en el reporte. También funciona con multi-selección para etiquetar o eliminar la etiqueta de varios archivos a la vez.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "uso",
       "herramienta",
@@ -25,14 +29,48 @@
       "asociado",
       "etiqueta",
       "multi-selección",
-      "archivos",
+      "xml",
       "reporte"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se usa la herramienta verificado y asociado en MiAdminXML? Respuesta: Al dar clic en el botón sobre un XML, se agrega una etiqueta 'SI' en el reporte. También funciona con multi-selección para etiquetar o eliminar la etiqueta de varios archivos a la vez."
+  },
+  {
+    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado para despachos contables?",
+    "a": "Les ayuda a tener un control sobre los XML asociados a sus programas contables.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "beneficios",
+      "despachos contables",
+      "xml",
+      "asociados",
+      "programas contables",
+      "control"
+    ],
+    "faq_id": "A-20-03-25-03-12_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué beneficios ofrece la herramienta verificado y asociado para despachos contables? Respuesta: Les ayuda a tener un control sobre los XML asociados a sus programas contables."
+  },
+  {
+    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado para empresas?",
+    "a": "Les apoya en tener un control sobre los XML verificados.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "beneficios",
+      "empresas",
+      "xml",
+      "verificados",
+      "control"
+    ],
+    "faq_id": "A-20-03-25-03-12_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué beneficios ofrece la herramienta verificado y asociado para empresas? Respuesta: Les apoya en tener un control sobre los XML verificados."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la herramienta verificado y asociado en MiAdminXML?",
-    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -40,31 +78,8 @@
       "herramienta",
       "verificado",
       "asociado"
-    ]
-  },
-  {
-    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado en MiAdminXML para despachos contables?",
-    "a": "Les apoya para tener un control sobre los XML asociados a sus programas contables.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "beneficios",
-      "despachos contables",
-      "control",
-      "xml",
-      "asociados",
-      "programas contables"
-    ]
-  },
-  {
-    "q": "¿Qué beneficios ofrece la herramienta verificado y asociado en MiAdminXML para empresas?",
-    "a": "Les apoya en tener un control sobre los XML verificados.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "beneficios",
-      "empresas",
-      "control",
-      "xml",
-      "verificados"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta verificado y asociado en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   }
 ]

@@ -1,58 +1,67 @@
 [
   {
-    "q": "¿Qué se necesita para acceder a la solución de personalización de PDF en MiAdminXML?",
+    "q": "¿Qué se necesita para acceder a la herramienta de personalización de logos en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Personalización",
     "keywords": [
+      "logos",
       "personalización",
-      "pdf",
-      "requisitos",
       "licencia",
       "profesional",
       "periodo demostrativo",
-      "soporte",
-      "correo electrónico"
-    ]
+      "requisitos",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-03-17_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para acceder a la herramienta de personalización de logos en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué función cumple la herramienta descrita en el documento?",
+    "q": "¿Qué función tiene la herramienta de personalización en MiAdminXML?",
     "a": "La herramienta permite guardar el RFC (emisor) y el logo de la empresa para personalizar el archivo PDF.",
     "product": "MiAdminXML",
+    "categoria": "Personalización",
     "keywords": [
       "herramienta",
+      "personalización",
       "rfc",
       "logo",
       "empresa",
-      "personalizar",
       "pdf",
-      "archivo",
-      "emisor"
-    ]
+      "guardar"
+    ],
+    "faq_id": "A-20-03-25-03-17_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta de personalización en MiAdminXML? Respuesta: La herramienta permite guardar el RFC (emisor) y el logo de la empresa para personalizar el archivo PDF."
   },
   {
-    "q": "¿Qué tipo de soporte se describe en el documento?",
-    "a": "El documento describe un Soporte Temprano de Nivel 1, relacionado con el catálogo de logos.",
+    "q": "¿Qué tipo de soporte se ofrece para problemas con la personalización de logos en MiAdminXML?",
+    "a": "El soporte se ofrece a través de correo electrónico si el usuario no cuenta con la licencia MiAdminXML Profesional o no está en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
-      "temprano",
-      "nivel 1",
-      "catálogo",
       "logos",
-      "tipo",
-      "descripción"
-    ]
+      "personalización",
+      "correo electrónico",
+      "licencia",
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-03-25-03-17_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de soporte se ofrece para problemas con la personalización de logos en MiAdminXML? Respuesta: El soporte se ofrece a través de correo electrónico si el usuario no cuenta con la licencia MiAdminXML Profesional o no está en el periodo demostrativo."
   },
   {
-    "q": "¿Cuál es la versión del documento?",
-    "a": "La versión del documento es 09.09.2020.04.",
-    "product": "General",
+    "q": "¿Cuál es el nivel de soporte para la herramienta de personalización de logos en MiAdminXML?",
+    "a": "El nivel de soporte es Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "versión",
-      "documento",
-      "fecha",
-      "09.09.2020.04",
-      "revisión"
-    ]
+      "nivel",
+      "soporte",
+      "temprano",
+      "logos",
+      "personalización"
+    ],
+    "faq_id": "A-20-03-25-03-17_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de soporte para la herramienta de personalización de logos en MiAdminXML? Respuesta: El nivel de soporte es Nivel 1 - Temprano."
   }
 ]

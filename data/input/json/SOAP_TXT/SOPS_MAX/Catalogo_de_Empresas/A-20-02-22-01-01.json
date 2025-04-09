@@ -1,106 +1,77 @@
 [
   {
     "q": "¿Qué tipo de problema reporta el cliente en el catálogo de contribuyentes?",
-    "a": "El cliente no encuentra la información de su catálogo de contribuyentes.",
-    "product": "Catálogo de Contribuyentes",
+    "a": "El cliente reporta que no encuentra la información de su catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "categoria": "Catálogo de Contribuyentes",
     "keywords": [
       "problema",
-      "cliente",
       "catálogo",
       "contribuyentes",
       "información",
       "no encuentra"
-    ]
+    ],
+    "faq_id": "A-20-02-22-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de problema reporta el cliente en el catálogo de contribuyentes? Respuesta: El cliente reporta que no encuentra la información de su catálogo de contribuyentes."
   },
   {
-    "q": "¿Cuál es el tipo de incidencia reportada para este problema?",
-    "a": "El tipo de incidencia es INC-02.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "incidencia",
-      "tipo",
-      "inc-02",
-      "problema",
-      "reporte"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de prioridad tiene este problema?",
-    "a": "El nivel de prioridad es 1 – Bajo.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "nivel",
-      "prioridad",
-      "bajo",
-      "problema",
-      "incidencia"
-    ]
-  },
-  {
-    "q": "¿Qué se necesita para poder usar el Catálogo de Contribuyentes?",
+    "q": "¿Qué requisitos se necesitan para acceder al catálogo de contribuyentes en MiAdminXML?",
     "a": "Se requiere contar con una licencia de MiAdminXML o estar en periodo demostrativo.",
-    "product": "Catálogo de Contribuyentes",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
-      "miadminxml",
       "periodo demostrativo",
       "acceso",
       "catálogo"
-    ]
+    ],
+    "faq_id": "A-20-02-22-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para acceder al catálogo de contribuyentes en MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Qué información se proporciona para el llenado del Catálogo de Contribuyentes?",
-    "a": "Se proporciona información de manera correcta para el llenado del Catálogo de Contribuyentes.",
-    "product": "Catálogo de Contribuyentes",
+    "q": "¿Qué puede causar la pérdida de información en el catálogo de contribuyentes?",
+    "a": "Cuando la base de datos es modificada o cambia de versión, en ocasiones se elimina la información ya guardada.",
+    "product": "MiAdminXML",
+    "categoria": "Catálogo de Contribuyentes",
     "keywords": [
+      "pérdida",
       "información",
-      "llenado",
-      "correcta",
-      "catálogo",
-      "contribuyentes"
-    ]
-  },
-  {
-    "q": "¿Qué requiere el cliente específicamente en su solicitud?",
-    "a": "El cliente requiere información acerca de cómo agregar un RFC en el Catálogo de Contribuyentes.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "solicitud",
-      "cliente",
-      "agregar",
-      "rfc",
-      "catálogo",
-      "contribuyentes"
-    ]
-  },
-  {
-    "q": "¿Qué sucede cuando la base de datos del Catálogo de Contribuyentes cambia de versión?",
-    "a": "Cuando la base de datos es modificada o cambia de versión, en ocasiones se elimina la información ya guardada, por lo que es necesario registrar y actualizar los datos del contribuyente nuevamente.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
       "base de datos",
-      "versión",
       "modificación",
-      "eliminar",
-      "información",
-      "actualizar",
-      "datos",
-      "contribuyente"
-    ]
+      "versión"
+    ],
+    "faq_id": "A-20-02-22-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué puede causar la pérdida de información en el catálogo de contribuyentes? Respuesta: Cuando la base de datos es modificada o cambia de versión, en ocasiones se elimina la información ya guardada."
   },
   {
-    "q": "¿Se recupera automáticamente la información del contribuyente después de un cambio de versión?",
-    "a": "No, la información no se recupera automáticamente por el cambio de versión, es necesario registrar y actualizar los datos del contribuyente nuevamente.",
-    "product": "Catálogo de Contribuyentes",
+    "q": "¿Qué se debe hacer si se pierde la información del catálogo de contribuyentes?",
+    "a": "Es necesario registrar y actualizar los datos del contribuyente nuevamente, ya que NO se recupera la información por el cambio de versión.",
+    "product": "MiAdminXML",
+    "categoria": "Catálogo de Contribuyentes",
     "keywords": [
-      "recuperación",
-      "automática",
-      "información",
-      "versión",
+      "registrar",
       "actualizar",
       "datos",
-      "contribuyente"
-    ]
+      "contribuyente",
+      "recuperación"
+    ],
+    "faq_id": "A-20-02-22-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si se pierde la información del catálogo de contribuyentes? Respuesta: Es necesario registrar y actualizar los datos del contribuyente nuevamente, ya que NO se recupera la información por el cambio de versión."
+  },
+  {
+    "q": "¿Cómo se identifica este tipo de incidencia en el sistema?",
+    "a": "Este tipo de incidencia se identifica como INC-02 con un nivel de 1 – Bajo.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "incidencia",
+      "identificación",
+      "inc-02",
+      "nivel",
+      "bajo"
+    ],
+    "faq_id": "A-20-02-22-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se identifica este tipo de incidencia en el sistema? Respuesta: Este tipo de incidencia se identifica como INC-02 con un nivel de 1 – Bajo."
   }
 ]

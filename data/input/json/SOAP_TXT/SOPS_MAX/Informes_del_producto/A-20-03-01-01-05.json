@@ -1,65 +1,79 @@
 [
   {
-    "q": "¿Cómo puedo obtener un periodo de prueba de MiAdminXML?",
-    "a": "Para obtener el periodo de prueba, no debes haber instalado MiAdminXML anteriormente en tu equipo de cómputo. Una vez instalado el programa, comienzan automáticamente los 30 días de prueba.",
+    "q": "¿Cómo puedo obtener el periodo de prueba de MiAdminXML?",
+    "a": "Para obtener el periodo de prueba, debes instalar MiAdminXML en tu equipo de cómputo, siempre y cuando no lo hayas instalado anteriormente en ese mismo equipo. Una vez instalado, comienzan automáticamente los 30 días de prueba.",
     "product": "MiAdminXML",
+    "categoria": "Periodo de Prueba",
     "keywords": [
-      "periodo de prueba",
-      "obtener",
+      "periodo",
+      "prueba",
       "instalación",
-      "requisitos",
+      "equipo",
       "30 días"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-05_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo obtener el periodo de prueba de MiAdminXML? Respuesta: Para obtener el periodo de prueba, debes instalar MiAdminXML en tu equipo de cómputo, siempre y cuando no lo hayas instalado anteriormente en ese mismo equipo. Una vez instalado, comienzan automáticamente los 30 días de prueba."
   },
   {
     "q": "¿Qué beneficios incluye el periodo de prueba de MiAdminXML?",
-    "a": "Durante el periodo de prueba de 30 días, se activan todos los beneficios del paquete PLUS, más un módulo adicional de la licencia Pro, específicamente el Módulo de Control y conciliación de pagos.",
+    "a": "Durante los 30 días de prueba, se activan todos los beneficios del paquete PLUS, además de un módulo adicional de la licencia Pro, específicamente el Módulo de Control y conciliación de pagos.",
     "product": "MiAdminXML",
+    "categoria": "Periodo de Prueba",
     "keywords": [
       "beneficios",
-      "periodo de prueba",
       "paquete plus",
-      "módulo adicional",
-      "control de pagos",
-      "conciliación"
-    ]
+      "módulo",
+      "control",
+      "pagos",
+      "prueba"
+    ],
+    "faq_id": "A-20-03-01-01-05_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué beneficios incluye el periodo de prueba de MiAdminXML? Respuesta: Durante los 30 días de prueba, se activan todos los beneficios del paquete PLUS, además de un módulo adicional de la licencia Pro, específicamente el Módulo de Control y conciliación de pagos."
   },
   {
-    "q": "¿Puedo volver a usar la versión de prueba de MiAdminXML después de los 30 días?",
-    "a": "No, después de los 30 días de prueba, no se puede volver a usar la versión de prueba, incluso si se desinstala el programa o se formatea el equipo. El sistema detecta automáticamente cuando ya se han proporcionado los 30 días de prueba.",
+    "q": "¿Puedo volver a usar el periodo de prueba después de los 30 días?",
+    "a": "No, después de los 30 días de prueba, no se puede volver a usar la versión de prueba, incluso si desinstalas el programa o formateas el equipo. El sistema detecta automáticamente cuando ya se han proporcionado los 30 días de prueba.",
     "product": "MiAdminXML",
+    "categoria": "Periodo de Prueba",
     "keywords": [
-      "versión de prueba",
-      "limite",
-      "30 días",
+      "reutilizar",
+      "prueba",
       "desinstalar",
       "formatear",
-      "detección automática"
-    ]
+      "equipo",
+      "30 días"
+    ],
+    "faq_id": "A-20-03-01-01-05_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Puedo volver a usar el periodo de prueba después de los 30 días? Respuesta: No, después de los 30 días de prueba, no se puede volver a usar la versión de prueba, incluso si desinstalas el programa o formateas el equipo. El sistema detecta automáticamente cuando ya se han proporcionado los 30 días de prueba."
   },
   {
     "q": "¿Qué requisitos hay para acceder al periodo de prueba de MiAdminXML?",
-    "a": "El único requisito para acceder al periodo de prueba es no haber instalado MiAdminXML anteriormente en el equipo de cómputo donde se desea probar el software.",
+    "a": "El único requisito para acceder al periodo de prueba es no haber instalado MiAdminXML anteriormente en el mismo equipo de cómputo donde deseas realizar la prueba.",
     "product": "MiAdminXML",
+    "categoria": "Periodo de Prueba",
     "keywords": [
       "requisitos",
-      "periodo de prueba",
+      "acceso",
+      "prueba",
       "instalación previa",
-      "equipo de cómputo",
-      "acceso"
-    ]
+      "equipo"
+    ],
+    "faq_id": "A-20-03-01-01-05_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos hay para acceder al periodo de prueba de MiAdminXML? Respuesta: El único requisito para acceder al periodo de prueba es no haber instalado MiAdminXML anteriormente en el mismo equipo de cómputo donde deseas realizar la prueba."
   },
   {
-    "q": "¿Qué módulo adicional se incluye durante el periodo de prueba de MiAdminXML?",
-    "a": "Durante el periodo de prueba, además de los beneficios del paquete PLUS, se incluye el Módulo de Control y conciliación de pagos de la licencia Pro.",
+    "q": "¿Dónde puedo encontrar más información sobre el periodo de prueba de MiAdminXML?",
+    "a": "Puedes encontrar más información sobre el periodo de prueba en la página web www.adminxml.com.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
-      "módulo adicional",
-      "periodo de prueba",
-      "control de pagos",
-      "conciliación",
-      "licencia pro",
-      "beneficios"
-    ]
+      "información",
+      "periodo",
+      "prueba",
+      "web",
+      "adminxml"
+    ],
+    "faq_id": "A-20-03-01-01-05_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar más información sobre el periodo de prueba de MiAdminXML? Respuesta: Puedes encontrar más información sobre el periodo de prueba en la página web www.adminxml.com."
   }
 ]

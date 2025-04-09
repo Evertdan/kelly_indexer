@@ -1,75 +1,88 @@
 [
   {
     "q": "¿Qué es la herramienta de conceptos en MiAdminXML?",
-    "a": "La herramienta de conceptos enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad.",
+    "a": "La herramienta de conceptos en MiAdminXML enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad.",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
       "herramienta",
       "conceptos",
       "productos",
       "pago",
       "descripción",
-      "xml",
-      "lista"
-    ]
+      "clave",
+      "unidad"
+    ],
+    "faq_id": "A-20-03-26-01-09_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta de conceptos en MiAdminXML? Respuesta: La herramienta de conceptos en MiAdminXML enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la herramienta de conceptos en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo",
       "demostrativo",
-      "acceso",
-      "herramienta",
-      "conceptos"
-    ]
+      "acceso"
+    ],
+    "faq_id": "A-20-03-26-01-09_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta de conceptos en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo accedo a la herramienta de conceptos en MiAdminXML?",
-    "a": "Para acceder a la herramienta de conceptos: 1) Ingresa al módulo 'Administración de XML', 2) Selecciona el submódulo 'Administración de XML 4.0', 3) Selecciona RFC, Tipo, Año y mes, 4) Da clic en 'Conceptos' (parte derecha).",
+    "a": "Para acceder a la herramienta de conceptos, sigue estos pasos: 1) Ingresa al módulo de Administración de XML, 2) Selecciona el submódulo de Administración de XML 4.0, 3) Selecciona RFC, Tipo, Año y mes, 4) Da clic en Conceptos (parte derecha).",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
-      "módulo",
-      "administración",
-      "xml",
-      "submódulo",
       "pasos",
-      "procedimiento",
-      "conceptos"
-    ]
+      "módulo",
+      "submódulo",
+      "rfc",
+      "tipo",
+      "año",
+      "mes",
+      "clic"
+    ],
+    "faq_id": "A-20-03-26-01-09_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo accedo a la herramienta de conceptos en MiAdminXML? Respuesta: Para acceder a la herramienta de conceptos, sigue estos pasos: 1) Ingresa al módulo de Administración de XML, 2) Selecciona el submódulo de Administración de XML 4.0, 3) Selecciona RFC, Tipo, Año y mes, 4) Da clic en Conceptos (parte derecha)."
   },
   {
     "q": "¿Qué información muestra la herramienta de conceptos en MiAdminXML?",
-    "a": "La herramienta muestra los detalles del producto en una pestaña específica, incluyendo la descripción, clave del producto y descripción de la unidad.",
+    "a": "La herramienta de conceptos muestra los detalles del producto en una pestaña, incluyendo la descripción, clave del producto y descripción de la unidad.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "información",
       "detalles",
       "producto",
+      "pestaña",
       "descripción",
       "clave",
-      "unidad",
-      "pestaña",
-      "reporte"
-    ]
+      "unidad"
+    ],
+    "faq_id": "A-20-03-26-01-09_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información muestra la herramienta de conceptos en MiAdminXML? Respuesta: La herramienta de conceptos muestra los detalles del producto en una pestaña, incluyendo la descripción, clave del producto y descripción de la unidad."
   },
   {
-    "q": "¿Qué hace el módulo de conceptos en MiAdminXML después de seleccionar los filtros?",
-    "a": "El módulo genera un reporte mostrando los detalles del producto en la pestaña de conceptos.",
+    "q": "¿Qué hace el módulo de Administración de XML 4.0 al seleccionar Conceptos?",
+    "a": "El módulo de Administración de XML 4.0 genera un reporte mostrando los detalles del producto en la pestaña de conceptos al seleccionar esta opción.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "módulo",
-      "generar",
+      "administración",
+      "xml",
       "reporte",
       "detalles",
       "producto",
       "pestaña",
-      "conceptos",
-      "filtros"
-    ]
+      "conceptos"
+    ],
+    "faq_id": "A-20-03-26-01-09_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace el módulo de Administración de XML 4.0 al seleccionar Conceptos? Respuesta: El módulo de Administración de XML 4.0 genera un reporte mostrando los detalles del producto en la pestaña de conceptos al seleccionar esta opción."
   }
 ]

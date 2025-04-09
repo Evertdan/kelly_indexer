@@ -1,67 +1,67 @@
 [
   {
     "q": "¿Cómo puedo obtener la versión de prueba de MiExpedienteContable?",
-    "a": "Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe ingresar a la página proporcionada, registrarse en el formulario con su Nombre, Apellido y Correo Electrónico, y recibirá el instalador del sistema por correo.",
+    "a": "Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe ingresar a la página XXXXXXXXXXXXXX, registrarse en el formulario proporcionando su Nombre, Apellido y Correo Electrónico. Recibirá el instalador del sistema en el correo electrónico proporcionado.",
     "product": "MiExpedienteContable",
+    "categoria": "Demo",
     "keywords": [
       "versión de prueba",
       "demo",
-      "descargar",
       "registro",
       "formulario",
+      "instalador",
       "30 días",
-      "instalador"
-    ]
+      "descarga"
+    ],
+    "faq_id": "D-20-03-01-01-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo obtener la versión de prueba de MiExpedienteContable? Respuesta: Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe ingresar a la página XXXXXXXXXXXXXX, registrarse en el formulario proporcionando su Nombre, Apellido y Correo Electrónico. Recibirá el instalador del sistema en el correo electrónico proporcionado."
+  },
+  {
+    "q": "¿Qué requisitos hay para usar la versión demo de MiExpedienteContable?",
+    "a": "La versión demo de MiExpedienteContable debe descargarse en un equipo que no haya tenido instalado el sistema previamente. Si el equipo ya ha tenido el sistema instalado, solicitará ingresar una clave de licencia.",
+    "product": "MiExpedienteContable",
+    "categoria": "Demo",
+    "keywords": [
+      "requisitos",
+      "demo",
+      "instalación",
+      "equipo",
+      "clave de licencia",
+      "versión anterior"
+    ],
+    "faq_id": "D-20-03-01-01-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos hay para usar la versión demo de MiExpedienteContable? Respuesta: La versión demo de MiExpedienteContable debe descargarse en un equipo que no haya tenido instalado el sistema previamente. Si el equipo ya ha tenido el sistema instalado, solicitará ingresar una clave de licencia."
+  },
+  {
+    "q": "¿Por cuánto tiempo es válida la versión de prueba de MiExpedienteContable?",
+    "a": "La versión de prueba de MiExpedienteContable es válida por 30 días.",
+    "product": "MiExpedienteContable",
+    "categoria": "Demo",
+    "keywords": [
+      "tiempo",
+      "demo",
+      "30 días",
+      "validez",
+      "prueba"
+    ],
+    "faq_id": "D-20-03-01-01-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Por cuánto tiempo es válida la versión de prueba de MiExpedienteContable? Respuesta: La versión de prueba de MiExpedienteContable es válida por 30 días."
   },
   {
     "q": "¿Qué información necesito proporcionar para registrarme en la versión demo de MiExpedienteContable?",
     "a": "Para registrarse en la versión demo de MiExpedienteContable, debe proporcionar su Nombre, Apellido y Correo Electrónico en el formulario de registro.",
     "product": "MiExpedienteContable",
+    "categoria": "Demo",
     "keywords": [
       "registro",
       "información",
+      "formulario",
       "nombre",
       "apellido",
       "correo electrónico",
-      "formulario",
       "demo"
-    ]
-  },
-  {
-    "q": "¿Cuánto tiempo dura el periodo de prueba de MiExpedienteContable?",
-    "a": "El periodo de prueba de MiExpedienteContable dura 30 días.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "periodo de prueba",
-      "duración",
-      "30 días",
-      "demo",
-      "tiempo"
-    ]
-  },
-  {
-    "q": "¿Puedo instalar la versión demo de MiExpedienteContable en un equipo donde ya he tenido el sistema instalado?",
-    "a": "No, la versión demo de MiExpedienteContable debe descargarse en un equipo que no haya tenido el sistema instalado previamente, de lo contrario solicitará ingresar una clave de licencia.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "instalación",
-      "equipo",
-      "restricciones",
-      "versión demo",
-      "clave de licencia",
-      "previamente instalado"
-    ]
-  },
-  {
-    "q": "¿Qué pasa si intento instalar la versión demo en un equipo con una instalación previa de MiExpedienteContable?",
-    "a": "Si intenta instalar la versión demo en un equipo con una instalación previa de MiExpedienteContable, el sistema solicitará ingresar una clave de licencia en lugar de permitir el uso de la versión demo.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "instalación",
-      "problemas",
-      "clave de licencia",
-      "versión demo",
-      "equipo previo"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información necesito proporcionar para registrarme en la versión demo de MiExpedienteContable? Respuesta: Para registrarse en la versión demo de MiExpedienteContable, debe proporcionar su Nombre, Apellido y Correo Electrónico en el formulario de registro."
   }
 ]

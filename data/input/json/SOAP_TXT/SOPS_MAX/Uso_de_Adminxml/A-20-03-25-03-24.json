@@ -1,55 +1,78 @@
 [
   {
-    "q": "¿Qué se necesita para usar la herramienta de Control de Cuentas por Cobrar y Cuentas por Pagar en MiAdminXML?",
+    "q": "¿Qué se necesita para usar la herramienta pagada de MiAdminXML?",
     "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "control de cuentas",
-      "cxc",
-      "cxp",
       "licencia",
-      "periodo demostrativo",
+      "herramienta pagada",
       "requisitos",
-      "herramienta"
-    ]
+      "periodo demostrativo",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-03-24_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta pagada de MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cómo se asignan las operaciones de control Pagado y No Pagado en MiAdminXML?",
-    "a": "En el módulo Control de Cuentas por Cobrar y Cuentas por Pagar, se selecciona al contribuyente requerido y luego se asigna en el reporte las operaciones de control Pagado y No Pagado según corresponda.",
+    "q": "¿Dónde se encuentra la función de control de Cuentas por Cobrar y Cuentas por Pagar en MiAdminXML?",
+    "a": "La función de control de Cuentas por Cobrar y Cuentas por Pagar (CxC y CxP) se encuentra en el módulo correspondiente, luego de seleccionar al contribuyente requerido.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "asignar operaciones",
+      "cuentas por cobrar",
+      "cuentas por pagar",
+      "módulo",
+      "contribuyente",
+      "control"
+    ],
+    "faq_id": "A-20-03-25-03-24_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la función de control de Cuentas por Cobrar y Cuentas por Pagar en MiAdminXML? Respuesta: La función de control de Cuentas por Cobrar y Cuentas por Pagar (CxC y CxP) se encuentra en el módulo correspondiente, luego de seleccionar al contribuyente requerido."
+  },
+  {
+    "q": "¿Qué operaciones se pueden asignar en el reporte de control de CxC y CxP en MiAdminXML?",
+    "a": "En el reporte se pueden asignar las operaciones de control Pagado y No Pagado según corresponda.",
+    "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
+    "keywords": [
+      "reporte",
+      "operaciones",
       "pagado",
       "no pagado",
-      "contribuyente",
-      "reporte",
-      "control de cuentas"
-    ]
+      "control"
+    ],
+    "faq_id": "A-20-03-25-03-24_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué operaciones se pueden asignar en el reporte de control de CxC y CxP en MiAdminXML? Respuesta: En el reporte se pueden asignar las operaciones de control Pagado y No Pagado según corresponda."
   },
   {
-    "q": "¿Qué detalles se pueden aplicar a las facturas en el módulo de Control de Cuentas por Cobrar y Cuentas por Pagar?",
-    "a": "Se pueden aplicar detalles como la fecha de pago, método de pago, número de cuenta (opcional) y banco (opcional).",
+    "q": "¿Qué detalles se pueden aplicar a las facturas en el módulo de CxC y CxP de MiAdminXML?",
+    "a": "Se pueden aplicar detalles como la fecha de pago, método de pago, número de cuenta (opcional) y Banco (opcional).",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "detalles",
       "facturas",
+      "detalles",
       "fecha de pago",
       "método de pago",
-      "número de cuenta",
+      "cuenta",
       "banco",
       "opcional"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-24_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué detalles se pueden aplicar a las facturas en el módulo de CxC y CxP de MiAdminXML? Respuesta: Se pueden aplicar detalles como la fecha de pago, método de pago, número de cuenta (opcional) y Banco (opcional)."
   },
   {
     "q": "¿A cuántas facturas se pueden asignar los detalles de pago en MiAdminXML?",
     "a": "Los detalles de pago se pueden asignar a una o más de una factura.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "asignar detalles",
+      "detalles de pago",
+      "asignar",
       "facturas",
-      "pago",
-      "múltiples",
-      "control de cuentas"
-    ]
+      "múltiples"
+    ],
+    "faq_id": "A-20-03-25-03-24_q4",
+    "texto_para_vectorizar": "Pregunta: ¿A cuántas facturas se pueden asignar los detalles de pago en MiAdminXML? Respuesta: Los detalles de pago se pueden asignar a una o más de una factura."
   }
 ]

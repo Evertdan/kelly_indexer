@@ -1,93 +1,104 @@
 [
   {
-    "q": "¿Qué debe hacer el ejecutivo cuando un cliente reporta no recibir su clave de licencia?",
-    "a": "El ejecutivo debe solicitar al cliente su número de orden de compra para validar la información en el bot usando el comando /orden.",
+    "q": "¿Qué debo hacer si no he recibido mi clave de licencia?",
+    "a": "Debes contactar al soporte proporcionando tu número de orden de compra para que validen la información en el BOT. Luego, te solicitarán confirmar datos como correo electrónico, razón social, RFC y nombre de quien llenó la orden de compra para reenviar la licencia.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "ejecutivo",
-      "cliente",
-      "clave de licencia",
+      "licencia",
+      "clave",
+      "no recibida",
+      "soporte",
       "orden de compra",
-      "validar",
-      "bot",
-      "comando"
-    ]
+      "validación",
+      "reenvío"
+    ],
+    "faq_id": "D-20-01-02-03-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no he recibido mi clave de licencia? Respuesta: Debes contactar al soporte proporcionando tu número de orden de compra para que validen la información en el BOT. Luego, te solicitarán confirmar datos como correo electrónico, razón social, RFC y nombre de quien llenó la orden de compra para reenviar la licencia."
   },
   {
-    "q": "¿Qué datos debe confirmar el cliente para recibir su licencia?",
-    "a": "El cliente debe confirmar su correo electrónico, razón social, RFC y el nombre de a quien se llenó la orden de compra.",
+    "q": "¿Qué datos necesito proporcionar para que me reenvíen la licencia?",
+    "a": "Debes confirmar los siguientes datos: correo electrónico, razón social, RFC y nombre de a quien se llenó la orden de compra.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "cliente",
-      "confirmar",
       "datos",
-      "correo electrónico",
+      "confirmación",
+      "reenvío",
+      "licencia",
+      "correo",
       "razón social",
       "rfc",
       "orden de compra"
-    ]
+    ],
+    "faq_id": "D-20-01-02-03-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos necesito proporcionar para que me reenvíen la licencia? Respuesta: Debes confirmar los siguientes datos: correo electrónico, razón social, RFC y nombre de a quien se llenó la orden de compra."
   },
   {
-    "q": "¿Cómo se envía la licencia al cliente una vez confirmados los datos?",
-    "a": "Se envía la licencia correspondiente usando el comando /enviarlicencias y se confirma la recepción del correo.",
+    "q": "¿Cómo se valida la información para reenviar una licencia?",
+    "a": "La información se valida en el BOT usando el comando /orden con el número de orden de compra proporcionado por el cliente.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
+      "validación",
+      "bot",
+      "comando",
+      "orden",
+      "número de orden",
+      "información",
+      "licencia"
+    ],
+    "faq_id": "D-20-01-02-03-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida la información para reenviar una licencia? Respuesta: La información se valida en el BOT usando el comando /orden con el número de orden de compra proporcionado por el cliente."
+  },
+  {
+    "q": "¿Qué comando se usa para enviar la licencia al cliente?",
+    "a": "Se usa el comando /enviarlicencias para enviar la licencia correspondiente una vez confirmados los datos del cliente.",
+    "product": "General",
+    "categoria": "Soporte",
+    "keywords": [
+      "comando",
       "enviar",
       "licencia",
-      "comando",
-      "enviarlicencias",
-      "confirmación",
-      "correo"
-    ]
+      "bot",
+      "reenvío",
+      "confirmación"
+    ],
+    "faq_id": "D-20-01-02-03-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se usa para enviar la licencia al cliente? Respuesta: Se usa el comando /enviarlicencias para enviar la licencia correspondiente una vez confirmados los datos del cliente."
   },
   {
-    "q": "¿Qué sucede si el cliente no confirma los datos requeridos para el envío de la licencia?",
-    "a": "Si el cliente no confirma los datos, la licencia se enviará al correo registrado en el bot.",
+    "q": "¿Se puede enviar la licencia a un correo diferente al registrado?",
+    "a": "Sí, pero el cliente debe confirmar los datos mencionados (correo, razón social, RFC, nombre). Si no se confirman, la licencia se enviará al correo registrado en el BOT.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "cliente",
+      "correo alternativo",
+      "registrado",
       "confirmación",
       "datos",
-      "correo registrado",
-      "bot",
-      "envío"
-    ]
+      "reenvío",
+      "licencia",
+      "seguridad"
+    ],
+    "faq_id": "D-20-01-02-03-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Se puede enviar la licencia a un correo diferente al registrado? Respuesta: Sí, pero el cliente debe confirmar los datos mencionados (correo, razón social, RFC, nombre). Si no se confirman, la licencia se enviará al correo registrado en el BOT."
   },
   {
-    "q": "¿Qué tipo de situación se describe en el texto?",
-    "a": "Se describe una situación donde un cliente no ha recibido su clave de licencia y el proceso para solucionarlo.",
+    "q": "¿Qué tipo de solicitud es reportar no haber recibido la licencia?",
+    "a": "Es una solicitud tipo Sol-01, con un nivel de prioridad 1 – Bajo.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "situación",
-      "cliente",
-      "clave de licencia",
-      "no recibido",
-      "proceso",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de prioridad tiene la situación descrita?",
-    "a": "La situación tiene un nivel de prioridad 1 – Bajo.",
-    "product": "General",
-    "keywords": [
-      "nivel",
+      "tipo",
+      "solicitud",
+      "sol-01",
       "prioridad",
       "bajo",
-      "situación",
-      "tipo"
-    ]
-  },
-  {
-    "q": "¿Qué recurso se utiliza para validar la información del cliente?",
-    "a": "Se utiliza un BOT para validar la información del cliente.",
-    "product": "General",
-    "keywords": [
-      "recurso",
-      "bot",
-      "validar",
-      "información",
-      "cliente"
-    ]
+      "licencia",
+      "reporte"
+    ],
+    "faq_id": "D-20-01-02-03-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud es reportar no haber recibido la licencia? Respuesta: Es una solicitud tipo Sol-01, con un nivel de prioridad 1 – Bajo."
   }
 ]

@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué descuentos ofrece MiExpedienteContable en abril y junio?",
-    "a": "En abril se ofrece un descuento del 40% y en junio del 20% por lanzamiento del software. No hay descuentos por compras en volumen durante estos meses.",
+    "q": "¿Qué descuentos están disponibles en abril y junio para MiExpedienteContable?",
+    "a": "En abril hay un descuento del 40% y en junio del 20% por lanzamiento del software. No hay descuentos por compras en volumen durante estos meses.",
     "product": "MiExpedienteContable",
+    "categoria": "Descuentos",
     "keywords": [
       "descuentos",
       "abril",
@@ -10,12 +11,15 @@
       "lanzamiento",
       "software",
       "promoción"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué descuentos están disponibles en abril y junio para MiExpedienteContable? Respuesta: En abril hay un descuento del 40% y en junio del 20% por lanzamiento del software. No hay descuentos por compras en volumen durante estos meses."
   },
   {
-    "q": "¿Qué descuentos están disponibles en MiExpedienteContable de mayo a noviembre?",
+    "q": "¿Qué descuentos ofrece MiExpedienteContable de mayo a noviembre?",
     "a": "De mayo a noviembre hay un descuento del 30% más descuentos adicionales por compras en volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete.",
     "product": "MiExpedienteContable",
+    "categoria": "Descuentos",
     "keywords": [
       "descuentos",
       "mayo",
@@ -23,44 +27,57 @@
       "volumen",
       "licencias",
       "promoción"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué descuentos ofrece MiExpedienteContable de mayo a noviembre? Respuesta: De mayo a noviembre hay un descuento del 30% más descuentos adicionales por compras en volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete."
   },
   {
-    "q": "¿Qué descuentos aplican en MiExpedienteContable de julio a octubre y diciembre?",
-    "a": "De julio a octubre y diciembre hay un descuento del 10% más descuentos por volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete.",
+    "q": "¿Qué descuentos hay de julio a diciembre en MiExpedienteContable?",
+    "a": "De julio a diciembre hay un descuento base del 10% más descuentos por volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete. Los descuentos están sujetos a cambios sin previo aviso.",
     "product": "MiExpedienteContable",
+    "categoria": "Descuentos",
     "keywords": [
       "descuentos",
       "julio",
-      "octubre",
       "diciembre",
       "volumen",
-      "licencias"
-    ]
+      "licencias",
+      "promoción",
+      "cambios"
+    ],
+    "faq_id": "D-20-03-01-01-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué descuentos hay de julio a diciembre en MiExpedienteContable? Respuesta: De julio a diciembre hay un descuento base del 10% más descuentos por volumen: 15% para 3-4 licencias, 20% para 5-10 licencias y 25% para 11 o más licencias. Las compras deben ser en una sola exhibición y del mismo paquete. Los descuentos están sujetos a cambios sin previo aviso."
   },
   {
-    "q": "¿Los descuentos en MiExpedienteContable pueden cambiar sin previo aviso?",
-    "a": "Sí, los precios y descuentos están sujetos a cambios sin previo aviso. Se recomienda consultar con el líder de área o gerente de operaciones para confirmar los descuentos vigentes.",
+    "q": "¿Hay condiciones especiales para los descuentos por volumen en MiExpedienteContable?",
+    "a": "Sí, las compras con descuento por volumen deben realizarse en una sola exhibición y deben ser del mismo paquete de licencias.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "descuentos",
-      "cambios",
-      "precios",
-      "vigencia",
-      "confirmación"
-    ]
-  },
-  {
-    "q": "¿Qué condiciones aplican para los descuentos por volumen en MiExpedienteContable?",
-    "a": "Los descuentos por volumen requieren que la compra de licencias sea en una sola exhibición y del mismo paquete. Los porcentajes varían según la cantidad: 15% para 3-4 licencias, 20% para 5-10 y 25% para 11 o más.",
-    "product": "MiExpedienteContable",
+    "categoria": "Descuentos",
     "keywords": [
       "descuentos",
       "volumen",
-      "licencias",
       "condiciones",
-      "paquete",
-      "exhibición"
-    ]
+      "licencias",
+      "exhibición",
+      "paquete"
+    ],
+    "faq_id": "D-20-03-01-01-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Hay condiciones especiales para los descuentos por volumen en MiExpedienteContable? Respuesta: Sí, las compras con descuento por volumen deben realizarse en una sola exhibición y deben ser del mismo paquete de licencias."
+  },
+  {
+    "q": "¿Qué debo hacer si no estoy seguro de los descuentos actuales en MiExpedienteContable?",
+    "a": "Si no estás seguro de los descuentos actuales, debes consultar con tu líder de área o gerente de operaciones, ya que los precios y descuentos están sujetos a cambios sin previo aviso.",
+    "product": "MiExpedienteContable",
+    "categoria": "Descuentos",
+    "keywords": [
+      "descuentos",
+      "consultar",
+      "líder",
+      "gerente",
+      "cambios",
+      "actualización"
+    ],
+    "faq_id": "D-20-03-01-01-07_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no estoy seguro de los descuentos actuales en MiExpedienteContable? Respuesta: Si no estás seguro de los descuentos actuales, debes consultar con tu líder de área o gerente de operaciones, ya que los precios y descuentos están sujetos a cambios sin previo aviso."
   }
 ]

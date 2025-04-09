@@ -3,70 +3,63 @@
     "q": "¿Qué se necesita para generar una carga Batch en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Carga Batch",
     "keywords": [
       "carga batch",
-      "requisitos",
       "licencia",
       "profesional",
       "periodo demostrativo",
-      "soporte",
-      "correo electrónico"
-    ]
+      "requisitos",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-26_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar una carga Batch en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Cuál es el proceso para generar un archivo .txt para la Herramienta DIOT del SAT?",
+    "q": "¿Cuál es el proceso para generar un archivo .txt para la Herramienta DIOT del SAT en MiAdminXML?",
     "a": "Primero se verifica la información en el reporte de FacturasPagadas, se realizan los cambios necesarios y se valida. Luego, se utiliza la opción Carga BATCH para generar el archivo .txt, el cual se puede subir a la Herramienta DIOT del SAT para convertirlo en .dec.",
     "product": "MiAdminXML",
+    "categoria": "Carga Batch",
     "keywords": [
-      "proceso",
       "archivo txt",
       "herramienta diot",
       "sat",
-      "carga batch",
       "facturaspagadas",
       "validación",
-      "generación",
-      "conversión"
-    ]
+      "carga batch",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-25-03-26_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el proceso para generar un archivo .txt para la Herramienta DIOT del SAT en MiAdminXML? Respuesta: Primero se verifica la información en el reporte de FacturasPagadas, se realizan los cambios necesarios y se valida. Luego, se utiliza la opción Carga BATCH para generar el archivo .txt, el cual se puede subir a la Herramienta DIOT del SAT para convertirlo en .dec."
   },
   {
-    "q": "¿Qué mensaje aparece después de generar el archivo .txt con la opción Carga BATCH?",
+    "q": "¿Qué mensaje aparece después de generar el archivo .txt en MiAdminXML?",
     "a": "Aparece un mensaje con la ubicación del archivo generado.",
     "product": "MiAdminXML",
+    "categoria": "Carga Batch",
     "keywords": [
       "mensaje",
       "ubicación",
-      "archivo",
-      "txt",
-      "carga batch",
-      "confirmación",
-      "generación"
-    ]
+      "archivo txt",
+      "generación",
+      "carga batch"
+    ],
+    "faq_id": "A-20-03-25-03-26_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de generar el archivo .txt en MiAdminXML? Respuesta: Aparece un mensaje con la ubicación del archivo generado."
   },
   {
     "q": "¿Qué nivel de soporte tiene la generación de carga Batch en MiAdminXML?",
-    "a": "El nivel de soporte para la generación de carga Batch es Nivel 1 - Temprano.",
+    "a": "La generación de carga Batch tiene un nivel de soporte Nivel 1 - Temprano.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "nivel soporte",
-      "temprano",
+      "soporte",
       "nivel 1",
+      "temprano",
       "carga batch",
-      "soporte técnico",
-      "prioridad"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de situación se describe en el texto relacionado con MiAdminXML?",
-    "a": "Se describe la situación de generar carga Batch en MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "situación",
-      "generación",
-      "carga batch",
-      "descripción",
-      "contexto",
-      "proceso"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-26_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte tiene la generación de carga Batch en MiAdminXML? Respuesta: La generación de carga Batch tiene un nivel de soporte Nivel 1 - Temprano."
   }
 ]

@@ -1,35 +1,42 @@
 [
   {
     "q": "¿Qué debo hacer si mi licencia de MiAdminXML no aparece activada en mi equipo?",
-    "a": "Puedes utilizar la herramienta de Utilidades en MiAdminXML y seleccionar la opción de Restauración por Formateo, introduciendo tu clave de licencia y verificando el correo electrónico registrado.",
+    "a": "Puedes utilizar la herramienta Utilidades en MiAdminXML, seleccionar la opción 'Restauración por Formateo', introducir tu clave de licencia y verificar el correo electrónico registrado. Si no coincide, sustituirlo por el correcto y hacer clic en continuar.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "licencia",
       "activación",
       "problema",
+      "utilidades",
       "restauración",
       "formateo",
-      "utilidades",
       "correo electrónico"
-    ]
+    ],
+    "faq_id": "A-20-01-21-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si mi licencia de MiAdminXML no aparece activada en mi equipo? Respuesta: Puedes utilizar la herramienta Utilidades en MiAdminXML, seleccionar la opción 'Restauración por Formateo', introducir tu clave de licencia y verificar el correo electrónico registrado. Si no coincide, sustituirlo por el correcto y hacer clic en continuar."
   },
   {
-    "q": "¿Cuáles son los requisitos para poder restaurar una licencia de MiAdminXML?",
+    "q": "¿Cuáles son los requisitos para restaurar una licencia de MiAdminXML?",
     "a": "Debes contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "requisitos",
       "licencia",
-      "restauración",
       "componentes",
-      "hardware",
-      "no cambiar"
-    ]
+      "no seriehd",
+      "mac",
+      "motherboard"
+    ],
+    "faq_id": "A-20-01-21-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos para restaurar una licencia de MiAdminXML? Respuesta: Debes contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard."
   },
   {
-    "q": "¿En qué casos se puede utilizar la opción de restauración de licencia en MiAdminXML?",
-    "a": "Se puede usar en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en los archivos CL de las licencias o cuando la licencia se desactiva por alguna incidencia.",
+    "q": "¿En qué casos se puede usar la opción de restauración de licencia en MiAdminXML?",
+    "a": "La opción de restauración de licencia puede usarse en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en los archivos CL de las licencias o cuando la licencia se desactiva por alguna incidencia.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "casos",
       "restauración",
@@ -38,52 +45,32 @@
       "antivirus",
       "archivos cl",
       "incidencia"
-    ]
+    ],
+    "faq_id": "A-20-01-21-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos se puede usar la opción de restauración de licencia en MiAdminXML? Respuesta: La opción de restauración de licencia puede usarse en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en los archivos CL de las licencias o cuando la licencia se desactiva por alguna incidencia."
   },
   {
-    "q": "¿Qué pasos debo seguir para restaurar mi licencia de MiAdminXML usando la opción de Restauración por Formateo?",
-    "a": "Dirígete a Utilidades en MiAdminXML, selecciona Restauración por Formateo, introduce tu clave de licencia, verifica el correo electrónico registrado y haz clic en continuar.",
+    "q": "¿Qué debo hacer si la restauración de licencia por formateo no funciona?",
+    "a": "Puedes solicitar una reactivación de la licencia llenando un oficio con los datos requeridos (Nombre/Razón Social, Número de Licencia, motivo detallado, nombre y firma del solicitante) y enviarlo firmado y escaneado al correo soporte.computocontable@gmail.com dentro de un plazo máximo de 72 horas.",
     "product": "MiAdminXML",
-    "keywords": [
-      "pasos",
-      "restauración",
-      "formateo",
-      "utilidades",
-      "clave",
-      "correo electrónico",
-      "continuar"
-    ]
-  },
-  {
-    "q": "¿Qué debo hacer si el correo electrónico mostrado no coincide con el registrado al activar la licencia?",
-    "a": "Si el correo electrónico no coincide, debes sustituirlo por el correcto antes de dar clic en continuar.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "correo electrónico",
-      "no coincide",
-      "sustituir",
-      "correcto",
-      "continuar"
-    ]
-  },
-  {
-    "q": "¿Cómo puedo reactivar mi licencia de MiAdminXML si la restauración por formateo no funciona?",
-    "a": "Puedes llenar un oficio con datos como Nombre o Razón Social, Número de Licencia, motivo detallado del problema, nombre y firma del solicitante, y enviarlo firmado y escaneado a soporte.computocontable@gmail.com dentro de 72 horas.",
-    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "reactivación",
       "oficio",
       "datos",
-      "motivo",
-      "firma",
-      "enviar",
-      "72 horas"
-    ]
+      "correo",
+      "soporte",
+      "72 horas",
+      "solicitud"
+    ],
+    "faq_id": "A-20-01-21-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si la restauración de licencia por formateo no funciona? Respuesta: Puedes solicitar una reactivación de la licencia llenando un oficio con los datos requeridos (Nombre/Razón Social, Número de Licencia, motivo detallado, nombre y firma del solicitante) y enviarlo firmado y escaneado al correo soporte.computocontable@gmail.com dentro de un plazo máximo de 72 horas."
   },
   {
-    "q": "¿Qué información debo incluir en el oficio para reactivar mi licencia de MiAdminXML?",
-    "a": "Debes incluir Nombre o Razón Social, Número de Licencia, motivo detallado del problema (con captura de pantalla), nombre y firma del solicitante.",
+    "q": "¿Qué información necesito incluir en el oficio para reactivar mi licencia de MiAdminXML?",
+    "a": "Debes incluir el Nombre o Razón Social registrada, el Número de Licencia adquirido, un motivo detallado del problema (con captura de pantalla del mensaje), y el Nombre y Firma del solicitante.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "oficio",
       "información",
@@ -92,19 +79,39 @@
       "número de licencia",
       "motivo",
       "firma",
-      "captura"
-    ]
+      "captura de pantalla"
+    ],
+    "faq_id": "A-20-01-21-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información necesito incluir en el oficio para reactivar mi licencia de MiAdminXML? Respuesta: Debes incluir el Nombre o Razón Social registrada, el Número de Licencia adquirido, un motivo detallado del problema (con captura de pantalla del mensaje), y el Nombre y Firma del solicitante."
   },
   {
     "q": "¿Cuál es el plazo máximo para enviar la documentación de reactivación de licencia?",
     "a": "La documentación debe ser recibida en un plazo no mayor a 72 horas, de lo contrario la solicitud se dará de baja automáticamente.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "plazo",
       "documentación",
       "72 horas",
-      "baja",
-      "automática"
-    ]
+      "solicitud",
+      "baja automática"
+    ],
+    "faq_id": "A-20-01-21-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el plazo máximo para enviar la documentación de reactivación de licencia? Respuesta: La documentación debe ser recibida en un plazo no mayor a 72 horas, de lo contrario la solicitud se dará de baja automáticamente."
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta Utilidades en MiAdminXML?",
+    "a": "La herramienta Utilidades se encuentra en la parte superior derecha de la pantalla del programa MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
+    "keywords": [
+      "utilidades",
+      "ubicación",
+      "herramienta",
+      "parte superior derecha",
+      "pantalla"
+    ],
+    "faq_id": "A-20-01-21-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la herramienta Utilidades en MiAdminXML? Respuesta: La herramienta Utilidades se encuentra en la parte superior derecha de la pantalla del programa MiAdminXML."
   }
 ]

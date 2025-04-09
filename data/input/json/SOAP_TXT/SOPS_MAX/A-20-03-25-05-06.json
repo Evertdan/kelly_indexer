@@ -1,128 +1,272 @@
 [
   {
-    "q": "¿Qué se necesita para acceder al soporte temprano de MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué licencia se necesita para utilizar MiAdminXML?",
+    "a": "Se requiere la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
-      "soporte temprano",
       "licencia",
       "profesional",
       "periodo demostrativo",
-      "acceso",
-      "requisitos"
-    ]
+      "soporte",
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-25-05-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué licencia se necesita para utilizar MiAdminXML? Respuesta: Se requiere la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué es un código agrupador en MiAdminXML?",
-    "a": "Los códigos agrupadores son códigos que muestran una descripción específica, como por ejemplo '000' para uso exclusivo de contribuyentes del sector financiero o '100' para Activo.",
+    "q": "¿Qué es el código agrupador 000 en MiAdminXML?",
+    "a": "El código agrupador 000 es para uso exclusivo de contribuyentes del sector financiero.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
       "código agrupador",
-      "descripción",
-      "ejemplos",
-      "financiero",
-      "activo"
-    ]
+      "000",
+      "sector financiero",
+      "contribuyentes",
+      "exclusivo"
+    ],
+    "faq_id": "A-20-03-25-05-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el código agrupador 000 en MiAdminXML? Respuesta: El código agrupador 000 es para uso exclusivo de contribuyentes del sector financiero."
   },
   {
-    "q": "¿Cuál es el código para 'Activo a corto plazo' en MiAdminXML?",
-    "a": "El código para 'Activo a corto plazo' es '100.01'.",
+    "q": "¿Qué representa el código agrupador 100 en MiAdminXML?",
+    "a": "El código agrupador 100 representa 'Activo'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
+      "código agrupador",
+      "100",
       "activo",
-      "corto plazo",
-      "código",
-      "100.01",
-      "ejemplo"
-    ]
+      "contabilidad",
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 100 en MiAdminXML? Respuesta: El código agrupador 100 representa 'Activo'."
   },
   {
-    "q": "¿Qué representa el código '102.01' en MiAdminXML?",
-    "a": "El código '102.01' representa 'Bancos nacionales'.",
+    "q": "¿Cuál es la descripción del código agrupador 101.01?",
+    "a": "El código agrupador 101.01 representa 'Caja y efectivo'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
+      "código agrupador",
+      "101.01",
+      "caja",
+      "efectivo",
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la descripción del código agrupador 101.01? Respuesta: El código agrupador 101.01 representa 'Caja y efectivo'."
+  },
+  {
+    "q": "¿Qué significa el código agrupador 102.02?",
+    "a": "El código agrupador 102.02 representa 'Bancos extranjeros'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "102.02",
       "bancos",
-      "nacionales",
-      "código",
-      "102.01",
-      "descripción"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de cuentas incluye el código '105' en MiAdminXML?",
-    "a": "El código '105' incluye cuentas como 'Clientes nacionales', 'Clientes extranjeros', 'Clientes nacionales parte relacionada' y 'Clientes extranjeros parte relacionada'.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "clientes",
-      "código",
-      "105",
-      "nacionales",
       "extranjeros",
-      "parte relacionada"
-    ]
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el código agrupador 102.02? Respuesta: El código agrupador 102.02 representa 'Bancos extranjeros'."
   },
   {
-    "q": "¿Qué representa el código '171.01' en MiAdminXML?",
-    "a": "El código '171.01' representa 'Depreciación acumulada de edificios'.",
+    "q": "¿Qué representa el código agrupador 105.03?",
+    "a": "El código agrupador 105.03 representa 'Clientes nacionales parte relacionada'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
+      "código agrupador",
+      "105.03",
+      "clientes",
+      "nacionales",
+      "parte relacionada"
+    ],
+    "faq_id": "A-20-03-25-05-06_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 105.03? Respuesta: El código agrupador 105.03 representa 'Clientes nacionales parte relacionada'."
+  },
+  {
+    "q": "¿Qué es el código agrupador 113.01?",
+    "a": "El código agrupador 113.01 representa 'IVA a favor'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "113.01",
+      "iva",
+      "a favor",
+      "impuestos"
+    ],
+    "faq_id": "A-20-03-25-05-06_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el código agrupador 113.01? Respuesta: El código agrupador 113.01 representa 'IVA a favor'."
+  },
+  {
+    "q": "¿Qué significa el código agrupador 115.01?",
+    "a": "El código agrupador 115.01 representa 'Inventario'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "115.01",
+      "inventario",
+      "contabilidad",
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el código agrupador 115.01? Respuesta: El código agrupador 115.01 representa 'Inventario'."
+  },
+  {
+    "q": "¿Qué representa el código agrupador 151.01?",
+    "a": "El código agrupador 151.01 representa 'Terrenos'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "151.01",
+      "terrenos",
+      "activos fijos",
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 151.01? Respuesta: El código agrupador 151.01 representa 'Terrenos'."
+  },
+  {
+    "q": "¿Qué es el código agrupador 171.01?",
+    "a": "El código agrupador 171.01 representa 'Depreciación acumulada de edificios'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "171.01",
       "depreciación",
       "edificios",
-      "código",
-      "171.01",
-      "activos fijos"
-    ]
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el código agrupador 171.01? Respuesta: El código agrupador 171.01 representa 'Depreciación acumulada de edificios'."
   },
   {
-    "q": "¿Qué incluye el código '201' en MiAdminXML?",
-    "a": "El código '201' incluye cuentas como 'Proveedores nacionales', 'Proveedores extranjeros', 'Proveedores nacionales parte relacionada' y 'Proveedores extranjeros parte relacionada'.",
+    "q": "¿Qué significa el código agrupador 201.01?",
+    "a": "El código agrupador 201.01 representa 'Proveedores nacionales'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
+      "código agrupador",
+      "201.01",
       "proveedores",
-      "código",
-      "201",
       "nacionales",
-      "extranjeros",
-      "parte relacionada"
-    ]
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q10",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el código agrupador 201.01? Respuesta: El código agrupador 201.01 representa 'Proveedores nacionales'."
   },
   {
-    "q": "¿Qué representa el código '301.01' en MiAdminXML?",
-    "a": "El código '301.01' representa 'Capital fijo'.",
+    "q": "¿Qué representa el código agrupador 213.01?",
+    "a": "El código agrupador 213.01 representa 'IVA por pagar'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
-      "capital",
-      "fijo",
-      "código",
+      "código agrupador",
+      "213.01",
+      "iva",
+      "por pagar",
+      "impuestos"
+    ],
+    "faq_id": "A-20-03-25-05-06_q11",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 213.01? Respuesta: El código agrupador 213.01 representa 'IVA por pagar'."
+  },
+  {
+    "q": "¿Qué es el código agrupador 301.01?",
+    "a": "El código agrupador 301.01 representa 'Capital fijo'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
       "301.01",
-      "capital contable"
-    ]
+      "capital fijo",
+      "contabilidad",
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q12",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el código agrupador 301.01? Respuesta: El código agrupador 301.01 representa 'Capital fijo'."
   },
   {
-    "q": "¿Qué tipo de ingresos incluye el código '401.01' en MiAdminXML?",
-    "a": "El código '401.01' incluye 'Ventas y/o servicios gravados a la tasa general'.",
+    "q": "¿Qué significa el código agrupador 401.01?",
+    "a": "El código agrupador 401.01 representa 'Ventas y/o servicios gravados a la tasa general'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
-      "ingresos",
+      "código agrupador",
+      "401.01",
       "ventas",
       "servicios",
-      "gravados",
-      "tasa general",
-      "código",
-      "401.01"
-    ]
+      "tasa general"
+    ],
+    "faq_id": "A-20-03-25-05-06_q13",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el código agrupador 401.01? Respuesta: El código agrupador 401.01 representa 'Ventas y/o servicios gravados a la tasa general'."
   },
   {
-    "q": "¿Qué representa el código '601.01' en MiAdminXML?",
-    "a": "El código '601.01' representa 'Sueldos y salarios' en la categoría de gastos generales.",
+    "q": "¿Qué representa el código agrupador 501.01?",
+    "a": "El código agrupador 501.01 representa 'Costo de venta'.",
     "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
     "keywords": [
-      "gastos",
+      "código agrupador",
+      "501.01",
+      "costo",
+      "venta",
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q14",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 501.01? Respuesta: El código agrupador 501.01 representa 'Costo de venta'."
+  },
+  {
+    "q": "¿Qué es el código agrupador 601.01?",
+    "a": "El código agrupador 601.01 representa 'Sueldos y salarios'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "601.01",
       "sueldos",
       "salarios",
-      "código",
-      "601.01",
-      "generales"
-    ]
+      "gastos"
+    ],
+    "faq_id": "A-20-03-25-05-06_q15",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el código agrupador 601.01? Respuesta: El código agrupador 601.01 representa 'Sueldos y salarios'."
+  },
+  {
+    "q": "¿Qué significa el código agrupador 701.01?",
+    "a": "El código agrupador 701.01 representa 'Pérdida cambiaria'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "701.01",
+      "pérdida",
+      "cambiaria",
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q16",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el código agrupador 701.01? Respuesta: El código agrupador 701.01 representa 'Pérdida cambiaria'."
+  },
+  {
+    "q": "¿Qué representa el código agrupador 801.01?",
+    "a": "El código agrupador 801.01 representa 'UFIN'.",
+    "product": "MiAdminXML",
+    "categoria": "Códigos Agrupadores",
+    "keywords": [
+      "código agrupador",
+      "801.01",
+      "ufin",
+      "contabilidad",
+      "finanzas"
+    ],
+    "faq_id": "A-20-03-25-05-06_q17",
+    "texto_para_vectorizar": "Pregunta: ¿Qué representa el código agrupador 801.01? Respuesta: El código agrupador 801.01 representa 'UFIN'."
   }
 ]

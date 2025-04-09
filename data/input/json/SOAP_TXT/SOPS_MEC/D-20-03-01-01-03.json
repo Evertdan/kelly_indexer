@@ -3,55 +3,65 @@
     "q": "¿Cuáles son los costos de las licencias de MiExpedienteContable?",
     "a": "La Licencia Plus tiene un costo de $1498.00 anuales y la Licencia Profesional cuesta $1996.00 anuales.",
     "product": "MiExpedienteContable",
+    "categoria": "Costos",
     "keywords": [
       "costos",
       "licencia",
       "plus",
       "profesional",
-      "precios",
       "anual",
+      "precios",
       "paquetes"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los costos de las licencias de MiExpedienteContable? Respuesta: La Licencia Plus tiene un costo de $1498.00 anuales y la Licencia Profesional cuesta $1996.00 anuales."
   },
   {
-    "q": "¿Cómo puede el cliente solicitar información sobre los costos de las licencias?",
+    "q": "¿Cómo puede un cliente solicitar información sobre los costos de las licencias?",
     "a": "El cliente puede contactar vía telefónica o email para solicitar información sobre los costos de las licencias.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte",
     "keywords": [
-      "contacto",
-      "telefono",
-      "email",
       "solicitar",
-      "informacion",
+      "información",
       "costos",
-      "licencias"
-    ]
+      "licencia",
+      "contacto",
+      "telefónico",
+      "email"
+    ],
+    "faq_id": "D-20-03-01-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente solicitar información sobre los costos de las licencias? Respuesta: El cliente puede contactar vía telefónica o email para solicitar información sobre los costos de las licencias."
   },
   {
     "q": "¿Qué tipo de licencias están disponibles para MiExpedienteContable?",
-    "a": "MiExpedienteContable ofrece la Licencia Plus y la Licencia Profesional.",
+    "a": "Están disponibles la Licencia Plus y la Licencia Profesional.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencias",
+      "licencia",
       "plus",
       "profesional",
-      "tipos",
       "disponibles",
-      "opciones"
-    ]
+      "tipos"
+    ],
+    "faq_id": "D-20-03-01-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de licencias están disponibles para MiExpedienteContable? Respuesta: Están disponibles la Licencia Plus y la Licencia Profesional."
   },
   {
-    "q": "¿Cuál es el objetivo al informar al cliente sobre los costos de los paquetes?",
+    "q": "¿Cuál es el objetivo de informar los costos de los paquetes al cliente?",
     "a": "El objetivo es informar al cliente sobre los costos de los paquetes e incentivarlo a realizar la compra.",
     "product": "MiExpedienteContable",
+    "categoria": "Ventas",
     "keywords": [
       "objetivo",
       "informar",
       "costos",
       "paquetes",
       "incentivar",
-      "compra",
-      "ventas"
-    ]
+      "compra"
+    ],
+    "faq_id": "D-20-03-01-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el objetivo de informar los costos de los paquetes al cliente? Respuesta: El objetivo es informar al cliente sobre los costos de los paquetes e incentivarlo a realizar la compra."
   }
 ]

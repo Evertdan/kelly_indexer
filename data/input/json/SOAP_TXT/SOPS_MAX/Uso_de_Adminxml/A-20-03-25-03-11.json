@@ -3,80 +3,100 @@
     "q": "¿Qué se necesita para utilizar la herramienta importar XML en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "importar xml",
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-11_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la herramienta importar XML en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cómo se inicia el proceso de importación de XML en MiAdminXML?",
-    "a": "Se elige el RFC, el tipo, el año y el mes de la información que se importará, luego se da clic en la herramienta importar.",
+    "q": "¿Cómo se inicia el proceso de importar XML en MiAdminXML?",
+    "a": "Se debe elegir el RFC, el tipo, el año y el mes de la información que se importará, luego dar clic en la herramienta importar.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "importar xml",
-      "proceso",
+      "iniciar",
       "rfc",
       "tipo",
       "año",
       "mes",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-11_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia el proceso de importar XML en MiAdminXML? Respuesta: Se debe elegir el RFC, el tipo, el año y el mes de la información que se importará, luego dar clic en la herramienta importar."
   },
   {
     "q": "¿Qué opciones hay para importar información en MiAdminXML?",
     "a": "Se puede importar desde una carpeta o desde un archivo ZIP.",
     "product": "MiAdminXML",
+    "categoria": "Opciones",
     "keywords": [
       "importar xml",
       "opciones",
       "carpeta",
       "zip",
-      "información"
-    ]
+      "archivo"
+    ],
+    "faq_id": "A-20-03-25-03-11_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones hay para importar información en MiAdminXML? Respuesta: Se puede importar desde una carpeta o desde un archivo ZIP."
   },
   {
-    "q": "¿Qué mensaje se muestra al encontrar archivos para importar en MiAdminXML?",
-    "a": "Se muestra un mensaje indicando que se encontraron algunos archivos y se pregunta si desea importarlos.",
+    "q": "¿Qué mensaje se muestra al seleccionar los archivos para importar en MiAdminXML?",
+    "a": "Se muestra un mensaje indicando que se encontraron algunos archivos y preguntando si desea importarlos, a lo que se debe responder que Sí.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "importar xml",
       "mensaje",
       "archivos",
+      "seleccionar",
       "confirmación"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-11_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje se muestra al seleccionar los archivos para importar en MiAdminXML? Respuesta: Se muestra un mensaje indicando que se encontraron algunos archivos y preguntando si desea importarlos, a lo que se debe responder que Sí."
   },
   {
     "q": "¿Cómo se visualiza la información importada en la BóvedaCFDi?",
-    "a": "Se da clic en importar XML y se elige cómo organizar la información, ya sea por mes o por día.",
+    "a": "Se debe dar clic en importar XML y luego elegir cómo organizar la información, ya sea por mes o por día.",
     "product": "MiAdminXML",
+    "categoria": "Visualización",
     "keywords": [
       "importar xml",
       "visualizar",
       "bóvedacfdi",
-      "organización",
+      "organizar",
       "mes",
       "día"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-11_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se visualiza la información importada en la BóvedaCFDi? Respuesta: Se debe dar clic en importar XML y luego elegir cómo organizar la información, ya sea por mes o por día."
   },
   {
     "q": "¿Qué mensaje se muestra al concluir la importación de XML en MiAdminXML?",
     "a": "Se muestra una ventana indicando que los comprobantes fueron importados correctamente.",
     "product": "MiAdminXML",
+    "categoria": "Confirmación",
     "keywords": [
       "importar xml",
       "mensaje",
-      "éxito",
+      "confirmación",
       "comprobantes",
-      "importación"
-    ]
+      "correctamente"
+    ],
+    "faq_id": "A-20-03-25-03-11_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje se muestra al concluir la importación de XML en MiAdminXML? Respuesta: Se muestra una ventana indicando que los comprobantes fueron importados correctamente."
   },
   {
     "q": "¿Cómo se puede ver la información importada después del proceso en MiAdminXML?",
-    "a": "Se elige el RFC, Tipo, Año y el mes o día que se importó para visualizar la información.",
+    "a": "Se puede visualizar la información eligiendo el RFC, Tipo, Año y el mes o día que se importó.",
     "product": "MiAdminXML",
+    "categoria": "Visualización",
     "keywords": [
       "importar xml",
       "visualizar",
@@ -85,19 +105,8 @@
       "año",
       "mes",
       "día"
-    ]
-  },
-  {
-    "q": "¿Qué ayuda proporciona la herramienta importar XML en MiAdminXML?",
-    "a": "La herramienta ayuda a organizar la información externa de la BóvedaCFDi que se encuentre en una carpeta o en un archivo ZIP.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "importar xml",
-      "organización",
-      "bóvedacfdi",
-      "carpeta",
-      "zip",
-      "información externa"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-11_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede ver la información importada después del proceso en MiAdminXML? Respuesta: Se puede visualizar la información eligiendo el RFC, Tipo, Año y el mes o día que se importó."
   }
 ]

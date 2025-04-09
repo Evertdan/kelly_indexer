@@ -3,43 +3,50 @@
     "q": "¿Qué se necesita para usar la herramienta IVA Personalizado en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "IVA Personalizado",
     "keywords": [
       "iva",
       "personalizado",
-      "requisitos",
       "licencia",
-      "periodo",
-      "demostrativo",
-      "herramienta"
-    ]
+      "requisitos",
+      "periodo demostrativo",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-29_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta IVA Personalizado en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué opciones de IVA están disponibles en MiAdminXML?",
+    "q": "¿Qué opciones de IVA se pueden seleccionar en MiAdminXML?",
     "a": "Se puede seleccionar diferentes apartados para el uso del IVA, puede ser tasa del 16, 0 exento y personalizada.",
     "product": "MiAdminXML",
+    "categoria": "IVA Personalizado",
     "keywords": [
       "iva",
       "opciones",
       "tasa",
       "16",
-      "0",
-      "exento",
+      "0 exento",
       "personalizada",
-      "seleccionar"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-29_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de IVA se pueden seleccionar en MiAdminXML? Respuesta: Se puede seleccionar diferentes apartados para el uso del IVA, puede ser tasa del 16, 0 exento y personalizada."
   },
   {
     "q": "¿Qué sucede al elegir la tasa de IVA personalizada en MiAdminXML?",
     "a": "Al elegir tasa personalizada, se mostrará una ventana en la cual se puede ingresar diferente tipo de importes, que puede teclear al cliente.",
     "product": "MiAdminXML",
+    "categoria": "IVA Personalizado",
     "keywords": [
       "iva",
       "personalizada",
       "ventana",
       "importes",
       "ingresar",
-      "teclear",
-      "cliente"
-    ]
+      "cliente",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-29_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede al elegir la tasa de IVA personalizada en MiAdminXML? Respuesta: Al elegir tasa personalizada, se mostrará una ventana en la cual se puede ingresar diferente tipo de importes, que puede teclear al cliente."
   }
 ]

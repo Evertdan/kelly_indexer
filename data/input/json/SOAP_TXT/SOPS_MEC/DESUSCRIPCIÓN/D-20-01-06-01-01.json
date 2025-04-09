@@ -3,64 +3,76 @@
     "q": "¿Cómo puede un cliente dejar de recibir correos promocionales en MiExpedienteContable?",
     "a": "El cliente puede desuscribirse de los correos promocionales utilizando la opción de suscripción que se encuentra en la parte inferior de los correos promocionales enviados.",
     "product": "MiExpedienteContable",
+    "categoria": "Suscripción",
     "keywords": [
       "correos",
       "promocionales",
       "desuscripción",
       "opción",
-      "cliente"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "D-20-01-06-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente dejar de recibir correos promocionales en MiExpedienteContable? Respuesta: El cliente puede desuscribirse de los correos promocionales utilizando la opción de suscripción que se encuentra en la parte inferior de los correos promocionales enviados."
   },
   {
-    "q": "¿Qué correos son obligatorios en MiExpedienteContable?",
-    "a": "Los correos obligatorios son aquellos relacionados con la descarga, validación, factura y entrega de licencia.",
+    "q": "¿Qué correos no se pueden desuscribir en MiExpedienteContable?",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten desuscripción.",
     "product": "MiExpedienteContable",
+    "categoria": "Suscripción",
     "keywords": [
       "correos",
       "obligatorios",
-      "descarga",
-      "validación",
-      "factura",
+      "desuscripción",
+      "promocionales",
       "licencia"
-    ]
+    ],
+    "faq_id": "D-20-01-06-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué correos no se pueden desuscribir en MiExpedienteContable? Respuesta: Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten desuscripción."
   },
   {
     "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
     "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
     "product": "MiExpedienteContable",
+    "categoria": "Suscripción",
     "keywords": [
-      "periodo",
-      "gratuito",
-      "desuscripción",
+      "periodo gratuito",
       "correos",
       "promocionales",
+      "desuscripción",
       "spam"
-    ]
+    ],
+    "faq_id": "D-20-01-06-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales? Respuesta: No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM."
   },
   {
     "q": "¿Qué debe hacer un cliente con licencia para no recibir correos promocionales?",
     "a": "El cliente debe ingresar al programa MiExpedienteContable y no seleccionar ninguna opción en los términos y condiciones relacionados con los correos promocionales.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "licencia",
       "correos",
       "promocionales",
       "términos",
-      "condiciones",
-      "selección"
-    ]
+      "condiciones"
+    ],
+    "faq_id": "D-20-01-06-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer un cliente con licencia para no recibir correos promocionales? Respuesta: El cliente debe ingresar al programa MiExpedienteContable y no seleccionar ninguna opción en los términos y condiciones relacionados con los correos promocionales."
   },
   {
-    "q": "¿Qué debe hacer un cliente sin licencia en MiExpedienteContable?",
-    "a": "El cliente sin licencia debe seleccionar las tres pestañas en los términos y condiciones para conocer los beneficios y promociones de MiExpedienteContable.",
+    "q": "¿Qué debe hacer un cliente sin licencia en MiExpedienteContable respecto a los correos promocionales?",
+    "a": "El cliente sin licencia debe seleccionar las tres pestañas en los términos y condiciones para conocer los beneficios y promociones de MiExpedienteContable, ya que no puede desuscribirse.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "sin licencia",
+      "correos",
+      "promocionales",
       "términos",
       "condiciones",
-      "pestañas",
-      "beneficios",
-      "promociones"
-    ]
+      "beneficios"
+    ],
+    "faq_id": "D-20-01-06-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer un cliente sin licencia en MiExpedienteContable respecto a los correos promocionales? Respuesta: El cliente sin licencia debe seleccionar las tres pestañas en los términos y condiciones para conocer los beneficios y promociones de MiExpedienteContable, ya que no puede desuscribirse."
   }
 ]

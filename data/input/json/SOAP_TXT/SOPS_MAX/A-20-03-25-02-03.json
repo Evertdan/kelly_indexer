@@ -1,138 +1,176 @@
 [
   {
     "q": "¿Qué se necesita para usar el módulo de Nómina en MiAdminXML?",
-    "a": "Es necesario contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, se puede solicitar ayuda por correo electrónico.",
+    "a": "Es necesario contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, se debe contactar por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "módulo",
       "nómina",
       "licencia",
       "profesional",
       "demostrativo",
       "requisitos",
-      "correo electrónico"
-    ]
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-02-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar el módulo de Nómina en MiAdminXML? Respuesta: Es necesario contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, se debe contactar por correo electrónico."
   },
   {
     "q": "¿Cómo se accede al módulo de Nómina en MiAdminXML?",
     "a": "Se accede a MiAdminXML y se da clic en el icono de Nómina.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
-      "acceso",
-      "módulo",
       "nómina",
+      "acceso",
       "icono",
+      "módulo",
       "clic"
-    ]
+    ],
+    "faq_id": "A-20-03-25-02-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de Nómina en MiAdminXML? Respuesta: Se accede a MiAdminXML y se da clic en el icono de Nómina."
   },
   {
-    "q": "¿Cómo se puede filtrar la información en el módulo de Nómina?",
-    "a": "Se puede filtrar la información mediante diferentes apartados como RFC Receptor, Tipo, Año Mes o Agrupación, y generar reportes específicos.",
+    "q": "¿Cómo se visualizan los XML en el módulo de Nómina?",
+    "a": "Se da clic en la herramienta 'Leer directorios' para visualizar los XML.",
     "product": "MiAdminXML",
+    "categoria": "Visualización",
     "keywords": [
-      "filtrar",
-      "información",
-      "reportes",
-      "rfc",
-      "tipo",
-      "año",
-      "mes",
-      "agrupación"
-    ]
-  },
-  {
-    "q": "¿Qué herramientas están disponibles para visualizar la información de nómina?",
-    "a": "Se puede usar el visor de MiAdminXML, que muestra pestañas como percepciones, deducciones y horas extra, así como el total de nóminas encontradas.",
-    "product": "MiAdminXML",
-    "keywords": [
+      "xml",
       "visualizar",
-      "información",
+      "leer directorios",
+      "herramienta",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se visualizan los XML en el módulo de Nómina? Respuesta: Se da clic en la herramienta 'Leer directorios' para visualizar los XML."
+  },
+  {
+    "q": "¿Qué opciones de filtrado y búsqueda están disponibles en el módulo de Nómina?",
+    "a": "Se puede filtrar y buscar información por RFC Receptor, entre otros apartados, para generar reportes específicos.",
+    "product": "MiAdminXML",
+    "categoria": "Filtrado",
+    "keywords": [
+      "filtrado",
+      "búsqueda",
+      "rfc receptor",
+      "reportes",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de filtrado y búsqueda están disponibles en el módulo de Nómina? Respuesta: Se puede filtrar y buscar información por RFC Receptor, entre otros apartados, para generar reportes específicos."
+  },
+  {
+    "q": "¿Qué información se puede visualizar con el visor de nómina?",
+    "a": "El visor muestra diferentes pestañas como percepciones, deducciones y horas extra, así como el total de percepciones, deducciones, otros pagos y el total de nóminas encontradas.",
+    "product": "MiAdminXML",
+    "categoria": "Visualización",
+    "keywords": [
       "visor",
       "percepciones",
       "deducciones",
       "horas extra",
-      "nóminas"
-    ]
+      "nómina",
+      "visualizar"
+    ],
+    "faq_id": "A-20-03-25-02-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede visualizar con el visor de nómina? Respuesta: El visor muestra diferentes pestañas como percepciones, deducciones y horas extra, así como el total de percepciones, deducciones, otros pagos y el total de nóminas encontradas."
   },
   {
-    "q": "¿Cómo se pueden personalizar las columnas en los reportes de nómina?",
-    "a": "Se puede personalizar las columnas en el apartado 'Columnas visibles', seleccionando las columnas deseadas y aplicando los cambios. También se puede guardar la configuración para futuras sesiones.",
+    "q": "¿Cómo se personalizan las columnas en los reportes de nómina?",
+    "a": "Se dirige al apartado 'Columnas visibles', se seleccionan las columnas deseadas y se da clic en 'Aplicar'. Se puede guardar la configuración o aplicarla solo una vez.",
     "product": "MiAdminXML",
+    "categoria": "Personalización",
     "keywords": [
-      "personalizar",
       "columnas",
+      "personalizar",
       "reportes",
-      "columnas visibles",
-      "configuración",
-      "guardar"
-    ]
+      "aplicar",
+      "guardar",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se personalizan las columnas en los reportes de nómina? Respuesta: Se dirige al apartado 'Columnas visibles', se seleccionan las columnas deseadas y se da clic en 'Aplicar'. Se puede guardar la configuración o aplicarla solo una vez."
   },
   {
-    "q": "¿Cómo se generan reportes de nómina en Excel?",
-    "a": "Se pueden generar reportes usando las herramientas 'Exportar Excel' (para cambiar la ubicación del archivo) o 'Guardar Excel' (que almacena el reporte automáticamente en la BovedaCFDi en una carpeta llamada 'reportes').",
+    "q": "¿Cómo se generan reportes en Excel desde el módulo de Nómina?",
+    "a": "Se pueden usar las herramientas 'Exportar Excel' (para cambiar la ubicación del reporte) o 'Guardar Excel' (que almacena el reporte automáticamente en la BovedaCFDi en una carpeta llamada 'reportes').",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
-      "generar",
-      "reportes",
       "excel",
       "exportar",
       "guardar",
+      "reportes",
       "bovedacfdi",
-      "carpeta"
-    ]
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se generan reportes en Excel desde el módulo de Nómina? Respuesta: Se pueden usar las herramientas 'Exportar Excel' (para cambiar la ubicación del reporte) o 'Guardar Excel' (que almacena el reporte automáticamente en la BovedaCFDi en una carpeta llamada 'reportes')."
   },
   {
-    "q": "¿Cómo se puede verificar el estado de los XML en el SAT?",
-    "a": "Se puede usar la herramienta 'Válida estado SAT' para verificar si los XML están vigentes o cancelados.",
+    "q": "¿Qué herramientas adicionales están disponibles en el módulo de Nómina?",
+    "a": "Incluye herramientas como 'Generar PDF', 'Válida estado SAT', 'Localizar XML', 'Verificado o asociados', 'Copiar ruta', 'Generar PDF masivo', 'Renombrar XML', 'XML externos', 'Cancelar', 'Escríbenos', 'Video Tutorial' y 'Salir'.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "verificar",
-      "estado",
-      "sat",
-      "xml",
-      "vigente",
-      "cancelado"
-    ]
-  },
-  {
-    "q": "¿Qué hace la herramienta 'Localizar XML'?",
-    "a": "La herramienta 'Localizar XML' permite abrir la ruta donde se ubica el archivo seleccionado.",
-    "product": "MiAdminXML",
-    "keywords": [
+      "herramientas",
+      "pdf",
+      "validar",
       "localizar",
-      "xml",
-      "ruta",
-      "archivo",
-      "seleccionado"
-    ]
+      "renombrar",
+      "nómina",
+      "extra"
+    ],
+    "faq_id": "A-20-03-25-02-03_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas adicionales están disponibles en el módulo de Nómina? Respuesta: Incluye herramientas como 'Generar PDF', 'Válida estado SAT', 'Localizar XML', 'Verificado o asociados', 'Copiar ruta', 'Generar PDF masivo', 'Renombrar XML', 'XML externos', 'Cancelar', 'Escríbenos', 'Video Tutorial' y 'Salir'."
   },
   {
-    "q": "¿Cómo se pueden renombrar los XML en el módulo de Nómina?",
-    "a": "Se puede renombrar los XML seleccionando campos como Folio, serie, RFC emisor, etc., y luego generando la estructura deseada. Es obligatorio seleccionar el apartado UUID. Hay dos opciones: 'Renombrar seleccionados' (para XML específicos) o 'Renombrar todos los XML' (para todos los XML del mes o carpeta seleccionada).",
+    "q": "¿Cómo se renombran los XML en el módulo de Nómina?",
+    "a": "Se selecciona el apartado UUID y los campos deseados (como Folio, serie, RFC emisor), se genera la estructura y se elige entre 'Renombrar seleccionados' o 'Renombrar todos los XML'.",
     "product": "MiAdminXML",
+    "categoria": "Personalización",
     "keywords": [
       "renombrar",
       "xml",
-      "folio",
-      "serie",
-      "rfc",
-      "emisor",
       "uuid",
-      "estructura"
-    ]
+      "estructura",
+      "campos",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se renombran los XML en el módulo de Nómina? Respuesta: Se selecciona el apartado UUID y los campos deseados (como Folio, serie, RFC emisor), se genera la estructura y se elige entre 'Renombrar seleccionados' o 'Renombrar todos los XML'."
   },
   {
-    "q": "¿Qué herramientas adicionales ofrece el módulo de Nómina?",
-    "a": "El módulo ofrece herramientas como 'Cancelar' (para eliminar la carga de información), 'Escríbenos' (para contacto con soporte), 'Video Tutorial' (para ver tutoriales) y 'Salir' (para cerrar el módulo).",
+    "q": "¿Qué hace la herramienta 'XML externos' en el módulo de Nómina?",
+    "a": "Localiza información que no está en la BovedaCFDi, trayéndola al programa para su uso en reportes, validación de estado o generación de PDF.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "herramientas",
-      "adicionales",
-      "cancelar",
+      "xml externos",
+      "bovedacfdi",
+      "localizar",
+      "reportes",
+      "validación",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace la herramienta 'XML externos' en el módulo de Nómina? Respuesta: Localiza información que no está en la BovedaCFDi, trayéndola al programa para su uso en reportes, validación de estado o generación de PDF."
+  },
+  {
+    "q": "¿Cómo se puede contactar al soporte desde el módulo de Nómina?",
+    "a": "Usando la herramienta 'Escríbenos' para enviar sugerencias o quejas sobre el sistema.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "soporte",
       "escríbenos",
-      "video tutorial",
-      "salir",
-      "soporte"
-    ]
+      "sugerencias",
+      "quejas",
+      "contacto",
+      "nómina"
+    ],
+    "faq_id": "A-20-03-25-02-03_q10",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede contactar al soporte desde el módulo de Nómina? Respuesta: Usando la herramienta 'Escríbenos' para enviar sugerencias o quejas sobre el sistema."
   }
 ]

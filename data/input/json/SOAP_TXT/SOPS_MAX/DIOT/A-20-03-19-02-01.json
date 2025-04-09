@@ -1,64 +1,77 @@
 [
   {
-    "q": "¿Cómo puedo ingresar a la aplicación para realizar la declaración de la DIOT?",
-    "a": "Puedes ingresar a la aplicación desde el icono de acceso directo en el escritorio de tu equipo de cómputo o siguiendo los pasos indicados en la pantalla de inicio.",
-    "product": "DIOT",
+    "q": "¿Cómo se ingresa a la aplicación para realizar la declaración de la DIOT?",
+    "a": "Se puede ingresar a la aplicación desde el icono de acceso directo en el escritorio del equipo de cómputo.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
-      "ingresar",
+      "ingreso",
       "aplicación",
       "declaración",
       "diot",
       "acceso",
       "escritorio",
       "icono"
-    ]
+    ],
+    "faq_id": "A-20-03-19-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se ingresa a la aplicación para realizar la declaración de la DIOT? Respuesta: Se puede ingresar a la aplicación desde el icono de acceso directo en el escritorio del equipo de cómputo."
   },
   {
     "q": "¿Cómo se da de alta un contribuyente en el programa de la DIOT?",
-    "a": "Con el botón derecho del mouse, haz clic en 'Contribuyentes', selecciona 'Nuevo' y luego 'Contribuyente'. Captura los datos correspondientes y haz clic en 'Aceptar'.",
-    "product": "DIOT",
+    "a": "Con el botón derecho del mouse, dar clic en Contribuyentes, seleccionar Nuevo y luego en Contribuyente. Capturar los datos correspondientes y dar clic en Aceptar.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "alta",
       "contribuyente",
       "diot",
       "captura",
       "datos",
-      "mouse",
-      "nuevo"
-    ]
+      "nuevo",
+      "botón derecho"
+    ],
+    "faq_id": "A-20-03-19-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se da de alta un contribuyente en el programa de la DIOT? Respuesta: Con el botón derecho del mouse, dar clic en Contribuyentes, seleccionar Nuevo y luego en Contribuyente. Capturar los datos correspondientes y dar clic en Aceptar."
   },
   {
     "q": "¿Cómo se da de alta una declaración en el programa de la DIOT?",
-    "a": "Con el botón derecho del mouse, haz clic en el RFC del contribuyente, selecciona 'Nuevo' y luego 'Declaración'. Selecciona el ejercicio fiscal y haz clic en 'Aceptar'.",
-    "product": "DIOT",
+    "a": "Con el botón derecho del mouse, dar clic en el RFC del contribuyente, seleccionar Nuevo y luego en Declaración. Seleccionar el ejercicio fiscal y dar clic en Aceptar.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "alta",
       "declaración",
       "diot",
       "rfc",
-      "ejercicio",
-      "fiscal",
-      "aceptar"
-    ]
+      "ejercicio fiscal",
+      "nuevo",
+      "botón derecho"
+    ],
+    "faq_id": "A-20-03-19-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se da de alta una declaración en el programa de la DIOT? Respuesta: Con el botón derecho del mouse, dar clic en el RFC del contribuyente, seleccionar Nuevo y luego en Declaración. Seleccionar el ejercicio fiscal y dar clic en Aceptar."
   },
   {
-    "q": "¿Cómo importo un archivo .txt a la DIOT desde MiAdminXML?",
-    "a": "En el menú desplegable de 'Herramientas', selecciona 'Importar Declaración'. Ubica el archivo .txt generado previamente con las especificaciones del Layout y sigue las instrucciones.",
-    "product": "DIOT",
+    "q": "¿Cómo se importa un archivo .txt en el programa de la DIOT?",
+    "a": "En el menú desplegable de Herramientas, seleccionar Importar Declaración. Ubicar el archivo .txt generado previamente con las especificaciones del Layout y dar clic en 'Si' para realizar la carga completa.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "importar",
       "archivo",
       "txt",
       "diot",
-      "miadminxml",
       "herramientas",
-      "layout"
-    ]
+      "layout",
+      "carga"
+    ],
+    "faq_id": "A-20-03-19-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se importa un archivo .txt en el programa de la DIOT? Respuesta: En el menú desplegable de Herramientas, seleccionar Importar Declaración. Ubicar el archivo .txt generado previamente con las especificaciones del Layout y dar clic en 'Si' para realizar la carga completa."
   },
   {
-    "q": "¿Qué formato debe tener el archivo .txt para importar a la DIOT?",
-    "a": "Todos los campos del Layout deben estar en un solo renglón, separados por el símbolo | (pipe), dentro de un archivo de texto. Ejemplo: Campo1|Campo2|Campo3...",
-    "product": "DIOT",
+    "q": "¿Qué formato debe tener el archivo .txt para importar en la DIOT?",
+    "a": "Todos los campos del Layout deben estar en un solo renglón, separados por el símbolo | (pipe), dentro de un archivo de texto.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "formato",
       "archivo",
@@ -66,26 +79,32 @@
       "diot",
       "layout",
       "pipe",
-      "campos"
-    ]
+      "renglón"
+    ],
+    "faq_id": "A-20-03-19-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué formato debe tener el archivo .txt para importar en la DIOT? Respuesta: Todos los campos del Layout deben estar en un solo renglón, separados por el símbolo | (pipe), dentro de un archivo de texto."
   },
   {
     "q": "¿Cómo se valida la declaración de la DIOT?",
-    "a": "Después de capturar y verificar los datos, selecciona el icono de validación en la parte superior izquierda de la pantalla.",
-    "product": "DIOT",
+    "a": "Seleccionar el icono de validación que se encuentra en la parte superior izquierda de la pantalla.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "validación",
       "declaración",
       "diot",
       "icono",
-      "captura",
-      "verificación"
-    ]
+      "superior",
+      "izquierda"
+    ],
+    "faq_id": "A-20-03-19-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida la declaración de la DIOT? Respuesta: Seleccionar el icono de validación que se encuentra en la parte superior izquierda de la pantalla."
   },
   {
-    "q": "¿Cómo se genera el paquete de envío para la DIOT?",
-    "a": "Después de validar la declaración, haz clic en el icono de encriptación en la parte superior izquierda de la pantalla. Confirma la encriptación y sigue las instrucciones para generar el archivo a enviar.",
-    "product": "DIOT",
+    "q": "¿Cómo se genera el paquete de envío para la declaración de la DIOT?",
+    "a": "Después de validar la declaración, dar clic en el icono de encriptación en la parte superior izquierda de la pantalla. Confirmar la encriptación y aceptar los mensajes posteriores.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
       "generación",
       "paquete",
@@ -94,20 +113,25 @@
       "encriptación",
       "icono",
       "validación"
-    ]
+    ],
+    "faq_id": "A-20-03-19-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera el paquete de envío para la declaración de la DIOT? Respuesta: Después de validar la declaración, dar clic en el icono de encriptación en la parte superior izquierda de la pantalla. Confirmar la encriptación y aceptar los mensajes posteriores."
   },
   {
-    "q": "¿Qué mensajes aparecen al generar el paquete de envío de la DIOT?",
-    "a": "Aparecen dos mensajes: uno preguntando si deseas ejecutar la encriptación (clic en 'Sí') y otro indicando que la declaración puede enviarse por internet (clic en 'Aceptar').",
-    "product": "DIOT",
+    "q": "¿Qué mensaje aparece después de generar el paquete de envío de la DIOT?",
+    "a": "Aparece un mensaje con el nombre del archivo generado que se debe enviar por internet al Portal del SAT.",
+    "product": "MiAdminXML",
+    "categoria": "DIOT",
     "keywords": [
-      "mensajes",
+      "mensaje",
       "paquete",
       "envío",
       "diot",
-      "encriptación",
-      "internet",
-      "aceptar"
-    ]
+      "archivo",
+      "sat",
+      "internet"
+    ],
+    "faq_id": "A-20-03-19-02-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de generar el paquete de envío de la DIOT? Respuesta: Aparece un mensaje con el nombre del archivo generado que se debe enviar por internet al Portal del SAT."
   }
 ]

@@ -1,70 +1,165 @@
 [
   {
-    "q": "¿Qué requisitos se necesitan para utilizar la funcionalidad de agrupaciones en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
-    "product": "MiAdminXML",
+    "q": "¿Qué versión del documento se está revisando?",
+    "a": "La versión del documento es 09.09.2020.04.",
+    "product": "General",
+    "categoria": "General",
     "keywords": [
-      "requisitos",
-      "licencia",
-      "profesional",
-      "periodo demostrativo",
-      "agrupaciones",
-      "miadminxml"
-    ]
+      "versión",
+      "documento",
+      "revisión",
+      "fecha",
+      "09.09.2020.04"
+    ],
+    "faq_id": "A-20-03-25-03-15_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión del documento se está revisando? Respuesta: La versión del documento es 09.09.2020.04."
   },
   {
-    "q": "¿Qué tipos de agrupaciones se pueden realizar en MiAdminXML?",
-    "a": "Se pueden agrupar archivos XML/PDF en carpetas según necesidades como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina y Pagos.",
+    "q": "¿Qué área está involucrada en este documento?",
+    "a": "El área involucrada es Soporte Temprano.",
+    "product": "General",
+    "categoria": "General",
+    "keywords": [
+      "área",
+      "soporte",
+      "temprano",
+      "involucrada",
+      "documento"
+    ],
+    "faq_id": "A-20-03-25-03-15_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué área está involucrada en este documento? Respuesta: El área involucrada es Soporte Temprano."
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento?",
+    "a": "Se describe una situación de tipo ST (Soporte Temprano).",
+    "product": "General",
+    "categoria": "General",
+    "keywords": [
+      "tipo",
+      "situación",
+      "st",
+      "soporte",
+      "temprano"
+    ],
+    "faq_id": "A-20-03-25-03-15_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de situación se describe en el documento? Respuesta: Se describe una situación de tipo ST (Soporte Temprano)."
+  },
+  {
+    "q": "¿Cuál es el nivel de la situación descrita?",
+    "a": "El nivel de la situación es Nivel 1 - Temprano.",
+    "product": "General",
+    "categoria": "General",
+    "keywords": [
+      "nivel",
+      "situación",
+      "1",
+      "temprano",
+      "descripción"
+    ],
+    "faq_id": "A-20-03-25-03-15_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de la situación descrita? Respuesta: El nivel de la situación es Nivel 1 - Temprano."
+  },
+  {
+    "q": "¿Qué recurso se menciona en el documento?",
+    "a": "El recurso mencionado es MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "recurso",
+      "mencionado",
+      "miadminxml",
+      "documento",
+      "soporte"
+    ],
+    "faq_id": "A-20-03-25-03-15_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se menciona en el documento? Respuesta: El recurso mencionado es MiAdminXML."
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para solucionar el problema?",
+    "a": "Se debe contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Políticas",
+    "keywords": [
+      "políticas",
+      "licencia",
+      "profesional",
+      "periodo",
+      "demostrativo",
+      "correo",
+      "electrónico",
+      "solución"
+    ],
+    "faq_id": "A-20-03-25-03-15_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué políticas se deben cumplir para solucionar el problema? Respuesta: Se debe contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico."
+  },
+  {
+    "q": "¿Qué es la función de Agrupaciones en MiAdminXML?",
+    "a": "La función de Agrupaciones permite reunir archivos XML/PDF en carpetas según necesidades específicas como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina, Pagos.",
+    "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "agrupaciones",
-      "tipos",
+      "función",
       "xml",
       "pdf",
       "carpetas",
+      "necesidades",
       "importe",
       "emisor",
-      "receptor",
-      "cancelados"
-    ]
+      "receptor"
+    ],
+    "faq_id": "A-20-03-25-03-15_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la función de Agrupaciones en MiAdminXML? Respuesta: La función de Agrupaciones permite reunir archivos XML/PDF en carpetas según necesidades específicas como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina, Pagos."
   },
   {
-    "q": "¿Cómo se realiza el proceso de agrupación en MiAdminXML?",
-    "a": "Se selecciona la opción de agrupar en la pestaña correspondiente, se completan los datos en las ventanas que aparecen y al finalizar se crea la carpeta en el Disco local 'C' y se muestran en el sistema.",
+    "q": "¿Cómo se realiza la agrupación de archivos en MiAdminXML?",
+    "a": "Se selecciona la pestaña correspondiente para agrupar, lo que abre ventanas similares para completar la agrupación. Una vez completada, se crea la carpeta en el Disco local 'C' y aparece en el sistema.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "proceso",
       "agrupación",
+      "archivos",
       "pestaña",
       "ventanas",
-      "disco local",
-      "carpeta",
+      "disco",
+      "local",
+      "c",
       "sistema"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-15_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se realiza la agrupación de archivos en MiAdminXML? Respuesta: Se selecciona la pestaña correspondiente para agrupar, lo que abre ventanas similares para completar la agrupación. Una vez completada, se crea la carpeta en el Disco local 'C' y aparece en el sistema."
   },
   {
-    "q": "¿Dónde se guardan las agrupaciones creadas en MiAdminXML?",
-    "a": "Las agrupaciones se guardan en una carpeta creada en el Disco local 'C' y aparecen en el sistema.",
+    "q": "¿Qué tipos de archivos se pueden agrupar en MiAdminXML?",
+    "a": "Se pueden agrupar archivos XML y PDF.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "guardar",
-      "agrupaciones",
-      "disco local",
-      "carpeta",
-      "sistema",
-      "ubicación"
-    ]
+      "tipos",
+      "archivos",
+      "agrupar",
+      "xml",
+      "pdf",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-15_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de archivos se pueden agrupar en MiAdminXML? Respuesta: Se pueden agrupar archivos XML y PDF."
   },
   {
-    "q": "¿Qué nivel de soporte tiene la funcionalidad de agrupaciones en MiAdminXML?",
-    "a": "La funcionalidad de agrupaciones tiene un nivel de soporte 'Nivel 1 - Temprano'.",
+    "q": "¿Dónde se guardan las carpetas creadas durante la agrupación?",
+    "a": "Las carpetas creadas durante la agrupación se guardan en el Disco local 'C'.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "soporte",
-      "nivel",
-      "temprano",
-      "agrupaciones",
-      "funcionalidad"
-    ]
+      "carpetas",
+      "creadas",
+      "agrupación",
+      "disco",
+      "local",
+      "c",
+      "guardar"
+    ],
+    "faq_id": "A-20-03-25-03-15_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guardan las carpetas creadas durante la agrupación? Respuesta: Las carpetas creadas durante la agrupación se guardan en el Disco local 'C'."
   }
 ]

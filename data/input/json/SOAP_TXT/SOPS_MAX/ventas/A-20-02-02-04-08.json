@@ -1,64 +1,77 @@
 [
   {
-    "q": "¿Qué debe hacer un cliente si no recibe su clave de licencia después de pagar por Transferencia?",
-    "a": "El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos como Concepto, Referencia y Clave de rastreo.",
+    "q": "¿Qué debo hacer si realicé un pago por transferencia pero no recibí mi clave de licencia?",
+    "a": "Debes enviar tu ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos de Concepto, Referencia y Clave de rastreo.",
     "product": "General",
+    "categoria": "Problemas de Pago",
     "keywords": [
-      "cliente",
+      "pago",
       "transferencia",
       "clave de licencia",
       "comprobante",
       "ficha de pago"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si realicé un pago por transferencia pero no recibí mi clave de licencia? Respuesta: Debes enviar tu ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos de Concepto, Referencia y Clave de rastreo."
   },
   {
-    "q": "¿Qué datos debe incluir el cliente en el correo para verificar su pago por Transferencia?",
-    "a": "El cliente debe incluir en el correo su ficha de pago y comprobante de pago, mostrando claramente el Concepto, Referencia y Clave de rastreo.",
+    "q": "¿Qué datos deben incluirse en el comprobante de pago enviado al correo?",
+    "a": "El comprobante de pago debe incluir los datos de Concepto, Referencia y Clave de rastreo.",
     "product": "General",
+    "categoria": "Problemas de Pago",
     "keywords": [
-      "datos",
-      "correo",
-      "verificación",
-      "transferencia",
       "comprobante",
-      "ficha de pago"
-    ]
+      "pago",
+      "concepto",
+      "referencia",
+      "clave de rastreo"
+    ],
+    "faq_id": "A-20-02-02-04-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos deben incluirse en el comprobante de pago enviado al correo? Respuesta: El comprobante de pago debe incluir los datos de Concepto, Referencia y Clave de rastreo."
   },
   {
-    "q": "¿Qué acción debe tomar el agente si los datos del pago por Transferencia son correctos pero el cliente no recibió su clave de licencia?",
-    "a": "El agente debe explicarle al cliente que los datos son correctos y no hay motivo para la devolución del dinero, y el cliente deberá generar una nueva orden de compra y realizar el pago nuevamente.",
+    "q": "¿Qué sucede si los datos de mi pago por transferencia son correctos pero no recibí mi clave de licencia?",
+    "a": "Si los datos son correctos, se te explicará que no hay motivo para la devolución del dinero y deberás generar una nueva orden de compra y realizar el pago nuevamente.",
     "product": "General",
+    "categoria": "Problemas de Pago",
     "keywords": [
-      "agente",
-      "verificación",
+      "pago",
+      "transferencia",
       "datos correctos",
       "nueva orden",
-      "pago",
-      "transferencia"
-    ]
+      "devolución"
+    ],
+    "faq_id": "A-20-02-02-04-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si los datos de mi pago por transferencia son correctos pero no recibí mi clave de licencia? Respuesta: Si los datos son correctos, se te explicará que no hay motivo para la devolución del dinero y deberás generar una nueva orden de compra y realizar el pago nuevamente."
   },
   {
-    "q": "¿Qué se debe hacer si el problema de no recibir la clave de licencia persiste después de realizar una nueva orden de compra?",
-    "a": "En caso de que vuelva a pasar lo mismo, se debe pasar el caso a gerencia para darle el seguimiento oportuno.",
+    "q": "¿Qué debo hacer si vuelvo a tener el mismo problema con mi pago por transferencia?",
+    "a": "En caso de que vuelva a pasar lo mismo, el caso debe ser pasado a gerencia para darle el seguimiento oportuno.",
     "product": "General",
+    "categoria": "Problemas de Pago",
     "keywords": [
-      "problema persistente",
+      "pago",
+      "transferencia",
+      "problema recurrente",
       "gerencia",
-      "seguimiento",
-      "clave de licencia",
-      "orden de compra"
-    ]
+      "seguimiento"
+    ],
+    "faq_id": "A-20-02-02-04-08_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si vuelvo a tener el mismo problema con mi pago por transferencia? Respuesta: En caso de que vuelva a pasar lo mismo, el caso debe ser pasado a gerencia para darle el seguimiento oportuno."
   },
   {
-    "q": "¿Cuál es el correo al que se deben enviar los comprobantes de pago por Transferencia?",
-    "a": "Los comprobantes de pago por Transferencia deben enviarse al correo ventas.computocontable@gmail.com.",
+    "q": "¿A qué correo debo enviar mi comprobante de pago si tengo problemas con mi transferencia?",
+    "a": "Debes enviar tu comprobante de pago al correo ventas.computocontable@gmail.com.",
     "product": "General",
+    "categoria": "Problemas de Pago",
     "keywords": [
       "correo",
       "comprobante",
+      "pago",
       "transferencia",
-      "envío",
-      "ventas"
-    ]
+      "problemas"
+    ],
+    "faq_id": "A-20-02-02-04-08_q4",
+    "texto_para_vectorizar": "Pregunta: ¿A qué correo debo enviar mi comprobante de pago si tengo problemas con mi transferencia? Respuesta: Debes enviar tu comprobante de pago al correo ventas.computocontable@gmail.com."
   }
 ]

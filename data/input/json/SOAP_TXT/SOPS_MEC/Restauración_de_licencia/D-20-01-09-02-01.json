@@ -1,102 +1,126 @@
 [
   {
-    "q": "¿Qué significa el error 'La clave de licencia tiene sus activaciones agotadas' en MiExpedienteContable?",
+    "q": "¿Qué significa el error 'La clave de licencia tiene sus activaciones agotadas'?",
     "a": "Este error indica que el cliente ha rebasado las activaciones permitidas dentro de su anualidad.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencia",
     "keywords": [
       "licencia",
       "activaciones",
       "agotadas",
       "error",
       "anualidad"
-    ]
+    ],
+    "faq_id": "D-20-01-09-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el error 'La clave de licencia tiene sus activaciones agotadas'? Respuesta: Este error indica que el cliente ha rebasado las activaciones permitidas dentro de su anualidad."
   },
   {
     "q": "¿Qué se necesita para reactivar una licencia de MiExpedienteContable?",
-    "a": "Para reactivar la licencia, el cliente debe enviar un documento llenado, firmado y escaneado. Además, se requiere verificar el estado de la licencia en el SACC.",
+    "a": "Para reactivar la licencia, es necesario enviar un documento que el cliente debe llenar, firmar y escanear.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencia",
     "keywords": [
       "reactivación",
       "licencia",
       "documento",
-      "firmado",
-      "escaneado",
-      "sacc"
-    ]
+      "llenar",
+      "firmar",
+      "escanear"
+    ],
+    "faq_id": "D-20-01-09-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para reactivar una licencia de MiExpedienteContable? Respuesta: Para reactivar la licencia, es necesario enviar un documento que el cliente debe llenar, firmar y escanear."
   },
   {
-    "q": "¿Qué requisitos de sistema necesita MiExpedienteContable?",
-    "a": "MiExpedienteContable requiere S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200 MB de espacio en disco duro y no es compatible con macOS, Windows 7, Windows 8 o Windows 8.1.",
+    "q": "¿Qué se valida en el SACC para reactivar una licencia?",
+    "a": "Se corrobora a nombre de quién está registrada la licencia, que esté en estado pagado con fecha vigente, y que no se encuentre actualmente activada y en uso.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "requisitos",
-      "sistema",
-      "windows",
-      "java",
-      "internet explorer",
-      "no compatible",
-      "macos"
-    ]
-  },
-  {
-    "q": "¿Cuánto tiempo tarda el proceso de reactivación de una licencia de MiExpedienteContable?",
-    "a": "Una vez enviado el oficio de reactivación, el cliente debe esperar un máximo de 48 horas para recibir la respuesta.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "reactivación",
-      "tiempo",
-      "oficio",
-      "48 horas",
-      "espera"
-    ]
-  },
-  {
-    "q": "¿Qué se verifica en el SACC para reactivar una licencia de MiExpedienteContable?",
-    "a": "Se verifica que la licencia esté a nombre del cliente, en estado pagado con fecha vigente, y que no se encuentre actualmente activada y en uso.",
-    "product": "MiExpedienteContable",
+    "categoria": "Licencia",
     "keywords": [
       "sacc",
-      "verificación",
+      "validación",
       "licencia",
       "pagado",
       "vigente",
-      "activa"
-    ]
+      "activada"
+    ],
+    "faq_id": "D-20-01-09-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se valida en el SACC para reactivar una licencia? Respuesta: Se corrobora a nombre de quién está registrada la licencia, que esté en estado pagado con fecha vigente, y que no se encuentre actualmente activada y en uso."
   },
   {
-    "q": "¿Qué se debe hacer si es la segunda reactivación de una licencia de MiExpedienteContable?",
-    "a": "Si es la segunda reactivación, se debe informar al cliente sobre el costo asociado.",
+    "q": "¿Qué requisitos de instalación tiene MiExpedienteContable?",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo de 200 MB de espacio en disco duro. No es compatible con macOS ni con Windows 7, 8 u 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
+    "keywords": [
+      "requisitos",
+      "instalación",
+      "windows",
+      "java",
+      "ram",
+      "disco duro",
+      "compatibilidad"
+    ],
+    "faq_id": "D-20-01-09-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos de instalación tiene MiExpedienteContable? Respuesta: Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo de 200 MB de espacio en disco duro. No es compatible con macOS ni con Windows 7, 8 u 8.1."
+  },
+  {
+    "q": "¿Qué pasa si es la segunda reactivación de la licencia?",
+    "a": "En caso de ser la segunda reactivación, se debe informar al cliente sobre el costo asociado.",
+    "product": "MiExpedienteContable",
+    "categoria": "Licencia",
     "keywords": [
       "segunda",
       "reactivación",
       "costo",
-      "informar",
-      "cliente"
-    ]
+      "licencia",
+      "informar"
+    ],
+    "faq_id": "D-20-01-09-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si es la segunda reactivación de la licencia? Respuesta: En caso de ser la segunda reactivación, se debe informar al cliente sobre el costo asociado."
   },
   {
-    "q": "¿Cómo se notifica al cliente una vez reactivada la licencia de MiExpedienteContable?",
+    "q": "¿Cuánto tiempo se tarda en reactivar una licencia de MiExpedienteContable?",
+    "a": "Una vez enviado el oficio de reactivación, se debe esperar un máximo de 48 horas para recibir la respuesta.",
+    "product": "MiExpedienteContable",
+    "categoria": "Licencia",
+    "keywords": [
+      "tiempo",
+      "reactivación",
+      "oficio",
+      "48 horas",
+      "espera"
+    ],
+    "faq_id": "D-20-01-09-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo se tarda en reactivar una licencia de MiExpedienteContable? Respuesta: Una vez enviado el oficio de reactivación, se debe esperar un máximo de 48 horas para recibir la respuesta."
+  },
+  {
+    "q": "¿Cómo se notifica al cliente una vez reactivada la licencia?",
     "a": "Una vez restaurada la licencia, se le avisa al cliente por correo electrónico con la plantilla de MISSIVE adecuada según el caso (primera o segunda reactivación).",
     "product": "MiExpedienteContable",
+    "categoria": "Licencia",
     "keywords": [
       "notificación",
-      "correo electrónico",
+      "correo",
       "missive",
       "reactivación",
-      "restaurada"
-    ]
+      "cliente"
+    ],
+    "faq_id": "D-20-01-09-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se notifica al cliente una vez reactivada la licencia? Respuesta: Una vez restaurada la licencia, se le avisa al cliente por correo electrónico con la plantilla de MISSIVE adecuada según el caso (primera o segunda reactivación)."
   },
   {
     "q": "¿Qué sistemas operativos no son compatibles con MiExpedienteContable?",
-    "a": "MiExpedienteContable no es compatible con macOS, Windows 7, Windows 8 ni Windows 8.1.",
+    "a": "No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
-      "no compatible",
+      "compatibilidad",
+      "windows",
       "macos",
-      "windows 7",
-      "windows 8",
-      "windows 8.1"
-    ]
+      "sistemas operativos",
+      "no compatible"
+    ],
+    "faq_id": "D-20-01-09-02-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sistemas operativos no son compatibles con MiExpedienteContable? Respuesta: No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1."
   }
 ]

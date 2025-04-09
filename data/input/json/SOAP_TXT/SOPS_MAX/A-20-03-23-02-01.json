@@ -1,50 +1,60 @@
 [
   {
-    "q": "¿Qué es la herramienta Bóveda en RED en MiAdminXML?",
-    "a": "La herramienta Bóveda en RED permite cambiar la ubicación donde se almacenan o visualizan los RFC, XML y PDFs en MiAdminXML.",
+    "q": "¿Qué es la Bóveda en Red en MiAdminXML?",
+    "a": "La Bóveda en Red es una herramienta que permite cambiar la ubicación donde se almacenan o visualizan los RFC, XML y PDFs en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda",
       "red",
-      "herramienta",
       "almacenamiento",
       "rfc",
       "xml",
-      "pdfs",
-      "ubicación"
-    ]
+      "pdf",
+      "ubicación",
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-23-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la Bóveda en Red en MiAdminXML? Respuesta: La Bóveda en Red es una herramienta que permite cambiar la ubicación donde se almacenan o visualizan los RFC, XML y PDFs en MiAdminXML."
   },
   {
-    "q": "¿Cuál es la ruta predeterminada para almacenar archivos en MiAdminXML?",
+    "q": "¿Cuál es la ruta predeterminada de almacenamiento en MiAdminXML?",
     "a": "La ruta predeterminada donde se almacenan los archivos es C:\\AdminXML\\BovedaCFDi.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "ruta",
       "predeterminada",
-      "archivos",
       "almacenamiento",
-      "bovedacfdi",
-      "carpeta"
-    ]
+      "archivos",
+      "bóveda",
+      "cfdi"
+    ],
+    "faq_id": "A-20-03-23-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la ruta predeterminada de almacenamiento en MiAdminXML? Respuesta: La ruta predeterminada donde se almacenan los archivos es C:\\AdminXML\\BovedaCFDi."
   },
   {
-    "q": "¿Qué se necesita para cambiar la ubicación de la BóvedaCFDi en MiAdminXML?",
+    "q": "¿Qué se necesita para cambiar la ubicación de la BóvedaCFDi?",
     "a": "Se necesita tener una ubicación o carpeta ya sea compartida o de forma local para cambiar la ubicación de la BóvedaCFDi.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "cambiar",
       "ubicación",
-      "bovedacfdi",
+      "bóveda",
       "carpeta",
       "compartida",
       "local",
       "requisitos"
-    ]
+    ],
+    "faq_id": "A-20-03-23-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para cambiar la ubicación de la BóvedaCFDi? Respuesta: Se necesita tener una ubicación o carpeta ya sea compartida o de forma local para cambiar la ubicación de la BóvedaCFDi."
   },
   {
-    "q": "¿Cómo se configura la Bóveda en RED en MiAdminXML?",
-    "a": "Se accede a MiAdminXML en el icono de Administración de XML, se selecciona la bóveda en red, se busca la carpeta deseada, se asigna la ubicación y se reinicia la aplicación.",
+    "q": "¿Cómo se configura la Bóveda en Red en MiAdminXML?",
+    "a": "Para configurar la Bóveda en Red, se accede a MiAdminXML en el icono de Administración de XML, se selecciona la bóveda en red, se busca la carpeta deseada, se asigna la ubicación y se reinicia la aplicación.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "configuración",
       "bóveda",
@@ -54,62 +64,62 @@
       "carpeta",
       "ubicación",
       "reiniciar"
-    ]
+    ],
+    "faq_id": "A-20-03-23-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se configura la Bóveda en Red en MiAdminXML? Respuesta: Para configurar la Bóveda en Red, se accede a MiAdminXML en el icono de Administración de XML, se selecciona la bóveda en red, se busca la carpeta deseada, se asigna la ubicación y se reinicia la aplicación."
   },
   {
     "q": "¿Qué pasa si ya se tenía información descargada y se cambia la ubicación de la BóvedaCFDi?",
-    "a": "Si ya se tenía información descargada, se deben cambiar las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos.",
+    "a": "Si ya se tenía información descargada, se deben mover las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "información",
       "descargada",
       "cambiar",
       "ubicación",
-      "bovedacfdi",
+      "bóveda",
+      "mover",
       "carpetas",
-      "nueva ruta",
       "descargar"
-    ]
+    ],
+    "faq_id": "A-20-03-23-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si ya se tenía información descargada y se cambia la ubicación de la BóvedaCFDi? Respuesta: Si ya se tenía información descargada, se deben mover las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos."
   },
   {
-    "q": "¿Qué políticas se deben seguir para el uso compartido de carpetas en MiAdminXML?",
-    "a": "Las políticas incluyen que el uso compartido de las carpetas debe tener contraseña y que los equipos deben estar conectados en la misma red.",
+    "q": "¿Qué requisitos deben cumplir los equipos para usar la Bóveda en Red?",
+    "a": "Los equipos deben estar conectados en la misma red y el uso compartido de las carpetas debe tener contraseña.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "políticas",
-      "uso compartido",
-      "carpetas",
-      "contraseña",
       "equipos",
       "red",
-      "conexión"
-    ]
+      "conectados",
+      "carpetas",
+      "compartidas",
+      "contraseña",
+      "requisitos"
+    ],
+    "faq_id": "A-20-03-23-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos deben cumplir los equipos para usar la Bóveda en Red? Respuesta: Los equipos deben estar conectados en la misma red y el uso compartido de las carpetas debe tener contraseña."
   },
   {
-    "q": "¿Qué nivel de soporte tiene la configuración de Bóveda en Red en MiAdminXML?",
-    "a": "La configuración de Bóveda en Red tiene un Nivel 1 - Temprano de soporte.",
+    "q": "¿Qué se puede hacer con la herramienta Bóveda en Red?",
+    "a": "Con la herramienta Bóveda en Red se puede cambiar la ubicación de almacenamiento de RFC, XML y PDFs en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
-      "nivel",
-      "soporte",
-      "temprano",
-      "configuración",
-      "bóveda",
-      "red"
-    ]
-  },
-  {
-    "q": "¿Qué resultados se esperan al configurar la Bóveda en Red en MiAdminXML?",
-    "a": "El resultado esperado es guardar el RFC de contribuyentes en el catálogo de contribuyentes.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "resultados",
-      "configuración",
+      "herramienta",
       "bóveda",
       "red",
+      "cambiar",
+      "ubicación",
+      "almacenamiento",
       "rfc",
-      "contribuyentes",
-      "catálogo"
-    ]
+      "xml",
+      "pdf"
+    ],
+    "faq_id": "A-20-03-23-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se puede hacer con la herramienta Bóveda en Red? Respuesta: Con la herramienta Bóveda en Red se puede cambiar la ubicación de almacenamiento de RFC, XML y PDFs en MiAdminXML."
   }
 ]

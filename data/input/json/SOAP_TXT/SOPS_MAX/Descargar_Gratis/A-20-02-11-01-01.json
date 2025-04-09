@@ -1,87 +1,85 @@
 [
   {
     "q": "¿Qué hacer si MiAdminXML no permite usar el periodo de prueba?",
-    "a": "Se debe eliminar la base de datos de MiAdminXML y validar el motivo usando el comando /trialmax + número de PC en el bot computoCreativo.",
+    "a": "Se debe eliminar la base de datos de MiAdminXML y verificar la última vez que se usó el periodo demostrativo. Además, validar con el comando /trialmax + número de PC en el bot computoCreativo para conocer el motivo.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "periodo de prueba",
+      "error",
       "trial",
-      "problema",
       "base de datos",
-      "eliminar",
-      "validar",
-      "comando",
-      "trialmax"
-    ]
+      "validación",
+      "solucion",
+      "problema"
+    ],
+    "faq_id": "A-20-02-11-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si MiAdminXML no permite usar el periodo de prueba? Respuesta: Se debe eliminar la base de datos de MiAdminXML y verificar la última vez que se usó el periodo demostrativo. Además, validar con el comando /trialmax + número de PC en el bot computoCreativo para conocer el motivo."
   },
   {
     "q": "¿Cómo validar el periodo de prueba en MiAdminXML?",
-    "a": "Dirigirse al bot computoCreativo y usar el comando /trialmax + número de PC, luego validar las fechas de inicio y fin del periodo de prueba.",
+    "a": "Dirigirse al módulo de 'Licenciamiento', obtener el número de PC y usar el comando /trialmax + número de PC en el bot computoCreativo para validar las fechas de inicio y fin del periodo de prueba.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "validar",
-      "periodo de prueba",
       "trial",
       "comando",
-      "trialmax",
+      "bot",
       "fechas",
-      "inicio",
-      "fin"
-    ]
+      "licenciamiento",
+      "periodo prueba"
+    ],
+    "faq_id": "A-20-02-11-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo validar el periodo de prueba en MiAdminXML? Respuesta: Dirigirse al módulo de 'Licenciamiento', obtener el número de PC y usar el comando /trialmax + número de PC en el bot computoCreativo para validar las fechas de inicio y fin del periodo de prueba."
   },
   {
-    "q": "¿Qué significa si la fecha del trial aparece como 1999 en MiAdminXML?",
-    "a": "Indica que el equipo usó una versión alterada del programa anteriormente, por lo que la versión original detectó esto y negó automáticamente el periodo de prueba.",
+    "q": "¿Por qué aparece la fecha del trial como 1999 en MiAdminXML?",
+    "a": "Generalmente se debe a que el equipo usó una versión alterada del programa anteriormente. La versión original lo detectó y negó el trial automáticamente, impidiendo activar el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "fecha",
-      "trial",
       "1999",
+      "trial",
       "versión alterada",
-      "detectar",
-      "negar",
-      "periodo de prueba"
-    ]
+      "error",
+      "bloqueo",
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-02-11-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Por qué aparece la fecha del trial como 1999 en MiAdminXML? Respuesta: Generalmente se debe a que el equipo usó una versión alterada del programa anteriormente. La versión original lo detectó y negó el trial automáticamente, impidiendo activar el periodo demostrativo."
   },
   {
-    "q": "¿Qué pasos seguir para solucionar el problema del periodo de prueba en MiAdminXML?",
-    "a": "1. Dar clic en 'Licenciamiento'. 2. Requerir el número de PC en el módulo de 'Licenciamiento'. 3. Usar el comando /trialmax + número de PC en el bot computoCreativo para validar las fechas.",
+    "q": "¿Qué hacer si el error del periodo de prueba es por instalación en MiAdminXML?",
+    "a": "Revisar con Álvaro y escalar al área de ST para que realice un diagnóstico del problema.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "pasos",
-      "solución",
-      "periodo de prueba",
-      "licenciamiento",
-      "número de pc",
-      "comando",
-      "trialmax"
-    ]
-  },
-  {
-    "q": "¿Qué hacer si el problema del periodo de prueba persiste después de seguir los pasos?",
-    "a": "Si el problema persiste por un error en la instalación, se debe revisar con Álvaro y escalar al área de ST para un diagnóstico.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "problema persistente",
       "error",
       "instalación",
-      "revisar",
-      "escalar",
+      "revisión",
       "diagnóstico",
-      "st"
-    ]
+      "soporte técnico",
+      "problema"
+    ],
+    "faq_id": "A-20-02-11-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el error del periodo de prueba es por instalación en MiAdminXML? Respuesta: Revisar con Álvaro y escalar al área de ST para que realice un diagnóstico del problema."
   },
   {
-    "q": "¿Cuál es el requisito para usar el periodo demostrativo en MiAdminXML?",
-    "a": "Debe encontrarse dentro de los primeros 30 días en los que se otorga el periodo demostrativo/prueba.",
+    "q": "¿Cuál es el alcance al validar el periodo de prueba en MiAdminXML?",
+    "a": "El alcance incluye verificar la última vez que se usó el periodo demostrativo y validar el motivo con el comando /trialmax en el bot computoCreativo.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "requisito",
+      "alcance",
+      "validación",
+      "trial",
       "periodo demostrativo",
-      "prueba",
-      "30 días",
-      "tiempo",
-      "otorgar"
-    ]
+      "comando",
+      "verificación"
+    ],
+    "faq_id": "A-20-02-11-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance al validar el periodo de prueba en MiAdminXML? Respuesta: El alcance incluye verificar la última vez que se usó el periodo demostrativo y validar el motivo con el comando /trialmax en el bot computoCreativo."
   }
 ]

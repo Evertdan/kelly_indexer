@@ -1,37 +1,43 @@
 [
   {
     "q": "¿Cómo puede un cliente sin acceso a internet realizar una compra con transferencia?",
-    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda, siguiendo los pasos: 1) Ingresar a Missive y hacer clic en New email, 2) Agregar la plantilla con Insert response, agregar dirección de correo y hacer clic en Send.",
+    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda. Los pasos incluyen ingresar a Missive, crear un nuevo correo, agregar la plantilla correspondiente y enviarla al cliente.",
     "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "compra",
       "transferencia",
       "sin internet",
       "missive",
       "plantilla",
-      "pasos",
       "correo electrónico"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente sin acceso a internet realizar una compra con transferencia? Respuesta: Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda. Los pasos incluyen ingresar a Missive, crear un nuevo correo, agregar la plantilla correspondiente y enviarla al cliente."
   },
   {
-    "q": "¿Cuáles son los pasos para comprar una licencia con transferencia si tengo acceso a internet?",
-    "a": "Los pasos son: 1) Ingresar a www.adminxml.com y hacer clic en 'Precios', 2) Seleccionar el paquete deseado (Plus o Pro), llenar formulario de datos de contacto y facturación si aplica, seleccionar cantidad de licencias y hacer clic en continuar, 3) Completar datos de contacto y facturación si es necesario, luego hacer clic en 'Continuar', 4) Seleccionar pago con 'Transferencia' y seguir las instrucciones para realizar el pago.",
+    "q": "¿Cuáles son los pasos para comprar una licencia con transferencia si el cliente tiene acceso a internet?",
+    "a": "1) Ingresar a www.adminxml.com y dar clic en 'Precios'. 2) Seleccionar el paquete deseado y dar clic en 'Comprar Licencia', llenar el formulario de datos de contacto y facturación si es necesario. 3) Colocar los datos de contacto y facturación, luego dar clic en 'Continuar'. 4) Seleccionar 'Transferencia' como método de pago y generar la transferencia con los datos proporcionados.",
     "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "compra",
       "licencia",
       "transferencia",
       "internet",
       "pasos",
-      "adminxml",
       "formulario",
+      "datos",
       "pago"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para comprar una licencia con transferencia si el cliente tiene acceso a internet? Respuesta: 1) Ingresar a www.adminxml.com y dar clic en 'Precios'. 2) Seleccionar el paquete deseado y dar clic en 'Comprar Licencia', llenar el formulario de datos de contacto y facturación si es necesario. 3) Colocar los datos de contacto y facturación, luego dar clic en 'Continuar'. 4) Seleccionar 'Transferencia' como método de pago y generar la transferencia con los datos proporcionados."
   },
   {
-    "q": "¿Qué información recibe el cliente después de realizar el pago por transferencia?",
-    "a": "En un lapso de 3 a 24 horas recibirá la clave de licencia y factura (si la solicitó) al correo registrado en la orden de compra. Se recomienda revisar la bandeja de no deseados o SPAM si no aparece en la principal.",
+    "q": "¿Qué información recibirá el cliente después de realizar el pago con transferencia?",
+    "a": "En un lapso de 3 a 24 horas, el cliente recibirá la clave de licencia y factura (si la solicitó) al correo registrado en la orden de compra. Se recomienda verificar la bandeja de no deseados o SPAM si no aparece en la principal.",
     "product": "General",
+    "categoria": "Post-Compra",
     "keywords": [
       "pago",
       "transferencia",
@@ -41,27 +47,33 @@
       "correo",
       "tiempo",
       "spam"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información recibirá el cliente después de realizar el pago con transferencia? Respuesta: En un lapso de 3 a 24 horas, el cliente recibirá la clave de licencia y factura (si la solicitó) al correo registrado en la orden de compra. Se recomienda verificar la bandeja de no deseados o SPAM si no aparece en la principal."
   },
   {
-    "q": "¿Qué hacer si no se recibe la clave de licencia después de 3-4 horas de realizar el pago?",
-    "a": "Se debe comunicar al área de atención a clientes, teniendo a la mano el número de orden de compra.",
+    "q": "¿Qué hacer si no se recibe la clave de licencia después de realizar el pago?",
+    "a": "Si en un lapso de 3 a 4 horas no ha llegado la clave de licencia, se recomienda comunicarse al área de atención a clientes con el número de orden de compra a la mano.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
       "clave",
       "licencia",
-      "problema",
+      "no recibida",
       "atención",
       "clientes",
       "orden",
       "compra",
       "soporte"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se recibe la clave de licencia después de realizar el pago? Respuesta: Si en un lapso de 3 a 4 horas no ha llegado la clave de licencia, se recomienda comunicarse al área de atención a clientes con el número de orden de compra a la mano."
   },
   {
-    "q": "¿Cómo verificar el estado de un pago realizado por transferencia?",
-    "a": "Ingresando al Chat 'ComputoCreativoBot' en Telegram y usando el comando /orden seguido del número de orden de compra o concepto de pago.",
+    "q": "¿Cómo se puede verificar el estado de un pago realizado con transferencia?",
+    "a": "Ingresando a Telegram en el Chat 'ComputoCreativoBot' y usando el comando /orden seguido del número de orden de compra o concepto de pago.",
     "product": "General",
+    "categoria": "Verificación de Pago",
     "keywords": [
       "verificar",
       "pago",
@@ -70,22 +82,9 @@
       "chatbot",
       "orden",
       "compra",
-      "estado"
-    ]
-  },
-  {
-    "q": "¿Qué datos se necesitan para generar una orden de compra con pago por transferencia?",
-    "a": "Se requieren los datos de contacto, indicar si se requiere factura (llenando los campos correspondientes en ese caso), seleccionar la cantidad de licencias y elegir el método de pago por transferencia.",
-    "product": "General",
-    "keywords": [
-      "orden",
-      "compra",
-      "transferencia",
-      "datos",
-      "contacto",
-      "factura",
-      "licencias",
-      "formulario"
-    ]
+      "comando"
+    ],
+    "faq_id": "A-20-03-02-04-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede verificar el estado de un pago realizado con transferencia? Respuesta: Ingresando a Telegram en el Chat 'ComputoCreativoBot' y usando el comando /orden seguido del número de orden de compra o concepto de pago."
   }
 ]

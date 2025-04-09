@@ -1,73 +1,82 @@
 [
   {
-    "q": "¿Qué se necesita para usar la herramienta Generar PDF en MAX?",
-    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "q": "¿Qué se necesita para utilizar la herramienta Generar PDF en MAX?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MAX",
+    "categoria": "Requisitos",
     "keywords": [
       "generar pdf",
+      "max",
       "requisitos",
       "licencia",
       "miadminxml",
-      "periodo demostrativo",
-      "max",
-      "herramienta"
-    ]
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-03-25-03-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la herramienta Generar PDF en MAX? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cuáles son los pasos para generar un PDF desde MAX?",
     "a": "1. Ingresar al módulo de administración. 2. Seleccionar el RFC/Tipo/Año/Mes. 3. Dar clic en Leer XMLs. 4. Seleccionar la herramienta Generar PDF. 5. Esperar a que cargue la herramienta. 6. Elegir entre generación masiva o individual. 7. Seleccionar abrir archivo(s) PDF. 8. Dar clic en Generar PDF. 9. Visualizar el archivo con el visor predeterminado.",
     "product": "MAX",
+    "categoria": "Procedimiento",
     "keywords": [
-      "pasos",
       "generar pdf",
       "max",
-      "proceso",
+      "pasos",
+      "procedimiento",
       "xml",
-      "administración",
-      "rfc",
       "herramienta",
-      "visor"
-    ]
+      "administración"
+    ],
+    "faq_id": "A-20-03-25-03-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para generar un PDF desde MAX? Respuesta: 1. Ingresar al módulo de administración. 2. Seleccionar el RFC/Tipo/Año/Mes. 3. Dar clic en Leer XMLs. 4. Seleccionar la herramienta Generar PDF. 5. Esperar a que cargue la herramienta. 6. Elegir entre generación masiva o individual. 7. Seleccionar abrir archivo(s) PDF. 8. Dar clic en Generar PDF. 9. Visualizar el archivo con el visor predeterminado."
   },
   {
     "q": "¿Qué opciones tengo al generar un PDF en MAX?",
-    "a": "Puedes elegir entre realizar la generación de manera masiva o individual.",
+    "a": "Puedes elegir entre generar el PDF de manera masiva o individual.",
     "product": "MAX",
+    "categoria": "Funcionalidad",
     "keywords": [
-      "opciones",
       "generar pdf",
+      "max",
+      "opciones",
       "masiva",
       "individual",
-      "max",
-      "selección",
-      "herramienta"
-    ]
+      "funcionalidad"
+    ],
+    "faq_id": "A-20-03-25-03-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones tengo al generar un PDF en MAX? Respuesta: Puedes elegir entre generar el PDF de manera masiva o individual."
   },
   {
     "q": "¿Cómo puedo visualizar el PDF generado en MAX?",
     "a": "El PDF generado se visualiza automáticamente con el visor predeterminado del sistema.",
     "product": "MAX",
+    "categoria": "Visualización",
     "keywords": [
+      "generar pdf",
+      "max",
       "visualizar",
-      "pdf",
       "visor",
       "predeterminado",
-      "max",
-      "generar",
-      "archivo"
-    ]
+      "pdf"
+    ],
+    "faq_id": "A-20-03-25-03-08_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo visualizar el PDF generado en MAX? Respuesta: El PDF generado se visualiza automáticamente con el visor predeterminado del sistema."
   },
   {
-    "q": "¿Qué módulo de MAX se utiliza para generar PDFs?",
-    "a": "Se utiliza el módulo de administración de MAX para generar PDFs.",
+    "q": "¿Qué módulo debo usar en MAX para generar un PDF?",
+    "a": "Debes ingresar al módulo de administración de MAX para generar un PDF.",
     "product": "MAX",
+    "categoria": "Módulos",
     "keywords": [
+      "generar pdf",
+      "max",
       "módulo",
       "administración",
-      "max",
-      "generar pdf",
-      "herramienta",
-      "utilizar"
-    ]
+      "procedimiento"
+    ],
+    "faq_id": "A-20-03-25-03-08_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué módulo debo usar en MAX para generar un PDF? Respuesta: Debes ingresar al módulo de administración de MAX para generar un PDF."
   }
 ]

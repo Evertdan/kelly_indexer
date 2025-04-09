@@ -3,64 +3,79 @@
     "q": "¿Qué tipo de situación se describe en el texto?",
     "a": "Debido a fallas eléctricas se desactivó la licencia de mi equipo.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "situación",
-      "fallas eléctricas",
+      "falla eléctrica",
       "licencia",
-      "desactivación",
+      "desactivada",
       "equipo"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de situación se describe en el texto? Respuesta: Debido a fallas eléctricas se desactivó la licencia de mi equipo."
   },
   {
     "q": "¿Cuál es el tipo de solución mencionada en el texto?",
     "a": "Sol-01.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "tipo",
       "solución",
       "sol-01",
       "categoría"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el tipo de solución mencionada en el texto? Respuesta: Sol-01."
   },
   {
-    "q": "¿Cuál es el nivel de complejidad de la solución?",
-    "a": "2 – Medio.",
+    "q": "¿Qué nivel de complejidad tiene la solución descrita?",
+    "a": "Nivel 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "nivel",
       "complejidad",
       "medio",
-      "dificultad"
-    ]
+      "solución"
+    ],
+    "faq_id": "A-20-01-20-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de complejidad tiene la solución descrita? Respuesta: Nivel 2 – Medio."
   },
   {
-    "q": "¿Cuál fue el resultado de la restauración de la licencia?",
+    "q": "¿Cuál fue el resultado de la restauración de licencia?",
     "a": "Restauración de licencia exitosa.",
     "product": "MiAdminXML",
+    "categoria": "Resultados",
     "keywords": [
       "resultado",
       "restauración",
       "licencia",
       "éxito",
       "exitosa"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál fue el resultado de la restauración de licencia? Respuesta: Restauración de licencia exitosa."
   },
   {
-    "q": "¿Qué recurso se utiliza para la restauración de la licencia?",
+    "q": "¿Qué recurso se utiliza para la restauración de licencia?",
     "a": "MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Recursos",
     "keywords": [
       "recurso",
       "miadminxml",
       "restauración",
-      "licencia",
-      "herramienta"
-    ]
+      "licencia"
+    ],
+    "faq_id": "A-20-01-20-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se utiliza para la restauración de licencia? Respuesta: MiAdminXML."
   },
   {
     "q": "¿Qué políticas se deben cumplir para usar la restauración por formateo?",
     "a": "Contar con la licencia MiAdminXML y no haber cambiado ningún componente NoSerieHD, Mac, MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Políticas",
     "keywords": [
       "políticas",
       "licencia",
@@ -69,135 +84,105 @@
       "mac",
       "motherboard",
       "requisitos"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué políticas se deben cumplir para usar la restauración por formateo? Respuesta: Contar con la licencia MiAdminXML y no haber cambiado ningún componente NoSerieHD, Mac, MotherBoard."
   },
   {
     "q": "¿En qué casos se puede usar la restauración por formateo?",
-    "a": "Formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o desactivación de la licencia por alguna incidencia.",
+    "a": "En casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño de archivos CL de las licencias o cuando se desactiva la licencia por alguna incidencia.",
     "product": "MiAdminXML",
+    "categoria": "Casos de Uso",
     "keywords": [
       "casos",
+      "uso",
       "formateo",
       "actualización",
-      "sistema operativo",
       "antivirus",
       "archivos cl",
       "incidencia"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos se puede usar la restauración por formateo? Respuesta: En casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño de archivos CL de las licencias o cuando se desactiva la licencia por alguna incidencia."
   },
   {
-    "q": "¿Cuál es el alcance de la configuración de restauración por formateo?",
+    "q": "¿Cuál es el alcance de la restauración por formateo?",
     "a": "Configuración de restauración por formateo de manera exitosa.",
     "product": "MiAdminXML",
+    "categoria": "Alcances",
     "keywords": [
       "alcance",
-      "configuración",
       "restauración",
       "formateo",
-      "éxito"
-    ]
+      "éxito",
+      "configuración"
+    ],
+    "faq_id": "A-20-01-20-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de la restauración por formateo? Respuesta: Configuración de restauración por formateo de manera exitosa."
   },
   {
     "q": "¿Qué se debe validar antes de activar la licencia en un equipo?",
     "a": "Validar que los componentes NoSerieHD, Mac, MotherBoard sean iguales en donde se quiere activar el equipo.",
     "product": "MiAdminXML",
+    "categoria": "Validación",
     "keywords": [
       "validación",
       "componentes",
       "noseriehd",
       "mac",
       "motherboard",
-      "activación",
       "equipo"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe validar antes de activar la licencia en un equipo? Respuesta: Validar que los componentes NoSerieHD, Mac, MotherBoard sean iguales en donde se quiere activar el equipo."
   },
   {
-    "q": "¿Cuál es el primer paso para restaurar la licencia por formateo?",
-    "a": "Seleccionar la herramienta llamada Utilidades.",
+    "q": "¿Cuáles son los pasos para restaurar la licencia por formateo?",
+    "a": "1. Seleccionar la herramienta 'Utilidades'. 2. Seleccionar 'Restauración por Formateo'. 3. Introducir clave de licencia y verificar el correo electrónico registrado. 4. Dar clic en continuar.",
     "product": "MiAdminXML",
+    "categoria": "Pasos",
     "keywords": [
-      "paso 1",
-      "herramienta",
-      "utilidades",
-      "restauración",
-      "formateo"
-    ]
-  },
-  {
-    "q": "¿Qué opción se debe seleccionar en el segundo paso de la restauración por formateo?",
-    "a": "Seleccionar la opción de Restauración por Formateo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "paso 2",
-      "opción",
+      "pasos",
       "restauración",
       "formateo",
-      "selección"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer en el tercer paso de la restauración por formateo?",
-    "a": "Introducir la clave de licencia y verificar que el correo electrónico mostrado corresponda al registrado al activar la licencia. Si no coincide, sustituirlo por el correcto y dar clic en continuar.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "paso 3",
+      "utilidades",
       "clave",
-      "licencia",
-      "correo electrónico",
-      "verificación",
+      "correo",
       "continuar"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para restaurar la licencia por formateo? Respuesta: 1. Seleccionar la herramienta 'Utilidades'. 2. Seleccionar 'Restauración por Formateo'. 3. Introducir clave de licencia y verificar el correo electrónico registrado. 4. Dar clic en continuar."
   },
   {
     "q": "¿Qué mensaje aparece cuando la licencia es restaurada correctamente?",
     "a": "Aparece el mensaje 'tu licencia fue restaurada correctamente'.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
       "mensaje",
       "licencia",
       "restaurada",
       "correctamente",
-      "confirmación"
-    ]
+      "éxito"
+    ],
+    "faq_id": "A-20-01-20-01-01_q10",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece cuando la licencia es restaurada correctamente? Respuesta: Aparece el mensaje 'tu licencia fue restaurada correctamente'."
   },
   {
-    "q": "¿Qué mensaje aparece si no se detecta una licencia preactivada en el equipo?",
-    "a": "Aparece el mensaje 'No se detectó una licencia preactivada en este equipo'.",
+    "q": "¿Qué significa el mensaje 'No se detectó una licencia preactivada en este equipo'?",
+    "a": "Significa que se hizo algún cambio de componentes (NoSerieHD, Mac, MotherBoard) o el correo ingresado no es el vinculado con la licencia, por lo que no se puede usar la herramienta y se debe enviar un oficio de reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "mensaje",
+      "error",
       "licencia",
       "preactivada",
-      "no detectada",
-      "error"
-    ]
-  },
-  {
-    "q": "¿Qué causa que no se detecte una licencia preactivada en el equipo?",
-    "a": "Se hizo algún cambio de componentes (NoSerieHD, Mac, MotherBoard) o el correo ingresado no es el vinculado con la licencia.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "causa",
-      "cambio",
       "componentes",
-      "noseriehd",
-      "mac",
-      "motherboard",
       "correo",
-      "vinculado"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer si no se puede usar la herramienta de restauración por formateo?",
-    "a": "Se debe enviar un oficio de reactivación.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "solución",
-      "herramienta",
-      "restauración",
-      "formateo",
-      "oficio",
       "reactivación"
-    ]
+    ],
+    "faq_id": "A-20-01-20-01-01_q11",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa el mensaje 'No se detectó una licencia preactivada en este equipo'? Respuesta: Significa que se hizo algún cambio de componentes (NoSerieHD, Mac, MotherBoard) o el correo ingresado no es el vinculado con la licencia, por lo que no se puede usar la herramienta y se debe enviar un oficio de reactivación."
   }
 ]

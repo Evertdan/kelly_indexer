@@ -1,80 +1,93 @@
 [
   {
-    "q": "¿Qué se necesita para convertir un XML a PDF en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "q": "¿Cómo puedo convertir un XML a PDF en MiAdminXML?",
+    "a": "Para convertir un XML a PDF en MiAdminXML, sigue estos pasos: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic en 'Leer XMLs', luego en 'Generar PDF' y finalmente confirma la generación del PDF.",
     "product": "MiAdminXML",
+    "categoria": "Generación de PDF",
     "keywords": [
-      "xml",
-      "pdf",
       "convertir",
-      "licencia",
-      "requisitos",
-      "periodo demostrativo"
-    ]
-  },
-  {
-    "q": "¿Cuáles son los pasos para generar un PDF desde un XML en MiAdminXML?",
-    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en la herramienta 'Leer XMLs'. 5. Clic en 'Generar PDF'. 6. Confirmar en la ventana emergente. 7. El PDF se abrirá automáticamente.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "pasos",
-      "generar pdf",
       "xml",
-      "módulo",
-      "administración",
-      "herramientas"
-    ]
+      "pdf",
+      "pasos",
+      "generación"
+    ],
+    "faq_id": "A-20-03-26-01-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo convertir un XML a PDF en MiAdminXML? Respuesta: Para convertir un XML a PDF en MiAdminXML, sigue estos pasos: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic en 'Leer XMLs', luego en 'Generar PDF' y finalmente confirma la generación del PDF."
   },
   {
-    "q": "¿Cuántos PDFs se pueden generar sin licencia en MiAdminXML?",
-    "a": "Sin licencia, solo se permite generar 1 PDF. Con licencia Plus o Profesional, se pueden generar PDFs masivos o de XML seleccionados.",
+    "q": "¿Qué necesito para generar PDFs en MiAdminXML?",
+    "a": "Para generar PDFs en MiAdminXML, necesitas contar con una licencia MiAdminXML o estar en el periodo demostrativo. Sin licencia, solo podrás generar 1 PDF.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
+      "requisitos",
       "licencia",
-      "límite",
       "pdf",
-      "generar",
-      "sin licencia",
+      "generación",
+      "demostrativo"
+    ],
+    "faq_id": "A-20-03-26-01-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué necesito para generar PDFs en MiAdminXML? Respuesta: Para generar PDFs en MiAdminXML, necesitas contar con una licencia MiAdminXML o estar en el periodo demostrativo. Sin licencia, solo podrás generar 1 PDF."
+  },
+  {
+    "q": "¿Cómo generar PDFs masivos en MiAdminXML?",
+    "a": "Para generar PDFs masivos en MiAdminXML, selecciona la opción 'PDFs Masivos' después de seguir los pasos básicos de generación de PDF. Esto requiere una licencia Plus o Profesional.",
+    "product": "MiAdminXML",
+    "categoria": "Generación de PDF",
+    "keywords": [
+      "pdf",
+      "masivos",
+      "generación",
+      "licencia",
       "plus",
       "profesional"
-    ]
-  },
-  {
-    "q": "¿Cómo se generan PDFs masivos en MiAdminXML?",
-    "a": "Seleccionando la opción 'PDFs Masivos' después de leer los XMLs. Los PDFs se guardan automáticamente en la Bóveda del Disco Local C:, a menos que se active 'Abrir después de generar'.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "pdfs masivos",
-      "generar",
-      "opción",
-      "bóveda",
-      "disco local",
-      "guardar"
-    ]
-  },
-  {
-    "q": "¿Cómo se generan PDFs de XML seleccionados en MiAdminXML?",
-    "a": "Se utiliza la opción 'XML Seleccionados', donde se pueden elegir múltiples XML para convertirlos en PDF individualmente.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "xml seleccionados",
-      "generar pdf",
-      "múltiples",
-      "convertir",
-      "opción"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo generar PDFs masivos en MiAdminXML? Respuesta: Para generar PDFs masivos en MiAdminXML, selecciona la opción 'PDFs Masivos' después de seguir los pasos básicos de generación de PDF. Esto requiere una licencia Plus o Profesional."
   },
   {
     "q": "¿Dónde se guardan los PDFs generados en MiAdminXML?",
-    "a": "Los PDFs se guardan automáticamente en la Bóveda ubicada en el Disco Local C:, a menos que se active la opción 'Abrir después de generar' para verlos inmediatamente.",
+    "a": "Los PDFs generados en MiAdminXML se guardan automáticamente en la Bóveda ubicada en el Disco Local C:, a menos que selecciones la opción 'Abrir después de generar' para verlos inmediatamente.",
     "product": "MiAdminXML",
+    "categoria": "Guardado",
     "keywords": [
+      "pdf",
       "guardar",
-      "pdfs",
       "bóveda",
       "disco local",
-      "ubicación",
-      "abrir después de generar"
-    ]
+      "generación"
+    ],
+    "faq_id": "A-20-03-26-01-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guardan los PDFs generados en MiAdminXML? Respuesta: Los PDFs generados en MiAdminXML se guardan automáticamente en la Bóveda ubicada en el Disco Local C:, a menos que selecciones la opción 'Abrir después de generar' para verlos inmediatamente."
+  },
+  {
+    "q": "¿Cómo generar PDFs de XML seleccionados en MiAdminXML?",
+    "a": "Para generar PDFs de XML seleccionados en MiAdminXML, utiliza la opción 'XML Seleccionados' después de seguir los pasos básicos de generación de PDF. Esto te permite elegir múltiples XML para convertir.",
+    "product": "MiAdminXML",
+    "categoria": "Generación de PDF",
+    "keywords": [
+      "pdf",
+      "xml",
+      "seleccionados",
+      "generación",
+      "múltiples"
+    ],
+    "faq_id": "A-20-03-26-01-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo generar PDFs de XML seleccionados en MiAdminXML? Respuesta: Para generar PDFs de XML seleccionados en MiAdminXML, utiliza la opción 'XML Seleccionados' después de seguir los pasos básicos de generación de PDF. Esto te permite elegir múltiples XML para convertir."
+  },
+  {
+    "q": "¿Qué limitaciones hay al generar PDFs sin licencia en MiAdminXML?",
+    "a": "Sin licencia en MiAdminXML, solo podrás generar 1 PDF. Para generar más PDFs o usar funciones avanzadas como PDFs Masivos o XML Seleccionados, necesitas una licencia Plus o Profesional.",
+    "product": "MiAdminXML",
+    "categoria": "Limitaciones",
+    "keywords": [
+      "licencia",
+      "limitaciones",
+      "pdf",
+      "generación",
+      "demostrativo"
+    ],
+    "faq_id": "A-20-03-26-01-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué limitaciones hay al generar PDFs sin licencia en MiAdminXML? Respuesta: Sin licencia en MiAdminXML, solo podrás generar 1 PDF. Para generar más PDFs o usar funciones avanzadas como PDFs Masivos o XML Seleccionados, necesitas una licencia Plus o Profesional."
   }
 ]

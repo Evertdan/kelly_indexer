@@ -1,34 +1,42 @@
 [
   {
-    "q": "¿Qué se necesita para solucionar un error de conexión al servidor del SAT en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con esto, se debe contactar por correo electrónico.",
+    "q": "¿Qué se debe verificar cuando hay un error de conexión al servidor del SAT en MiAdminXML?",
+    "a": "Se debe verificar si se puede acceder y descargar desde el portal del SAT, y asegurarse de contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Error de Conexión",
     "keywords": [
       "error",
       "conexión",
       "sat",
-      "licencia",
-      "periodo demostrativo",
-      "correo electrónico"
-    ]
-  },
-  {
-    "q": "¿Cómo verificar si el equipo tiene acceso al portal del SAT?",
-    "a": "Se debe revisar el portal del SAT en https://portalcfdi.facturaelectronica.sat.gob.mx/. Si no hay acceso, puede ser debido a fallas o modificaciones en el portal del SAT.",
-    "product": "MiAdminXML",
-    "keywords": [
       "verificar",
-      "acceso",
-      "portal",
-      "sat",
-      "fallas",
-      "modificaciones"
-    ]
+      "descarga",
+      "licencia",
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe verificar cuando hay un error de conexión al servidor del SAT en MiAdminXML? Respuesta: Se debe verificar si se puede acceder y descargar desde el portal del SAT, y asegurarse de contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué pasos seguir para actualizar MiAdminXML de forma manual?",
-    "a": "1. Dar clic en 'Utilidades'. 2. Dar clic en 'Resetear Internet Explorer'. 3. Marcar la casilla 'Eliminar configuración' y dar clic en 'Restablecer'. 4. Cerrar la pantalla y el programa. 5. Agregar en la configuración de JAVA la página del SAT https://www.sat.gob.mx/. 6. Volver a abrir MiAdminXML y realizar una prueba de conexión.",
+    "q": "¿Qué hacer si no se puede acceder al portal del SAT desde MiAdminXML?",
+    "a": "Si no se tiene acceso al portal del SAT, puede deberse a fallas o modificaciones en el portal. Se debe esperar a que se restablezca para continuar con la búsqueda y descarga.",
     "product": "MiAdminXML",
+    "categoria": "Error de Conexión",
+    "keywords": [
+      "acceso",
+      "portal sat",
+      "fallas",
+      "modificaciones",
+      "restablecer",
+      "descarga"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se puede acceder al portal del SAT desde MiAdminXML? Respuesta: Si no se tiene acceso al portal del SAT, puede deberse a fallas o modificaciones en el portal. Se debe esperar a que se restablezca para continuar con la búsqueda y descarga."
+  },
+  {
+    "q": "¿Cómo actualizar MiAdminXML de forma manual para solucionar problemas de conexión?",
+    "a": "Para actualizar MiAdminXML manualmente, se debe ir a 'Utilidades', luego a 'Resetear Internet Explorer', marcar la casilla 'Eliminar configuración' y dar clic en 'Restablecer'. Luego, cerrar el programa y agregar la página del SAT en la configuración de JAVA en la pestaña seguridad.",
+    "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "actualizar",
       "manual",
@@ -36,47 +44,58 @@
       "resetear",
       "internet explorer",
       "java",
-      "prueba conexión"
-    ]
+      "seguridad"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo actualizar MiAdminXML de forma manual para solucionar problemas de conexión? Respuesta: Para actualizar MiAdminXML manualmente, se debe ir a 'Utilidades', luego a 'Resetear Internet Explorer', marcar la casilla 'Eliminar configuración' y dar clic en 'Restablecer'. Luego, cerrar el programa y agregar la página del SAT en la configuración de JAVA en la pestaña seguridad."
   },
   {
-    "q": "¿Qué configuraciones de red se deben revisar para desbloquear la conexión en MiAdminXML?",
-    "a": "Se debe tener conexión a internet, actualizar MiAdminXML, agregar MiAdminXML.exe en excepciones de antivirus o firewall, y si es necesario agregar en firewall, proxy, dominio u otras configuraciones de RED las IPs www.adminxml.com (207.244.103.231 sin puerto) y https://api.computocontable.com (con puerto 443).",
+    "q": "¿Qué pasos seguir para desbloquear la red en MiAdminXML?",
+    "a": "Para desbloquear la red, se debe tener conexión a internet, actualizar MiAdminXML, agregar MiAdminXML.exe en excepciones de antivirus o firewall, y si es necesario, agregar las IPs www.adminxml.com y https://api.computocontable.com en las configuraciones de red. También se debe ejecutar la aplicación con permisos de administrador.",
     "product": "MiAdminXML",
+    "categoria": "Configuración de Red",
     "keywords": [
-      "configuración",
+      "desbloquear",
       "red",
       "conexión",
       "antivirus",
       "firewall",
-      "proxy",
-      "dominio",
-      "ip"
-    ]
-  },
-  {
-    "q": "¿Cómo ejecutar MiAdminXML con permisos de administrador?",
-    "a": "Se debe ejecutar la aplicación en la cuenta de administrador o con permisos de administrador.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "ejecutar",
+      "ip",
       "permisos",
-      "administrador",
-      "cuenta",
-      "aplicación"
-    ]
+      "administrador"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir para desbloquear la red en MiAdminXML? Respuesta: Para desbloquear la red, se debe tener conexión a internet, actualizar MiAdminXML, agregar MiAdminXML.exe en excepciones de antivirus o firewall, y si es necesario, agregar las IPs www.adminxml.com y https://api.computocontable.com en las configuraciones de red. También se debe ejecutar la aplicación con permisos de administrador."
   },
   {
-    "q": "¿Qué hacer si el portal del SAT no está accesible?",
-    "a": "Si el portal del SAT no está accesible, puede ser debido a fallas o modificaciones en el portal y hay que esperar a que se restablezca para continuar con la búsqueda y descarga.",
+    "q": "¿Qué requisitos son necesarios para solucionar un error de conexión al SAT en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se debe solucionar por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "portal",
-      "sat",
-      "accesible",
-      "fallas",
-      "modificaciones",
-      "restablecer"
-    ]
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico",
+      "solución"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos son necesarios para solucionar un error de conexión al SAT en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se debe solucionar por correo electrónico."
+  },
+  {
+    "q": "¿Qué direcciones IP se deben agregar en las configuraciones de red para MiAdminXML?",
+    "a": "Se deben agregar las siguientes direcciones IP: www.adminxml.com (207.244.103.231 sin puerto) y https://api.computocontable.com (con puerto 443).",
+    "product": "MiAdminXML",
+    "categoria": "Configuración de Red",
+    "keywords": [
+      "ip",
+      "configuración",
+      "red",
+      "adminxml",
+      "computocontable",
+      "puerto"
+    ],
+    "faq_id": "A-20-03-02-04-01_(51)_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué direcciones IP se deben agregar en las configuraciones de red para MiAdminXML? Respuesta: Se deben agregar las siguientes direcciones IP: www.adminxml.com (207.244.103.231 sin puerto) y https://api.computocontable.com (con puerto 443)."
   }
 ]

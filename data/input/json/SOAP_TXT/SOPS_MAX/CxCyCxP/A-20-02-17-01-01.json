@@ -1,86 +1,119 @@
 [
   {
-    "q": "¿Qué tipo de problema se describe en el texto?",
+    "q": "¿Qué problema ocurre con la base de datos en CxC en MiAdminXML?",
     "a": "No se crea correctamente la base de datos que almacena la información en CxC.",
     "product": "MiAdminXML",
+    "categoria": "Error en Base de Datos",
     "keywords": [
-      "problema",
       "base de datos",
       "cxc",
       "error",
-      "creación"
-    ]
+      "creación",
+      "problema",
+      "sqlite"
+    ],
+    "faq_id": "A-20-02-17-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué problema ocurre con la base de datos en CxC en MiAdminXML? Respuesta: No se crea correctamente la base de datos que almacena la información en CxC."
   },
   {
-    "q": "¿Cuál es el nivel de gravedad del problema descrito?",
+    "q": "¿Cuál es el nivel de gravedad del problema con la base de datos en CxC?",
     "a": "El nivel de gravedad es 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Error en Base de Datos",
     "keywords": [
       "nivel",
       "gravedad",
       "medio",
       "problema",
-      "severidad"
-    ]
+      "base de datos",
+      "cxc"
+    ],
+    "faq_id": "A-20-02-17-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de gravedad del problema con la base de datos en CxC? Respuesta: El nivel de gravedad es 2 – Medio."
   },
   {
-    "q": "¿Qué se necesita para resolver el problema descrito?",
-    "a": "Se necesita tener MiAdminXML actualizado y contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "q": "¿Qué se necesita para resolver el problema de la base de datos en CxC?",
+    "a": "Se requiere tener MiAdminXML actualizado y contar con la licencia o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "requisitos",
       "licencia",
       "actualizado",
       "periodo demostrativo",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Qué archivo se debe eliminar si no se crea correctamente la base de datos en CxC?",
-    "a": "Se debe eliminar el archivo 'SU_RFC.sqlite' si su tamaño es '0KB'.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "archivo",
-      "sqlite",
-      "eliminar",
-      "0kb",
+      "solución",
       "base de datos"
-    ]
+    ],
+    "faq_id": "A-20-02-17-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para resolver el problema de la base de datos en CxC? Respuesta: Se requiere tener MiAdminXML actualizado y contar con la licencia o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Dónde se encuentra el archivo que debe ser eliminado?",
-    "a": "El archivo se encuentra en la carpeta C:\\AdminXML\\BovedaCFDi, dentro de la carpeta correspondiente al RFC del usuario.",
+    "q": "¿Qué pasos se deben seguir para resolver el problema de la base de datos en CxC?",
+    "a": "Cerrar el programa de MiAdminXML y/o terminar los procesos en el Administrador de Tareas, luego en la carpeta C:\\AdminXML\\BovedaCFDi seleccionar la carpeta del RFC y verificar el archivo 'SU_RFC.sqlite'. Si su tamaño es 0KB, eliminarlo y volver a entrar en Control de CxC y CxP.",
     "product": "MiAdminXML",
-    "keywords": [
-      "ubicación",
-      "carpeta",
-      "bovedacfdi",
-      "rfc",
-      "archivo"
-    ]
-  },
-  {
-    "q": "¿Qué pasos se deben seguir después de eliminar el archivo SQLITE?",
-    "a": "Después de eliminar el archivo, se debe volver a entrar en Control de CxC y CxP y probar el sistema para verificar si ya se permite la 'Creación de Cuentas Bancarias'.",
-    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "pasos",
-      "probar",
+      "solución",
+      "cerrar programa",
+      "administrador de tareas",
+      "eliminar archivo",
+      "sqlite",
       "cxc",
-      "cxp",
-      "cuentas bancarias"
-    ]
+      "cxp"
+    ],
+    "faq_id": "A-20-02-17-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para resolver el problema de la base de datos en CxC? Respuesta: Cerrar el programa de MiAdminXML y/o terminar los procesos en el Administrador de Tareas, luego en la carpeta C:\\AdminXML\\BovedaCFDi seleccionar la carpeta del RFC y verificar el archivo 'SU_RFC.sqlite'. Si su tamaño es 0KB, eliminarlo y volver a entrar en Control de CxC y CxP."
   },
   {
-    "q": "¿Qué se debe hacer antes de eliminar el archivo SQLITE?",
-    "a": "Antes de eliminar el archivo SQLITE, se debe cerrar el programa de MiAdminXML y/o terminar los procesos en el Administrador de Tareas.",
+    "q": "¿Cómo verificar si el archivo SQLITE está correctamente creado?",
+    "a": "El archivo 'SU_RFC.sqlite' en la carpeta C:\\AdminXML\\BovedaCFDi debe ser mayor a 0KB.",
     "product": "MiAdminXML",
+    "categoria": "Verificación",
     "keywords": [
-      "cerrar",
-      "programa",
-      "administrador de tareas",
-      "procesos",
-      "antes"
-    ]
+      "verificar",
+      "archivo",
+      "sqlite",
+      "tamaño",
+      "0kb",
+      "rfc",
+      "bovedacfdi"
+    ],
+    "faq_id": "A-20-02-17-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo verificar si el archivo SQLITE está correctamente creado? Respuesta: El archivo 'SU_RFC.sqlite' en la carpeta C:\\AdminXML\\BovedaCFDi debe ser mayor a 0KB."
+  },
+  {
+    "q": "¿Qué hacer si el archivo SQLITE tiene un tamaño de 0KB?",
+    "a": "Si el archivo 'SU_RFC.sqlite' tiene un tamaño de 0KB, se debe eliminar y volver a entrar en Control de CxC y CxP.",
+    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
+    "keywords": [
+      "eliminar",
+      "archivo",
+      "sqlite",
+      "0kb",
+      "solución",
+      "cxc",
+      "cxp"
+    ],
+    "faq_id": "A-20-02-17-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el archivo SQLITE tiene un tamaño de 0KB? Respuesta: Si el archivo 'SU_RFC.sqlite' tiene un tamaño de 0KB, se debe eliminar y volver a entrar en Control de CxC y CxP."
+  },
+  {
+    "q": "¿Qué se debe probar después de resolver el problema con el archivo SQLITE?",
+    "a": "Después de resolver el problema, se debe probar el sistema en CxC y CxP para verificar si ya se permite la 'Creación de Cuentas Bancarias'.",
+    "product": "MiAdminXML",
+    "categoria": "Verificación",
+    "keywords": [
+      "probar",
+      "sistema",
+      "cxc",
+      "cxp",
+      "cuentas bancarias",
+      "verificación",
+      "solución"
+    ],
+    "faq_id": "A-20-02-17-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe probar después de resolver el problema con el archivo SQLITE? Respuesta: Después de resolver el problema, se debe probar el sistema en CxC y CxP para verificar si ya se permite la 'Creación de Cuentas Bancarias'."
   }
 ]

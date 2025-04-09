@@ -1,68 +1,98 @@
 [
   {
-    "q": "¿Qué módulo de MiAdminXML permite gestionar RFC y contraseñas de contribuyentes?",
-    "a": "El módulo de catálogo contribuyentes en MiAdminXML permite mantener los RFC y contraseñas guardadas en el equipo para facilitar el acceso rápido al SAT.",
+    "q": "¿Qué es el módulo de catálogo contribuyentes en MiAdminXML?",
+    "a": "El módulo de catálogo contribuyentes permite mantener los RFC y contraseñas guardadas en el equipo para facilitar el acceso rápido al SAT.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo Contribuyentes",
     "keywords": [
-      "catálogo contribuyentes",
+      "catálogo",
+      "contribuyentes",
       "rfc",
       "contraseñas",
-      "gestión",
-      "módulo",
       "sat",
-      "acceso rápido"
-    ]
+      "acceso",
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el módulo de catálogo contribuyentes en MiAdminXML? Respuesta: El módulo de catálogo contribuyentes permite mantener los RFC y contraseñas guardadas en el equipo para facilitar el acceso rápido al SAT."
   },
   {
-    "q": "¿Qué requisitos se necesitan para usar el módulo de catálogo contribuyentes en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo del software.",
+    "q": "¿Qué requisitos se necesitan para usar el módulo de catálogo contribuyentes?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "catálogo contribuyentes",
-      "acceso"
-    ]
+      "acceso",
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar el módulo de catálogo contribuyentes? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se accede al módulo de catálogo contribuyentes en MiAdminXML?",
-    "a": "Para acceder al módulo, se debe ingresar al programa MiAdminXML y seleccionar el módulo de Contabilidad, donde se desplegará la ventana del catálogo de contribuyentes.",
+    "a": "Se debe ingresar al programa MiAdminXML y seleccionar el módulo de Contabilidad, donde se desplegará una ventana con el catálogo de contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
-      "módulo contabilidad",
-      "catálogo contribuyentes",
-      "ventana",
-      "seleccionar"
-    ]
+      "módulo",
+      "contabilidad",
+      "catálogo",
+      "contribuyentes",
+      "ventana"
+    ],
+    "faq_id": "A-20-03-25-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de catálogo contribuyentes en MiAdminXML? Respuesta: Se debe ingresar al programa MiAdminXML y seleccionar el módulo de Contabilidad, donde se desplegará una ventana con el catálogo de contribuyentes."
   },
   {
-    "q": "¿Qué acciones se pueden realizar en el catálogo de contribuyentes de MiAdminXML?",
-    "a": "En el catálogo de contribuyentes se pueden realizar tres acciones principales: agregar un nuevo contribuyente (ingresando RFC, razón social y clave CIEC), modificar los datos de un contribuyente existente o eliminar un RFC de la lista.",
+    "q": "¿Cómo se agrega un nuevo contribuyente al catálogo en MiAdminXML?",
+    "a": "Se selecciona la opción 'Nueva' en el catálogo de contribuyentes y se ingresan los datos del RFC, razón social y clave CIEC.",
     "product": "MiAdminXML",
+    "categoria": "Operaciones",
     "keywords": [
-      "acciones",
       "agregar",
-      "modificar",
-      "eliminar",
+      "nuevo",
+      "contribuyente",
       "rfc",
       "razón social",
       "clave ciec",
       "catálogo"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se agrega un nuevo contribuyente al catálogo en MiAdminXML? Respuesta: Se selecciona la opción 'Nueva' en el catálogo de contribuyentes y se ingresan los datos del RFC, razón social y clave CIEC."
   },
   {
-    "q": "¿Qué información se necesita para agregar un nuevo contribuyente al catálogo en MiAdminXML?",
-    "a": "Para agregar un nuevo contribuyente al catálogo, se debe ingresar el RFC, la razón social y la clave CIEC del contribuyente.",
+    "q": "¿Cómo se modifica un contribuyente en el catálogo de MiAdminXML?",
+    "a": "Se selecciona la opción 'Modificar' en el catálogo de contribuyentes para editar los datos del contribuyente seleccionado.",
     "product": "MiAdminXML",
+    "categoria": "Operaciones",
     "keywords": [
-      "nuevo contribuyente",
-      "agregar",
+      "modificar",
+      "editar",
+      "contribuyente",
+      "catálogo",
+      "datos"
+    ],
+    "faq_id": "A-20-03-25-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se modifica un contribuyente en el catálogo de MiAdminXML? Respuesta: Se selecciona la opción 'Modificar' en el catálogo de contribuyentes para editar los datos del contribuyente seleccionado."
+  },
+  {
+    "q": "¿Cómo se elimina un contribuyente del catálogo en MiAdminXML?",
+    "a": "Se selecciona la opción 'Eliminar' en el catálogo de contribuyentes para quitar el RFC seleccionado de la lista.",
+    "product": "MiAdminXML",
+    "categoria": "Operaciones",
+    "keywords": [
+      "eliminar",
+      "quitar",
+      "contribuyente",
       "rfc",
-      "razón social",
-      "clave ciec",
-      "datos requeridos"
-    ]
+      "catálogo",
+      "lista"
+    ],
+    "faq_id": "A-20-03-25-05-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se elimina un contribuyente del catálogo en MiAdminXML? Respuesta: Se selecciona la opción 'Eliminar' en el catálogo de contribuyentes para quitar el RFC seleccionado de la lista."
   }
 ]

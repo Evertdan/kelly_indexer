@@ -1,74 +1,84 @@
 [
   {
-    "q": "¿Qué tipo de solicitud se describe en el texto?",
-    "a": "La solicitud es de tipo INC-02 y tiene un nivel de 2 – Medio.",
+    "q": "¿Qué tipo de solicitud se describe en el texto y cuál es su nivel de gravedad?",
+    "a": "La solicitud es de tipo INC-02 con un nivel de gravedad 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "solicitud",
+      "rechazada",
       "tipo",
       "inc-02",
       "nivel",
-      "medio"
-    ]
+      "medio",
+      "gravedad"
+    ],
+    "faq_id": "A-20-02-13-01-05_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud se describe en el texto y cuál es su nivel de gravedad? Respuesta: La solicitud es de tipo INC-02 con un nivel de gravedad 2 – Medio."
   },
   {
-    "q": "¿Qué recursos se mencionan para resolver la situación?",
-    "a": "Se menciona el uso de MiAdminXML como recurso principal.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recursos",
-      "miadminxml",
-      "situación",
-      "resolver"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar MiAdminXML según las políticas?",
+    "q": "¿Qué requisitos se necesitan para usar el descargable y marcable en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo",
       "demostrativo",
-      "políticas"
-    ]
+      "descargable",
+      "marcable"
+    ],
+    "faq_id": "A-20-02-13-01-05_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar el descargable y marcable en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cuál es la primera solución propuesta para el error no controlado?",
-    "a": "Usar la herramienta de Desmarcable con pasos específicos: clic derecho en paquetes no descargados, seleccionar Desmarcable, luego marcable y verificar para intentar una nueva descarga.",
+    "q": "¿Cuál es la primera solución recomendada para paquetes que no descargaron correctamente?",
+    "a": "Usar la herramienta de Desmarcable: dar clic derecho en los paquetes, seleccionar Desmarcable, luego volver a dar clic derecho a Marcable y verificar para intentar la descarga nuevamente.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "solución",
-      "error",
       "desmarcable",
-      "pasos",
-      "descarga"
-    ]
+      "paquetes",
+      "descarga",
+      "clic derecho",
+      "verificar"
+    ],
+    "faq_id": "A-20-02-13-01-05_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la primera solución recomendada para paquetes que no descargaron correctamente? Respuesta: Usar la herramienta de Desmarcable: dar clic derecho en los paquetes, seleccionar Desmarcable, luego volver a dar clic derecho a Marcable y verificar para intentar la descarga nuevamente."
   },
   {
     "q": "¿Qué se recomienda si la solicitud excede los 200,000 XML permitidos por consulta?",
-    "a": "Se recomienda dividir la consulta en otras más pequeñas para evitar el problema.",
+    "a": "Se recomienda dividir la consulta en otras más pequeñas para evitar este problema.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "solicitud",
-      "exceder",
+      "excede",
       "200000",
       "xml",
       "dividir",
-      "consulta"
-    ]
+      "consulta",
+      "pequeñas"
+    ],
+    "faq_id": "A-20-02-13-01-05_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda si la solicitud excede los 200,000 XML permitidos por consulta? Respuesta: Se recomienda dividir la consulta en otras más pequeñas para evitar este problema."
   },
   {
-    "q": "¿Qué hacer si no se encuentran comprobantes dentro de los parámetros de la consulta?",
+    "q": "¿Qué hacer si dentro de los parámetros de la consulta no se encuentran comprobantes?",
     "a": "Se recomienda asegurar que existan XML del periodo de la consulta.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "comprobantes",
       "parámetros",
       "consulta",
+      "comprobantes",
       "xml",
-      "periodo"
-    ]
+      "periodo",
+      "asegurar"
+    ],
+    "faq_id": "A-20-02-13-01-05_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si dentro de los parámetros de la consulta no se encuentran comprobantes? Respuesta: Se recomienda asegurar que existan XML del periodo de la consulta."
   }
 ]

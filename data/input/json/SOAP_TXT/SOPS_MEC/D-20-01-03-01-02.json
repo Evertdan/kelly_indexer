@@ -1,72 +1,81 @@
 [
   {
-    "q": "¿Qué debe hacer el cliente si no recibe el correo de confirmación de MiExpedienteContable?",
-    "a": "El cliente debe proporcionar el correo electrónico registrado en el formulario para que el ejecutivo valide la información en el sistema.",
+    "q": "¿Qué debe hacer el cliente si no recibe el correo de confirmación de registro en MiExpedienteContable?",
+    "a": "El cliente debe proporcionar el correo electrónico registrado en el formulario para que el ejecutivo valide la información en el sistema mediante el comando '/confirma MEC' seguido del correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "correo",
       "confirmación",
       "registro",
       "cliente",
-      "validación",
       "ejecutivo",
+      "validación",
       "sistema"
-    ]
+    ],
+    "faq_id": "D-20-01-03-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente si no recibe el correo de confirmación de registro en MiExpedienteContable? Respuesta: El cliente debe proporcionar el correo electrónico registrado en el formulario para que el ejecutivo valide la información en el sistema mediante el comando '/confirma MEC' seguido del correo electrónico."
   },
   {
     "q": "¿Qué comando se utiliza para verificar el envío del correo de confirmación en MiExpedienteContable?",
     "a": "Se utiliza el comando '/confirma MEC' seguido del correo electrónico del cliente para verificar si se realizó la validación y se envió el correo.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "comando",
       "confirma",
       "mec",
       "correo",
       "validación",
-      "verificación",
-      "sistema"
-    ]
+      "verificación"
+    ],
+    "faq_id": "D-20-01-03-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se utiliza para verificar el envío del correo de confirmación en MiExpedienteContable? Respuesta: Se utiliza el comando '/confirma MEC' seguido del correo electrónico del cliente para verificar si se realizó la validación y se envió el correo."
   },
   {
-    "q": "¿Qué opciones tiene el ejecutivo si no se encuentra la solicitud de confirmación en el sistema?",
-    "a": "Si no se encuentran solicitudes, el ejecutivo debe informar al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
+    "q": "¿Qué opciones tiene el ejecutivo si no se encuentra la solicitud de registro del cliente en MiExpedienteContable?",
+    "a": "Si no se encuentran solicitudes, el ejecutivo informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "ejecutivo",
       "solicitud",
-      "confirmación",
-      "correo",
-      "botón",
-      "enviar",
-      "sistema"
-    ]
+      "no encontrada",
+      "enviar confirmación",
+      "correo electrónico"
+    ],
+    "faq_id": "D-20-01-03-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones tiene el ejecutivo si no se encuentra la solicitud de registro del cliente en MiExpedienteContable? Respuesta: Si no se encuentran solicitudes, el ejecutivo informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'."
   },
   {
     "q": "¿Qué requisitos debe cumplir el cliente para registrar MiExpedienteContable?",
     "a": "El cliente debe contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "requisitos",
       "licencia",
-      "periodo",
-      "demostrativo",
+      "periodo demostrativo",
       "registro",
       "cliente"
-    ]
+    ],
+    "faq_id": "D-20-01-03-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos debe cumplir el cliente para registrar MiExpedienteContable? Respuesta: El cliente debe contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo."
   },
   {
-    "q": "¿Qué tipo de solicitud es cuando un cliente no recibe el correo de confirmación de MiExpedienteContable?",
-    "a": "Es una solicitud tipo SOL-01 con un nivel de prioridad 1 - Bajo.",
+    "q": "¿Qué nivel de prioridad tiene la situación de no recibir el correo de confirmación en MiExpedienteContable?",
+    "a": "La situación tiene un nivel de prioridad 1 - Bajo.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte",
     "keywords": [
-      "solicitud",
-      "tipo",
-      "sol-01",
-      "nivel",
       "prioridad",
+      "nivel",
       "bajo",
       "correo",
-      "confirmación"
-    ]
+      "confirmación",
+      "situación"
+    ],
+    "faq_id": "D-20-01-03-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene la situación de no recibir el correo de confirmación en MiExpedienteContable? Respuesta: La situación tiene un nivel de prioridad 1 - Bajo."
   }
 ]

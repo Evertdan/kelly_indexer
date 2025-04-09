@@ -1,62 +1,90 @@
 [
   {
     "q": "¿Cómo se guarda una contraseña en el llavero digital?",
-    "a": "Para guardar una contraseña en el llavero digital, sigue estos pasos: 1) Posicionarse en la pestaña de contribuyentes y dar clic en 'Contribuyentes' si no se despliega la lista. 2) Seleccionar un contribuyente y dar clic en 'Llavero digital'. 3) En la nueva ventana, seleccionar la categoría (ej. Contraseña SAT) e ingresar los datos. 4) Dar clic en 'Guardar cambios' y aparecerá un mensaje de éxito.",
+    "a": "Para guardar una contraseña en el llavero digital, sigue estos pasos: 1) Posicionarse en la pestaña de contribuyentes y dar clic en 'Contribuyentes' si no se despliega la lista. 2) Seleccionar un contribuyente y dar clic en 'Llavero digital'. 3) En la nueva ventana, seleccionar la categoría (ej. Contraseña SAT) e ingresar los datos. 4) Dar clic en 'Guardar cambios'. 5) Se mostrará un mensaje de éxito.",
     "product": "Llavero digital",
+    "categoria": "Guardar contraseñas",
     "keywords": [
+      "llavero digital",
       "guardar",
       "contraseña",
-      "llavero digital",
-      "contribuyente",
-      "pasos"
-    ]
+      "contribuyentes",
+      "pasos",
+      "categoría",
+      "datos",
+      "acceso"
+    ],
+    "faq_id": "D-20-03-11-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se guarda una contraseña en el llavero digital? Respuesta: Para guardar una contraseña en el llavero digital, sigue estos pasos: 1) Posicionarse en la pestaña de contribuyentes y dar clic en 'Contribuyentes' si no se despliega la lista. 2) Seleccionar un contribuyente y dar clic en 'Llavero digital'. 3) En la nueva ventana, seleccionar la categoría (ej. Contraseña SAT) e ingresar los datos. 4) Dar clic en 'Guardar cambios'. 5) Se mostrará un mensaje de éxito."
   },
   {
     "q": "¿Cómo se consultan los datos guardados en el llavero digital?",
-    "a": "Para consultar los datos en el llavero digital, simplemente da clic sobre la categoría correspondiente y se mostrarán los datos. Los botones superiores y las teclas F1 a F8 permiten copiar los datos para un acceso más rápido.",
+    "a": "Para consultar los datos en el llavero digital, da clic sobre la categoría correspondiente en la ventana del llavero digital. Los datos se mostrarán automáticamente. Además, los botones superiores y las teclas F1 a F8 permiten copiar los datos para un acceso rápido.",
     "product": "Llavero digital",
+    "categoria": "Consultar datos",
     "keywords": [
+      "llavero digital",
       "consultar",
       "datos",
-      "llavero digital",
       "categoría",
-      "acceso rápido"
-    ]
+      "acceso rápido",
+      "teclas",
+      "botones"
+    ],
+    "faq_id": "D-20-03-11-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se consultan los datos guardados en el llavero digital? Respuesta: Para consultar los datos en el llavero digital, da clic sobre la categoría correspondiente en la ventana del llavero digital. Los datos se mostrarán automáticamente. Además, los botones superiores y las teclas F1 a F8 permiten copiar los datos para un acceso rápido."
   },
   {
     "q": "¿Cómo se actualiza un certificado en el llavero digital?",
-    "a": "Para actualizar un certificado en el llavero digital: 1) Posicionarse en la pestaña de contribuyentes y seleccionar uno. 2) Dar clic en 'Llavero digital'. 3) Seleccionar una categoría y verificar si el certificado está vigente o vencido. 4) Si está vencido, dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo. 5) Dar clic en 'Guardar' y confirmar la renovación.",
+    "a": "Para actualizar un certificado en el llavero digital: 1) Posicionarse en la pestaña de contribuyentes y seleccionar uno. 2) Dar clic en 'Llavero digital'. 3) Seleccionar la categoría y verificar si el certificado está 'vigente' o 'vencido'. 4) Si está vencido, dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo. 5) Dar clic en 'Guardar' y confirmar la renovación. 6) Se mostrará un mensaje de éxito.",
     "product": "Llavero digital",
+    "categoria": "Actualizar certificado",
     "keywords": [
+      "llavero digital",
       "actualizar",
       "certificado",
-      "llavero digital",
       "vencido",
-      "renovación"
-    ]
+      "renovación",
+      "e.firma",
+      "guardar",
+      "datos"
+    ],
+    "faq_id": "D-20-03-11-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se actualiza un certificado en el llavero digital? Respuesta: Para actualizar un certificado en el llavero digital: 1) Posicionarse en la pestaña de contribuyentes y seleccionar uno. 2) Dar clic en 'Llavero digital'. 3) Seleccionar la categoría y verificar si el certificado está 'vigente' o 'vencido'. 4) Si está vencido, dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo. 5) Dar clic en 'Guardar' y confirmar la renovación. 6) Se mostrará un mensaje de éxito."
   },
   {
     "q": "¿Qué opción permite renovar la e.firma en línea desde el llavero digital?",
-    "a": "Al dar clic en 'Da clic aquí para renovar tu e.firma online' en el módulo de llavero digital, se mostrará el apartado del portal SAT para hacer la renovación de la e.firma en línea antes de su vencimiento.",
+    "a": "En el paso de actualización de certificado, al dar clic en 'Da clic aquí para renovar tu e.firma online', se mostrará el apartado del portal SAT para realizar la renovación de la e.firma en línea antes de su vencimiento.",
     "product": "Llavero digital",
+    "categoria": "Renovación e.firma",
     "keywords": [
+      "llavero digital",
       "renovar",
       "e.firma",
       "online",
-      "llavero digital",
-      "SAT"
-    ]
+      "sat",
+      "portal",
+      "vencimiento",
+      "certificado"
+    ],
+    "faq_id": "D-20-03-11-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opción permite renovar la e.firma en línea desde el llavero digital? Respuesta: En el paso de actualización de certificado, al dar clic en 'Da clic aquí para renovar tu e.firma online', se mostrará el apartado del portal SAT para realizar la renovación de la e.firma en línea antes de su vencimiento."
   },
   {
     "q": "¿Qué sucede con los archivos cambiados en el llavero digital?",
     "a": "Todos los archivos que sean cambiados en el llavero digital serán respaldados automáticamente.",
     "product": "Llavero digital",
+    "categoria": "Respaldo de archivos",
     "keywords": [
+      "llavero digital",
       "archivos",
       "cambiados",
-      "llavero digital",
-      "respaldos",
-      "automático"
-    ]
+      "respaldados",
+      "automático",
+      "seguridad",
+      "datos"
+    ],
+    "faq_id": "D-20-03-11-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede con los archivos cambiados en el llavero digital? Respuesta: Todos los archivos que sean cambiados en el llavero digital serán respaldados automáticamente."
   }
 ]

@@ -1,73 +1,81 @@
 [
   {
-    "q": "¿Qué se necesita para recibir soporte temprano en MiAdminXML?",
+    "q": "¿Qué se necesita para obtener soporte en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
-      "temprano",
       "licencia",
       "profesional",
-      "periodo",
-      "demostrativo",
+      "periodo demostrativo",
       "requisitos",
-      "correo"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-02-22-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para obtener soporte en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿MiAdminXML guarda información de RFC y contraseñas de los contribuyentes?",
     "a": "No, MiAdminXML no guarda ningún tipo de información de los RFC o contraseñas que se han agregado al sistema.",
     "product": "MiAdminXML",
+    "categoria": "Seguridad",
     "keywords": [
       "rfc",
-      "contraseña",
+      "contraseñas",
       "seguridad",
       "información",
       "guardar",
-      "contribuyentes",
-      "privacidad"
-    ]
+      "contribuyentes"
+    ],
+    "faq_id": "A-20-02-22-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿MiAdminXML guarda información de RFC y contraseñas de los contribuyentes? Respuesta: No, MiAdminXML no guarda ningún tipo de información de los RFC o contraseñas que se han agregado al sistema."
   },
   {
-    "q": "¿Cómo se puede recuperar la información de RFC y contraseña en MiAdminXML?",
+    "q": "¿Cómo se puede recuperar la información de RFC y contraseñas en MiAdminXML?",
     "a": "Puede recuperar la información si tiene el equipo anterior y guarda la BovedaCFDi y miadminxml2.sqlite.",
     "product": "MiAdminXML",
+    "categoria": "Recuperación",
     "keywords": [
       "recuperar",
       "rfc",
-      "contraseña",
-      "equipo",
-      "anterior",
+      "contraseñas",
       "bovedacfdi",
-      "sqlite",
-      "backup"
-    ]
+      "miadminxml2.sqlite",
+      "equipo anterior"
+    ],
+    "faq_id": "A-20-02-22-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede recuperar la información de RFC y contraseñas en MiAdminXML? Respuesta: Puede recuperar la información si tiene el equipo anterior y guarda la BovedaCFDi y miadminxml2.sqlite."
   },
   {
-    "q": "¿Qué tipo de información se maneja en el soporte temprano de MiAdminXML?",
-    "a": "Se maneja información de RFC y contraseña de los contribuyentes.",
+    "q": "¿Qué tipo de soporte se proporciona en el Nivel 1 - Temprano de MiAdminXML?",
+    "a": "En el Nivel 1 - Temprano se proporciona soporte para guardar RFC de contribuyentes en el catálogo de contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "soporte",
+      "nivel 1",
       "temprano",
-      "información",
+      "soporte",
+      "rfc",
+      "contribuyentes",
+      "catálogo"
+    ],
+    "faq_id": "A-20-02-22-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de soporte se proporciona en el Nivel 1 - Temprano de MiAdminXML? Respuesta: En el Nivel 1 - Temprano se proporciona soporte para guardar RFC de contribuyentes en el catálogo de contribuyentes."
+  },
+  {
+    "q": "¿Qué información se maneja en el alcance del soporte de MiAdminXML?",
+    "a": "El alcance del soporte incluye información de RFC y Contraseña.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "alcance",
+      "soporte",
       "rfc",
       "contraseña",
-      "contribuyentes",
-      "datos"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de soporte se proporciona en este caso?",
-    "a": "Se proporciona soporte de Nivel 1 - Temprano.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "soporte",
-      "nivel",
-      "temprano",
-      "nivel 1",
-      "tipo",
-      "asistencia"
-    ]
+      "información"
+    ],
+    "faq_id": "A-20-02-22-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se maneja en el alcance del soporte de MiAdminXML? Respuesta: El alcance del soporte incluye información de RFC y Contraseña."
   }
 ]

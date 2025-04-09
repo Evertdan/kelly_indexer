@@ -1,50 +1,67 @@
 [
   {
-    "q": "¿Qué debo hacer si no se visualiza la información al seleccionar mes o agrupación en MiAdminXML?",
+    "q": "¿Qué hacer si no se visualiza la información al seleccionar mes o agrupación en MiAdminXML?",
     "a": "Se debe seleccionar la opción 'Leer XMLs' para que la información se desglose y luego realizar las validaciones o acuses necesarios.",
     "product": "MiAdminXML",
+    "categoria": "Validaciones",
     "keywords": [
       "visualización",
       "información",
+      "mes",
+      "agrupación",
       "leer xmls",
       "validación",
-      "agrupación"
-    ]
+      "solucion"
+    ],
+    "faq_id": "A-20-03-16-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se visualiza la información al seleccionar mes o agrupación en MiAdminXML? Respuesta: Se debe seleccionar la opción 'Leer XMLs' para que la información se desglose y luego realizar las validaciones o acuses necesarios."
   },
   {
     "q": "¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML?",
     "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "solución",
-      "correo electrónico"
-    ]
+      "correo electrónico",
+      "solucion",
+      "visualización"
+    ],
+    "faq_id": "A-20-03-16-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué acciones se pueden realizar después de usar la herramienta 'Leer XMLs' en MiAdminXML?",
-    "a": "Después de usar 'Leer XMLs', se puede realizar la 'Validación Estado SAT', 'Acuse de Validación' o cualquier otra acción que el cliente requiera una vez que la información se visualice correctamente.",
+    "q": "¿Qué pasos seguir después de seleccionar 'Leer XMLs' en MiAdminXML?",
+    "a": "Después de seleccionar 'Leer XMLs', se desglosa la información para realizar la 'Validación Estado SAT', 'Acuse de Validación' o cualquier otra acción requerida por el cliente.",
     "product": "MiAdminXML",
+    "categoria": "Validaciones",
     "keywords": [
       "leer xmls",
+      "desglose",
       "validación estado sat",
       "acuse de validación",
-      "acciones",
-      "información"
-    ]
+      "pasos",
+      "acciones"
+    ],
+    "faq_id": "A-20-03-16-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir después de seleccionar 'Leer XMLs' en MiAdminXML? Respuesta: Después de seleccionar 'Leer XMLs', se desglosa la información para realizar la 'Validación Estado SAT', 'Acuse de Validación' o cualquier otra acción requerida por el cliente."
   },
   {
-    "q": "¿Qué es importante verificar antes de visualizar la información en el Módulo de Validaciones de MiAdminXML?",
+    "q": "¿Qué verificar antes de intentar visualizar información en el Módulo de Validaciones de MiAdminXML?",
     "a": "Es importante verificar si ya se realizó la descarga de comprobantes antes de intentar visualizar la información en el Módulo de Validaciones.",
     "product": "MiAdminXML",
+    "categoria": "Validaciones",
     "keywords": [
-      "verificación",
+      "verificar",
       "descarga",
       "comprobantes",
+      "visualización",
       "módulo de validaciones",
-      "visualización"
-    ]
+      "importante"
+    ],
+    "faq_id": "A-20-03-16-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué verificar antes de intentar visualizar información en el Módulo de Validaciones de MiAdminXML? Respuesta: Es importante verificar si ya se realizó la descarga de comprobantes antes de intentar visualizar la información en el Módulo de Validaciones."
   }
 ]

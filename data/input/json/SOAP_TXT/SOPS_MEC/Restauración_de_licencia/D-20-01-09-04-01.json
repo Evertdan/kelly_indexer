@@ -3,112 +3,112 @@
     "q": "¿Qué error indica que una licencia de MiExpedienteContable está en uso en otro equipo?",
     "a": "El error que indica que la licencia está en uso en otro equipo es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "licencia",
       "en uso",
       "error",
-      "activación",
+      "activada",
       "equipo",
-      "bloqueo",
-      "reactivación"
-    ]
+      "bloqueo"
+    ],
+    "faq_id": "D-20-01-09-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error indica que una licencia de MiExpedienteContable está en uso en otro equipo? Respuesta: El error que indica que la licencia está en uso en otro equipo es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'."
   },
   {
     "q": "¿Qué casos aplican para la reactivación de una licencia de MiExpedienteContable?",
     "a": "Los casos que aplican para la reactivación son: error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "reactivación",
-      "licencia",
       "casos",
       "error",
       "formateo",
       "cambio",
-      "robo",
-      "equipo"
-    ]
+      "hdd",
+      "robo"
+    ],
+    "faq_id": "D-20-01-09-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué casos aplican para la reactivación de una licencia de MiExpedienteContable? Respuesta: Los casos que aplican para la reactivación son: error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo."
   },
   {
     "q": "¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia?",
-    "a": "El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada actualmente. También requiere el número de serie del equipo donde estaba la licencia.",
+    "a": "El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada y en uso. También requiere el número de serie del equipo donde estaba la licencia.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
-      "ejecutivo",
       "validación",
-      "licencia",
       "sacc",
       "datos",
+      "titular",
       "vigente",
-      "número de serie",
-      "equipo"
-    ]
+      "número de serie"
+    ],
+    "faq_id": "D-20-01-09-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia? Respuesta: El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada y en uso. También requiere el número de serie del equipo donde estaba la licencia."
   },
   {
-    "q": "¿Qué documento necesita el cliente para solicitar la reactivación de su licencia?",
-    "a": "El cliente debe llenar, firmar y escanear un oficio de reactivación que el ejecutivo le envía por correo electrónico.",
+    "q": "¿Qué requisitos debe cumplir el equipo para instalar MiExpedienteContable?",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con macOS ni con Windows 7, 8 u 8.1.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "documento",
-      "reactivación",
-      "oficio",
-      "llenar",
-      "firmar",
-      "escanear",
-      "correo electrónico"
-    ]
-  },
-  {
-    "q": "¿Cuánto tiempo tarda el proceso de reactivación de una licencia?",
-    "a": "Una vez enviado el oficio de reactivación, el cliente debe esperar un máximo de 48 horas para recibir la confirmación de reactivación.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "tiempo",
-      "proceso",
-      "reactivación",
-      "oficio",
-      "48 horas",
-      "confirmación"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos de sistema necesita MiExpedienteContable?",
-    "a": "MiExpedienteContable requiere S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200MB de espacio en disco duro y no es compatible con macOS, Windows 7, 8 u 8.1.",
-    "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
       "requisitos",
-      "sistema",
       "windows",
       "java",
       "internet explorer",
       "ram",
       "disco duro",
-      "compatibilidad",
-      "macos"
-    ]
+      "compatibilidad"
+    ],
+    "faq_id": "D-20-01-09-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos debe cumplir el equipo para instalar MiExpedienteContable? Respuesta: Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con macOS ni con Windows 7, 8 u 8.1."
   },
   {
-    "q": "¿Qué sucede si es la segunda reactivación de una licencia?",
+    "q": "¿Qué se debe hacer después de enviar el oficio de reactivación de licencia?",
+    "a": "Después de enviar el oficio, se debe esperar hasta 48 horas para recibirlo llenado con los datos del cliente. Una vez validado, se procede a reactivar la licencia y se notifica al cliente por correo electrónico.",
+    "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
+    "keywords": [
+      "oficio",
+      "reactivación",
+      "espera",
+      "validación",
+      "notificación",
+      "correo"
+    ],
+    "faq_id": "D-20-01-09-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer después de enviar el oficio de reactivación de licencia? Respuesta: Después de enviar el oficio, se debe esperar hasta 48 horas para recibirlo llenado con los datos del cliente. Una vez validado, se procede a reactivar la licencia y se notifica al cliente por correo electrónico."
+  },
+  {
+    "q": "¿Qué se debe informar al cliente si es la segunda reactivación de su licencia?",
     "a": "Si es la segunda reactivación, se debe informar al cliente sobre el costo asociado.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "segunda",
       "reactivación",
       "costo",
-      "informar",
+      "información",
       "cliente"
-    ]
+    ],
+    "faq_id": "D-20-01-09-04-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe informar al cliente si es la segunda reactivación de su licencia? Respuesta: Si es la segunda reactivación, se debe informar al cliente sobre el costo asociado."
   },
   {
-    "q": "¿Cómo se notifica al cliente sobre la reactivación exitosa de su licencia?",
-    "a": "Una vez validada la información y reactivada la licencia, se notifica al cliente por correo electrónico con la plantilla de MISSIVE correspondiente.",
+    "q": "¿Con qué sistemas operativos no es compatible MiExpedienteContable?",
+    "a": "No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
-      "notificación",
-      "reactivación",
-      "éxito",
-      "correo electrónico",
-      "missive",
-      "plantilla"
-    ]
+      "compatibilidad",
+      "windows",
+      "macos",
+      "sistemas operativos",
+      "no compatible"
+    ],
+    "faq_id": "D-20-01-09-04-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Con qué sistemas operativos no es compatible MiExpedienteContable? Respuesta: No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1."
   }
 ]

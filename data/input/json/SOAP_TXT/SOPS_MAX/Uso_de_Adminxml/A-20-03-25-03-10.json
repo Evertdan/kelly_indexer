@@ -1,59 +1,52 @@
 [
   {
     "q": "¿Qué es la herramienta localizar XML en MiAdminXML?",
-    "a": "La herramienta localizar XML permite encontrar la ubicación exacta del archivo XML dentro del equipo, facilitando la localización de la carpeta Bóveda en RED donde se almacenan los comprobantes descargados.",
+    "a": "La herramienta localizar XML permite encontrar la ubicación exacta del archivo XML en el equipo, incluyendo la carpeta Bóveda en RED donde se almacenan los comprobantes descargados.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
+      "localizar xml",
       "herramienta",
-      "localizar",
-      "xml",
       "ubicación",
       "archivo",
       "bóveda",
-      "red",
-      "comprobantes"
-    ]
+      "comprobantes",
+      "descargados"
+    ],
+    "faq_id": "A-20-03-25-03-10_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta localizar XML en MiAdminXML? Respuesta: La herramienta localizar XML permite encontrar la ubicación exacta del archivo XML en el equipo, incluyendo la carpeta Bóveda en RED donde se almacenan los comprobantes descargados."
   },
   {
-    "q": "¿Qué requisitos se necesitan para usar la herramienta localizar XML?",
-    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto.",
+    "q": "¿Qué necesito para usar la herramienta localizar XML?",
+    "a": "Para usar la herramienta localizar XML es necesario contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
+      "acceso",
       "herramienta",
-      "localizar",
-      "xml"
-    ]
+      "localizar xml"
+    ],
+    "faq_id": "A-20-03-25-03-10_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué necesito para usar la herramienta localizar XML? Respuesta: Para usar la herramienta localizar XML es necesario contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto."
   },
   {
-    "q": "¿Qué función cumple la herramienta localizar XML?",
-    "a": "La función principal de la herramienta es indicar la ubicación exacta de los archivos XML dentro del equipo, específicamente en la carpeta Bóveda en RED donde se guardan los comprobantes descargados.",
+    "q": "¿Dónde puedo encontrar los comprobantes descargados usando la herramienta localizar XML?",
+    "a": "La herramienta localizar XML permite encontrar los comprobantes descargados en la carpeta Bóveda en RED del equipo.",
     "product": "MiAdminXML",
-    "keywords": [
-      "función",
-      "herramienta",
-      "localizar",
-      "xml",
-      "ubicación",
-      "bóveda",
-      "comprobantes"
-    ]
-  },
-  {
-    "q": "¿Dónde se encuentran los comprobantes descargados según la herramienta localizar XML?",
-    "a": "Los comprobantes descargados se encuentran en la carpeta Bóveda en RED, cuya ubicación exacta puede ser localizada mediante esta herramienta.",
-    "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "comprobantes",
       "descargados",
       "ubicación",
       "bóveda",
       "red",
-      "herramienta",
-      "localizar",
-      "xml"
-    ]
+      "carpeta",
+      "encontrar"
+    ],
+    "faq_id": "A-20-03-25-03-10_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar los comprobantes descargados usando la herramienta localizar XML? Respuesta: La herramienta localizar XML permite encontrar los comprobantes descargados en la carpeta Bóveda en RED del equipo."
   }
 ]

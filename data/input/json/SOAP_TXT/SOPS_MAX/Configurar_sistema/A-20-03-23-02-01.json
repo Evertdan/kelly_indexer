@@ -1,63 +1,83 @@
 [
   {
     "q": "¿Qué se necesita para configurar la Bóveda en Red en MiAdminXML?",
-    "a": "Se requiere contar con una clave de licencia de MiAdminXML.",
+    "a": "Se requiere contar con una clave de licencia de MiAdminXML y tener una ubicación o carpeta ya sea compartida o de forma local para almacenar los archivos.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda en red",
       "configuración",
-      "requisitos",
       "licencia",
-      "miadminxml"
-    ]
+      "requisitos",
+      "miadminxml",
+      "carpeta",
+      "almacenamiento"
+    ],
+    "faq_id": "A-20-03-23-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para configurar la Bóveda en Red en MiAdminXML? Respuesta: Se requiere contar con una clave de licencia de MiAdminXML y tener una ubicación o carpeta ya sea compartida o de forma local para almacenar los archivos."
   },
   {
-    "q": "¿Cuál es la ruta default donde se almacenan los archivos en MiAdminXML?",
-    "a": "La ruta default es C:\\AdminXML\\BovedaCFDi.",
+    "q": "¿Cuál es la ruta predeterminada donde se almacenan los archivos en MiAdminXML?",
+    "a": "La ruta predeterminada donde se almacenan los archivos es en C:\\AdminXML\\BovedaCFDi.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
-      "ruta default",
-      "almacenamiento",
+      "ruta predeterminada",
       "archivos",
       "bóvedacfdi",
-      "miadminxml"
-    ]
+      "almacenamiento",
+      "miadminxml",
+      "ubicación"
+    ],
+    "faq_id": "A-20-03-23-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la ruta predeterminada donde se almacenan los archivos en MiAdminXML? Respuesta: La ruta predeterminada donde se almacenan los archivos es en C:\\AdminXML\\BovedaCFDi."
   },
   {
-    "q": "¿Cómo se cambia la ubicación de la BóvedaCFDi en MiAdminXML?",
-    "a": "Se debe tener una ubicación o carpeta ya sea compartida o local, luego seleccionar la herramienta 'Bóveda en red' para cambiar la ubicación, buscar la carpeta deseada y aceptar los cambios.",
+    "q": "¿Cómo se cambia la ubicación de la Bóveda en Red en MiAdminXML?",
+    "a": "Para cambiar la ubicación, se debe acceder a MiAdminXML en el ícono de 'Administración de XML', seleccionar la herramienta 'Bóveda en red', buscar la carpeta deseada, seleccionarla y dar clic en 'Aceptar'. Luego se reinicia la aplicación para verificar el cambio.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "cambiar ubicación",
-      "bóvedacfdi",
-      "herramienta",
       "bóveda en red",
-      "miadminxml"
-    ]
+      "pasos",
+      "miadminxml",
+      "carpeta",
+      "configuración",
+      "aceptar"
+    ],
+    "faq_id": "A-20-03-23-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se cambia la ubicación de la Bóveda en Red en MiAdminXML? Respuesta: Para cambiar la ubicación, se debe acceder a MiAdminXML en el ícono de 'Administración de XML', seleccionar la herramienta 'Bóveda en red', buscar la carpeta deseada, seleccionarla y dar clic en 'Aceptar'. Luego se reinicia la aplicación para verificar el cambio."
   },
   {
-    "q": "¿Qué pasa con la información ya descargada al cambiar la ubicación de la BóvedaCFDi?",
-    "a": "Si ya se tenía información descargada, el cliente debe cambiar las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos.",
+    "q": "¿Qué pasa si ya hay información descargada y se cambia la ubicación de la Bóveda en Red?",
+    "a": "Si ya hay información descargada y se cambia la ubicación, el Cliente debe cambiar las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "información descargada",
       "cambio de ubicación",
-      "bóvedacfdi",
-      "migración",
-      "miadminxml"
-    ]
+      "bóveda en red",
+      "datos",
+      "miadminxml",
+      "reubicación"
+    ],
+    "faq_id": "A-20-03-23-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si ya hay información descargada y se cambia la ubicación de la Bóveda en Red? Respuesta: Si ya hay información descargada y se cambia la ubicación, el Cliente debe cambiar las carpetas a la nueva ruta o empezar a descargar nuevamente para que el sistema identifique los datos."
   },
   {
-    "q": "¿Qué pasos se deben seguir para configurar la Bóveda en Red en MiAdminXML?",
-    "a": "1. Acceder a MiAdminXML en el ícono de 'Administración de XML'. 2. Tener una ubicación o carpeta compartida o local. 3. Seleccionar la herramienta 'Bóveda en red'. 4. Buscar la carpeta deseada. 5. Seleccionar la carpeta y aceptar. 6. Asignar la ubicación y aceptar. 7. Reiniciar la aplicación y verificar el cambio.",
+    "q": "¿Qué herramienta se utiliza para cambiar la ubicación de la Bóveda en Red en MiAdminXML?",
+    "a": "La herramienta utilizada para cambiar la ubicación de la Bóveda en Red es 'Bóveda en red', accesible desde el ícono de 'Administración de XML' en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
-      "pasos",
-      "configuración",
-      "bóveda en red",
       "herramienta",
+      "bóveda en red",
+      "cambiar ubicación",
       "miadminxml",
-      "proceso"
-    ]
+      "administración de xml"
+    ],
+    "faq_id": "A-20-03-23-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramienta se utiliza para cambiar la ubicación de la Bóveda en Red en MiAdminXML? Respuesta: La herramienta utilizada para cambiar la ubicación de la Bóveda en Red es 'Bóveda en red', accesible desde el ícono de 'Administración de XML' en MiAdminXML."
   }
 ]

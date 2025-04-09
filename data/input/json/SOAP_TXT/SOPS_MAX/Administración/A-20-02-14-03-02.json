@@ -1,115 +1,104 @@
 [
   {
     "q": "¿Qué problema resuelve la herramienta de Agrupación en MiAdminXML?",
-    "a": "La herramienta de Agrupación en MiAdminXML permite separar archivos XML que aparecen revueltos en la carpeta del mes, como facturas, nóminas, pagos, traslados y notas de crédito, en carpetas organizadas.",
+    "a": "La herramienta de Agrupación en MiAdminXML permite separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito que aparecen revueltos en la carpeta del mes.",
     "product": "MiAdminXML",
+    "categoria": "Agrupación",
     "keywords": [
       "herramienta",
       "agrupación",
-      "miadminxml",
-      "separar",
       "xml",
-      "organizar",
-      "carpetas",
+      "separar",
+      "facturas",
+      "nóminas",
+      "pagos",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-14-03-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué problema resuelve la herramienta de Agrupación en MiAdminXML? Respuesta: La herramienta de Agrupación en MiAdminXML permite separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito que aparecen revueltos en la carpeta del mes."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la herramienta de Agrupación en MiAdminXML?",
-    "a": "Para usar la herramienta de Agrupación en MiAdminXML, se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
-      "miadminxml",
-      "periodo",
-      "demostrativo",
+      "periodo demostrativo",
+      "requisitos",
       "herramienta",
       "agrupación",
-      "correo",
-      "electrónico"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-02-14-03-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta de Agrupación en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Cómo funciona la herramienta de Agrupación en MiAdminXML?",
-    "a": "La herramienta de Agrupación en MiAdminXML permite seleccionar el tipo de XML que se desea separar (como notas de crédito o traslados), y luego crea una carpeta copiando o moviendo los archivos XML según la selección del cliente. El programa pregunta si se desea mantener los XML en la misma ubicación con una copia en la nueva carpeta o moverlos de lugar.",
+    "a": "Al seleccionar el reporte y dar clic sobre la herramienta de agrupación del tipo de XML que desea separar, se crea una carpeta copiando o moviendo los archivos XML según la selección del cliente. El programa pregunta si se desea realizar la agrupación y si se desea mantener los XML en la misma ubicación o moverlos.",
     "product": "MiAdminXML",
+    "categoria": "Agrupación",
     "keywords": [
       "funcionamiento",
       "herramienta",
       "agrupación",
-      "miadminxml",
-      "seleccionar",
       "xml",
       "copiar",
       "mover",
-      "carpetas",
-      "cliente"
-    ]
+      "carpeta",
+      "selección"
+    ],
+    "faq_id": "A-20-02-14-03-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo funciona la herramienta de Agrupación en MiAdminXML? Respuesta: Al seleccionar el reporte y dar clic sobre la herramienta de agrupación del tipo de XML que desea separar, se crea una carpeta copiando o moviendo los archivos XML según la selección del cliente. El programa pregunta si se desea realizar la agrupación y si se desea mantener los XML en la misma ubicación o moverlos."
   },
   {
-    "q": "¿Qué tipos de archivos XML se pueden separar con la herramienta de Agrupación en MiAdminXML?",
-    "a": "La herramienta de Agrupación en MiAdminXML permite separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito.",
+    "q": "¿Qué opciones ofrece la herramienta de Agrupación al separar archivos XML?",
+    "a": "La herramienta de Agrupación ofrece la opción de mantener los XML en la misma ubicación y realizar una copia en la nueva carpeta (SI) o mover los XML de lugar (NO).",
     "product": "MiAdminXML",
-    "keywords": [
-      "tipos",
-      "xml",
-      "separar",
-      "herramienta",
-      "agrupación",
-      "miadminxml",
-      "facturas",
-      "nóminas",
-      "pagos",
-      "traslados",
-      "notas",
-      "crédito"
-    ]
-  },
-  {
-    "q": "¿Qué opciones ofrece MiAdminXML al usar la herramienta de Agrupación?",
-    "a": "Al usar la herramienta de Agrupación en MiAdminXML, el programa pregunta si se desea mantener los XML en la misma ubicación y realizar una copia en la nueva carpeta (SI) o si se desea mover los XML de lugar (NO).",
-    "product": "MiAdminXML",
+    "categoria": "Agrupación",
     "keywords": [
       "opciones",
       "herramienta",
       "agrupación",
-      "miadminxml",
+      "xml",
       "copiar",
       "mover",
+      "carpeta"
+    ],
+    "faq_id": "A-20-02-14-03-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones ofrece la herramienta de Agrupación al separar archivos XML? Respuesta: La herramienta de Agrupación ofrece la opción de mantener los XML en la misma ubicación y realizar una copia en la nueva carpeta (SI) o mover los XML de lugar (NO)."
+  },
+  {
+    "q": "¿Qué tipos de archivos XML se pueden separar con la herramienta de Agrupación?",
+    "a": "Se pueden separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito.",
+    "product": "MiAdminXML",
+    "categoria": "Agrupación",
+    "keywords": [
+      "tipos",
       "xml",
-      "carpetas",
-      "ubicación"
-    ]
+      "facturas",
+      "nóminas",
+      "pagos",
+      "traslados",
+      "notas de crédito",
+      "separar"
+    ],
+    "faq_id": "A-20-02-14-03-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de archivos XML se pueden separar con la herramienta de Agrupación? Respuesta: Se pueden separar archivos XML de facturas, nóminas, pagos, traslados y notas de crédito."
   },
   {
-    "q": "¿Dónde se puede visualizar el resultado después de usar la herramienta de Agrupación en MiAdminXML?",
-    "a": "Después de usar la herramienta de Agrupación en MiAdminXML, se puede visualizar la información organizada dentro de la bóveda.",
+    "q": "¿Dónde se puede visualizar la información después de usar la herramienta de Agrupación?",
+    "a": "Una vez realizada la acción de agrupación, se puede visualizar la información dentro de la bóveda.",
     "product": "MiAdminXML",
+    "categoria": "Agrupación",
     "keywords": [
-      "resultado",
       "visualizar",
-      "herramienta",
-      "agrupación",
-      "miadminxml",
-      "bóveda",
       "información",
-      "organizada"
-    ]
-  },
-  {
-    "q": "¿La herramienta de Agrupación en MiAdminXML es gratuita o requiere una licencia especial?",
-    "a": "La herramienta de Agrupación en MiAdminXML es una herramienta Premium que requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "herramienta",
+      "bóveda",
       "agrupación",
-      "miadminxml",
-      "premium",
-      "licencia",
-      "periodo",
-      "demostrativo",
-      "requisitos"
-    ]
+      "resultados"
+    ],
+    "faq_id": "A-20-02-14-03-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se puede visualizar la información después de usar la herramienta de Agrupación? Respuesta: Una vez realizada la acción de agrupación, se puede visualizar la información dentro de la bóveda."
   }
 ]

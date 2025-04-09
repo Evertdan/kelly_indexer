@@ -3,44 +3,49 @@
     "q": "¿Qué bancos están disponibles para realizar el pago de la licencia en MiExpedienteContable?",
     "a": "Los bancos disponibles para realizar el pago son BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa.",
     "product": "MiExpedienteContable",
+    "categoria": "Pagos",
     "keywords": [
       "bancos",
       "pago",
       "licencia",
       "disponibles",
-      "bbva",
-      "banorte",
-      "santander",
-      "scotiabank",
-      "hsbc",
-      "inbursa"
-    ]
+      "mi expediente contable",
+      "opciones"
+    ],
+    "faq_id": "D-20-03-02-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué bancos están disponibles para realizar el pago de la licencia en MiExpedienteContable? Respuesta: Los bancos disponibles para realizar el pago son BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa."
   },
   {
-    "q": "¿Dónde puedo encontrar información sobre los bancos para pagar la licencia?",
-    "a": "La información sobre los bancos para realizar el pago se puede encontrar en la página www.miexpedientecontable.com.",
+    "q": "¿Dónde puedo encontrar información sobre los bancos para pagar mi licencia?",
+    "a": "Puedes encontrar esta información en la página www.miexpedientecontable.com.",
     "product": "MiExpedienteContable",
+    "categoria": "Pagos",
     "keywords": [
       "información",
       "bancos",
       "pago",
       "licencia",
-      "página web",
-      "miexpedientecontable"
-    ]
+      "sitio web",
+      "consulta"
+    ],
+    "faq_id": "D-20-03-02-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar información sobre los bancos para pagar mi licencia? Respuesta: Puedes encontrar esta información en la página www.miexpedientecontable.com."
   },
   {
     "q": "¿Qué tipo de consulta es cuando un cliente no sabe en qué bancos puede pagar?",
-    "a": "Cuando un cliente no identifica en qué bancos puede realizar su pago, se clasifica como una consulta de tipo FAQ-03 y nivel 1 – Bajo.",
+    "a": "Es una consulta de tipo FAQ-03, nivel 1 – Bajo.",
     "product": "MiExpedienteContable",
+    "categoria": "General",
     "keywords": [
       "consulta",
       "tipo",
-      "faq-03",
+      "faq",
       "nivel",
       "bajo",
-      "bancos",
+      "cliente",
       "pago"
-    ]
+    ],
+    "faq_id": "D-20-03-02-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de consulta es cuando un cliente no sabe en qué bancos puede pagar? Respuesta: Es una consulta de tipo FAQ-03, nivel 1 – Bajo."
   }
 ]

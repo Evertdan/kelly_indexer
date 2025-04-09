@@ -1,109 +1,101 @@
 [
   {
-    "q": "¿Qué requisitos necesito para descargar mis XML en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario.",
+    "q": "¿Qué requisitos necesito para descargar mis XML con MiAdminXML?",
+    "a": "Para descargar XML con MiAdminXML necesitas contar con una licencia del producto, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
+      "licencia",
       "descargar",
       "xml",
-      "licencia",
       "permisos",
       "administrador",
       "actualizado"
-    ]
+    ],
+    "faq_id": "A-20-02-11-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos necesito para descargar mis XML con MiAdminXML? Respuesta: Para descargar XML con MiAdminXML necesitas contar con una licencia del producto, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario."
   },
   {
-    "q": "¿Cómo puedo solucionar el problema de no poder descargar mis XML en MiAdminXML?",
-    "a": "Puedes utilizar el módulo de descarga que permite buscar y descargar hasta más de 500 XML por día, siguiendo los pasos del asistente de descarga.",
+    "q": "¿Cómo puedo descargar mis comprobantes XML en MiAdminXML?",
+    "a": "Para descargar comprobantes XML en MiAdminXML, selecciona la opción Descarga, haz clic en Asistente de descarga, elige el tipo de comprobante (Emitidas o Recibidas) y la organización (por mes o día), selecciona la fecha de búsqueda, aplica filtros si es necesario, y finalmente descarga los XML seleccionados.",
     "product": "MiAdminXML",
+    "categoria": "Descarga XML",
     "keywords": [
-      "solucion",
-      "problema",
       "descargar",
-      "xml",
-      "modulo",
-      "asistente",
-      "busqueda"
-    ]
-  },
-  {
-    "q": "¿Qué pasos debo seguir para descargar XML en MiAdminXML?",
-    "a": "1. Seleccionar la opción Descarga. 2. Hacer clic en Asistente de descarga. 3. Seleccionar tipo de comprobante y organización. 4. Elegir fecha de búsqueda y aplicar filtros. 5. Seleccionar los XML y descargarlos.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "pasos",
-      "descargar",
+      "comprobantes",
       "xml",
       "asistente",
-      "comprobante",
-      "fecha",
-      "filtros"
-    ]
+      "búsqueda",
+      "filtros",
+      "fecha"
+    ],
+    "faq_id": "A-20-02-11-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo descargar mis comprobantes XML en MiAdminXML? Respuesta: Para descargar comprobantes XML en MiAdminXML, selecciona la opción Descarga, haz clic en Asistente de descarga, elige el tipo de comprobante (Emitidas o Recibidas) y la organización (por mes o día), selecciona la fecha de búsqueda, aplica filtros si es necesario, y finalmente descarga los XML seleccionados."
   },
   {
     "q": "¿Dónde se guardan los XML descargados en MiAdminXML?",
-    "a": "Los XML descargados se guardan en la BóvedaCFDi de MiAdminXML.",
+    "a": "Los XML descargados en MiAdminXML se guardan en la BóvedaCFDi una vez completada la descarga.",
     "product": "MiAdminXML",
+    "categoria": "Almacenamiento",
     "keywords": [
       "guardar",
       "xml",
-      "bovedacfdi",
-      "descargar",
-      "ubicacion"
-    ]
+      "bóvedacfdi",
+      "descargados",
+      "almacenamiento"
+    ],
+    "faq_id": "A-20-02-11-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guardan los XML descargados en MiAdminXML? Respuesta: Los XML descargados en MiAdminXML se guardan en la BóvedaCFDi una vez completada la descarga."
   },
   {
-    "q": "¿Cuántos XML puedo descargar por día en MiAdminXML?",
-    "a": "El módulo de descarga permite obtener hasta más de 500 XML por día.",
+    "q": "¿Qué debo hacer si no se descargan todos mis comprobantes XML?",
+    "a": "Si no se descargan todos los comprobantes XML, verifica que tienes la licencia MiAdminXML, el periodo demostrativo activo, el software actualizado, permisos de administrador, y considera agregar excepciones al antivirus KASPERSKY y sincronizar la fecha/hora.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "limite",
-      "descargar",
+      "problemas",
+      "descarga",
+      "comprobantes",
       "xml",
-      "modulo",
-      "dia",
-      "cantidad"
-    ]
-  },
-  {
-    "q": "¿Qué debo hacer si tengo problemas con el antivirus Kaspersky al descargar XML?",
-    "a": "Debes agregar excepciones al antivirus Kaspersky para permitir la descarga de XML en MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
       "antivirus",
       "kaspersky",
-      "excepciones",
-      "problemas",
-      "descargar",
-      "xml"
-    ]
+      "sincronización",
+      "fecha"
+    ],
+    "faq_id": "A-20-02-11-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no se descargan todos mis comprobantes XML? Respuesta: Si no se descargan todos los comprobantes XML, verifica que tienes la licencia MiAdminXML, el periodo demostrativo activo, el software actualizado, permisos de administrador, y considera agregar excepciones al antivirus KASPERSKY y sincronizar la fecha/hora."
   },
   {
-    "q": "¿Por qué es importante sincronizar la fecha y hora en MiAdminXML?",
-    "a": "La sincronización de fecha y hora es importante para asegurar que las descargas de XML funcionen correctamente.",
+    "q": "¿Cuántos XML puedo descargar por día con MiAdminXML?",
+    "a": "Con MiAdminXML puedes descargar hasta más de 500 XML por día utilizando el módulo de descarga.",
     "product": "MiAdminXML",
+    "categoria": "Límites",
     "keywords": [
-      "sincronizar",
-      "fecha",
-      "hora",
-      "importancia",
-      "descargar",
-      "xml"
-    ]
-  },
-  {
-    "q": "¿Qué opciones tengo al usar el asistente de descarga en MiAdminXML?",
-    "a": "Puedes seleccionar el tipo de comprobante (Emitidas o Recibidas), organizarlas por mes o por día, y elegir entre buscar y descargar o solo buscar sin descargar.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "asistente",
+      "límite",
       "descarga",
+      "xml",
+      "día",
+      "500",
+      "módulo"
+    ],
+    "faq_id": "A-20-02-11-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántos XML puedo descargar por día con MiAdminXML? Respuesta: Con MiAdminXML puedes descargar hasta más de 500 XML por día utilizando el módulo de descarga."
+  },
+  {
+    "q": "¿Qué opciones tengo al descargar XML en MiAdminXML?",
+    "a": "Al descargar XML en MiAdminXML puedes elegir entre buscar y descargar los XML directamente a la bóveda o solo buscar sin descargar para ver el contenido primero.",
+    "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
+    "keywords": [
       "opciones",
-      "comprobante",
-      "emitidas",
-      "recibidas",
-      "organizacion"
-    ]
+      "descargar",
+      "xml",
+      "buscar",
+      "bóveda",
+      "contenido"
+    ],
+    "faq_id": "A-20-02-11-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones tengo al descargar XML en MiAdminXML? Respuesta: Al descargar XML en MiAdminXML puedes elegir entre buscar y descargar los XML directamente a la bóveda o solo buscar sin descargar para ver el contenido primero."
   }
 ]

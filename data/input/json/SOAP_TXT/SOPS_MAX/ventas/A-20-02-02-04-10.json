@@ -1,22 +1,26 @@
 [
   {
     "q": "¿Qué debe hacer un cliente que quiere pagar con transferencia pero realiza una Transferencia TEF?",
-    "a": "El cliente debe enviar el comprobante de pago al correo de ventas.computocontable@gmail.com o soporte.computocontable@gmail.com, donde se visualice el concepto, referencia y clave de rastreo.",
+    "a": "El cliente debe enviar el comprobante de pago al correo ventas.computocontable@gmail.com o soporte.computocontable@gmail.com, donde se visualice el concepto, referencia y clave de rastreo.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "transferencia",
       "tef",
-      "comprobante",
       "pago",
+      "comprobante",
       "correo",
       "ventas",
       "soporte"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-10_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer un cliente que quiere pagar con transferencia pero realiza una Transferencia TEF? Respuesta: El cliente debe enviar el comprobante de pago al correo ventas.computocontable@gmail.com o soporte.computocontable@gmail.com, donde se visualice el concepto, referencia y clave de rastreo."
   },
   {
     "q": "¿Cómo se identifica una transferencia TEF?",
-    "a": "La transferencia en el comprobante dirá TEF, se revisa la fecha de pago y la fecha de aplicación.",
+    "a": "La transferencia en el comprobante dirá TEF, se debe revisar la fecha de pago y la fecha de aplicación.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "identificar",
       "transferencia",
@@ -25,38 +29,47 @@
       "fecha",
       "pago",
       "aplicación"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-10_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se identifica una transferencia TEF? Respuesta: La transferencia en el comprobante dirá TEF, se debe revisar la fecha de pago y la fecha de aplicación."
   },
   {
-    "q": "¿Qué hacer si el dinero de la transferencia TEF fue devuelto?",
+    "q": "¿Qué hacer si el dinero de una transferencia TEF fue devuelto?",
     "a": "Solicitar al cliente que realice la transferencia como SPEI.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "devolución",
       "transferencia",
       "tef",
+      "devolución",
       "spei",
       "cliente"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-10_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el dinero de una transferencia TEF fue devuelto? Respuesta: Solicitar al cliente que realice la transferencia como SPEI."
   },
   {
-    "q": "¿Qué hacer si el dinero de la transferencia TEF no fue devuelto?",
+    "q": "¿Qué hacer si el dinero de una transferencia TEF no fue devuelto?",
     "a": "Debemos esperar al día de la fecha de aplicación y validar si procedió el pago.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "transferencia",
       "tef",
-      "dinero",
+      "no devuelto",
       "fecha",
       "aplicación",
       "validar",
       "pago"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-10_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el dinero de una transferencia TEF no fue devuelto? Respuesta: Debemos esperar al día de la fecha de aplicación y validar si procedió el pago."
   },
   {
     "q": "¿A qué correos se debe enviar el comprobante de pago de una transferencia TEF?",
-    "a": "Se debe enviar al correo de ventas.computocontable@gmail.com o soporte.computocontable@gmail.com.",
+    "a": "El comprobante de pago debe enviarse a ventas.computocontable@gmail.com o soporte.computocontable@gmail.com.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "comprobante",
       "pago",
@@ -65,21 +78,8 @@
       "correo",
       "ventas",
       "soporte"
-    ]
-  },
-  {
-    "q": "¿Qué información debe contener el comprobante de pago de una transferencia TEF?",
-    "a": "El comprobante debe mostrar el concepto, referencia y clave de rastreo.",
-    "product": "General",
-    "keywords": [
-      "comprobante",
-      "pago",
-      "transferencia",
-      "tef",
-      "concepto",
-      "referencia",
-      "clave",
-      "rastreo"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-10_q4",
+    "texto_para_vectorizar": "Pregunta: ¿A qué correos se debe enviar el comprobante de pago de una transferencia TEF? Respuesta: El comprobante de pago debe enviarse a ventas.computocontable@gmail.com o soporte.computocontable@gmail.com."
   }
 ]

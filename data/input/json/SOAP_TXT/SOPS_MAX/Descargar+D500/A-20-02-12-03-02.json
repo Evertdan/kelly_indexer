@@ -3,6 +3,7 @@
     "q": "¿Qué tipo de error se presenta cuando no se descargan los XML en MiAdminXML?",
     "a": "Los errores incluyen error de conexión al servidor, no aparece código captcha, mensaje de datos incorrectos y no muestra información al hacer búsquedas.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "descarga",
@@ -10,85 +11,107 @@
       "conexión",
       "servidor",
       "captcha",
-      "datos incorrectos",
-      "búsquedas"
-    ]
+      "datos incorrectos"
+    ],
+    "faq_id": "A-20-02-12-03-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de error se presenta cuando no se descargan los XML en MiAdminXML? Respuesta: Los errores incluyen error de conexión al servidor, no aparece código captcha, mensaje de datos incorrectos y no muestra información al hacer búsquedas."
   },
   {
-    "q": "¿Qué requisitos se necesitan para descargar XML en MiAdminXML?",
-    "a": "Se requiere contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado, Supremo Control y permisos de administrador en el usuario.",
+    "q": "¿Qué requisitos son necesarios para descargar XML en MiAdminXML?",
+    "a": "Se requiere contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado, Supremo Control, permisos de administrador en usuario, y tener instalada la última versión de .NET Framework 4.8.1.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "actualizado",
       "permisos",
-      "administrador"
-    ]
+      "administrador",
+      ".net framework"
+    ],
+    "faq_id": "A-20-02-12-03-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos son necesarios para descargar XML en MiAdminXML? Respuesta: Se requiere contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado, Supremo Control, permisos de administrador en usuario, y tener instalada la última versión de .NET Framework 4.8.1."
   },
   {
     "q": "¿Qué factores pueden bloquear la descarga de XML en MiAdminXML?",
-    "a": "Los factores incluyen sincronización incorrecta de la zona horaria, bloqueos por antivirus, firewall, proxy, aplicación de Java no actualizada o falta de Java.",
+    "a": "Los factores incluyen sincronización incorrecta de la zona horaria, bloqueos por parte del antivirus, firewall, proxy, y problemas con la aplicación de Java (validar última actualización disponible).",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "bloqueos",
-      "zona horaria",
       "antivirus",
       "firewall",
       "proxy",
       "java",
-      "actualización"
-    ]
+      "zona horaria",
+      "sincronización"
+    ],
+    "faq_id": "A-20-02-12-03-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué factores pueden bloquear la descarga de XML en MiAdminXML? Respuesta: Los factores incluyen sincronización incorrecta de la zona horaria, bloqueos por parte del antivirus, firewall, proxy, y problemas con la aplicación de Java (validar última actualización disponible)."
   },
   {
-    "q": "¿Cómo se actualiza MiAdminXML para resolver problemas de descarga?",
-    "a": "Se debe actualizar MiAdminXML con el archivo MiAdminXML7 ubicado en la ruta C:\\AdminXML.",
+    "q": "¿Cómo se actualiza MiAdminXML para solucionar problemas de descarga de XML?",
+    "a": "Se debe actualizar MiAdminXML con el archivo MiAdminXML7 que se encuentra en la ruta C:\\AdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualización",
-      "archivo",
+      "actualizar",
+      "miadminxml7",
       "ruta",
-      "MiAdminXML7",
-      "C:\\AdminXML"
-    ]
+      "c:\\adminxml",
+      "descarga",
+      "xml"
+    ],
+    "faq_id": "A-20-02-12-03-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se actualiza MiAdminXML para solucionar problemas de descarga de XML? Respuesta: Se debe actualizar MiAdminXML con el archivo MiAdminXML7 que se encuentra en la ruta C:\\AdminXML."
   },
   {
     "q": "¿Qué versión de .NET Framework se necesita para MiAdminXML?",
-    "a": "Se requiere la última versión de .NET Framework 4.8.1 para una conexión correcta con MiAdminXML y los servicios del SAT.",
+    "a": "Se requiere tener instalada la última versión de .NET Framework 4.8.1 para una conexión correcta con MiAdminXML y los servicios del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       ".net framework",
-      "versión",
       "4.8.1",
+      "requisitos",
       "conexión",
-      "requerimientos",
-      "sat"
-    ]
+      "sat",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-12-03-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión de .NET Framework se necesita para MiAdminXML? Respuesta: Se requiere tener instalada la última versión de .NET Framework 4.8.1 para una conexión correcta con MiAdminXML y los servicios del SAT."
   },
   {
-    "q": "¿Qué se debe configurar en el antivirus Kaspersky para MiAdminXML?",
-    "a": "Se deben agregar excepciones al antivirus Kaspersky para permitir el funcionamiento de MiAdminXML.",
+    "q": "¿Qué se debe verificar en Java para solucionar problemas de descarga en MiAdminXML?",
+    "a": "Se debe verificar que se tenga Java instalado y que esté actualizado a la última versión disponible.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "antivirus",
-      "kaspersky",
-      "excepciones",
-      "configuración",
-      "bloqueos"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de impacto tiene el problema de descarga de XML en MiAdminXML?",
-    "a": "El problema tiene un nivel de impacto 2 – Medio.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "nivel",
-      "impacto",
-      "medio",
-      "problema",
+      "java",
+      "instalación",
+      "actualización",
       "descarga",
-      "xml"
-    ]
+      "xml",
+      "problemas"
+    ],
+    "faq_id": "A-20-02-12-03-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe verificar en Java para solucionar problemas de descarga en MiAdminXML? Respuesta: Se debe verificar que se tenga Java instalado y que esté actualizado a la última versión disponible."
+  },
+  {
+    "q": "¿Qué políticas se deben cumplir para usar MiAdminXML correctamente?",
+    "a": "Las políticas incluyen contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado y permisos de administrador en el usuario.",
+    "product": "MiAdminXML",
+    "categoria": "Políticas",
+    "keywords": [
+      "políticas",
+      "licencia",
+      "periodo demostrativo",
+      "actualizado",
+      "permisos",
+      "administrador"
+    ],
+    "faq_id": "A-20-02-12-03-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué políticas se deben cumplir para usar MiAdminXML correctamente? Respuesta: Las políticas incluyen contar con licencia MiAdminXML, periodo demostrativo, MiAdminXML actualizado y permisos de administrador en el usuario."
   }
 ]

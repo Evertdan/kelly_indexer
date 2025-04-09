@@ -1,74 +1,77 @@
 [
   {
     "q": "¿Cómo puede un cliente dejar de recibir correos promocionales de Cómputo Contable?",
-    "a": "El cliente debe ingresar a un correo electrónico de Cómputo Contable, desplazarse hacia abajo hasta encontrar la opción 'DESUSCRIBIR', hacer clic en ella, luego ingresar la información solicitada en la página que aparece y finalmente hacer clic en 'no recibir mas promociones'.",
+    "a": "El cliente debe ingresar a un correo electrónico de Cómputo Contable, deslizar hacia abajo hasta encontrar la opción 'DESUSCRIBIR', hacer clic en ella, completar la información solicitada en la página que aparece y confirmar con 'no recibir más promociones'.",
     "product": "General",
+    "categoria": "Suscripción Correos",
     "keywords": [
       "correos",
       "promocionales",
       "desuscribir",
       "computo contable",
       "proceso"
-    ]
+    ],
+    "faq_id": "A-20-01-07-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente dejar de recibir correos promocionales de Cómputo Contable? Respuesta: El cliente debe ingresar a un correo electrónico de Cómputo Contable, deslizar hacia abajo hasta encontrar la opción 'DESUSCRIBIR', hacer clic en ella, completar la información solicitada en la página que aparece y confirmar con 'no recibir más promociones'."
   },
   {
     "q": "¿Qué tipos de correos no se pueden desuscribir?",
-    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir.",
+    "a": "Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten esta opción.",
     "product": "General",
+    "categoria": "Políticas Correos",
     "keywords": [
       "correos",
       "obligatorios",
-      "no desuscribir",
-      "tipos",
-      "licencia"
-    ]
+      "promocionales",
+      "desuscribir",
+      "restricciones"
+    ],
+    "faq_id": "A-20-01-07-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de correos no se pueden desuscribir? Respuesta: Los correos obligatorios como los de descarga, validación, factura y entrega de licencia no se pueden desuscribir. Solo los correos promocionales permiten esta opción."
   },
   {
-    "q": "¿Qué sucede si un cliente está en periodo gratuito y quiere desuscribirse de los correos promocionales?",
+    "q": "¿Qué sucede si un cliente está en periodo gratuito y quiere desuscribirse de correos promocionales?",
     "a": "Los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM.",
     "product": "General",
+    "categoria": "Políticas Correos",
     "keywords": [
       "periodo gratuito",
-      "correos promocionales",
-      "desuscripción",
+      "correos",
+      "promocionales",
       "restricciones",
       "spam"
-    ]
+    ],
+    "faq_id": "A-20-01-07-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si un cliente está en periodo gratuito y quiere desuscribirse de correos promocionales? Respuesta: Los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM."
   },
   {
-    "q": "¿Qué mensaje aparece después de que un cliente se desuscribe correctamente de los correos promocionales?",
-    "a": "Aparece una pantalla afirmando que se desuscribió de forma correcta.",
+    "q": "¿Qué mensaje aparece al desuscribirse correctamente de los correos promocionales?",
+    "a": "Aparece una pantalla afirmando que el cliente se ha desuscrito de forma correcta.",
     "product": "General",
+    "categoria": "Proceso Desuscripción",
     "keywords": [
-      "mensaje",
       "desuscripción",
-      "correcta",
       "confirmación",
-      "pantalla"
-    ]
+      "correos",
+      "promocionales",
+      "mensaje"
+    ],
+    "faq_id": "A-20-01-07-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece al desuscribirse correctamente de los correos promocionales? Respuesta: Aparece una pantalla afirmando que el cliente se ha desuscrito de forma correcta."
   },
   {
     "q": "¿Dónde se encuentra la opción para desuscribirse de los correos promocionales?",
-    "a": "La opción 'DESUSCRIBIR' se encuentra en la parte de abajo de los correos electrónicos enviados por Cómputo Contable.",
+    "a": "La opción 'DESUSCRIBIR' se encuentra en la parte inferior de los correos electrónicos enviados por Cómputo Contable, junto al icono de MAX y los términos y condiciones.",
     "product": "General",
+    "categoria": "Proceso Desuscripción",
     "keywords": [
-      "opción",
       "desuscribir",
       "correos",
+      "ubicación",
       "computo contable",
-      "ubicación"
-    ]
-  },
-  {
-    "q": "¿Qué información se solicita al desuscribirse de los correos promocionales?",
-    "a": "La página de desuscripción solicita información del cliente antes de confirmar la desuscripción.",
-    "product": "General",
-    "keywords": [
-      "información",
-      "solicitud",
-      "desuscripción",
-      "correos",
-      "promocionales"
-    ]
+      "opción"
+    ],
+    "faq_id": "A-20-01-07-01-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la opción para desuscribirse de los correos promocionales? Respuesta: La opción 'DESUSCRIBIR' se encuentra en la parte inferior de los correos electrónicos enviados por Cómputo Contable, junto al icono de MAX y los términos y condiciones."
   }
 ]

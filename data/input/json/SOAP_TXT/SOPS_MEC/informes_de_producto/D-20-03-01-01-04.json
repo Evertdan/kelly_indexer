@@ -1,150 +1,173 @@
 [
   {
     "q": "¿Cuáles son las diferencias principales entre los paquetes de Mi Expediente Contable (MEC)?",
-    "a": "Las principales diferencias entre los paquetes de MEC son la vigencia, el número de contribuyentes que se pueden gestionar (3 en trial/gratuito vs. sin límite en plus/profesional), la cantidad de usuarios (1 en trial/gratuito vs. sin límite en plus/profesional), y funcionalidades como notificaciones, trabajo en red, y descarga de acuses en PDF (solo en profesional).",
+    "a": "Las principales diferencias entre los paquetes de MEC son la vigencia, el número de contribuyentes y usuarios permitidos, la capacidad de trabajar en red, la descarga de acuses de declaraciones en PDF, y el acceso a módulos como el llavero digital, notificaciones y herramientas de alerta. Por ejemplo, el paquete gratuito o de prueba solo permite trabajar con 3 contribuyentes y 1 usuario, mientras que los paquetes Plus y Profesional no tienen límites.",
     "product": "Mi Expediente Contable",
+    "categoria": "Paquetes y Licencias",
     "keywords": [
       "paquetes",
       "diferencias",
+      "licencia",
       "contribuyentes",
       "usuarios",
-      "licencia",
       "plus",
       "profesional",
       "trial",
       "gratuito"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son las diferencias principales entre los paquetes de Mi Expediente Contable (MEC)? Respuesta: Las principales diferencias entre los paquetes de MEC son la vigencia, el número de contribuyentes y usuarios permitidos, la capacidad de trabajar en red, la descarga de acuses de declaraciones en PDF, y el acceso a módulos como el llavero digital, notificaciones y herramientas de alerta. Por ejemplo, el paquete gratuito o de prueba solo permite trabajar con 3 contribuyentes y 1 usuario, mientras que los paquetes Plus y Profesional no tienen límites."
   },
   {
     "q": "¿Qué limitaciones tiene la licencia básica de MEC en el módulo de contribuyentes?",
-    "a": "La licencia básica limita a 3 contribuyentes, permite solo 5 descargas de constancia de situación fiscal y opinión de cumplimiento, y usa un logo predefinido de MEC.",
+    "a": "La licencia básica de MEC limita el alta de contribuyentes a solo 3, permite un máximo de 5 descargas de constancias de situación fiscal y opiniones de cumplimiento, y utiliza el logo predefinido de MEC en lugar de uno personalizado.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "básica",
-      "contribuyentes",
+      "licencia básica",
       "limitaciones",
+      "contribuyentes",
       "descargas",
+      "constancia",
+      "opinión",
       "logo",
       "módulo"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué limitaciones tiene la licencia básica de MEC en el módulo de contribuyentes? Respuesta: La licencia básica de MEC limita el alta de contribuyentes a solo 3, permite un máximo de 5 descargas de constancias de situación fiscal y opiniones de cumplimiento, y utiliza el logo predefinido de MEC en lugar de uno personalizado."
   },
   {
-    "q": "¿Qué beneficios ofrece la licencia profesional de MEC en el módulo de declaraciones SAT?",
-    "a": "La licencia profesional permite descargar el acuse en PDF de las declaraciones de todos los años, a diferencia de la plus que solo visualiza los datos. También ofrece catálogo ilimitado de trabajadores individuales y movimientos afiliatorios sin límite.",
+    "q": "¿Qué beneficios ofrece la licencia profesional de MEC en comparación con la licencia plus?",
+    "a": "La licencia profesional de MEC ofrece beneficios adicionales como notificaciones para agilizar el trabajo, descarga de acuses de declaraciones en PDF de todos los años, acceso ilimitado a movimientos afiliatorios, herramientas de alerta de renovación, y gestión de notificaciones, que no están disponibles en la licencia plus.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "profesional",
-      "declaraciones",
-      "sat",
-      "acuse",
+      "licencia profesional",
+      "beneficios",
+      "notificaciones",
+      "descargas",
       "pdf",
-      "trabajadores",
       "movimientos",
-      "afiliatorios"
-    ]
+      "afiliatorios",
+      "alertas"
+    ],
+    "faq_id": "D-20-03-01-01-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué beneficios ofrece la licencia profesional de MEC en comparación con la licencia plus? Respuesta: La licencia profesional de MEC ofrece beneficios adicionales como notificaciones para agilizar el trabajo, descarga de acuses de declaraciones en PDF de todos los años, acceso ilimitado a movimientos afiliatorios, herramientas de alerta de renovación, y gestión de notificaciones, que no están disponibles en la licencia plus."
   },
   {
-    "q": "¿Qué módulos o funciones no están disponibles en la licencia básica de MEC?",
-    "a": "La licencia básica no incluye el llavero digital, tiene restricciones en descargas de declaraciones (solo año 2021 y actual), y no cuenta con herramientas de alerta renovación, centro de notificaciones, ni expediente contable completo.",
+    "q": "¿Qué módulos no están disponibles en la licencia básica de MEC?",
+    "a": "En la licencia básica de MEC no están disponibles el módulo de llavero digital, las herramientas de alerta de renovación, el centro de notificaciones, y ciertas funciones del módulo de expediente contable.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "básica",
-      "restricciones",
-      "llavero",
-      "digital",
-      "declaraciones",
+      "licencia básica",
+      "módulos",
+      "no disponibles",
+      "llavero digital",
       "alertas",
       "notificaciones",
-      "expediente"
-    ]
+      "expediente contable"
+    ],
+    "faq_id": "D-20-03-01-01-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué módulos no están disponibles en la licencia básica de MEC? Respuesta: En la licencia básica de MEC no están disponibles el módulo de llavero digital, las herramientas de alerta de renovación, el centro de notificaciones, y ciertas funciones del módulo de expediente contable."
   },
   {
-    "q": "¿Cuántos usuarios se pueden gestionar en la licencia plus de MEC?",
-    "a": "La licencia plus permite gestionar un número ilimitado de usuarios, a diferencia del trial/gratuito que solo permite 1 usuario.",
+    "q": "¿Qué restricciones tiene la licencia básica en el módulo de descarga de declaraciones?",
+    "a": "La licencia básica de MEC solo permite la descarga masiva de declaraciones del año 2021, el concentrado de declaraciones a Excel, y el registro de declaraciones desde PDF del periodo 2021 y año actual (2022). Además, el acuse de declaración solo aplica para el año actual y el catálogo de trabajadores individuales está limitado a 5 trabajadores.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "plus",
+      "licencia básica",
+      "restricciones",
+      "descarga",
+      "declaraciones",
+      "excel",
+      "pdf",
+      "acuse",
+      "trabajadores"
+    ],
+    "faq_id": "D-20-03-01-01-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué restricciones tiene la licencia básica en el módulo de descarga de declaraciones? Respuesta: La licencia básica de MEC solo permite la descarga masiva de declaraciones del año 2021, el concentrado de declaraciones a Excel, y el registro de declaraciones desde PDF del periodo 2021 y año actual (2022). Además, el acuse de declaración solo aplica para el año actual y el catálogo de trabajadores individuales está limitado a 5 trabajadores."
+  },
+  {
+    "q": "¿Cuántos usuarios se pueden tener en la licencia plus y profesional de MEC?",
+    "a": "Tanto en la licencia plus como en la profesional de MEC no hay límite en el número de usuarios que se pueden tener, permitiendo trabajar en equipo con los usuarios que se requieran.",
+    "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
+    "keywords": [
+      "licencia plus",
+      "licencia profesional",
       "usuarios",
-      "ilimitado",
-      "trial",
-      "gratuito",
+      "equipo",
+      "sin límite",
       "administración"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántos usuarios se pueden tener en la licencia plus y profesional de MEC? Respuesta: Tanto en la licencia plus como en la profesional de MEC no hay límite en el número de usuarios que se pueden tener, permitiendo trabajar en equipo con los usuarios que se requieran."
   },
   {
     "q": "¿Qué tipo de conexión permite cada licencia de MEC?",
-    "a": "Todos los paquetes permiten trabajar de manera local, pero solo las licencias plus y profesional permiten trabajar en red.",
+    "a": "Todos los paquetes de MEC permiten trabajar de manera local, pero solo las licencias plus y profesional permiten trabajar en red.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "conexión",
+      "tipo de conexión",
       "local",
       "red",
-      "plus",
-      "profesional",
-      "trabajo"
-    ]
+      "licencia plus",
+      "licencia profesional",
+      "paquetes"
+    ],
+    "faq_id": "D-20-03-01-01-04_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de conexión permite cada licencia de MEC? Respuesta: Todos los paquetes de MEC permiten trabajar de manera local, pero solo las licencias plus y profesional permiten trabajar en red."
   },
   {
-    "q": "¿Qué ventajas tiene la licencia profesional en el módulo de notificaciones?",
-    "a": "La licencia profesional incluye el centro de notificaciones, lo que permite gestionar notificaciones para agilizar el trabajo, función no disponible en las licencias básica y plus.",
+    "q": "¿Qué incluye el módulo de llavero digital en MEC?",
+    "a": "El módulo de llavero digital en MEC incluye el catálogo de categorías y la posibilidad de restringir al inicio, pero no está disponible en la licencia básica.",
     "product": "Mi Expediente Contable",
+    "categoria": "Módulos",
     "keywords": [
-      "licencia",
-      "profesional",
-      "notificaciones",
-      "centro",
-      "gestión",
-      "ventajas",
-      "módulo"
-    ]
-  },
-  {
-    "q": "¿Qué limitaciones tienen las licencias básica y plus en el módulo de movimientos afiliatorios?",
-    "a": "La licencia básica incluye solo 5 movimientos afiliatorios, mientras que la licencia plus no incluye este beneficio. Solo la licencia profesional ofrece movimientos afiliatorios sin límite.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "licencia",
-      "básica",
-      "plus",
-      "movimientos",
-      "afiliatorios",
-      "limitaciones",
-      "profesional"
-    ]
-  },
-  {
-    "q": "¿Qué funcionalidades incluye el llavero digital en MEC y en qué licencias está disponible?",
-    "a": "El llavero digital incluye catálogo de categorías y la posibilidad de restringir al inicio. No está disponible en la licencia básica, pero sí en las licencias plus y profesional.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "llavero",
-      "digital",
-      "licencia",
-      "básica",
-      "plus",
-      "profesional",
+      "llavero digital",
+      "catálogo",
       "categorías",
-      "restricción"
-    ]
+      "restricción",
+      "licencia básica",
+      "no disponible"
+    ],
+    "faq_id": "D-20-03-01-01-04_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué incluye el módulo de llavero digital en MEC? Respuesta: El módulo de llavero digital en MEC incluye el catálogo de categorías y la posibilidad de restringir al inicio, pero no está disponible en la licencia básica."
   },
   {
-    "q": "¿Qué diferencias hay entre las licencias de MEC en el módulo de expediente contable?",
-    "a": "La licencia básica no incluye herramientas completas para el expediente contable, mientras que las licencias plus y profesional ofrecen gestión sin límite.",
+    "q": "¿Qué beneficios tiene la licencia profesional en el módulo de declaraciones y pagos SAT?",
+    "a": "La licencia profesional de MEC permite descargar el acuse en PDF de las declaraciones de todos los años, a diferencia de la licencia plus que solo permite visualizar los datos.",
     "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
-      "expediente",
-      "contable",
-      "básica",
-      "plus",
-      "profesional",
-      "gestión",
-      "herramientas"
-    ]
+      "licencia profesional",
+      "declaraciones",
+      "pagos",
+      "sat",
+      "acuse",
+      "pdf",
+      "visualizar",
+      "datos"
+    ],
+    "faq_id": "D-20-03-01-01-04_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué beneficios tiene la licencia profesional en el módulo de declaraciones y pagos SAT? Respuesta: La licencia profesional de MEC permite descargar el acuse en PDF de las declaraciones de todos los años, a diferencia de la licencia plus que solo permite visualizar los datos."
+  },
+  {
+    "q": "¿Qué se debe mencionar al cliente sobre el módulo de expediente contable en la licencia básica?",
+    "a": "Se debe mencionar al cliente que en la licencia básica de MEC no es posible contar con herramientas del módulo de expediente contable.",
+    "product": "Mi Expediente Contable",
+    "categoria": "Licencias",
+    "keywords": [
+      "licencia básica",
+      "expediente contable",
+      "herramientas",
+      "no disponible",
+      "módulo"
+    ],
+    "faq_id": "D-20-03-01-01-04_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe mencionar al cliente sobre el módulo de expediente contable en la licencia básica? Respuesta: Se debe mencionar al cliente que en la licencia básica de MEC no es posible contar con herramientas del módulo de expediente contable."
   }
 ]

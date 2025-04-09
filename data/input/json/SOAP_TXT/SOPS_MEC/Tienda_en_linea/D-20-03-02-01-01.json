@@ -3,6 +3,7 @@
     "q": "¿Qué hacer si un cliente quiere comprar en tienda pero no tiene acceso a internet?",
     "a": "El ejecutivo debe ofrecer enviar un correo electrónico con los pasos necesarios para realizar la compra, solicitando previamente el correo del cliente.",
     "product": "Tienda en línea",
+    "categoria": "Compra en tienda",
     "keywords": [
       "compra",
       "tienda",
@@ -10,91 +11,104 @@
       "correo electrónico",
       "pasos",
       "soporte"
-    ]
+    ],
+    "faq_id": "D-20-03-02-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si un cliente quiere comprar en tienda pero no tiene acceso a internet? Respuesta: El ejecutivo debe ofrecer enviar un correo electrónico con los pasos necesarios para realizar la compra, solicitando previamente el correo del cliente."
   },
   {
     "q": "¿Cómo guiar a un cliente con acceso a internet para comprar en tienda?",
-    "a": "El cliente debe ingresar a www.miexpedientecontable.com, seleccionar el paquete deseado, llenar la orden de compra, elegir método de pago 'Tienda', y seguir las instrucciones para obtener la ficha de pago.",
+    "a": "El cliente debe ingresar a www.miexpedientecontable.com, seleccionar el paquete deseado, llenar la orden de compra, elegir 'Tienda' como método de pago, y seguir las instrucciones para generar la ficha de pago.",
     "product": "Tienda en línea",
+    "categoria": "Compra en tienda",
     "keywords": [
       "compra",
       "tienda",
       "internet",
       "orden de compra",
       "ficha de pago",
-      "guía"
-    ]
+      "pasos"
+    ],
+    "faq_id": "D-20-03-02-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo guiar a un cliente con acceso a internet para comprar en tienda? Respuesta: El cliente debe ingresar a www.miexpedientecontable.com, seleccionar el paquete deseado, llenar la orden de compra, elegir 'Tienda' como método de pago, y seguir las instrucciones para generar la ficha de pago."
   },
   {
     "q": "¿Qué información recibe el cliente después de generar la ficha de pago en tienda?",
-    "a": "El cliente recibe una ficha de pago en su correo electrónico registrado, la cual debe presentar en la tienda elegida para realizar el pago.",
+    "a": "Recibe una ficha de pago en su correo electrónico registrado, la cual debe presentar en la tienda elegida para realizar el pago. La licencia y factura (si aplica) llegan al mismo correo en 3 a 24 horas.",
     "product": "Tienda en línea",
+    "categoria": "Post-compra",
     "keywords": [
       "ficha de pago",
       "correo electrónico",
       "tienda",
-      "pago",
-      "proceso"
-    ]
+      "licencia",
+      "factura",
+      "tiempo de entrega"
+    ],
+    "faq_id": "D-20-03-02-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información recibe el cliente después de generar la ficha de pago en tienda? Respuesta: Recibe una ficha de pago en su correo electrónico registrado, la cual debe presentar en la tienda elegida para realizar el pago. La licencia y factura (si aplica) llegan al mismo correo en 3 a 24 horas."
   },
   {
-    "q": "¿Dónde puede el cliente realizar el pago en tienda?",
-    "a": "El cliente puede realizar el pago en tiendas como Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama, y Waldos.",
+    "q": "¿Qué tiendas aceptan el pago con la ficha generada?",
+    "a": "Algunas tiendas donde se puede realizar el pago son Farmacias del Ahorro, Farmacias Guadalajara, 7 Eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
     "product": "Tienda en línea",
+    "categoria": "Métodos de pago",
     "keywords": [
       "tiendas",
       "pago",
+      "ficha",
       "farmacias",
       "supermercados",
-      "ubicaciones"
-    ]
+      "opciones"
+    ],
+    "faq_id": "D-20-03-02-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tiendas aceptan el pago con la ficha generada? Respuesta: Algunas tiendas donde se puede realizar el pago son Farmacias del Ahorro, Farmacias Guadalajara, 7 Eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos."
   },
   {
-    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después del pago en tienda?",
-    "a": "La clave de licencia y factura (si se solicitó) llegan al correo registrado en un lapso de 3 a 24 horas después del pago.",
+    "q": "¿Qué hacer si no se recibe la licencia después de pagar en tienda?",
+    "a": "Si en 3 a 4 horas no llega la licencia, se debe contactar al área de atención a clientes con el número de orden de compra o código de barras que inicia con '10 10 10'.",
     "product": "Tienda en línea",
+    "categoria": "Soporte",
     "keywords": [
-      "clave de licencia",
-      "tiempo",
-      "correo",
-      "factura",
-      "espera"
-    ]
-  },
-  {
-    "q": "¿Qué hacer si no se recibe la clave de licencia después de 3 a 4 horas?",
-    "a": "Se sugiere comunicarse al área de atención a clientes con el número de orden de compra o código de barras que inicia con '10 10 10'.",
-    "product": "Tienda en línea",
-    "keywords": [
-      "problema",
-      "clave de licencia",
+      "licencia",
+      "no recibida",
       "soporte",
-      "atención a clientes",
-      "número de orden"
-    ]
+      "orden de compra",
+      "código de barras",
+      "atención a clientes"
+    ],
+    "faq_id": "D-20-03-02-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se recibe la licencia después de pagar en tienda? Respuesta: Si en 3 a 4 horas no llega la licencia, se debe contactar al área de atención a clientes con el número de orden de compra o código de barras que inicia con '10 10 10'."
   },
   {
-    "q": "¿Qué correo envía la ficha de pago y la clave de licencia?",
-    "a": "El correo ventas@computocontable.com envía la ficha de pago y posteriormente la clave de licencia, pero no recibe solicitudes.",
+    "q": "¿Desde qué correo se envía la ficha de pago y la licencia?",
+    "a": "La ficha de pago y la licencia se envían desde ventas@computocontable.com. Este correo solo envía información, no recibe solicitudes.",
     "product": "Tienda en línea",
+    "categoria": "Comunicación",
     "keywords": [
       "correo electrónico",
       "ficha de pago",
-      "clave de licencia",
+      "licencia",
       "ventas",
-      "computocontable"
-    ]
+      "computocontable",
+      "envío"
+    ],
+    "faq_id": "D-20-03-02-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Desde qué correo se envía la ficha de pago y la licencia? Respuesta: La ficha de pago y la licencia se envían desde ventas@computocontable.com. Este correo solo envía información, no recibe solicitudes."
   },
   {
-    "q": "¿Qué debe hacer el cliente si no encuentra el correo con la clave de licencia?",
-    "a": "El cliente debe verificar su bandeja de correo no deseado o SPAM si no encuentra el correo en la bandeja principal.",
+    "q": "¿Dónde puede el cliente ver los paquetes disponibles para comprar?",
+    "a": "El cliente debe ingresar a www.miexpedientecontable.com, donde se muestran los precios y los dos tipos de licencia disponibles.",
     "product": "Tienda en línea",
+    "categoria": "Compra en tienda",
     "keywords": [
-      "correo no deseado",
-      "spam",
-      "clave de licencia",
-      "búsqueda",
-      "solución"
-    ]
+      "paquetes",
+      "licencias",
+      "precios",
+      "sitio web",
+      "selección",
+      "compra"
+    ],
+    "faq_id": "D-20-03-02-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puede el cliente ver los paquetes disponibles para comprar? Respuesta: El cliente debe ingresar a www.miexpedientecontable.com, donde se muestran los precios y los dos tipos de licencia disponibles."
   }
 ]

@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué tipo de incidencia es cuando un cliente no puede realizar un pago desde su banca BBVA?",
+    "q": "¿Qué tipo de incidencia es cuando un cliente no puede realizar un pago desde BBVA?",
     "a": "Es una incidencia tipo 02, nivel 2 – Medio.",
     "product": "General",
+    "categoria": "Incidencia",
     "keywords": [
       "incidencia",
       "tipo",
@@ -11,62 +12,56 @@
       "bbva",
       "pago",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando un cliente no puede realizar un pago desde BBVA? Respuesta: Es una incidencia tipo 02, nivel 2 – Medio."
   },
   {
-    "q": "¿Cómo se debe orientar a un cliente que quiere pagar desde BBVA pero el sistema no se lo permite?",
-    "a": "Se debe preguntar al cliente desde qué banco intenta realizar el pago. Si es desde BBVA, se le debe guiar para que visualice su ficha de pago y coloque los datos exactamente como aparecen en ella.",
+    "q": "¿Qué método de pago está involucrado en esta situación?",
+    "a": "El método de pago involucrado es Transferencia.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "orientación",
+      "método",
+      "pago",
+      "transferencia",
+      "bbva",
+      "compra"
+    ],
+    "faq_id": "A-20-02-02-04-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué método de pago está involucrado en esta situación? Respuesta: El método de pago involucrado es Transferencia."
+  },
+  {
+    "q": "¿Qué se debe hacer si un cliente no puede realizar un pago desde BBVA?",
+    "a": "Se debe preguntar al cliente desde qué banco está intentando realizar el pago. Si es desde BBVA, hay que pedirle que visualice su ficha de pago y guiarlo para que realice el pago correctamente, colocando los datos como aparecen en la ficha.",
+    "product": "General",
+    "categoria": "Solución",
+    "keywords": [
+      "solución",
       "bbva",
       "pago",
       "ficha",
       "guiar",
       "datos",
-      "sistema"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer si un cliente tiene problemas para realizar un pago por transferencia desde BBVA?",
-    "a": "Se debe verificar que el cliente esté siguiendo los pasos correctos según su ficha de pago y asegurarse de que los datos ingresados coincidan exactamente con los proporcionados en la ficha.",
-    "product": "General",
-    "keywords": [
-      "problemas",
-      "pago",
-      "transferencia",
-      "bbva",
-      "ficha",
-      "datos",
-      "verificar"
-    ]
+      "transferencia"
+    ],
+    "faq_id": "A-20-02-02-04-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si un cliente no puede realizar un pago desde BBVA? Respuesta: Se debe preguntar al cliente desde qué banco está intentando realizar el pago. Si es desde BBVA, hay que pedirle que visualice su ficha de pago y guiarlo para que realice el pago correctamente, colocando los datos como aparecen en la ficha."
   },
   {
     "q": "¿Dónde se puede encontrar más información detallada sobre cómo realizar un pago desde BBVA?",
-    "a": "Para más detalles, se puede consultar el Soporte A-30-01-02-06-05.",
+    "a": "Se puede ver más detalles en el Sop A-30-01-02-06-05.",
     "product": "General",
+    "categoria": "Recursos",
     "keywords": [
-      "información",
       "detalles",
-      "bbva",
-      "pago",
       "soporte",
-      "consulta",
-      "referencia"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de prioridad tiene una incidencia donde un cliente no puede pagar desde BBVA?",
-    "a": "Tiene un nivel de prioridad 2 – Medio.",
-    "product": "General",
-    "keywords": [
-      "incidencia",
-      "prioridad",
-      "nivel",
-      "medio",
       "bbva",
       "pago",
-      "problema"
-    ]
+      "transferencia",
+      "referencia"
+    ],
+    "faq_id": "A-20-02-02-04-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se puede encontrar más información detallada sobre cómo realizar un pago desde BBVA? Respuesta: Se puede ver más detalles en el Sop A-30-01-02-06-05."
   }
 ]

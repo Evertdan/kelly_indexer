@@ -1,64 +1,96 @@
 [
   {
     "q": "¿Qué sucede cuando el tiempo de descarga de comprobantes se vence en MiAdminXML?",
-    "a": "El tiempo de espera para la descarga depende del WebService del SAT. Una vez realizada la solicitud, debe esperar a que el estado cambie a 'Disponible'. Si no se descarga dentro de 72 horas, el estado cambiará a 'Vencido'.",
+    "a": "El estado de la solicitud cambia a 'Vencido' si no se descarga dentro de las 72 horas posteriores a que esté disponible.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "tiempo de descarga",
+      "tiempo",
+      "descarga",
       "vencido",
-      "webservice",
-      "sat",
+      "comprobantes",
+      "solicitud",
       "estado",
-      "disponible",
       "72 horas"
-    ]
+    ],
+    "faq_id": "A-20-02-13-01-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede cuando el tiempo de descarga de comprobantes se vence en MiAdminXML? Respuesta: El estado de la solicitud cambia a 'Vencido' si no se descarga dentro de las 72 horas posteriores a que esté disponible."
   },
   {
-    "q": "¿Qué se recomienda hacer si la solicitud de descarga de comprobantes ha vencido?",
-    "a": "Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud para que pueda proceder nuevamente. Por ejemplo, ajustando las fechas de inicio y fin de la consulta.",
+    "q": "¿Qué se necesita para solucionar el problema de tiempo de descarga vencido en MiAdminXML?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple, se debe contactar por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "recomendación",
-      "solicitud vencida",
-      "generar consulta",
-      "cambiar segundos",
-      "fechas"
-    ]
-  },
-  {
-    "q": "¿Cuánto tiempo se tiene para descargar los comprobantes una vez que el estado está 'Disponible'?",
-    "a": "Una vez que el estado de la solicitud pasa a 'Disponible', se tienen hasta 72 horas para realizar la descarga. Pasado este tiempo, el estado cambiará a 'Vencido'.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "tiempo de descarga",
-      "72 horas",
-      "estado disponible",
-      "vencido",
-      "solicitud"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar la descarga de comprobantes en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con ninguno de estos requisitos, el problema se soluciona por correo electrónico.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
       "correo electrónico",
-      "soporte"
-    ]
+      "solución",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-13-01-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para solucionar el problema de tiempo de descarga vencido en MiAdminXML? Respuesta: Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple, se debe contactar por correo electrónico."
   },
   {
-    "q": "¿Cómo se puede ajustar la solicitud de descarga para evitar que venza?",
-    "a": "Se sugiere cambiar los segundos de la solicitud. Por ejemplo, si se consulta el mes de mayo, se puede iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 01 de junio a las 00:00:00.",
+    "q": "¿Cuánto tiempo se tiene para descargar los comprobantes una vez que están disponibles?",
+    "a": "Se tienen 72 horas para descargar los comprobantes una vez que el estado de la solicitud pasa a 'Disponible'.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "ajustar solicitud",
-      "cambiar segundos",
-      "fechas",
+      "72 horas",
+      "descarga",
+      "comprobantes",
+      "disponible",
+      "tiempo"
+    ],
+    "faq_id": "A-20-02-13-01-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo se tiene para descargar los comprobantes una vez que están disponibles? Respuesta: Se tienen 72 horas para descargar los comprobantes una vez que el estado de la solicitud pasa a 'Disponible'."
+  },
+  {
+    "q": "¿Qué se recomienda hacer si el tiempo de descarga de comprobantes se vence?",
+    "a": "Se recomienda volver a generar una consulta, ajustando los segundos de la solicitud para que pueda proceder nuevamente.",
+    "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
+    "keywords": [
+      "recomendación",
+      "generar consulta",
+      "ajustar segundos",
+      "solicitud",
+      "vencido"
+    ],
+    "faq_id": "A-20-02-13-01-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda hacer si el tiempo de descarga de comprobantes se vence? Respuesta: Se recomienda volver a generar una consulta, ajustando los segundos de la solicitud para que pueda proceder nuevamente."
+  },
+  {
+    "q": "¿Cómo varía el tiempo de espera para la descarga de comprobantes en MiAdminXML?",
+    "a": "El tiempo de espera depende del WebService del SAT y puede variar desde minutos hasta días.",
+    "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
+    "keywords": [
+      "tiempo espera",
+      "webservice",
+      "sat",
+      "minutos",
+      "días",
+      "variación"
+    ],
+    "faq_id": "A-20-02-13-01-06_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo varía el tiempo de espera para la descarga de comprobantes en MiAdminXML? Respuesta: El tiempo de espera depende del WebService del SAT y puede variar desde minutos hasta días."
+  },
+  {
+    "q": "¿Qué ejemplo se proporciona para ajustar la fecha de consulta en MiAdminXML?",
+    "a": "Por ejemplo, si se consulta el mes de mayo, se puede iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 1 de junio a las 00:00:00.",
+    "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
+    "keywords": [
       "ejemplo",
-      "consulta"
-    ]
+      "fecha consulta",
+      "ajuste",
+      "mayo",
+      "abril",
+      "junio"
+    ],
+    "faq_id": "A-20-02-13-01-06_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué ejemplo se proporciona para ajustar la fecha de consulta en MiAdminXML? Respuesta: Por ejemplo, si se consulta el mes de mayo, se puede iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 1 de junio a las 00:00:00."
   }
 ]

@@ -1,105 +1,96 @@
 [
   {
     "q": "¿Cuáles son los pasos para realizar una compra en miexpedientecontable.com?",
-    "a": "1. Ingresar a www.miexpedientecontable.com. 2. Posicionarse en el apartado de precios y beneficios y dar clic en 'Comprar Ahora' en el paquete deseado. 3. Llenar la orden de compra con datos de contacto. 4. Marcar la casilla 'Requiero factura' si es necesario. 5. Seleccionar la cantidad de licencias y dar clic en continuar. 6. Confirmar los datos de facturación.",
+    "a": "Los pasos son: 1) Ingresar a www.miexpedientecontable.com, 2) Posicionarse en el apartado de precios y dar clic en 'Comprar Ahora', 3) Llenar la orden de compra con datos de contacto, 4) Marcar la casilla 'Requiero factura' si es necesario, 5) Seleccionar la cantidad de licencias y dar clic en continuar, 6) Confirmar los datos de facturación.",
     "product": "miexpedientecontable.com",
+    "categoria": "Proceso de Compra",
     "keywords": [
       "compra",
       "pasos",
+      "miexpedientecontable",
       "orden",
-      "licencias",
-      "factura",
-      "proceso",
-      "web",
-      "navegador"
-    ]
+      "licencias"
+    ],
+    "faq_id": "D-20-03-02-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para realizar una compra en miexpedientecontable.com? Respuesta: Los pasos son: 1) Ingresar a www.miexpedientecontable.com, 2) Posicionarse en el apartado de precios y dar clic en 'Comprar Ahora', 3) Llenar la orden de compra con datos de contacto, 4) Marcar la casilla 'Requiero factura' si es necesario, 5) Seleccionar la cantidad de licencias y dar clic en continuar, 6) Confirmar los datos de facturación."
   },
   {
-    "q": "¿Qué sucede después de realizar una compra por transferencia o pago en tienda?",
-    "a": "En un lapso de 3 a 24 horas recibirás tu clave de licencia y factura (si la solicitaste) al correo registrado en la orden de compra.",
+    "q": "¿Qué sucede si el pago se realiza por transferencia o en tienda?",
+    "a": "En un lapso de 3 a 24 horas se recibirá la clave de licencia y factura (si se solicitó) al correo registrado en la orden de compra.",
     "product": "miexpedientecontable.com",
+    "categoria": "Proceso de Compra",
     "keywords": [
-      "transferencia",
       "pago",
+      "transferencia",
       "tienda",
       "clave",
-      "licencia",
       "factura",
-      "correo",
-      "orden"
-    ]
+      "correo"
+    ],
+    "faq_id": "D-20-03-02-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si el pago se realiza por transferencia o en tienda? Respuesta: En un lapso de 3 a 24 horas se recibirá la clave de licencia y factura (si se solicitó) al correo registrado en la orden de compra."
   },
   {
     "q": "¿Qué hacer si no llega la clave de licencia después de 3-4 horas?",
-    "a": "Comunicarse al área de atención a clientes con el número de orden de compra a la mano.",
+    "a": "Se sugiere comunicarse al área de atención a clientes con el número de orden de compra a la mano.",
     "product": "miexpedientecontable.com",
+    "categoria": "Soporte",
     "keywords": [
       "clave",
       "licencia",
-      "espera",
+      "tiempo",
       "atención",
       "clientes",
-      "orden",
-      "compra",
-      "soporte"
-    ]
+      "orden"
+    ],
+    "faq_id": "D-20-03-02-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no llega la clave de licencia después de 3-4 horas? Respuesta: Se sugiere comunicarse al área de atención a clientes con el número de orden de compra a la mano."
   },
   {
-    "q": "¿Cómo es el proceso de compra con tarjeta de crédito o débito?",
-    "a": "Al ser exitoso el pago, aparecerá una pantalla con tu clave de licencia y factura, además de ser enviada por correo electrónico.",
+    "q": "¿Cómo se recibe la clave de licencia si el pago es con tarjeta de crédito o débito?",
+    "a": "Aparecerá una pantalla con la clave de licencia y factura inmediatamente después del pago exitoso, y también se enviará por correo electrónico.",
     "product": "miexpedientecontable.com",
+    "categoria": "Proceso de Compra",
     "keywords": [
+      "pago",
       "tarjeta",
       "crédito",
       "débito",
-      "pago",
       "clave",
-      "licencia",
       "factura",
-      "correo",
-      "inmediato"
-    ]
+      "correo"
+    ],
+    "faq_id": "D-20-03-02-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se recibe la clave de licencia si el pago es con tarjeta de crédito o débito? Respuesta: Aparecerá una pantalla con la clave de licencia y factura inmediatamente después del pago exitoso, y también se enviará por correo electrónico."
   },
   {
     "q": "¿Dónde se debe hacer clic para iniciar el proceso de compra?",
-    "a": "En el apartado de precios y beneficios, en el botón 'Comprar Ahora' del paquete deseado.",
+    "a": "Se debe dar clic en el botón 'Comprar Ahora' en el paquete deseado dentro del apartado de precios y beneficios.",
     "product": "miexpedientecontable.com",
+    "categoria": "Proceso de Compra",
     "keywords": [
-      "iniciar",
       "compra",
       "botón",
-      "precios",
-      "beneficios",
       "paquete",
-      "clic",
-      "web"
-    ]
+      "precios",
+      "beneficios"
+    ],
+    "faq_id": "D-20-03-02-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se debe hacer clic para iniciar el proceso de compra? Respuesta: Se debe dar clic en el botón 'Comprar Ahora' en el paquete deseado dentro del apartado de precios y beneficios."
   },
   {
     "q": "¿Qué datos se necesitan para llenar la orden de compra?",
     "a": "Se requieren los datos de contacto del cliente.",
     "product": "miexpedientecontable.com",
+    "categoria": "Proceso de Compra",
     "keywords": [
       "orden",
       "compra",
       "datos",
       "contacto",
-      "llenar",
-      "formulario",
       "cliente"
-    ]
-  },
-  {
-    "q": "¿Cómo se solicita factura durante la compra?",
-    "a": "Marcando la casilla 'Requiero factura' en el proceso de compra.",
-    "product": "miexpedientecontable.com",
-    "keywords": [
-      "factura",
-      "solicitar",
-      "casilla",
-      "marcar",
-      "compra",
-      "requerimiento"
-    ]
+    ],
+    "faq_id": "D-20-03-02-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos se necesitan para llenar la orden de compra? Respuesta: Se requieren los datos de contacto del cliente."
   }
 ]

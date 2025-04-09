@@ -1,64 +1,78 @@
 [
   {
-    "q": "¿Qué tipo de incidencia es la doble ejecución de MiAdminXML?",
-    "a": "La doble ejecución de MiAdminXML es una incidencia tipo INC-02 con un nivel de gravedad 2 – Medio.",
+    "q": "¿Qué tipo de error se presenta al ejecutar MiAdminXML?",
+    "a": "Se presenta un error de doble ejecución de MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
-      "incidencia",
-      "tipo",
-      "nivel",
-      "medio",
+      "error",
       "doble ejecución",
-      "error"
-    ]
+      "miadminxml",
+      "problema",
+      "ejecución"
+    ],
+    "faq_id": "A-20-02-10-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de error se presenta al ejecutar MiAdminXML? Respuesta: Se presenta un error de doble ejecución de MiAdminXML."
   },
   {
-    "q": "¿Cuál es el resultado esperado al resolver la doble ejecución de MiAdminXML?",
-    "a": "El resultado esperado es la eliminación de procesos duplicados de MiAdminXML.",
+    "q": "¿Cuál es el nivel de gravedad del error de doble ejecución en MiAdminXML?",
+    "a": "El nivel de gravedad del error es 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "error",
+      "medio",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-10-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de gravedad del error de doble ejecución en MiAdminXML? Respuesta: El nivel de gravedad del error es 2 – Medio."
+  },
+  {
+    "q": "¿Qué se debe hacer para resolver el error de doble ejecución en MiAdminXML?",
+    "a": "Para resolver el error, se debe dar clic derecho en la barra de herramientas, seleccionar 'Administrador de tareas', seleccionar MiAdminXML y dar clic en 'Finalizar tarea', luego ejecutar nuevamente MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
+    "keywords": [
+      "resolver",
+      "error",
+      "doble ejecución",
+      "administrador de tareas",
+      "finalizar tarea",
+      "ejecutar"
+    ],
+    "faq_id": "A-20-02-10-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer para resolver el error de doble ejecución en MiAdminXML? Respuesta: Para resolver el error, se debe dar clic derecho en la barra de herramientas, seleccionar 'Administrador de tareas', seleccionar MiAdminXML y dar clic en 'Finalizar tarea', luego ejecutar nuevamente MiAdminXML."
+  },
+  {
+    "q": "¿Cuál es el resultado esperado al resolver el error de doble ejecución en MiAdminXML?",
+    "a": "El resultado esperado es la eliminación de los procesos duplicados de MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Resultados",
     "keywords": [
       "resultado",
       "eliminación",
       "procesos",
-      "doble ejecución",
-      "resolver"
-    ]
+      "duplicados",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-10-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el resultado esperado al resolver el error de doble ejecución en MiAdminXML? Respuesta: El resultado esperado es la eliminación de los procesos duplicados de MiAdminXML."
   },
   {
-    "q": "¿Qué recurso está involucrado en la incidencia de doble ejecución?",
+    "q": "¿Qué recurso está involucrado en el error de doble ejecución?",
     "a": "El recurso involucrado es MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Recursos",
     "keywords": [
       "recurso",
       "involucrado",
-      "doble ejecución",
-      "incidencia",
-      "miadminxml"
-    ]
-  },
-  {
-    "q": "¿Cuál es el alcance de la incidencia de doble ejecución de MiAdminXML?",
-    "a": "El alcance de la incidencia es la eliminación de procesos duplicados de MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "alcance",
-      "eliminación",
-      "procesos",
-      "doble ejecución",
-      "incidencia"
-    ]
-  },
-  {
-    "q": "¿Cómo se resuelve la doble ejecución de MiAdminXML?",
-    "a": "Para resolver la doble ejecución de MiAdminXML, sigue estos pasos: 1) Haz clic derecho en la barra de herramientas y selecciona 'Administrador de tareas'. 2) En la pantalla que aparece, selecciona MiAdminXML y haz clic en 'Finalizar tarea'. 3) Ejecuta nuevamente MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "resolver",
-      "doble ejecución",
-      "pasos",
-      "administrador de tareas",
-      "finalizar tarea",
-      "ejecutar"
-    ]
+      "miadminxml",
+      "error",
+      "doble ejecución"
+    ],
+    "faq_id": "A-20-02-10-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso está involucrado en el error de doble ejecución? Respuesta: El recurso involucrado es MiAdminXML."
   }
 ]

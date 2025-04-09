@@ -1,32 +1,40 @@
 [
   {
-    "q": "¿Qué sucede cuando la base de datos es modificada o cambia de versión en MiAdminXML?",
+    "q": "¿Qué sucede cuando la base de datos de MiAdminXML es modificada o cambia de versión?",
     "a": "Puede que se elimine la información del catálogo de contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Base de Datos",
     "keywords": [
       "base de datos",
       "modificación",
-      "cambio de versión",
+      "versión",
       "catálogo",
       "eliminación"
-    ]
+    ],
+    "faq_id": "A-20-02-22-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede cuando la base de datos de MiAdminXML es modificada o cambia de versión? Respuesta: Puede que se elimine la información del catálogo de contribuyentes."
   },
   {
-    "q": "¿Cómo se puede solucionar la pérdida de información del catálogo en MiAdminXML?",
+    "q": "¿Cómo se soluciona la pérdida de información del catálogo de contribuyentes en MiAdminXML?",
     "a": "Volver a registrar los datos del contribuyente, ya que no es recuperable por el cambio de versión.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "solución",
-      "pérdida de información",
       "catálogo",
+      "contribuyentes",
       "registrar",
-      "contribuyente"
-    ]
+      "datos",
+      "recuperación"
+    ],
+    "faq_id": "A-20-02-22-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se soluciona la pérdida de información del catálogo de contribuyentes en MiAdminXML? Respuesta: Volver a registrar los datos del contribuyente, ya que no es recuperable por el cambio de versión."
   },
   {
-    "q": "¿Qué requisitos se necesitan para resolver problemas relacionados con el catálogo en MiAdminXML?",
+    "q": "¿Qué requisitos se necesitan para resolver problemas relacionados con el catálogo de contribuyentes en MiAdminXML?",
     "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico. También se requiere RFC y CIEC.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -34,39 +42,38 @@
       "correo electrónico",
       "rfc",
       "ciec"
-    ]
+    ],
+    "faq_id": "A-20-02-22-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para resolver problemas relacionados con el catálogo de contribuyentes en MiAdminXML? Respuesta: Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico. También se requiere RFC y CIEC."
   },
   {
-    "q": "¿Qué nivel de impacto tiene la pérdida de información del catálogo en MiAdminXML?",
+    "q": "¿Qué nivel de impacto tiene la eliminación del catálogo de contribuyentes en MiAdminXML?",
     "a": "El nivel de impacto es 1 – Bajo.",
     "product": "MiAdminXML",
+    "categoria": "Impacto",
     "keywords": [
-      "nivel de impacto",
+      "impacto",
+      "nivel",
       "bajo",
       "catálogo",
-      "información"
-    ]
+      "contribuyentes"
+    ],
+    "faq_id": "A-20-02-22-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de impacto tiene la eliminación del catálogo de contribuyentes en MiAdminXML? Respuesta: El nivel de impacto es 1 – Bajo."
   },
   {
-    "q": "¿Qué tipo de incidencia es la pérdida de información del catálogo en MiAdminXML?",
+    "q": "¿Qué tipo de incidencia es la eliminación del catálogo de contribuyentes en MiAdminXML?",
     "a": "El tipo de incidencia es INC-02.",
     "product": "MiAdminXML",
+    "categoria": "Incidencia",
     "keywords": [
-      "tipo de incidencia",
+      "incidencia",
+      "tipo",
       "inc-02",
       "catálogo",
-      "información"
-    ]
-  },
-  {
-    "q": "¿Qué información se ve afectada cuando se pierde el catálogo en MiAdminXML?",
-    "a": "Se ve afectada la información del llenado del catálogo de contribuyentes.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "información afectada",
-      "catálogo",
-      "contribuyentes",
-      "llenado"
-    ]
+      "contribuyentes"
+    ],
+    "faq_id": "A-20-02-22-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es la eliminación del catálogo de contribuyentes en MiAdminXML? Respuesta: El tipo de incidencia es INC-02."
   }
 ]

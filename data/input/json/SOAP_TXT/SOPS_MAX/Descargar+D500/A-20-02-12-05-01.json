@@ -1,72 +1,80 @@
 [
   {
     "q": "¿Qué puede causar que no se descarguen todos los paquetes en MiAdminXML?",
-    "a": "Puede ser por el rendimiento del equipo o intermitencia de internet.",
+    "a": "Puede ser debido al rendimiento del equipo o intermitencia de internet.",
     "product": "MiAdminXML",
+    "categoria": "Descarga de paquetes",
     "keywords": [
       "descarga",
       "paquetes",
       "problema",
       "rendimiento",
       "internet",
-      "intermitencia",
-      "falla"
-    ]
+      "intermitencia"
+    ],
+    "faq_id": "A-20-02-12-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué puede causar que no se descarguen todos los paquetes en MiAdminXML? Respuesta: Puede ser debido al rendimiento del equipo o intermitencia de internet."
   },
   {
     "q": "¿Qué requisitos se necesitan para solucionar problemas de descarga en MiAdminXML?",
-    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, se debe solucionar el problema por correo electrónico.",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
+      "requisitos",
       "soporte",
-      "correo electrónico",
-      "solucionar"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-02-12-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para solucionar problemas de descarga en MiAdminXML? Respuesta: Contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Cómo solucionar el problema de descarga incompleta usando la herramienta Desmarcable en MiAdminXML?",
-    "a": "Dar clic derecho en los paquetes que no descargaron correctamente, seleccionar Desmarcable, volver a dar clic derecho a marcable y luego dar clic en verificar para intentar la descarga nuevamente.",
+    "q": "¿Cómo solucionar el problema de descarga incompleta usando la herramienta Desmarcable?",
+    "a": "Dar clic derecho en los paquetes que no descargaron correctamente, seleccionar Desmarcable, luego volver a dar clic derecho a Marcable y finalmente dar clic en verificar para intentar la descarga nuevamente.",
     "product": "MiAdminXML",
+    "categoria": "Solución de problemas",
     "keywords": [
       "desmarcable",
-      "herramienta",
-      "solución",
-      "clic derecho",
+      "marcable",
       "verificar",
       "descarga",
-      "paquetes"
-    ]
+      "solución",
+      "pasos"
+    ],
+    "faq_id": "A-20-02-12-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo solucionar el problema de descarga incompleta usando la herramienta Desmarcable? Respuesta: Dar clic derecho en los paquetes que no descargaron correctamente, seleccionar Desmarcable, luego volver a dar clic derecho a Marcable y finalmente dar clic en verificar para intentar la descarga nuevamente."
   },
   {
-    "q": "¿Qué hacer si la solución con Desmarcable no funciona en MiAdminXML?",
-    "a": "Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud. Por ejemplo, ajustar las fechas de inicio y fin de la consulta.",
+    "q": "¿Qué otra solución se recomienda si la herramienta Desmarcable no funciona?",
+    "a": "Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud. Por ejemplo, ajustar las fechas de inicio y fin de la consulta para proceder nuevamente con la solicitud.",
     "product": "MiAdminXML",
+    "categoria": "Solución de problemas",
     "keywords": [
       "consulta",
-      "generar",
       "fechas",
-      "segundos",
       "solicitud",
       "ajustar",
-      "reintentar"
-    ]
+      "segundos",
+      "solución alternativa"
+    ],
+    "faq_id": "A-20-02-12-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué otra solución se recomienda si la herramienta Desmarcable no funciona? Respuesta: Se recomienda volver a generar una consulta, cambiando los segundos de la solicitud. Por ejemplo, ajustar las fechas de inicio y fin de la consulta para proceder nuevamente con la solicitud."
   },
   {
-    "q": "¿Cómo ajustar las fechas de consulta para reintentar la descarga en MiAdminXML?",
-    "a": "Por ejemplo, si está consultando datos del mes de mayo, podría iniciar la consulta el 30 de abril a las 23:59:59 y terminarla el 31 de mayo a las 23:59:59 o el 01 de junio a las 00:00:00.",
+    "q": "¿Qué nivel de gravedad tiene el problema de descarga incompleta en MiAdminXML?",
+    "a": "El problema tiene un nivel de gravedad 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
-      "fechas",
-      "consulta",
-      "ajuste",
-      "ejemplo",
-      "mayo",
-      "abril",
-      "junio",
-      "formato"
-    ]
+      "nivel",
+      "gravedad",
+      "medio",
+      "problema",
+      "incidente"
+    ],
+    "faq_id": "A-20-02-12-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de gravedad tiene el problema de descarga incompleta en MiAdminXML? Respuesta: El problema tiene un nivel de gravedad 2 – Medio."
   }
 ]

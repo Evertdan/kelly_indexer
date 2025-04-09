@@ -1,76 +1,98 @@
 [
   {
     "q": "¿Qué sucede cuando se actualiza MiAdminXML y se desactiva la clave de licencia?",
-    "a": "Se debe realizar una restauración de licencia, validando que los componentes NoSerieHD, Mac y MotherBoard sean los mismos que cuando se activó originalmente la licencia.",
+    "a": "Se puede realizar una restauración de licencia exitosa siguiendo los pasos adecuados, siempre y cuando no se hayan cambiado componentes como NoSerieHD, Mac o MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "actualización",
       "licencia",
-      "desactivación",
+      "desactivada",
       "restauración",
-      "componentes"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-27-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede cuando se actualiza MiAdminXML y se desactiva la clave de licencia? Respuesta: Se puede realizar una restauración de licencia exitosa siguiendo los pasos adecuados, siempre y cuando no se hayan cambiado componentes como NoSerieHD, Mac o MotherBoard."
   },
   {
-    "q": "¿Qué requisitos se necesitan para restaurar una licencia de MiAdminXML?",
+    "q": "¿Qué requisitos se necesitan para restaurar la licencia de MiAdminXML después de una actualización?",
     "a": "Contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
-      "restauración",
       "componentes",
-      "no cambiar"
-    ]
+      "no seriehd",
+      "mac",
+      "motherboard",
+      "restauración"
+    ],
+    "faq_id": "A-20-02-27-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para restaurar la licencia de MiAdminXML después de una actualización? Respuesta: Contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard."
   },
   {
-    "q": "¿Cuál es el proceso para restaurar una licencia de MiAdminXML después de una actualización?",
-    "a": "1. Ingresar a MiAdminXML. 2. Seleccionar la herramienta 'Utilidades'. 3. Elegir 'Restauración por Formateo'. 4. Anotar la clave de licencia y el correo electrónico registrado, luego hacer clic en continuar. 5. Aparecerá un mensaje confirmando que la licencia fue restaurada correctamente.",
+    "q": "¿Cuáles son los pasos para restaurar la licencia de MiAdminXML después de una actualización?",
+    "a": "1. Ingresar a MiAdminXML. 2. Seleccionar la herramienta 'Utilidades'. 3. Elegir 'Restauración por Formateo'. 4. Anotar la clave de licencia y el correo electrónico registrado. 5. Dar clic en continuar. Si es exitoso, aparecerá el mensaje 'tu licencia fue restaurada correctamente'.",
     "product": "MiAdminXML",
+    "categoria": "Procedimiento",
     "keywords": [
-      "proceso",
+      "pasos",
       "restauración",
       "licencia",
-      "actualización",
-      "pasos",
-      "utilidades"
-    ]
+      "utilidades",
+      "formateo",
+      "correo electrónico",
+      "clave"
+    ],
+    "faq_id": "A-20-02-27-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para restaurar la licencia de MiAdminXML después de una actualización? Respuesta: 1. Ingresar a MiAdminXML. 2. Seleccionar la herramienta 'Utilidades'. 3. Elegir 'Restauración por Formateo'. 4. Anotar la clave de licencia y el correo electrónico registrado. 5. Dar clic en continuar. Si es exitoso, aparecerá el mensaje 'tu licencia fue restaurada correctamente'."
   },
   {
-    "q": "¿Qué mensaje aparece si la restauración de licencia de MiAdminXML falla?",
-    "a": "Si falla, aparece el mensaje 'No se detectó una licencia preactivada en este equipo', lo que indica que hubo un cambio en los componentes NoSerieHD, Mac, MotherBoard o el correo ingresado no es el vinculado con la licencia.",
+    "q": "¿Qué mensaje aparece si la restauración de la licencia de MiAdminXML es exitosa?",
+    "a": "Aparece el mensaje 'tu licencia fue restaurada correctamente'.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
+    "keywords": [
+      "mensaje",
+      "éxito",
+      "restauración",
+      "licencia",
+      "correctamente"
+    ],
+    "faq_id": "A-20-02-27-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece si la restauración de la licencia de MiAdminXML es exitosa? Respuesta: Aparece el mensaje 'tu licencia fue restaurada correctamente'."
+  },
+  {
+    "q": "¿Qué hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo' al intentar restaurar la licencia?",
+    "a": "Esto indica que se hizo algún cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no es el vinculado con la licencia. En este caso, no se podrá usar la herramienta y se debe enviar un oficio de reactivación.",
+    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "error",
-      "mensaje",
-      "restauración",
-      "falla",
+      "licencia",
+      "no detectada",
       "componentes",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer si no se puede restaurar la licencia de MiAdminXML debido a cambios en los componentes?",
-    "a": "En caso de cambios en los componentes o correo incorrecto, no se podrá usar la herramienta y se tendrá que enviar un oficio de reactivación.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "cambios",
-      "componentes",
+      "correo",
       "reactivación",
-      "oficio",
-      "solución"
-    ]
+      "oficio"
+    ],
+    "faq_id": "A-20-02-27-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo' al intentar restaurar la licencia? Respuesta: Esto indica que se hizo algún cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no es el vinculado con la licencia. En este caso, no se podrá usar la herramienta y se debe enviar un oficio de reactivación."
   },
   {
     "q": "¿Qué nivel de incidencia tiene la desactivación de la licencia de MiAdminXML después de una actualización?",
-    "a": "El nivel de incidencia es 2 – Medio.",
+    "a": "Tiene un nivel de incidencia 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Clasificación",
     "keywords": [
       "nivel",
       "incidencia",
       "medio",
       "licencia",
-      "actualización"
-    ]
+      "desactivada"
+    ],
+    "faq_id": "A-20-02-27-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de incidencia tiene la desactivación de la licencia de MiAdminXML después de una actualización? Respuesta: Tiene un nivel de incidencia 2 – Medio."
   }
 ]

@@ -1,21 +1,24 @@
 [
   {
     "q": "¿Qué se necesita para usar la herramienta Valida Estado SAT en MAX?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "valida estado sat",
       "requisitos",
       "licencia",
       "miadminxml",
-      "periodo demostrativo",
-      "max"
-    ]
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta Valida Estado SAT en MAX? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se accede a la herramienta Valida Estado SAT en MiAdminXML?",
-    "a": "Se debe ingresar al programa MiAdminXML, dar clic en Administración XML 4.0, seleccionar RC/TIPO/AÑO/MES, y luego seleccionar la herramienta Valida Estado SAT ubicada en la parte superior derecha.",
+    "a": "Se debe ingresar al programa MiAdminXML, dar clic en Administración XML 4.0, seleccionar RC/TIPO/AÑO/MES y luego seleccionar la herramienta Valida Estado SAT ubicada en la parte superior derecha.",
     "product": "MiAdminXML",
+    "categoria": "Procedimiento",
     "keywords": [
       "acceso",
       "herramienta",
@@ -23,60 +26,68 @@
       "miadminxml",
       "administración xml",
       "pasos"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede a la herramienta Valida Estado SAT en MiAdminXML? Respuesta: Se debe ingresar al programa MiAdminXML, dar clic en Administración XML 4.0, seleccionar RC/TIPO/AÑO/MES y luego seleccionar la herramienta Valida Estado SAT ubicada en la parte superior derecha."
   },
   {
     "q": "¿Qué opciones aparecen al seleccionar la herramienta Valida Estado SAT?",
     "a": "Aparece una ventana emergente que permite elegir entre validar todos los XMLs o solo los seleccionados.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "opciones",
       "valida estado sat",
       "ventana emergente",
-      "xml",
-      "validar",
+      "validar xml",
       "seleccionar"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones aparecen al seleccionar la herramienta Valida Estado SAT? Respuesta: Aparece una ventana emergente que permite elegir entre validar todos los XMLs o solo los seleccionados."
   },
   {
     "q": "¿Cómo se sabe que la validación de los XMLs está en proceso?",
     "a": "El programa muestra una barra verde en la parte superior que indica que está trabajando en la validación.",
     "product": "MiAdminXML",
+    "categoria": "Procedimiento",
     "keywords": [
-      "proceso",
       "validación",
+      "proceso",
       "barra verde",
       "indicador",
-      "xml",
-      "valida estado sat"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se sabe que la validación de los XMLs está en proceso? Respuesta: El programa muestra una barra verde en la parte superior que indica que está trabajando en la validación."
   },
   {
-    "q": "¿Qué mensaje aparece al finalizar la validación con la herramienta Valida Estado SAT?",
-    "a": "Al término del proceso, aparece un mensaje indicando que la validación se realizó de manera correcta.",
+    "q": "¿Qué mensaje aparece al finalizar la validación de los XMLs?",
+    "a": "Al término del proceso aparece un mensaje indicando que la validación se realizó de manera correcta.",
     "product": "MiAdminXML",
+    "categoria": "Procedimiento",
     "keywords": [
       "mensaje",
-      "finalización",
       "validación",
       "correcta",
-      "valida estado sat",
+      "término",
       "proceso"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece al finalizar la validación de los XMLs? Respuesta: Al término del proceso aparece un mensaje indicando que la validación se realizó de manera correcta."
   },
   {
-    "q": "¿Qué canales de comunicación puede usar el cliente para consultar sobre la herramienta Valida Estado SAT?",
-    "a": "El cliente puede comunicarse por llamada, correo, Feedback o Facebook para consultar sobre el uso de la herramienta.",
+    "q": "¿Qué departamento de Computo Contable atiende las consultas sobre Valida Estado SAT?",
+    "a": "Las consultas son atendidas por el departamento de soporte o área correspondiente de Computo Contable.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "canales",
-      "comunicación",
-      "llamada",
-      "correo",
-      "feedback",
-      "facebook",
+      "departamento",
+      "soporte",
+      "computo contable",
       "consulta",
-      "valida estado sat"
-    ]
+      "atención"
+    ],
+    "faq_id": "A-20-03-15-01-01_Valida_EDO_Sat_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué departamento de Computo Contable atiende las consultas sobre Valida Estado SAT? Respuesta: Las consultas son atendidas por el departamento de soporte o área correspondiente de Computo Contable."
   }
 ]

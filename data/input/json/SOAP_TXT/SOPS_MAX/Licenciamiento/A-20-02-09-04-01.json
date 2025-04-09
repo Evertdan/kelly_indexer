@@ -1,64 +1,78 @@
 [
   {
-    "q": "¿Qué error se presenta cuando el número de serie es incorrecto en MiAdminXML?",
-    "a": "El error que se presenta es 'Número de serie incorrecto, por favor verifique, MAX: Incidencia 212: Este no es un número de serie valido'.",
+    "q": "¿Qué error ocurre cuando el número de serie es incorrecto en MiAdminXML?",
+    "a": "El error que ocurre es 'Número de serie incorrecto, por favor verifique' o 'Este no es un número de serie válido'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "error",
       "número de serie",
       "incorrecto",
-      "incidencia",
-      "max"
-    ]
+      "verificación",
+      "licencia"
+    ],
+    "faq_id": "A-20-02-09-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error ocurre cuando el número de serie es incorrecto en MiAdminXML? Respuesta: El error que ocurre es 'Número de serie incorrecto, por favor verifique' o 'Este no es un número de serie válido'."
   },
   {
-    "q": "¿Cuál es el tipo y nivel de la incidencia por número de serie incorrecto en MiAdminXML?",
+    "q": "¿Cuál es el tipo y nivel de la incidencia cuando la clave de licencia es inválida?",
     "a": "El tipo de incidencia es 'INC-02' y el nivel es '2 – Medio'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "tipo",
       "incidencia",
+      "tipo",
       "nivel",
-      "medio",
-      "inc-02"
-    ]
+      "clave inválida",
+      "licencia"
+    ],
+    "faq_id": "A-20-02-09-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el tipo y nivel de la incidencia cuando la clave de licencia es inválida? Respuesta: El tipo de incidencia es 'INC-02' y el nivel es '2 – Medio'."
   },
   {
     "q": "¿Qué se necesita para activar la clave de licencia en MiAdminXML?",
-    "a": "Se necesita contar con una licencia de MiAdminXML para activar la clave de licencia.",
+    "a": "Se necesita contar con una licencia de MiAdminXML y verificar que la clave de licencia sea correcta.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "activar",
       "clave",
       "licencia",
       "requisitos",
-      "miadminxml"
-    ]
+      "verificación"
+    ],
+    "faq_id": "A-20-02-09-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para activar la clave de licencia en MiAdminXML? Respuesta: Se necesita contar con una licencia de MiAdminXML y verificar que la clave de licencia sea correcta."
   },
   {
-    "q": "¿Qué mensaje de error aparece cuando la clave de licencia es inválida en MiAdminXML?",
+    "q": "¿Qué mensaje de error aparece cuando la clave de licencia es inválida?",
     "a": "El mensaje de error es 'Clave de Licencia inválida: La clave de Licencia que introdujo es incorrecta. ¡Por favor, verifique!'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "error",
-      "clave",
+      "clave inválida",
+      "mensaje",
       "licencia",
-      "inválida",
-      "mensaje"
-    ]
+      "verificación"
+    ],
+    "faq_id": "A-20-02-09-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje de error aparece cuando la clave de licencia es inválida? Respuesta: El mensaje de error es 'Clave de Licencia inválida: La clave de Licencia que introdujo es incorrecta. ¡Por favor, verifique!'."
   },
   {
-    "q": "¿Cuál es la solución recomendada para el error de clave de licencia inválida en MiAdminXML?",
-    "a": "La solución recomendada es verificar junto con el cliente la clave de Licencia, ya que puede haber algún carácter erróneo o faltante. Se sugiere copiar y pegar la clave directamente del correo que recibe el cliente.",
+    "q": "¿Cuál es la solución recomendada cuando la clave de licencia es inválida?",
+    "a": "La solución recomendada es verificar junto con el cliente la clave de licencia, ya que puede haber algún carácter erróneo o faltante. Se sugiere copiar y pegar la clave directamente del correo enviado al cliente.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "solución",
-      "error",
-      "clave",
-      "licencia",
+      "clave inválida",
       "copiar",
       "pegar",
-      "correo"
-    ]
+      "correo",
+      "verificación"
+    ],
+    "faq_id": "A-20-02-09-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la solución recomendada cuando la clave de licencia es inválida? Respuesta: La solución recomendada es verificar junto con el cliente la clave de licencia, ya que puede haber algún carácter erróneo o faltante. Se sugiere copiar y pegar la clave directamente del correo enviado al cliente."
   }
 ]

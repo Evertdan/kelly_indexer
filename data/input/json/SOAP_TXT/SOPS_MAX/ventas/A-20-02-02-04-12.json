@@ -1,99 +1,96 @@
 [
   {
-    "q": "¿Qué tipo de incidencia se describe en el texto?",
-    "a": "La incidencia descrita es del Tipo 02.",
+    "q": "¿Qué tipo de incidencia se reporta en el caso del cliente que paga a cuenta HSBC?",
+    "a": "Se reporta una incidencia tipo 02, nivel 2 – Medio.",
     "product": "General",
+    "categoria": "Incidencia",
     "keywords": [
       "incidencia",
       "tipo",
-      "02",
-      "descripción",
-      "situación"
-    ]
-  },
-  {
-    "q": "¿Cuál es el nivel de la incidencia reportada?",
-    "a": "El nivel de la incidencia es 2 – Medio.",
-    "product": "General",
-    "keywords": [
       "nivel",
-      "incidencia",
       "medio",
-      "prioridad",
-      "reporte"
-    ]
+      "cliente",
+      "hsbc"
+    ],
+    "faq_id": "A-20-02-02-04-12_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia se reporta en el caso del cliente que paga a cuenta HSBC? Respuesta: Se reporta una incidencia tipo 02, nivel 2 – Medio."
   },
   {
-    "q": "¿Qué banco utiliza el cliente para realizar pagos?",
-    "a": "El cliente realiza pagos a través de la cuenta HSBC.",
-    "product": "General",
-    "keywords": [
-      "banco",
-      "hsbc",
-      "pagos",
-      "cuenta",
-      "cliente"
-    ]
-  },
-  {
-    "q": "¿Qué acción se tomó para resolver la incidencia?",
+    "q": "¿Cuál fue el resultado de la incidencia con el pago a cuenta HSBC?",
     "a": "Se aplicó una excepción para recibir el pago por medio de HSBC.",
     "product": "General",
+    "categoria": "Resolución",
     "keywords": [
-      "acción",
-      "resolución",
+      "resultado",
       "excepción",
       "pago",
-      "hsbc"
-    ]
+      "hsbc",
+      "aplicar"
+    ],
+    "faq_id": "A-20-02-02-04-12_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál fue el resultado de la incidencia con el pago a cuenta HSBC? Respuesta: Se aplicó una excepción para recibir el pago por medio de HSBC."
   },
   {
     "q": "¿Qué información solicita el AMS al cliente para validar el pago?",
-    "a": "El AMS solicita la información del comprobante al cliente para validar si el pago fue realizado correctamente.",
+    "a": "El AMS solicita la información del comprobante al cliente para validar si el pago fue realizado de forma correcta.",
     "product": "General",
+    "categoria": "Validación",
     "keywords": [
       "ams",
+      "solicita",
       "información",
       "comprobante",
-      "validación",
+      "validar",
       "pago"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-12_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información solicita el AMS al cliente para validar el pago? Respuesta: El AMS solicita la información del comprobante al cliente para validar si el pago fue realizado de forma correcta."
   },
   {
     "q": "¿A nombre de quién se realizan actualmente las transferencias?",
-    "a": "Actualmente las transferencias se realizan a nombre de Cómputo Contable Soft.",
+    "a": "Actualmente las transferencias se realizan a nombre de Cómputo Contable Soft y a través del Banco BBVA.",
     "product": "General",
+    "categoria": "Transferencias",
     "keywords": [
       "transferencias",
       "nombre",
       "cómputo contable soft",
-      "actual",
-      "cuenta"
-    ]
-  },
-  {
-    "q": "¿Qué banco se utiliza actualmente para las transferencias?",
-    "a": "Las transferencias se realizan a través del Banco BBVA.",
-    "product": "General",
-    "keywords": [
       "banco",
-      "bbva",
-      "transferencias",
-      "actual",
-      "pagos"
-    ]
+      "bbva"
+    ],
+    "faq_id": "A-20-02-02-04-12_q3",
+    "texto_para_vectorizar": "Pregunta: ¿A nombre de quién se realizan actualmente las transferencias? Respuesta: Actualmente las transferencias se realizan a nombre de Cómputo Contable Soft y a través del Banco BBVA."
   },
   {
-    "q": "¿Qué se recomienda al cliente hacer con el dinero transferido a la cuenta incorrecta?",
+    "q": "¿Qué se le recomienda al cliente después de validar la transferencia a HSBC?",
     "a": "Se invita al cliente a validar con su banco la devolución del dinero ya que es una cuenta que ya no está activa.",
     "product": "General",
+    "categoria": "Recomendación",
     "keywords": [
       "cliente",
+      "validar",
       "devolución",
       "dinero",
       "cuenta",
       "inactiva",
       "banco"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-12_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se le recomienda al cliente después de validar la transferencia a HSBC? Respuesta: Se invita al cliente a validar con su banco la devolución del dinero ya que es una cuenta que ya no está activa."
+  },
+  {
+    "q": "¿A nombre de quién estaba la cuenta HSBC a la que se hizo la transferencia?",
+    "a": "La transferencia se hizo a una cuenta del banco HSBC a nombre de César Rogelio Coronado Bárcenas.",
+    "product": "General",
+    "categoria": "Transferencias",
+    "keywords": [
+      "transferencia",
+      "cuenta",
+      "hsbc",
+      "nombre",
+      "césar rogelio coronado bárcenas"
+    ],
+    "faq_id": "A-20-02-02-04-12_q5",
+    "texto_para_vectorizar": "Pregunta: ¿A nombre de quién estaba la cuenta HSBC a la que se hizo la transferencia? Respuesta: La transferencia se hizo a una cuenta del banco HSBC a nombre de César Rogelio Coronado Bárcenas."
   }
 ]

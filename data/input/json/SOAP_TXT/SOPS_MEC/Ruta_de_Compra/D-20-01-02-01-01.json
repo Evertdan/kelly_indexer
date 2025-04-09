@@ -3,122 +3,136 @@
     "q": "¿Qué documentos se pueden enviar para el alta de proveedor en Computo Contable?",
     "a": "Se pueden enviar la Constancia de situación fiscal, Opinión de cumplimiento, RFC e INE frontal, siempre que estén vigentes.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
-      "alta proveedor",
       "documentos",
+      "alta proveedor",
       "constancia fiscal",
       "opinión cumplimiento",
       "rfc",
       "ine frontal",
       "vigentes"
-    ]
+    ],
+    "faq_id": "D-20-01-02-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documentos se pueden enviar para el alta de proveedor en Computo Contable? Respuesta: Se pueden enviar la Constancia de situación fiscal, Opinión de cumplimiento, RFC e INE frontal, siempre que estén vigentes."
   },
   {
     "q": "¿Qué información se puede proporcionar si el cliente solo solicita RFC y Razón Social por teléfono?",
-    "a": "Se puede proporcionar el RFC y la Razón Social si el cliente contacta vía telefónica y solo solicita esa información.",
+    "a": "Se puede proporcionar el RFC y la Razón Social si el cliente contacta vía telefónica y solo solicita esos datos.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
       "rfc",
       "razón social",
       "teléfono",
       "información",
       "proporcionar"
-    ]
+    ],
+    "faq_id": "D-20-01-02-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede proporcionar si el cliente solo solicita RFC y Razón Social por teléfono? Respuesta: Se puede proporcionar el RFC y la Razón Social si el cliente contacta vía telefónica y solo solicita esos datos."
   },
   {
-    "q": "¿Qué se debe hacer si el cliente solicita más documentos para el alta de proveedor?",
-    "a": "Se debe solicitar un correo electrónico al cliente para enviar los documentos permitidos, como la Constancia de situación fiscal, Opinión de cumplimiento, RFC e INE frontal.",
+    "q": "¿Qué documentos no se pueden enviar al cliente para el alta de proveedor?",
+    "a": "No se pueden enviar documentos que contengan la firma de LSC. César Rogelio Coronado Bárcenas.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
       "documentos",
-      "solicitud",
-      "correo electrónico",
-      "envío",
-      "proveedor"
-    ]
-  },
-  {
-    "q": "¿Qué pasos se deben seguir para enviar los documentos por correo electrónico?",
-    "a": "Los pasos son: 1) Ingresar al correo, 2) Insertar la plantilla 'Datos alta proveedor', 3) Enviar los documentos permitidos (Constancia de situación fiscal, Opinión de cumplimiento, RFC, INE frontal).",
-    "product": "Computo Contable",
-    "keywords": [
-      "pasos",
-      "correo electrónico",
-      "plantilla",
-      "documentos",
-      "envío"
-    ]
-  },
-  {
-    "q": "¿Qué restricciones hay al enviar documentos para el alta de proveedor?",
-    "a": "Los documentos deben estar vigentes y no pueden contener la firma de LSC. César Rogelio Coronado Bárcenas.",
-    "product": "Computo Contable",
-    "keywords": [
-      "restricciones",
-      "documentos",
-      "vigentes",
+      "no enviar",
       "firma",
-      "prohibido"
-    ]
+      "restricciones",
+      "proveedor"
+    ],
+    "faq_id": "D-20-01-02-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documentos no se pueden enviar al cliente para el alta de proveedor? Respuesta: No se pueden enviar documentos que contengan la firma de LSC. César Rogelio Coronado Bárcenas."
   },
   {
     "q": "¿Qué hacer si el cliente solicita un comprobante de domicilio?",
     "a": "Se le informa que el domicilio ya está en la cédula y se evita enviar el comprobante. Si es muy necesario, se pregunta para qué fines lo solicita.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
       "comprobante domicilio",
       "cedula",
-      "domicilio",
+      "información",
       "solicitud",
-      "fines"
-    ]
+      "cliente"
+    ],
+    "faq_id": "D-20-01-02-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente solicita un comprobante de domicilio? Respuesta: Se le informa que el domicilio ya está en la cédula y se evita enviar el comprobante. Si es muy necesario, se pregunta para qué fines lo solicita."
   },
   {
     "q": "¿Qué hacer si el cliente solicita la carátula de cuenta bancaria?",
-    "a": "Se le informa que toda la compra es en línea y no se tiene acceso a esa información.",
+    "a": "Se le informa que toda la compra es en línea y que no se tiene acceso a esa información.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
-      "carátula",
-      "cuenta bancaria",
+      "caratula cuenta",
+      "banco",
+      "información",
       "compra en línea",
-      "acceso",
-      "información"
-    ]
+      "acceso"
+    ],
+    "faq_id": "D-20-01-02-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente solicita la carátula de cuenta bancaria? Respuesta: Se le informa que toda la compra es en línea y que no se tiene acceso a esa información."
   },
   {
     "q": "¿Qué hacer si el cliente envía un contrato o términos y condiciones para firmar?",
-    "a": "Se deben leer, anotar lo que no se entienda, pasarlo a revisión al gerente de operaciones, quien informará si pasa a firma o no y explicará las razones en caso negativo.",
+    "a": "Se deben leer, anotar lo que no se entienda, pasarlo a revisión al gerente de operaciones, y este informará si pasa a firma o no, explicando el motivo en caso negativo.",
     "product": "Computo Contable",
+    "categoria": "Contratos",
     "keywords": [
       "contrato",
       "términos y condiciones",
       "firma",
       "revisión",
       "gerente operaciones"
-    ]
+    ],
+    "faq_id": "D-20-01-02-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente envía un contrato o términos y condiciones para firmar? Respuesta: Se deben leer, anotar lo que no se entienda, pasarlo a revisión al gerente de operaciones, y este informará si pasa a firma o no, explicando el motivo en caso negativo."
   },
   {
-    "q": "¿Qué documentos no se pueden enviar para el alta de proveedor?",
-    "a": "No se pueden enviar documentos que contengan la firma de LSC. César Rogelio Coronado Bárcenas ni documentos no vigentes.",
+    "q": "¿Qué pasos seguir para enviar los documentos de alta de proveedor por correo electrónico?",
+    "a": "Ingresar al correo, insertar la plantilla 'Datos alta proveedor', y enviar los documentos permitidos (Constancia de situación fiscal, Opinión de cumplimiento, RFC, INE frontal).",
     "product": "Computo Contable",
+    "categoria": "Procedimientos",
     "keywords": [
+      "pasos",
+      "enviar",
+      "correo electrónico",
       "documentos",
-      "no enviar",
-      "firma",
-      "vigentes",
-      "restricciones"
-    ]
+      "alta proveedor"
+    ],
+    "faq_id": "D-20-01-02-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir para enviar los documentos de alta de proveedor por correo electrónico? Respuesta: Ingresar al correo, insertar la plantilla 'Datos alta proveedor', y enviar los documentos permitidos (Constancia de situación fiscal, Opinión de cumplimiento, RFC, INE frontal)."
   },
   {
-    "q": "¿Qué hacer si los documentos para el alta de proveedor no están vigentes?",
-    "a": "Se debe solicitar los documentos vigentes al líder de área o al gerente de operaciones.",
+    "q": "¿Qué hacer si los documentos requeridos no están vigentes?",
+    "a": "Solicitarlos al líder de área o al gerente de operaciones.",
     "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
     "keywords": [
       "documentos",
       "vigentes",
       "solicitar",
       "líder área",
       "gerente operaciones"
-    ]
+    ],
+    "faq_id": "D-20-01-02-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si los documentos requeridos no están vigentes? Respuesta: Solicitarlos al líder de área o al gerente de operaciones."
+  },
+  {
+    "q": "¿Se cuenta con Acta Constitutiva para el alta de proveedor?",
+    "a": "No, ya que es una persona física con actividad empresarial.",
+    "product": "Computo Contable",
+    "categoria": "Alta de Proveedor",
+    "keywords": [
+      "acta constitutiva",
+      "persona física",
+      "actividad empresarial",
+      "no disponible"
+    ],
+    "faq_id": "D-20-01-02-01-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Se cuenta con Acta Constitutiva para el alta de proveedor? Respuesta: No, ya que es una persona física con actividad empresarial."
   }
 ]

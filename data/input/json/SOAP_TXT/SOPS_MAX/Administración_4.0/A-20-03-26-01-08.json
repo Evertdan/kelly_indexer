@@ -1,67 +1,96 @@
 [
   {
     "q": "¿Qué es la herramienta 'Copiar ruta de XML' en MiAdminXML?",
-    "a": "La herramienta 'Copiar ruta de XML' permite pasar al portapapeles la ubicación del archivo seleccionado en el registro para localizarlo fácilmente, por ejemplo al cargar pólizas en programas contables.",
+    "a": "La herramienta 'Copiar ruta de XML' permite pasar al portapapeles la ubicación del archivo seleccionado en el registro, facilitando su localización en otros programas o ubicaciones.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "copiar ruta",
       "xml",
       "herramienta",
-      "portapapeles",
       "ubicación",
-      "archivo",
-      "localizar"
-    ]
+      "portapapeles",
+      "localizar",
+      "archivo"
+    ],
+    "faq_id": "A-20-03-26-01-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta 'Copiar ruta de XML' en MiAdminXML? Respuesta: La herramienta 'Copiar ruta de XML' permite pasar al portapapeles la ubicación del archivo seleccionado en el registro, facilitando su localización en otros programas o ubicaciones."
   },
   {
-    "q": "¿Qué se necesita para usar la herramienta 'Copiar ruta de XML'?",
-    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "q": "¿Qué requisitos se necesitan para usar la herramienta 'Copiar ruta de XML'?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo del software.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "copiar ruta",
-      "xml"
-    ]
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-26-01-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta 'Copiar ruta de XML'? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo del software."
   },
   {
-    "q": "¿Cómo acceder a la herramienta 'Copiar ruta de XML' en MiAdminXML?",
-    "a": "Para acceder: 1) Ingresar al Módulo de Administración de XML, 2) Seleccionar administración de XML 4.0, 3) Seleccionar RFC, tipo de comprobante, año y mes(es), 4) Dar clic en leer XMLS, 5) Dar clic al botón Copiar ruta (s) XML.",
+    "q": "¿Cómo acceder al módulo de Administración de XML en MiAdminXML?",
+    "a": "Para acceder al módulo de Administración de XML, se debe ingresar al Módulo de Administración de XML y seleccionar 'Administración de XML 4.0'.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
-      "acceso",
       "módulo",
-      "administración xml",
+      "administración",
+      "xml",
+      "acceso",
+      "4.0"
+    ],
+    "faq_id": "A-20-03-26-01-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo acceder al módulo de Administración de XML en MiAdminXML? Respuesta: Para acceder al módulo de Administración de XML, se debe ingresar al Módulo de Administración de XML y seleccionar 'Administración de XML 4.0'."
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para copiar la ruta de un XML en MiAdminXML?",
+    "a": "Los pasos son: 1) Ingresar al Módulo de Administración de XML, 2) Seleccionar 'Administración de XML 4.0', 3) Seleccionar RFC, tipo de comprobante, año y mes(es), 4) Dar clic en 'Leer XMLS', 5) Dar clic al botón 'Copiar ruta(s) XML' y confirmar en la ventana emergente.",
+    "product": "MiAdminXML",
+    "categoria": "Procedimientos",
+    "keywords": [
       "pasos",
+      "copiar ruta",
+      "xml",
+      "procedimiento",
       "seleccionar",
       "leer xmls",
       "botón"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-08_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para copiar la ruta de un XML en MiAdminXML? Respuesta: Los pasos son: 1) Ingresar al Módulo de Administración de XML, 2) Seleccionar 'Administración de XML 4.0', 3) Seleccionar RFC, tipo de comprobante, año y mes(es), 4) Dar clic en 'Leer XMLS', 5) Dar clic al botón 'Copiar ruta(s) XML' y confirmar en la ventana emergente."
   },
   {
-    "q": "¿Cómo seleccionar múltiples meses al usar la herramienta 'Copiar ruta de XML'?",
-    "a": "Para selección múltiple de meses es necesario palomear los meses necesarios en la interfaz.",
+    "q": "¿Cómo se realiza una selección múltiple de meses en la herramienta 'Copiar ruta de XML'?",
+    "a": "Para realizar una selección múltiple de meses, es necesario palomear los meses deseados en la interfaz de selección.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "selección múltiple",
       "meses",
       "palomear",
       "copiar ruta",
       "xml"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-08_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se realiza una selección múltiple de meses en la herramienta 'Copiar ruta de XML'? Respuesta: Para realizar una selección múltiple de meses, es necesario palomear los meses deseados en la interfaz de selección."
   },
   {
-    "q": "¿Qué sucede después de hacer clic en el botón 'Copiar ruta (s) XML'?",
-    "a": "Aparecerá una ventana para confirmar el movimiento y luego podrás copiar la ruta donde desees.",
+    "q": "¿Qué sucede después de dar clic al botón 'Copiar ruta(s) XML'?",
+    "a": "Aparecerá una ventana emergente para confirmar el movimiento de copiar la ruta del archivo seleccionado al portapapeles.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "confirmación",
+      "botón",
+      "copiar ruta",
       "ventana",
-      "copiar",
-      "ruta",
-      "ubicación",
-      "archivo"
-    ]
+      "confirmación",
+      "portapapeles"
+    ],
+    "faq_id": "A-20-03-26-01-08_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de dar clic al botón 'Copiar ruta(s) XML'? Respuesta: Aparecerá una ventana emergente para confirmar el movimiento de copiar la ruta del archivo seleccionado al portapapeles."
   }
 ]

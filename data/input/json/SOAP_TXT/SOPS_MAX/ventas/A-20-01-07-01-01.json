@@ -1,66 +1,62 @@
 [
   {
-    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales y de descuentos?",
+    "q": "¿Cómo puede un cliente dejar de recibir correos promocionales?",
     "a": "El cliente puede desuscribirse de los correos promocionales utilizando la opción de desuscripción que se encuentra en la parte inferior de los correos que enviamos.",
     "product": "General",
+    "categoria": "Suscripción",
     "keywords": [
       "correos",
       "promocionales",
-      "descuentos",
       "desuscripción",
-      "opción"
-    ]
+      "opción",
+      "cliente"
+    ],
+    "faq_id": "A-20-01-07-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente dejar de recibir correos promocionales? Respuesta: El cliente puede desuscribirse de los correos promocionales utilizando la opción de desuscripción que se encuentra en la parte inferior de los correos que enviamos."
   },
   {
-    "q": "¿Qué tipos de correos son obligatorios y no se pueden desuscribir?",
-    "a": "Los correos obligatorios son aquellos relacionados con la descarga, validación, factura y entrega de licencia. Estos no se pueden desuscribir.",
+    "q": "¿Qué tipos de correos son obligatorios y cuáles se pueden desuscribir?",
+    "a": "Los correos obligatorios son los relacionados con descarga, validación, factura y entrega de licencia. Los correos promocionales son los que se pueden desuscribir.",
     "product": "General",
+    "categoria": "Políticas",
     "keywords": [
       "correos",
       "obligatorios",
-      "descarga",
-      "validación",
-      "factura",
-      "licencia"
-    ]
+      "promocionales",
+      "desuscripción",
+      "políticas"
+    ],
+    "faq_id": "A-20-01-07-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de correos son obligatorios y cuáles se pueden desuscribir? Respuesta: Los correos obligatorios son los relacionados con descarga, validación, factura y entrega de licencia. Los correos promocionales son los que se pueden desuscribir."
   },
   {
     "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
     "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM.",
     "product": "General",
+    "categoria": "Políticas",
     "keywords": [
-      "periodo",
-      "gratuito",
+      "periodo gratuito",
       "correos",
       "promocionales",
-      "desuscribirse",
+      "desuscripción",
       "spam"
-    ]
+    ],
+    "faq_id": "A-20-01-07-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales? Respuesta: No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptarlos sin marcar como SPAM."
   },
   {
     "q": "¿Qué se debe hacer al abrir el programa por primera vez para evitar recibir correos promocionales?",
     "a": "Al abrir el programa por primera vez, no se deben marcar las casillas en la pantalla de Términos y Condiciones para evitar recibir correos promocionales.",
     "product": "General",
+    "categoria": "Configuración Inicial",
     "keywords": [
       "programa",
       "primera vez",
       "términos",
       "condiciones",
-      "correos",
-      "promocionales",
-      "marcar",
-      "casillas"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de correos se pueden desuscribir?",
-    "a": "Los correos que se pueden desuscribir son los promocionales.",
-    "product": "General",
-    "keywords": [
-      "correos",
-      "promocionales",
-      "desuscribir",
-      "tipo"
-    ]
+      "correos promocionales"
+    ],
+    "faq_id": "A-20-01-07-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer al abrir el programa por primera vez para evitar recibir correos promocionales? Respuesta: Al abrir el programa por primera vez, no se deben marcar las casillas en la pantalla de Términos y Condiciones para evitar recibir correos promocionales."
   }
 ]

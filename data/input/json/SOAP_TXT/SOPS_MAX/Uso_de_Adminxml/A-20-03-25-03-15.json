@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué es la herramienta agrupaciones en MiAdminXML?",
-    "a": "La herramienta agrupaciones en MiAdminXML reúne archivos XML/PDF en carpetas dependiendo de tus necesidades, como por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos.",
+    "a": "La herramienta agrupaciones en MiAdminXML reúne archivos XML/PDF en carpetas según necesidades específicas como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "agrupaciones",
       "herramienta",
@@ -10,40 +11,48 @@
       "pdf",
       "carpetas",
       "organizar",
-      "necesidades"
-    ]
+      "archivos"
+    ],
+    "faq_id": "A-20-03-25-03-15_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta agrupaciones en MiAdminXML? Respuesta: La herramienta agrupaciones en MiAdminXML reúne archivos XML/PDF en carpetas según necesidades específicas como Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la herramienta agrupaciones?",
     "a": "Para usar la herramienta agrupaciones, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "acceso",
-      "herramienta",
-      "agrupaciones"
-    ]
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-03-15_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta agrupaciones? Respuesta: Para usar la herramienta agrupaciones, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se utiliza la herramienta agrupaciones en MiAdminXML?",
-    "a": "Para usar la herramienta agrupaciones, se selecciona la opción de agrupar en la pestaña correspondiente. Luego, se completan las ventanas que aparecen para la agrupación, y al finalizar, se crea una carpeta en el Disco local 'C' y los archivos aparecerán en el sistema.",
+    "a": "Se selecciona la opción de agrupar en la pestaña correspondiente, se completan los datos en las ventanas que aparecen y, una vez finalizada la agrupación, se crea una carpeta en el Disco local 'C' y los archivos aparecen en el sistema.",
     "product": "MiAdminXML",
+    "categoria": "Uso",
     "keywords": [
       "uso",
+      "agrupar",
       "pestaña",
       "ventanas",
-      "completar",
       "disco local",
       "carpeta",
-      "sistema"
-    ]
+      "proceso"
+    ],
+    "faq_id": "A-20-03-25-03-15_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se utiliza la herramienta agrupaciones en MiAdminXML? Respuesta: Se selecciona la opción de agrupar en la pestaña correspondiente, se completan los datos en las ventanas que aparecen y, una vez finalizada la agrupación, se crea una carpeta en el Disco local 'C' y los archivos aparecen en el sistema."
   },
   {
     "q": "¿Qué tipos de agrupaciones se pueden realizar con esta herramienta?",
-    "a": "La herramienta permite agrupar archivos por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina y Pagos.",
+    "a": "Se pueden agrupar archivos por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "tipos",
       "agrupaciones",
@@ -56,19 +65,24 @@
       "traslados",
       "nomina",
       "pagos"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-15_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de agrupaciones se pueden realizar con esta herramienta? Respuesta: Se pueden agrupar archivos por Importe, Emisor, Receptor, Cancelados, Código, Notas de Crédito, Traslados, Nomina o Pagos."
   },
   {
     "q": "¿Dónde se guardan los archivos después de agruparlos?",
-    "a": "Después de completar la agrupación, se crea una carpeta en el Disco local 'C' y los archivos aparecerán en el sistema.",
+    "a": "Los archivos agrupados se guardan en una carpeta creada en el Disco local 'C' y aparecen en el sistema de MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Almacenamiento",
     "keywords": [
       "guardar",
       "archivos",
       "disco local",
       "carpeta",
-      "sistema",
-      "ubicación"
-    ]
+      "ubicación",
+      "almacenamiento"
+    ],
+    "faq_id": "A-20-03-25-03-15_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guardan los archivos después de agruparlos? Respuesta: Los archivos agrupados se guardan en una carpeta creada en el Disco local 'C' y aparecen en el sistema de MiAdminXML."
   }
 ]

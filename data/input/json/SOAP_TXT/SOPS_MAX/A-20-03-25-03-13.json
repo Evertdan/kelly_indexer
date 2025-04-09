@@ -1,88 +1,67 @@
 [
   {
-    "q": "¿Qué versión y revisión tiene el documento sobre la generación masiva de PDF?",
-    "a": "El documento tiene la versión 09.09.2020.04 y la revisión 09.09.2020.",
-    "product": "General",
-    "keywords": [
-      "versión",
-      "revisión",
-      "documento",
-      "generación",
-      "pdf"
-    ]
-  },
-  {
-    "q": "¿Qué área está relacionada con la generación masiva de PDF en MiAdminXML?",
-    "a": "El área relacionada es Soporte Temprano.",
+    "q": "¿Qué se necesita para generar PDFs masivamente en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Generación de PDF",
     "keywords": [
-      "área",
-      "soporte",
-      "temprano",
-      "generación",
-      "pdf"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de soporte se brinda para la generación masiva de PDF?",
-    "a": "El tipo de soporte es ST (Soporte Temprano).",
-    "product": "MiAdminXML",
-    "keywords": [
-      "tipo",
-      "soporte",
-      "st",
-      "generación",
-      "pdf"
-    ]
-  },
-  {
-    "q": "¿Cuál es el nivel de soporte para la generación masiva de PDF?",
-    "a": "El nivel de soporte es Nivel 1 - Temprano.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "nivel",
-      "soporte",
-      "temprano",
-      "generación",
-      "pdf"
-    ]
-  },
-  {
-    "q": "¿Qué recurso se utiliza para la generación masiva de PDF?",
-    "a": "El recurso utilizado es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recurso",
-      "miadminxml",
-      "generación",
-      "pdf"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para solucionar problemas de generación masiva de PDF?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisitos",
+      "pdf",
+      "generación masiva",
       "licencia",
       "profesional",
-      "periodo",
-      "demostrativo",
-      "correo",
-      "electrónico"
-    ]
+      "periodo demostrativo",
+      "requisitos",
+      "soporte"
+    ],
+    "faq_id": "A-20-03-25-03-13_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar PDFs masivamente en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué solución se ofrece para la generación masiva de PDF en MiAdminXML?",
-    "a": "La solución ofrecida es convertir todos los XML a archivos PDF.",
+    "q": "¿Qué funcionalidad ofrece la solución 1 en MiAdminXML?",
+    "a": "La solución 1 permite convertir todos los XML a archivos PDF.",
     "product": "MiAdminXML",
+    "categoria": "Generación de PDF",
     "keywords": [
       "solución",
       "convertir",
       "xml",
       "pdf",
+      "funcionalidad",
+      "archivos"
+    ],
+    "faq_id": "A-20-03-25-03-13_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué funcionalidad ofrece la solución 1 en MiAdminXML? Respuesta: La solución 1 permite convertir todos los XML a archivos PDF."
+  },
+  {
+    "q": "¿Qué nivel de soporte tiene la generación masiva de PDF en MiAdminXML?",
+    "a": "La generación masiva de PDF tiene un nivel de soporte Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "soporte",
+      "nivel",
+      "temprano",
       "generación",
+      "pdf",
       "masiva"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-13_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte tiene la generación masiva de PDF en MiAdminXML? Respuesta: La generación masiva de PDF tiene un nivel de soporte Nivel 1 - Temprano."
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento para MiAdminXML?",
+    "a": "El documento describe una situación relacionada con la generación masiva de PDF.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "situación",
+      "descripción",
+      "generación",
+      "pdf",
+      "masiva",
+      "documento"
+    ],
+    "faq_id": "A-20-03-25-03-13_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de situación se describe en el documento para MiAdminXML? Respuesta: El documento describe una situación relacionada con la generación masiva de PDF."
   }
 ]

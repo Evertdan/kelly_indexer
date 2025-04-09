@@ -3,67 +3,63 @@
     "q": "¿Qué se necesita para utilizar la herramienta de PDF masivos en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "pdf masivos",
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-13_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la herramienta de PDF masivos en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cómo se utiliza la herramienta de PDF masivos en MiAdminXML?",
-    "a": "Para utilizar la herramienta de PDF masivos, se debe ingresar al módulo de administración, seleccionar RFC, Tipo, Año y Mes, y cuando aparezca la información de los XML, seleccionar la herramienta de PDF masivos.",
+    "q": "¿Cómo se accede a la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Se debe ingresar al módulo de administración, seleccionar RFC, Tipo, Año y Mes, y cuando aparezca la información de los XML, seleccionar la herramienta de PDF masivos.",
     "product": "MiAdminXML",
+    "categoria": "Uso",
     "keywords": [
+      "acceso",
       "pdf masivos",
-      "uso",
-      "herramienta",
       "módulo administración",
-      "rfc",
+      "seleccionar rfc",
       "tipo",
       "año",
       "mes"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-13_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede a la herramienta de PDF masivos en MiAdminXML? Respuesta: Se debe ingresar al módulo de administración, seleccionar RFC, Tipo, Año y Mes, y cuando aparezca la información de los XML, seleccionar la herramienta de PDF masivos."
   },
   {
-    "q": "¿Qué ventaja ofrece la herramienta de PDF masivos en MiAdminXML?",
-    "a": "La herramienta de PDF masivos permite convertir todos los XML en archivos PDF masivamente, facilitando y acelerando el proceso de representación de los XML.",
+    "q": "¿Qué hace la herramienta de PDF masivos en MiAdminXML?",
+    "a": "Permite convertir todos los XML en archivos PDF masivamente, facilitando el proceso de representación de los XML. Muestra el PDF creado seguido del XML correspondiente.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
+      "herramienta",
       "pdf masivos",
-      "ventaja",
-      "convertir",
-      "xml",
+      "convertir xml",
       "archivos pdf",
-      "proceso rápido"
-    ]
+      "representación",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-25-03-13_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace la herramienta de PDF masivos en MiAdminXML? Respuesta: Permite convertir todos los XML en archivos PDF masivamente, facilitando el proceso de representación de los XML. Muestra el PDF creado seguido del XML correspondiente."
   },
   {
-    "q": "¿Cómo se organizan los archivos después de usar la herramienta de PDF masivos en MiAdminXML?",
-    "a": "Después de usar la herramienta de PDF masivos, la organización dentro de la bóveda mostrará primero el PDF creado y enseguida el XML del PDF.",
+    "q": "¿Cómo se organizan los archivos después de usar la herramienta de PDF masivos?",
+    "a": "Después de usar la herramienta, se muestra el PDF creado y enseguida el XML del PDF.",
     "product": "MiAdminXML",
+    "categoria": "Organización",
     "keywords": [
-      "pdf masivos",
       "organización",
-      "bóveda",
-      "pdf",
-      "xml",
-      "archivos"
-    ]
-  },
-  {
-    "q": "¿Qué información se debe seleccionar antes de usar la herramienta de PDF masivos en MiAdminXML?",
-    "a": "Antes de usar la herramienta de PDF masivos, se debe seleccionar el RFC, Tipo, Año y Mes correspondientes a los XML que se desean convertir.",
-    "product": "MiAdminXML",
-    "keywords": [
       "pdf masivos",
-      "seleccionar",
-      "rfc",
-      "tipo",
-      "año",
-      "mes",
-      "xml"
-    ]
+      "pdf creado",
+      "xml",
+      "bóveda"
+    ],
+    "faq_id": "A-20-03-25-03-13_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se organizan los archivos después de usar la herramienta de PDF masivos? Respuesta: Después de usar la herramienta, se muestra el PDF creado y enseguida el XML del PDF."
   }
 ]

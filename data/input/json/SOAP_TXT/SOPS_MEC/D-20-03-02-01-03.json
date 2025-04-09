@@ -1,63 +1,52 @@
 [
   {
-    "q": "¿Cuánto tiempo tiene el cliente para pagar la ficha de pago generada?",
+    "q": "¿Cuánto tiempo tiene el cliente para pagar la ficha de pago que generó?",
     "a": "El cliente tiene 8 días para realizar el pago a partir de la fecha de emisión.",
-    "product": "Ficha de Pago",
+    "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "tiempo",
-      "pago",
-      "ficha",
+      "ficha de pago",
+      "tiempo de pago",
       "días",
-      "fecha",
-      "emisión",
+      "fecha de emisión",
       "cliente",
+      "pago",
       "vigencia"
-    ]
+    ],
+    "faq_id": "D-20-03-02-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tiene el cliente para pagar la ficha de pago que generó? Respuesta: El cliente tiene 8 días para realizar el pago a partir de la fecha de emisión."
   },
   {
     "q": "¿Dónde puede el cliente encontrar la fecha de vigencia de su ficha de pago?",
     "a": "En la parte superior izquierda de la ficha de pago se encuentra la fecha de vigencia.",
-    "product": "Ficha de Pago",
+    "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "fecha",
-      "vigencia",
-      "ficha",
-      "pago",
+      "ficha de pago",
+      "fecha de vigencia",
       "ubicación",
-      "superior",
-      "izquierda",
-      "cliente"
-    ]
-  },
-  {
-    "q": "¿Qué debe hacer el ejecutivo cuando un cliente pregunta sobre el tiempo para pagar su ficha de pago?",
-    "a": "El ejecutivo debe informar al cliente que tiene 8 días para realizar el pago a partir de la fecha de emisión y señalar que la fecha de vigencia se encuentra en la parte superior izquierda de la ficha de pago.",
-    "product": "Ficha de Pago",
-    "keywords": [
-      "ejecutivo",
-      "informar",
+      "superior izquierda",
       "cliente",
-      "tiempo",
-      "pago",
-      "fecha",
-      "emisión",
-      "vigencia",
-      "ficha"
-    ]
+      "información"
+    ],
+    "faq_id": "D-20-03-02-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puede el cliente encontrar la fecha de vigencia de su ficha de pago? Respuesta: En la parte superior izquierda de la ficha de pago se encuentra la fecha de vigencia."
   },
   {
-    "q": "¿Qué tipo de consulta es la pregunta sobre el tiempo para pagar la ficha de pago?",
-    "a": "Es una consulta tipo FAQ 03, de nivel 1 (bajo).",
-    "product": "Ficha de Pago",
+    "q": "¿Qué debe hacer el cliente si necesita saber el tiempo que tiene para pagar su ficha de pago?",
+    "a": "El cliente puede solicitar información al ejecutivo, quien le informará que tiene 8 días para pagar a partir de la fecha de emisión, o verificar la fecha de vigencia en la parte superior izquierda de su ficha de pago.",
+    "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "consulta",
-      "tipo",
-      "faq",
-      "nivel",
-      "bajo",
-      "pregunta",
-      "tiempo",
-      "pago"
-    ]
+      "ficha de pago",
+      "información",
+      "ejecutivo",
+      "tiempo de pago",
+      "fecha de emisión",
+      "fecha de vigencia",
+      "consulta"
+    ],
+    "faq_id": "D-20-03-02-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente si necesita saber el tiempo que tiene para pagar su ficha de pago? Respuesta: El cliente puede solicitar información al ejecutivo, quien le informará que tiene 8 días para pagar a partir de la fecha de emisión, o verificar la fecha de vigencia en la parte superior izquierda de su ficha de pago."
   }
 ]

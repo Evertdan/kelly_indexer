@@ -1,112 +1,93 @@
 [
   {
-    "q": "¿Qué tipo de problema se describe en el texto?",
-    "a": "El usuario indica que recibe los correos electrónicos en la bandeja de SPAM.",
+    "q": "¿Qué debo hacer si los correos de MiAdminXML llegan a la bandeja de SPAM en Outlook?",
+    "a": "Para mover los correos de SPAM a la bandeja de entrada en Outlook, haz clic derecho sobre el correo y selecciona 'Marcar como correo deseado'. Además, agrega el contacto 'ventas@correo1.computocontable.com' y el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook.",
     "product": "MiAdminXML",
-    "keywords": [
-      "problema",
-      "correos",
-      "spam",
-      "bandeja",
-      "entrada"
-    ]
-  },
-  {
-    "q": "¿Cuál es el nivel de prioridad del problema descrito?",
-    "a": "El nivel de prioridad es 2 – Medio.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "nivel",
-      "prioridad",
-      "medio",
-      "incidente",
-      "problema"
-    ]
-  },
-  {
-    "q": "¿Qué se necesita para recibir soporte según las políticas mencionadas?",
-    "a": "Contar con licencia MiAdminXML o encontrarse en periodo demostrativo, de lo contrario se envía solución por correo electrónico.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "politicas",
-      "licencia",
-      "demostrativo",
-      "soporte",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Cuál es el alcance de la solución propuesta?",
-    "a": "Traslado de correos electrónicos Spam a Bandeja de entrada.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "alcance",
-      "solucion",
-      "spam",
-      "bandeja",
-      "entrada"
-    ]
-  },
-  {
-    "q": "¿Qué pasos se deben seguir en Outlook para mover correos de spam a la bandeja de entrada?",
-    "a": "Dar clic derecho sobre el correo, seleccionar 'Marcar como correo deseado'. Agregar contacto con el correo 'ventas@correo1.computocontable.com' y agregar el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
-    "product": "MiAdminXML",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "outlook",
       "spam",
-      "correo",
-      "deseado",
-      "contacto",
-      "remitentes",
-      "seguros"
-    ]
+      "correo deseado",
+      "contactos",
+      "remitentes seguros",
+      "configuración"
+    ],
+    "faq_id": "A-20-02-06-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si los correos de MiAdminXML llegan a la bandeja de SPAM en Outlook? Respuesta: Para mover los correos de SPAM a la bandeja de entrada en Outlook, haz clic derecho sobre el correo y selecciona 'Marcar como correo deseado'. Además, agrega el contacto 'ventas@correo1.computocontable.com' y el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook."
   },
   {
-    "q": "¿Cómo se agrega un contacto en Gmail para evitar que los correos vayan a spam?",
-    "a": "Iniciar sesión en Gmail, ir a contactos, dar clic en 'Agregar un contacto' o 'Crear contacto', llenar los datos con el correo 'ventas@correo1.computocontable.com' y guardar.",
+    "q": "¿Cómo puedo evitar que los correos de MiAdminXML vayan a SPAM en Gmail?",
+    "a": "Inicia sesión en Gmail, ve a Contactos y agrega 'ventas@correo1.computocontable.com' como un nuevo contacto. Esto ayudará a que los correos de MiAdminXML lleguen a tu bandeja de entrada.",
     "product": "MiAdminXML",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "gmail",
-      "contacto",
       "spam",
-      "correo",
-      "agregar"
-    ]
+      "contactos",
+      "agregar contacto",
+      "bandeja de entrada"
+    ],
+    "faq_id": "A-20-02-06-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo evitar que los correos de MiAdminXML vayan a SPAM en Gmail? Respuesta: Inicia sesión en Gmail, ve a Contactos y agrega 'ventas@correo1.computocontable.com' como un nuevo contacto. Esto ayudará a que los correos de MiAdminXML lleguen a tu bandeja de entrada."
   },
   {
-    "q": "¿Qué pasos se deben seguir en Yahoo para evitar que los correos vayan a spam?",
-    "a": "Dar clic en 'Contactos', luego en 'Nuevo contacto', llenar los datos con el nombre 'Computo Contable' y el correo 'ventas@correo1.computocontable.com', y dar clic en 'Guardar'.",
+    "q": "¿Qué pasos debo seguir para que los correos de MiAdminXML no lleguen a SPAM en Yahoo?",
+    "a": "En Yahoo, ve a Contactos, crea un nuevo contacto con el nombre 'Computo Contable' y el correo 'ventas@correo1.computocontable.com', luego guarda los cambios. Esto evitará que los correos vayan a SPAM.",
     "product": "MiAdminXML",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "yahoo",
-      "contacto",
       "spam",
-      "correo",
+      "contactos",
+      "nuevo contacto",
       "guardar"
-    ]
+    ],
+    "faq_id": "A-20-02-06-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir para que los correos de MiAdminXML no lleguen a SPAM en Yahoo? Respuesta: En Yahoo, ve a Contactos, crea un nuevo contacto con el nombre 'Computo Contable' y el correo 'ventas@correo1.computocontable.com', luego guarda los cambios. Esto evitará que los correos vayan a SPAM."
   },
   {
-    "q": "¿Qué correo electrónico se debe agregar como contacto en todas las soluciones?",
-    "a": "El correo 'ventas@correo1.computocontable.com'.",
+    "q": "¿Qué requisitos se necesitan para recibir soporte sobre correos en SPAM de MiAdminXML?",
+    "a": "Para recibir soporte, debes contar con una licencia de MiAdminXML o estar en el periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "correo",
-      "contacto",
-      "ventas",
-      "computo",
-      "contable"
-    ]
+      "licencia",
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-06-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para recibir soporte sobre correos en SPAM de MiAdminXML? Respuesta: Para recibir soporte, debes contar con una licencia de MiAdminXML o estar en el periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico."
   },
   {
-    "q": "¿Qué se debe hacer después de agregar el contacto en las soluciones propuestas?",
-    "a": "Vuelva a intentar el registro y envío de código de validación a su correo electrónico.",
+    "q": "¿Cuál es el nivel de prioridad del problema de correos en SPAM de MiAdminXML?",
+    "a": "El problema de correos en SPAM tiene un nivel de prioridad 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "registro",
-      "validacion",
-      "correo",
-      "intentar",
-      "proceso"
-    ]
+      "prioridad",
+      "nivel",
+      "medio",
+      "spam",
+      "correo"
+    ],
+    "faq_id": "A-20-02-06-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de prioridad del problema de correos en SPAM de MiAdminXML? Respuesta: El problema de correos en SPAM tiene un nivel de prioridad 2 – Medio."
+  },
+  {
+    "q": "¿Qué tipo de incidencia es el problema de correos en SPAM de MiAdminXML?",
+    "a": "El problema de correos en SPAM se clasifica como INC-02.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "inc-02",
+      "spam",
+      "correo"
+    ],
+    "faq_id": "A-20-02-06-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es el problema de correos en SPAM de MiAdminXML? Respuesta: El problema de correos en SPAM se clasifica como INC-02."
   }
 ]

@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué debe hacer un cliente si le robaron el equipo donde tenía activa la licencia de MiAdminXML?",
-    "a": "El cliente debe contactar al servicio técnico, proporcionar su número de orden y RFC (si se facturó) o los últimos 5 caracteres de su clave de licencia, y llenar un Oficio de Reactivación para restaurar su licencia.",
+    "q": "¿Qué debo hacer si me robaron el equipo donde tenía activa mi licencia de MiAdminXML?",
+    "a": "Debes contactar al servicio al cliente, proporcionar tu número de orden y RFC (si se facturó) o los últimos 5 caracteres de tu clave de licencia. Luego, deberás llenar un Oficio de Reactivación y enviarlo dentro de 72 horas.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "robo",
       "equipo",
@@ -10,90 +11,99 @@
       "reactivación",
       "oficio",
       "proceso",
-      "cliente",
-      "soporte"
-    ]
+      "cliente"
+    ],
+    "faq_id": "A-20-02-21-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si me robaron el equipo donde tenía activa mi licencia de MiAdminXML? Respuesta: Debes contactar al servicio al cliente, proporcionar tu número de orden y RFC (si se facturó) o los últimos 5 caracteres de tu clave de licencia. Luego, deberás llenar un Oficio de Reactivación y enviarlo dentro de 72 horas."
   },
   {
-    "q": "¿Qué información necesita el cliente para iniciar el proceso de reactivación de licencia?",
-    "a": "El cliente debe proporcionar su número de orden y RFC si se facturó, o los últimos 5 caracteres de su clave de licencia para verificar su información.",
+    "q": "¿Qué información necesito proporcionar para restaurar mi licencia de MiAdminXML?",
+    "a": "Debes proporcionar tu número de orden y RFC si se facturó, o los últimos 5 caracteres de tu clave de licencia para verificar tu información.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "información",
-      "reactivación",
-      "licencia",
       "número de orden",
       "rfc",
-      "clave",
+      "clave de licencia",
       "verificación"
-    ]
+    ],
+    "faq_id": "A-20-02-21-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información necesito proporcionar para restaurar mi licencia de MiAdminXML? Respuesta: Debes proporcionar tu número de orden y RFC si se facturó, o los últimos 5 caracteres de tu clave de licencia para verificar tu información."
   },
   {
-    "q": "¿Cuál es el plazo para enviar el Oficio de Reactivación una vez solicitado?",
-    "a": "El cliente cuenta con 72 horas para enviar su información. Si no la envía en este lapso, debe comunicarse nuevamente para reiniciar el proceso.",
+    "q": "¿Cuánto tiempo tengo para enviar el Oficio de Reactivación de mi licencia de MiAdminXML?",
+    "a": "Tienes 72 horas para enviar el Oficio de Reactivación. Si no lo envías en este lapso, debes comunicarte nuevamente para comenzar el proceso desde el principio.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "plazo",
       "oficio",
       "reactivación",
-      "72 horas",
       "tiempo",
-      "proceso",
-      "reenvío"
-    ]
+      "72 horas",
+      "proceso"
+    ],
+    "faq_id": "A-20-02-21-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tengo para enviar el Oficio de Reactivación de mi licencia de MiAdminXML? Respuesta: Tienes 72 horas para enviar el Oficio de Reactivación. Si no lo envías en este lapso, debes comunicarte nuevamente para comenzar el proceso desde el principio."
   },
   {
-    "q": "¿Qué sucede si es la segunda vez que un cliente solicita la reactivación de su licencia?",
-    "a": "Si es la segunda reactivación, se envía un formato y el cliente debe pagar el 50% del costo de la clave de licencia para reactivarla.",
+    "q": "¿Qué sucede después de enviar el Oficio de Reactivación de mi licencia de MiAdminXML?",
+    "a": "El agente de Mesa de Servicio valida que la información sea correcta y, de ser así, procede a la reactivación de la licencia. Una vez reactivada, se te avisa por correo electrónico que puedes activar tu licencia en el módulo de 'Licenciamiento'.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "segunda reactivación",
+      "validación",
+      "mesa de servicio",
+      "reactivación",
+      "correo electrónico",
+      "licenciamiento"
+    ],
+    "faq_id": "A-20-02-21-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de enviar el Oficio de Reactivación de mi licencia de MiAdminXML? Respuesta: El agente de Mesa de Servicio valida que la información sea correcta y, de ser así, procede a la reactivación de la licencia. Una vez reactivada, se te avisa por correo electrónico que puedes activar tu licencia en el módulo de 'Licenciamiento'."
+  },
+  {
+    "q": "¿Hay algún costo por reactivar mi licencia de MiAdminXML por segunda vez?",
+    "a": "Sí, si es tu segunda reactivación, se te enviará un formato y tendrás un costo del 50% del valor de la clave de licencia para poder reactivarla.",
+    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
+    "keywords": [
       "costo",
+      "segunda reactivación",
       "50%",
       "formato",
-      "pago",
-      "licencia",
-      "proceso"
-    ]
+      "valor"
+    ],
+    "faq_id": "A-20-02-21-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Hay algún costo por reactivar mi licencia de MiAdminXML por segunda vez? Respuesta: Sí, si es tu segunda reactivación, se te enviará un formato y tendrás un costo del 50% del valor de la clave de licencia para poder reactivarla."
   },
   {
-    "q": "¿Cómo se notifica al cliente una vez reactivada su licencia?",
-    "a": "Una vez reactivada la licencia, se le avisa al cliente por correo electrónico que ya puede activar su licencia en el módulo de 'Licenciamiento'.",
+    "q": "¿Qué áreas pueden realizar el proceso de reactivación de licencia en MiAdminXML?",
+    "a": "El proceso de reactivación de licencia puede ser realizado por cualquier área ST o ATC.",
     "product": "MiAdminXML",
-    "keywords": [
-      "notificación",
-      "correo electrónico",
-      "reactivación",
-      "licencia",
-      "módulo",
-      "licenciamiento"
-    ]
-  },
-  {
-    "q": "¿Qué áreas pueden realizar el proceso de reactivación de licencia?",
-    "a": "El proceso de reactivación de licencia lo puede realizar cualquier área de ST (Servicio Técnico) o ATC (Atención a Clientes).",
-    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "áreas",
-      "reactivación",
       "st",
       "atc",
-      "servicio técnico",
-      "atención a clientes",
-      "proceso"
-    ]
+      "proceso",
+      "reactivación"
+    ],
+    "faq_id": "A-20-02-21-01-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué áreas pueden realizar el proceso de reactivación de licencia en MiAdminXML? Respuesta: El proceso de reactivación de licencia puede ser realizado por cualquier área ST o ATC."
   },
   {
-    "q": "¿Qué comando se usa para solicitar la reactivación de licencia a través del BOT?",
-    "a": "No se especifica el comando exacto en el texto, pero se menciona que se ingresa al BOT con un comando para solicitar la reactivación.",
+    "q": "¿Cómo se solicita la reactivación de una licencia de MiAdminXML a través del BOT?",
+    "a": "Se ingresa al BOT con un comando específico para solicitar la reactivación de la licencia.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "bot",
       "comando",
-      "reactivación",
-      "licencia",
       "solicitud",
-      "proceso"
-    ]
+      "reactivación",
+      "licencia"
+    ],
+    "faq_id": "A-20-02-21-01-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se solicita la reactivación de una licencia de MiAdminXML a través del BOT? Respuesta: Se ingresa al BOT con un comando específico para solicitar la reactivación de la licencia."
   }
 ]

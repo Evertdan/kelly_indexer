@@ -1,66 +1,82 @@
 [
   {
-    "q": "¿Qué se necesita para realizar una conciliación en MiAdminXML?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo, y tener información relacionada para realizar la conciliación de manera correcta.",
+    "q": "¿Qué requisitos se necesitan para realizar una conciliación en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
-      "conciliación",
+      "requisitos",
       "licencia",
       "periodo demostrativo",
-      "requisitos",
-      "información"
-    ]
+      "conciliación",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-15-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para realizar una conciliación en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué debo verificar si no se muestra la conciliación en MiAdminXML?",
-    "a": "Debes verificar que los XML estén validados, que se seleccionen todos los meses involucrados, la estructura de los XML y si existen documentos relacionados.",
+    "q": "¿Qué hacer si no se muestra la conciliación al seleccionar RFC, Tipo, Año y Mes?",
+    "a": "Validar que se tenga información relacionada, verificar que los XML estén validados, seleccionar todos los meses involucrados, revisar la estructura de los XML y confirmar si existen documentos relacionados.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
       "conciliación",
+      "error",
       "xml",
-      "validados",
+      "validación",
       "meses",
-      "estructura",
       "documentos"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se muestra la conciliación al seleccionar RFC, Tipo, Año y Mes? Respuesta: Validar que se tenga información relacionada, verificar que los XML estén validados, seleccionar todos los meses involucrados, revisar la estructura de los XML y confirmar si existen documentos relacionados."
   },
   {
-    "q": "¿Cómo se puede conciliar información de un año anterior en MiAdminXML?",
-    "a": "Copiando la información del año anterior y pegándola donde se hará la conciliación, para así conciliar con lo descargado del año vigente y obtener una conciliación completa.",
+    "q": "¿Cómo validar las facturas en la conciliación de MiAdminXML?",
+    "a": "Se debe validar en la pestaña correspondiente si las facturas son Total, Parcial o No Pagadas.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
-      "conciliación",
-      "año anterior",
-      "copiar",
-      "pegar",
-      "vigente",
-      "completa"
-    ]
-  },
-  {
-    "q": "¿Qué tipos de facturas se pueden validar en la conciliación de MiAdminXML?",
-    "a": "Se pueden validar facturas Totales, Parciales o No Pagadas en la pestaña correspondiente.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "conciliación",
       "facturas",
+      "validación",
       "total",
       "parcial",
       "no pagadas",
-      "validar"
-    ]
+      "conciliación"
+    ],
+    "faq_id": "A-20-03-15-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo validar las facturas en la conciliación de MiAdminXML? Respuesta: Se debe validar en la pestaña correspondiente si las facturas son Total, Parcial o No Pagadas."
   },
   {
-    "q": "¿Qué puede causar que no se guarde o encuentre la información de conciliación en MiAdminXML?",
-    "a": "Puede deberse a una mala configuración o modificación por parte del usuario.",
+    "q": "¿Qué hacer si los complementos de conciliación están en otro año?",
+    "a": "Copiar la información del año pasado y pegarla donde se hará la conciliación para poder conciliar el año anterior con lo descargado del año vigente.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
+      "complementos",
+      "año anterior",
+      "copiar",
+      "pegar",
       "conciliación",
-      "guardar",
-      "encontrar",
-      "configuración",
-      "modificación",
-      "error"
-    ]
+      "vigente"
+    ],
+    "faq_id": "A-20-03-15-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si los complementos de conciliación están en otro año? Respuesta: Copiar la información del año pasado y pegarla donde se hará la conciliación para poder conciliar el año anterior con lo descargado del año vigente."
+  },
+  {
+    "q": "¿Qué tipo de información se obtiene al realizar una conciliación completa en MiAdminXML?",
+    "a": "Se obtiene información completa de la conciliación, incluyendo facturas Total, Parcial o No Pagadas.",
+    "product": "MiAdminXML",
+    "categoria": "Conciliación",
+    "keywords": [
+      "información",
+      "conciliación",
+      "completa",
+      "facturas",
+      "total",
+      "parcial",
+      "no pagadas"
+    ],
+    "faq_id": "A-20-03-15-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de información se obtiene al realizar una conciliación completa en MiAdminXML? Respuesta: Se obtiene información completa de la conciliación, incluyendo facturas Total, Parcial o No Pagadas."
   }
 ]

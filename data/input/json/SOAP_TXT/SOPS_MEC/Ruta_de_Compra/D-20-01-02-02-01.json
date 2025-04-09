@@ -1,86 +1,95 @@
 [
   {
-    "q": "¿Qué debe hacer el cliente para solicitar su factura?",
-    "a": "El cliente debe proporcionar su RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra.",
+    "q": "¿Qué información necesita el ejecutivo para enviar la factura al cliente?",
+    "a": "El ejecutivo necesita el RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra.",
     "product": "General",
+    "categoria": "Facturación",
     "keywords": [
-      "factura",
-      "solicitud",
-      "cliente",
-      "datos",
-      "requisitos"
-    ]
-  },
-  {
-    "q": "¿Qué información necesita el ejecutivo para enviar la factura?",
-    "a": "El ejecutivo necesita el RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra del cliente.",
-    "product": "General",
-    "keywords": [
-      "ejecutivo",
       "factura",
       "información",
-      "requisitos",
-      "cliente"
-    ]
+      "ejecutivo",
+      "rfc",
+      "fecha de compra",
+      "correo electrónico",
+      "orden de compra"
+    ],
+    "faq_id": "D-20-01-02-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información necesita el ejecutivo para enviar la factura al cliente? Respuesta: El ejecutivo necesita el RFC registrado, fecha de compra, correo electrónico registrado y número de orden de compra."
   },
   {
-    "q": "¿Qué comando usa el BOT para validar los datos de la orden de compra?",
-    "a": "El BOT usa el comando '/orden numero_orden_compra' para validar los datos.",
+    "q": "¿Qué comando se utiliza para validar los datos de la orden de compra?",
+    "a": "El comando utilizado es /orden numero_orden_compra.",
     "product": "General",
+    "categoria": "Comandos",
     "keywords": [
-      "bot",
       "comando",
-      "validación",
-      "orden",
-      "compra"
-    ]
+      "validar",
+      "orden de compra",
+      "datos",
+      "bot"
+    ],
+    "faq_id": "D-20-01-02-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se utiliza para validar los datos de la orden de compra? Respuesta: El comando utilizado es /orden numero_orden_compra."
   },
   {
-    "q": "¿Qué comando usa el BOT para enviar la factura?",
-    "a": "El BOT usa el comando '/enviarfactura orden' para enviar la factura.",
+    "q": "¿Qué comando se usa para enviar la factura una vez validados los datos?",
+    "a": "El comando utilizado es /enviarfactura orden.",
     "product": "General",
+    "categoria": "Comandos",
     "keywords": [
-      "bot",
       "comando",
       "enviar",
       "factura",
-      "orden"
-    ]
+      "validación",
+      "bot"
+    ],
+    "faq_id": "D-20-01-02-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se usa para enviar la factura una vez validados los datos? Respuesta: El comando utilizado es /enviarfactura orden."
   },
   {
-    "q": "¿Qué sucede si el cliente no ha solicitado la factura previamente?",
-    "a": "Se solicita un correo electrónico al cliente para enviarle un archivo de refacturación, que debe llenar y pagar los costos de servicio para proceder con la refacturación.",
+    "q": "¿Qué se debe hacer si el cliente no ha solicitado la factura previamente?",
+    "a": "Se debe solicitar un correo electrónico al cliente para enviarle el archivo de refacturación, que debe llenar y realizar el pago por costos de servicio para proceder con la refacturación.",
     "product": "General",
+    "categoria": "Facturación",
     "keywords": [
       "factura",
-      "no solicitada",
+      "solicitud",
+      "correo electrónico",
       "refacturación",
-      "correo",
-      "pago"
-    ]
+      "pago",
+      "servicio"
+    ],
+    "faq_id": "D-20-01-02-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si el cliente no ha solicitado la factura previamente? Respuesta: Se debe solicitar un correo electrónico al cliente para enviarle el archivo de refacturación, que debe llenar y realizar el pago por costos de servicio para proceder con la refacturación."
   },
   {
     "q": "¿Cuál es el tipo de solicitud cuando un cliente pide su factura?",
     "a": "El tipo de solicitud es SOL-01.",
     "product": "General",
+    "categoria": "Solicitudes",
     "keywords": [
       "solicitud",
       "tipo",
       "factura",
       "cliente",
       "SOL-01"
-    ]
+    ],
+    "faq_id": "D-20-01-02-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el tipo de solicitud cuando un cliente pide su factura? Respuesta: El tipo de solicitud es SOL-01."
   },
   {
-    "q": "¿Cuál es el nivel de prioridad de una solicitud de factura?",
-    "a": "El nivel de prioridad es 1 – Bajo.",
+    "q": "¿Qué nivel de prioridad tiene la solicitud de factura por parte del cliente?",
+    "a": "La solicitud tiene un nivel de prioridad 1 – Bajo.",
     "product": "General",
+    "categoria": "Solicitudes",
     "keywords": [
-      "prioridad",
-      "nivel",
-      "factura",
       "solicitud",
-      "bajo"
-    ]
+      "nivel",
+      "prioridad",
+      "bajo",
+      "factura"
+    ],
+    "faq_id": "D-20-01-02-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene la solicitud de factura por parte del cliente? Respuesta: La solicitud tiene un nivel de prioridad 1 – Bajo."
   }
 ]

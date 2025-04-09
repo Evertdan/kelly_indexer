@@ -3,21 +3,24 @@
     "q": "¿Qué es la herramienta Verificado o Asociado en MiAdminXML?",
     "a": "La herramienta Verificado o Asociado es una etiqueta multipropósito que se usa para llevar un control sobre uno o varios XML los cuales fueron verificados o asociados en los procesos contables del cliente, es un marcador personalizado.",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
       "herramienta",
       "verificado",
       "asociado",
-      "etiqueta",
+      "marcador",
       "xml",
       "control",
-      "procesos contables",
-      "marcador"
-    ]
+      "procesos contables"
+    ],
+    "faq_id": "A-20-03-26-01-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta Verificado o Asociado en MiAdminXML? Respuesta: La herramienta Verificado o Asociado es una etiqueta multipropósito que se usa para llevar un control sobre uno o varios XML los cuales fueron verificados o asociados en los procesos contables del cliente, es un marcador personalizado."
   },
   {
-    "q": "¿Qué se necesita para usar la herramienta Verificado o Asociado en MiAdminXML?",
-    "a": "Se requiere contar con Licencia MiAdminXML o estar en periodo demostrativo.",
+    "q": "¿Qué requisitos se necesitan para usar la herramienta Verificado o Asociado?",
+    "a": "Se requiere contar con una Licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -25,29 +28,34 @@
       "herramienta",
       "verificado",
       "asociado"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta Verificado o Asociado? Respuesta: Se requiere contar con una Licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
     "q": "¿Cómo accedo a la herramienta Verificado o Asociado en MiAdminXML?",
-    "a": "Para acceder a la herramienta Verificado o Asociado, ingresa al módulo de Administración de XML, luego al submódulo de Administración de XML 4.0.",
+    "a": "Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, selecciona RFC, Tipo, Año y Mes(es), da clic derecho en la herramienta Leer XMLs.",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
-      "acceso",
+      "acceder",
       "herramienta",
       "verificado",
       "asociado",
       "módulo",
-      "administración",
+      "submódulo",
       "xml",
-      "submódulo"
-    ]
+      "leer"
+    ],
+    "faq_id": "A-20-03-26-01-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo accedo a la herramienta Verificado o Asociado en MiAdminXML? Respuesta: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, selecciona RFC, Tipo, Año y Mes(es), da clic derecho en la herramienta Leer XMLs."
   },
   {
-    "q": "¿Qué pasos debo seguir para marcar un XML como Verificado o Asociado?",
-    "a": "Los pasos son: 1) Seleccionar RFC, Tipo, Año y Mes(es). 2) Dar clic derecho en la herramienta Leer XMLs. 3) Seleccionar el(los) XML y dar clic al botón Verificado o Asoc. (para selección múltiple mantener presionada la tecla Ctrl). 4) Confirmar en la ventana emergente y dar clic al botón Aceptar.",
+    "q": "¿Cómo marco los XML como Verificado o Asociado?",
+    "a": "Selecciona el(los) XML y da clic al botón Verificado o Asoc. (para selección múltiple mantener presionada la tecla Ctrl). Confirma en la ventana que aparece y da clic en Aceptar.",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
-      "pasos",
       "marcar",
       "verificado",
       "asociado",
@@ -55,48 +63,42 @@
       "selección",
       "botón",
       "confirmación"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo marco los XML como Verificado o Asociado? Respuesta: Selecciona el(los) XML y da clic al botón Verificado o Asoc. (para selección múltiple mantener presionada la tecla Ctrl). Confirma en la ventana que aparece y da clic en Aceptar."
   },
   {
-    "q": "¿Cómo sé si un XML ha sido marcado como Verificado o Asociado?",
-    "a": "Al marcar un XML, se visualizará en la columna Verificado o Asoc. la etiqueta 'Si'. Si se desmarca, se borrará esta etiqueta y quedará un espacio en blanco.",
+    "q": "¿Cómo sé si un XML está marcado como Verificado o Asociado?",
+    "a": "Al marcar, se visualizará en la columna Verificado o Asoc. la etiqueta 'Si'. Si se desmarca, la columna quedará en blanco.",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
-      "confirmación",
+      "visualizar",
       "marcado",
       "verificado",
       "asociado",
-      "xml",
       "columna",
       "etiqueta",
-      "espacio en blanco"
-    ]
+      "si",
+      "blanco"
+    ],
+    "faq_id": "A-20-03-26-01-07_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo sé si un XML está marcado como Verificado o Asociado? Respuesta: Al marcar, se visualizará en la columna Verificado o Asoc. la etiqueta 'Si'. Si se desmarca, la columna quedará en blanco."
   },
   {
-    "q": "¿Puedo marcar múltiples XML como Verificados o Asociados al mismo tiempo?",
-    "a": "Sí, para selección múltiple debes mantener presionada la tecla Ctrl mientras seleccionas los XML.",
+    "q": "¿Qué pasa si marco un XML que ya estaba marcado como Verificado o Asociado?",
+    "a": "Si ya estaba marcado previamente, al realizar la acción nuevamente se desmarcará.",
     "product": "MiAdminXML",
-    "keywords": [
-      "selección múltiple",
-      "marcar",
-      "verificado",
-      "asociado",
-      "xml",
-      "tecla ctrl",
-      "varios"
-    ]
-  },
-  {
-    "q": "¿Qué sucede si marco un XML que ya estaba marcado como Verificado o Asociado?",
-    "a": "Si un XML ya estaba marcado previamente, al realizar la acción de nuevo se desmarcará.",
-    "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
       "desmarcar",
       "verificado",
       "asociado",
       "xml",
       "acción",
-      "previamente marcado"
-    ]
+      "previamente"
+    ],
+    "faq_id": "A-20-03-26-01-07_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si marco un XML que ya estaba marcado como Verificado o Asociado? Respuesta: Si ya estaba marcado previamente, al realizar la acción nuevamente se desmarcará."
   }
 ]

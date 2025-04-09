@@ -3,6 +3,7 @@
     "q": "¿Qué se necesita para renombrar archivos XML en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Renombrar XML",
     "keywords": [
       "renombrar",
       "xml",
@@ -11,45 +12,39 @@
       "periodo demostrativo",
       "requisitos",
       "soporte"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-16_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para renombrar archivos XML en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué requisito es obligatorio al renombrar archivos XML en MiAdminXML?",
     "a": "Es requisito incluir el campo UUID al renombrar archivos XML en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Renombrar XML",
     "keywords": [
-      "renombrar",
-      "xml",
       "requisito",
       "uuid",
-      "campo obligatorio",
-      "modificar nombre"
-    ]
+      "renombrar",
+      "xml",
+      "campo obligatorio"
+    ],
+    "faq_id": "A-20-03-25-03-16_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisito es obligatorio al renombrar archivos XML en MiAdminXML? Respuesta: Es requisito incluir el campo UUID al renombrar archivos XML en MiAdminXML."
   },
   {
     "q": "¿Cómo se soluciona el problema de renombrar XML si no tengo la licencia MiAdminXML Profesional?",
     "a": "Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "renombrar",
-      "xml",
-      "solución",
+      "solucion",
+      "problema",
+      "licencia",
       "correo electrónico",
-      "sin licencia",
-      "soporte alternativo"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de soporte se brinda para el renombrado de XML en MiAdminXML?",
-    "a": "El soporte para renombrar XML en MiAdminXML es de tipo Soporte Temprano (ST) y se clasifica como Nivel 1 - Temprano.",
-    "product": "MiAdminXML",
-    "keywords": [
       "soporte",
-      "temprano",
-      "nivel 1",
-      "tipo st",
-      "renombrar xml",
-      "clasificación"
-    ]
+      "renombrar xml"
+    ],
+    "faq_id": "A-20-03-25-03-16_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se soluciona el problema de renombrar XML si no tengo la licencia MiAdminXML Profesional? Respuesta: Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico."
   }
 ]

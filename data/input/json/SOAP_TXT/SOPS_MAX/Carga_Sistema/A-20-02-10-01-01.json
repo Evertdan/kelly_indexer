@@ -1,99 +1,102 @@
 [
   {
     "q": "¿Qué error se presenta cuando no se puede actualizar los campos de la BD en MiAdminXML?",
-    "a": "Se presenta el error SQL logic or database / MAX: Incidencia 501, con la descripción: No se ha podido realizar la actualización de los campos de la BD.",
+    "a": "Se presenta el error SQL logic or database con la descripción: No se ha podido realizar la actualización de los campos de la BD.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "sql",
-      "bd",
+      "base de datos",
       "actualización",
+      "miadminxml",
       "incidencia",
-      "501",
-      "max",
-      "miadminxml"
-    ]
+      "501"
+    ],
+    "faq_id": "A-20-02-10-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error se presenta cuando no se puede actualizar los campos de la BD en MiAdminXML? Respuesta: Se presenta el error SQL logic or database con la descripción: No se ha podido realizar la actualización de los campos de la BD."
   },
   {
     "q": "¿Cuál es la solución para el error de actualización de la BD en MiAdminXML?",
-    "a": "La solución es eliminar la BD de MiAdminXML, renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite en C:\\AdminXML\\, y acceder nuevamente a la aplicación.",
+    "a": "La solución es eliminar la BD de MiAdminXML, renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite en la ruta C:\\AdminXML\\, y luego acceder nuevamente a la aplicación.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "solución",
-      "bd",
+      "base de datos",
       "eliminar",
       "renombrar",
       "archivo",
-      "sqlite",
       "miadminxml",
       "error"
-    ]
+    ],
+    "faq_id": "A-20-02-10-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la solución para el error de actualización de la BD en MiAdminXML? Respuesta: La solución es eliminar la BD de MiAdminXML, renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite en la ruta C:\\AdminXML\\, y luego acceder nuevamente a la aplicación."
   },
   {
-    "q": "¿Qué requisitos se necesitan para resolver el problema de la BD en MiAdminXML?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué requisitos se necesitan para solucionar el problema de la BD en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
-      "correo electrónico",
+      "requisitos",
       "solución",
-      "bd",
+      "correo electrónico",
       "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-02-10-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para solucionar el problema de la BD en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué pasos adicionales se deben seguir después de eliminar la BD dañada en MiAdminXML?",
-    "a": "Se debe cerrar MiAdminXML y/o terminar procesos en el Administrador de tareas, renombrar el archivo miadminxml2.sqlite, acceder nuevamente a la aplicación y descargar correctamente la BD.",
+    "a": "Después de eliminar la BD dañada, se debe cerrar MiAdminXML y/o terminar procesos en el Administrador de tareas, renombrar el archivo miadminxml2.sqlite, y acceder nuevamente a la aplicación para descargar correctamente la BD.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "pasos",
-      "bd",
       "eliminar",
+      "base de datos",
       "renombrar",
       "administrador de tareas",
       "descargar",
       "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-02-10-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos adicionales se deben seguir después de eliminar la BD dañada en MiAdminXML? Respuesta: Después de eliminar la BD dañada, se debe cerrar MiAdminXML y/o terminar procesos en el Administrador de tareas, renombrar el archivo miadminxml2.sqlite, y acceder nuevamente a la aplicación para descargar correctamente la BD."
   },
   {
-    "q": "¿Qué ocurre con el catálogo de contribuyentes después de eliminar la BD dañada en MiAdminXML?",
+    "q": "¿Qué ocurre con el catálogo de contribuyentes después de solucionar el problema de la BD en MiAdminXML?",
     "a": "Si se tenía el catálogo de contribuyentes, se debe volver a llenar ya que la BD estaba dañada.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo de Contribuyentes",
     "keywords": [
       "catálogo",
       "contribuyentes",
-      "bd",
+      "base de datos",
       "dañada",
       "rellenar",
       "miadminxml"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de incidencia tiene el error de actualización de la BD en MiAdminXML?",
-    "a": "El nivel de incidencia es 2 – Medio.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "nivel",
-      "incidencia",
-      "medio",
-      "error",
-      "bd",
-      "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-02-10-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué ocurre con el catálogo de contribuyentes después de solucionar el problema de la BD en MiAdminXML? Respuesta: Si se tenía el catálogo de contribuyentes, se debe volver a llenar ya que la BD estaba dañada."
   },
   {
     "q": "¿Qué tipo de incidencia es el error de actualización de la BD en MiAdminXML?",
-    "a": "El tipo de incidencia es INC-02.",
+    "a": "El tipo de incidencia es INC-02 con un nivel de 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Clasificación de Errores",
     "keywords": [
-      "tipo",
       "incidencia",
-      "inc-02",
+      "tipo",
+      "nivel",
+      "medio",
       "error",
-      "bd",
-      "miadminxml"
-    ]
+      "miadminxml",
+      "inc-02"
+    ],
+    "faq_id": "A-20-02-10-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es el error de actualización de la BD en MiAdminXML? Respuesta: El tipo de incidencia es INC-02 con un nivel de 2 – Medio."
   }
 ]

@@ -1,25 +1,27 @@
 [
   {
     "q": "¿Qué es MiExpedienteContable?",
-    "a": "MiExpedienteContable es un programa que automatiza el trabajo de un despacho contable, permitiendo llevar un histórico de los datos más importantes de los contribuyentes, gestionar altas, modificaciones y eliminaciones, personalizar columnas, y generar información a través de Excel.",
+    "a": "MiExpedienteContable es un programa que automatiza el trabajo de un despacho contable, permitiendo llevar un histórico de datos importantes de contribuyentes, gestionar declaraciones, descargar archivos oficiales y más.",
     "product": "MiExpedienteContable",
+    "categoria": "General",
     "keywords": [
       "expediente",
       "contable",
       "programa",
       "automatización",
-      "datos",
-      "contribuyentes",
-      "excel"
-    ]
+      "despacho"
+    ],
+    "faq_id": "D-20-03-01-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es MiExpedienteContable? Respuesta: MiExpedienteContable es un programa que automatiza el trabajo de un despacho contable, permitiendo llevar un histórico de datos importantes de contribuyentes, gestionar declaraciones, descargar archivos oficiales y más."
   },
   {
     "q": "¿Qué funcionalidades ofrece MiExpedienteContable?",
-    "a": "MiExpedienteContable permite descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, gestionar contraseñas y certificados, acceder a portales desde el programa, gestionar declaraciones mensuales y anuales, descargar archivos del SAT, importar PDFs, registrar pagos IMSS/Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
+    "a": "Permite dar de alta, modificar y eliminar datos de contribuyentes, personalizar columnas, descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, gestionar contraseñas y certificados, acceder a portales, gestionar declaraciones mensuales y anuales, descargar archivos del SAT, importar PDFs, registrar pagos IMSS/Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores.",
     "product": "MiExpedienteContable",
+    "categoria": "Funcionalidades",
     "keywords": [
       "funcionalidades",
-      "descargas",
+      "contribuyentes",
       "archivos",
       "oficiales",
       "declaraciones",
@@ -27,46 +29,56 @@
       "imss",
       "infonavit",
       "trabajadores"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué funcionalidades ofrece MiExpedienteContable? Respuesta: Permite dar de alta, modificar y eliminar datos de contribuyentes, personalizar columnas, descargar archivos oficiales como opinión de cumplimiento y constancia de situación fiscal, gestionar contraseñas y certificados, acceder a portales, gestionar declaraciones mensuales y anuales, descargar archivos del SAT, importar PDFs, registrar pagos IMSS/Infonavit, obligaciones estatales, incapacidades y movimientos afiliatorios de trabajadores."
   },
   {
-    "q": "¿Cómo puedo obtener MiExpedienteContable?",
-    "a": "El ejecutivo ofrece apoyo en el proceso de compra de MiExpedienteContable, aunque no se especifican los requisitos o pasos detallados en el texto.",
+    "q": "¿Cómo puedo obtener ayuda para el proceso de compra de MiExpedienteContable?",
+    "a": "El ejecutivo ofrece apoyo en el proceso de compra, preguntando si el cliente desea asistencia.",
     "product": "MiExpedienteContable",
+    "categoria": "Compra",
     "keywords": [
       "compra",
       "proceso",
-      "soporte",
+      "ayuda",
       "ejecutivo",
-      "adquisición"
-    ]
+      "asistencia"
+    ],
+    "faq_id": "D-20-03-01-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo obtener ayuda para el proceso de compra de MiExpedienteContable? Respuesta: El ejecutivo ofrece apoyo en el proceso de compra, preguntando si el cliente desea asistencia."
   },
   {
-    "q": "¿Qué tipo de información puedo gestionar con MiExpedienteContable?",
-    "a": "Con MiExpedienteContable puedes gestionar datos históricos de contribuyentes, declaraciones fiscales, pagos (IMSS, Infonavit, estatales), incapacidades y movimientos afiliatorios de trabajadores, así como archivos oficiales del SAT.",
+    "q": "¿Qué tipo de archivos oficiales puedo descargar con MiExpedienteContable?",
+    "a": "Se pueden descargar la opinión de cumplimiento y la constancia de situación fiscal con tan solo un par de clics.",
     "product": "MiExpedienteContable",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "información",
-      "gestión",
-      "contribuyentes",
-      "declaraciones",
-      "pagos",
-      "incapacidades",
-      "trabajadores",
-      "sat"
-    ]
+      "archivos",
+      "oficiales",
+      "descarga",
+      "opinión",
+      "cumplimiento",
+      "constancia",
+      "situación",
+      "fiscal"
+    ],
+    "faq_id": "D-20-03-01-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de archivos oficiales puedo descargar con MiExpedienteContable? Respuesta: Se pueden descargar la opinión de cumplimiento y la constancia de situación fiscal con tan solo un par de clics."
   },
   {
-    "q": "¿Puedo personalizar la información en MiExpedienteContable?",
-    "a": "Sí, MiExpedienteContable permite personalizar columnas para generar información de contribuyentes a través de Excel según tus necesidades.",
+    "q": "¿Puedo importar archivos PDF a MiExpedienteContable?",
+    "a": "Sí, si cuentas con una base de PDFs, puedes importarlos al programa.",
     "product": "MiExpedienteContable",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "personalización",
-      "columnas",
-      "excel",
-      "información",
-      "contribuyentes",
-      "adaptable"
-    ]
+      "importar",
+      "pdf",
+      "archivos",
+      "base",
+      "datos"
+    ],
+    "faq_id": "D-20-03-01-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Puedo importar archivos PDF a MiExpedienteContable? Respuesta: Sí, si cuentas con una base de PDFs, puedes importarlos al programa."
   }
 ]

@@ -1,65 +1,45 @@
 [
   {
-    "q": "¿Qué información se puede proporcionar a un cliente que solicita los datos de alta proveedor por teléfono?",
-    "a": "Si el cliente contacta vía telefónica y únicamente solicita RFC y Razón social, se le puede proporcionar: RFC: CCS230403AX9, Razón social: Computo Contable Soft SA de CV.",
+    "q": "¿Qué documentos se pueden enviar a un cliente que solicita datos de alta proveedor?",
+    "a": "Se pueden enviar la Constancia de situación fiscal y la Opinión de cumplimiento, siempre que estén vigentes. Si el cliente solo solicita RFC y Razón social, se pueden proporcionar vía telefónica.",
     "product": "General",
+    "categoria": "Datos de Proveedor",
     "keywords": [
-      "alta proveedor",
       "datos",
-      "teléfono",
-      "rfc",
-      "razón social",
-      "información",
-      "cliente"
-    ]
-  },
-  {
-    "q": "¿Qué documentos se pueden enviar por correo electrónico para el alta de proveedor?",
-    "a": "Se pueden enviar la Constancia de situación fiscal y la Opinión de cumplimiento, siempre y cuando estén vigentes.",
-    "product": "General",
-    "keywords": [
+      "proveedor",
       "documentos",
-      "correo electrónico",
-      "alta proveedor",
       "constancia",
       "situación fiscal",
       "opinión",
       "cumplimiento",
-      "vigentes"
-    ]
+      "rfc",
+      "razón social"
+    ],
+    "faq_id": "A-20-01-02-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documentos se pueden enviar a un cliente que solicita datos de alta proveedor? Respuesta: Se pueden enviar la Constancia de situación fiscal y la Opinión de cumplimiento, siempre que estén vigentes. Si el cliente solo solicita RFC y Razón social, se pueden proporcionar vía telefónica."
   },
   {
-    "q": "¿Qué hacer si los documentos para el alta de proveedor no están vigentes?",
-    "a": "Si los documentos no están vigentes, se debe solicitar a tu líder de área o al gerente de operaciones.",
+    "q": "¿Qué se debe hacer si el cliente solicita un comprobante de domicilio?",
+    "a": "Se le informa que el domicilio ya se encuentra en la cédula. Si es muy necesario, se debe preguntar al cliente para qué fines lo solicita.",
     "product": "General",
-    "keywords": [
-      "documentos",
-      "vigentes",
-      "alta proveedor",
-      "solicitar",
-      "líder",
-      "gerente",
-      "operaciones"
-    ]
-  },
-  {
-    "q": "¿Cómo proceder si un cliente solicita un comprobante de domicilio para el alta de proveedor?",
-    "a": "Se le informa que el domicilio ya se encuentra en la cédula y se evita enviar el comprobante de domicilio. Si es muy necesario, se pregunta al cliente para qué fines lo solicita.",
-    "product": "General",
+    "categoria": "Datos de Proveedor",
     "keywords": [
       "comprobante",
       "domicilio",
-      "alta proveedor",
-      "cédula",
-      "informar",
+      "cedula",
+      "solicitud",
       "cliente",
-      "fines"
-    ]
+      "información",
+      "proveedor"
+    ],
+    "faq_id": "A-20-01-02-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si el cliente solicita un comprobante de domicilio? Respuesta: Se le informa que el domicilio ya se encuentra en la cédula. Si es muy necesario, se debe preguntar al cliente para qué fines lo solicita."
   },
   {
-    "q": "¿Qué hacer si un cliente solicita la carátula de cuenta bancaria para generar el pago?",
+    "q": "¿Qué hacer si el cliente solicita la carátula de cuenta bancaria para generar un pago?",
     "a": "Se le informa que toda la compra es en línea y que no se tiene acceso a esa información.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "carátula",
       "cuenta bancaria",
@@ -68,80 +48,94 @@
       "en línea",
       "acceso",
       "información"
-    ]
+    ],
+    "faq_id": "A-20-01-02-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente solicita la carátula de cuenta bancaria para generar un pago? Respuesta: Se le informa que toda la compra es en línea y que no se tiene acceso a esa información."
   },
   {
     "q": "¿Cuáles son los pasos para enviar los documentos de alta proveedor por correo electrónico?",
-    "a": "1) Ingresar al correo, 2) Insertar la plantilla 'Datos alta proveedor', 3) Enviar los documentos permitidos por la empresa (Constancia de situación fiscal y Opinión de cumplimiento).",
+    "a": "1) Ingresar al correo. 2) Insertar la plantilla 'Datos alta proveedor'. 3) Enviar los documentos permitidos (Constancia de situación fiscal y Opinión de cumplimiento).",
     "product": "General",
+    "categoria": "Procedimientos",
     "keywords": [
       "pasos",
       "enviar",
+      "correo",
       "documentos",
       "alta proveedor",
-      "correo electrónico",
       "plantilla",
       "constancia",
-      "opinión",
-      "cumplimiento"
-    ]
+      "opinión cumplimiento"
+    ],
+    "faq_id": "A-20-01-02-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para enviar los documentos de alta proveedor por correo electrónico? Respuesta: 1) Ingresar al correo. 2) Insertar la plantilla 'Datos alta proveedor'. 3) Enviar los documentos permitidos (Constancia de situación fiscal y Opinión de cumplimiento)."
   },
   {
-    "q": "¿Qué hacer si un cliente envía un contrato o términos y condiciones para firmar?",
-    "a": "1) Leerlos, 2) Anotar lo que no se entienda, 3) Pasarlo a revisión al gerente de operaciones, 4) Revisar con el gerente lo no entendido, 5) El gerente informará si pasa a firma o no y explicará el motivo en caso negativo.",
+    "q": "¿Qué hacer si los documentos solicitados no están vigentes?",
+    "a": "Solicitarlos al líder de área o al gerente de operaciones.",
     "product": "General",
+    "categoria": "Datos de Proveedor",
+    "keywords": [
+      "documentos",
+      "vigentes",
+      "solicitar",
+      "líder",
+      "gerente",
+      "operaciones",
+      "proveedor"
+    ],
+    "faq_id": "A-20-01-02-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si los documentos solicitados no están vigentes? Respuesta: Solicitarlos al líder de área o al gerente de operaciones."
+  },
+  {
+    "q": "¿Qué procedimiento seguir si un cliente envía un contrato o términos y condiciones para firmar?",
+    "a": "1) Leerlos. 2) Anotar lo que no se entienda. 3) Pasarlo a revisión al gerente de operaciones. 4) Revisar con el gerente lo no entendido. 5) El gerente informará si pasa a firma o no y explicará el motivo.",
+    "product": "General",
+    "categoria": "Contratos",
     "keywords": [
       "contrato",
       "términos",
       "condiciones",
-      "firmar",
+      "firma",
       "revisión",
       "gerente",
       "operaciones",
-      "firma",
-      "motivo"
-    ]
+      "procedimiento"
+    ],
+    "faq_id": "A-20-01-02-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué procedimiento seguir si un cliente envía un contrato o términos y condiciones para firmar? Respuesta: 1) Leerlos. 2) Anotar lo que no se entienda. 3) Pasarlo a revisión al gerente de operaciones. 4) Revisar con el gerente lo no entendido. 5) El gerente informará si pasa a firma o no y explicará el motivo."
   },
   {
-    "q": "¿Qué recursos se necesitan para el alta de proveedor?",
-    "a": "Se requieren la Constancia de situación fiscal, Opinión de cumplimiento y RFC.",
+    "q": "¿Qué información se puede proporcionar si el cliente contacta vía telefónica y solo solicita RFC y Razón social?",
+    "a": "Se puede proporcionar el RFC (CCS230403AX9) y la Razón social (Computo Contable Soft SA de CV).",
     "product": "General",
+    "categoria": "Datos de Proveedor",
     "keywords": [
-      "recursos",
-      "alta proveedor",
-      "constancia",
-      "situación fiscal",
-      "opinión",
-      "cumplimiento",
-      "rfc"
-    ]
-  },
-  {
-    "q": "¿Quién es responsable de revisar la documentación de términos y condiciones o contratos?",
-    "a": "El ATC y el G.O son responsables de revisar la documentación de términos y condiciones o contratos.",
-    "product": "General",
-    "keywords": [
-      "responsable",
-      "revisión",
-      "documentación",
-      "términos",
-      "condiciones",
-      "contratos",
-      "atc",
-      "g.o"
-    ]
-  },
-  {
-    "q": "¿Quién envía la información solicitada a los clientes?",
-    "a": "El ATC y el CLIENTE son responsables de enviar la información solicitada a los clientes.",
-    "product": "General",
-    "keywords": [
-      "enviar",
+      "rfc",
+      "razón social",
+      "telefónico",
       "información",
-      "clientes",
-      "atc",
-      "cliente",
-      "responsable"
-    ]
+      "proveedor",
+      "computo contable"
+    ],
+    "faq_id": "A-20-01-02-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede proporcionar si el cliente contacta vía telefónica y solo solicita RFC y Razón social? Respuesta: Se puede proporcionar el RFC (CCS230403AX9) y la Razón social (Computo Contable Soft SA de CV)."
+  },
+  {
+    "q": "¿Qué se debe hacer si el cliente solicita más documentos además del RFC y Razón social?",
+    "a": "Pedir un correo electrónico al cliente para enviar los documentos permitidos.",
+    "product": "General",
+    "categoria": "Datos de Proveedor",
+    "keywords": [
+      "documentos",
+      "rfc",
+      "razón social",
+      "correo",
+      "electrónico",
+      "solicitud",
+      "cliente"
+    ],
+    "faq_id": "A-20-01-02-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si el cliente solicita más documentos además del RFC y Razón social? Respuesta: Pedir un correo electrónico al cliente para enviar los documentos permitidos."
   }
 ]

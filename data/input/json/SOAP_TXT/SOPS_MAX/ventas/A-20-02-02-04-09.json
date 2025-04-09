@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué debo hacer si realicé un pago por transferencia y no recibí mi clave de licencia?",
+    "q": "¿Qué debo hacer si realicé un pago por transferencia pero no recibí mi clave de licencia?",
     "a": "Debes enviar tu ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos: Concepto, Referencia y Clave de rastreo.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "pago",
       "transferencia",
@@ -11,65 +12,78 @@
       "comprobante",
       "ficha",
       "correo",
-      "soporte"
-    ]
+      "datos"
+    ],
+    "faq_id": "A-20-02-02-04-09_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si realicé un pago por transferencia pero no recibí mi clave de licencia? Respuesta: Debes enviar tu ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se puedan ver los datos: Concepto, Referencia y Clave de rastreo."
   },
   {
-    "q": "¿Qué datos deben estar visibles en el comprobante de pago para validar mi transferencia?",
-    "a": "El comprobante debe mostrar claramente el Concepto, la Referencia y la Clave de rastreo.",
+    "q": "¿Qué datos deben estar visibles en el comprobante de pago que envío?",
+    "a": "En el comprobante de pago deben estar visibles los siguientes datos: Concepto, Referencia y Clave de rastreo.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "comprobante",
       "pago",
-      "datos",
       "concepto",
       "referencia",
       "clave",
       "rastreo",
-      "validación"
-    ]
+      "datos",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-02-04-09_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos deben estar visibles en el comprobante de pago que envío? Respuesta: En el comprobante de pago deben estar visibles los siguientes datos: Concepto, Referencia y Clave de rastreo."
   },
   {
-    "q": "¿Qué pasa si los datos de mi pago por transferencia no son correctos?",
-    "a": "El agente analizará la información y, si los datos no son correctos, te explicará cómo realizar el pago de manera correcta con los datos proporcionados en la ficha.",
+    "q": "¿Qué pasa si los datos de mi pago no son correctos?",
+    "a": "Si los datos de tu pago no son correctos, el agente te explicará cómo realizar el pago de manera correcta con los datos proporcionados en la ficha.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "pago",
-      "transferencia",
       "datos",
       "incorrectos",
-      "corrección",
       "agente",
+      "explicación",
       "ficha",
-      "validación"
-    ]
+      "corrección"
+    ],
+    "faq_id": "A-20-02-02-04-09_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si los datos de mi pago no son correctos? Respuesta: Si los datos de tu pago no son correctos, el agente te explicará cómo realizar el pago de manera correcta con los datos proporcionados en la ficha."
   },
   {
-    "q": "¿Qué significa si en mi comprobante de pago aparece que debo hablar a mi banco?",
-    "a": "Significa que la operación no fue aplicada y debes contactar a tu banco para resolver el problema.",
+    "q": "¿Qué debo hacer si en mi comprobante de pago indica que la operación no fue aplicada?",
+    "a": "Si en tu comprobante de pago indica que la operación no fue aplicada, debes hablar a tu banco para resolver el problema.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "comprobante",
       "pago",
-      "banco",
       "operación",
       "no aplicada",
-      "contactar",
+      "banco",
+      "resolver",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-09_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si en mi comprobante de pago indica que la operación no fue aplicada? Respuesta: Si en tu comprobante de pago indica que la operación no fue aplicada, debes hablar a tu banco para resolver el problema."
   },
   {
-    "q": "¿A qué correo debo enviar mi comprobante de pago por transferencia?",
-    "a": "Debes enviarlo al correo ventas.computocontable@gmail.com.",
+    "q": "¿A qué correo debo enviar mi comprobante de pago si no recibí mi clave de licencia?",
+    "a": "Debes enviar tu comprobante de pago al correo ventas.computocontable@gmail.com.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "comprobante",
       "pago",
-      "transferencia",
       "correo",
-      "ventas",
-      "soporte",
-      "enviar"
-    ]
+      "clave",
+      "licencia",
+      "enviar",
+      "ventas"
+    ],
+    "faq_id": "A-20-02-02-04-09_q4",
+    "texto_para_vectorizar": "Pregunta: ¿A qué correo debo enviar mi comprobante de pago si no recibí mi clave de licencia? Respuesta: Debes enviar tu comprobante de pago al correo ventas.computocontable@gmail.com."
   }
 ]

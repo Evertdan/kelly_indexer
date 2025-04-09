@@ -1,98 +1,97 @@
 [
   {
-    "q": "¿Qué tipo de incidencia es cuando los correos de MiExpedienteContable llegan a SPAM?",
-    "a": "El tipo de incidencia es INC-02 con un nivel de 2 – Medio.",
+    "q": "¿Qué debo hacer si los correos de MiExpedienteContable llegan a la bandeja de SPAM en Outlook?",
+    "a": "Debes mover el correo de spam a correo deseado haciendo clic derecho sobre el correo y seleccionando 'Marcar como correo deseado'. Además, agrega el contacto de ventas@correo1.computocontable.com y el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "incidencia",
-      "spam",
-      "tipo",
-      "nivel",
-      "correos"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para resolver el problema de correos en SPAM en MiExpedienteContable?",
-    "a": "Se requiere contar con licencia MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se envía solución por correo electrónico.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "solucion",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Cómo mover correos de SPAM a la bandeja de entrada en Outlook?",
-    "a": "Dar clic derecho sobre el correo, seleccionar 'Marcar como correo deseado'. Luego agregar el contacto y el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
-    "product": "MiExpedienteContable",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "outlook",
       "spam",
-      "bandeja entrada",
-      "mover correo",
-      "remitentes seguros"
-    ]
-  },
-  {
-    "q": "¿Cómo agregar el contacto de Computo Contable en Outlook?",
-    "a": "Ir a la opción de 'Contactos', dar clic en 'Nuevo', agregar 'Cómputo Contable' con el correo 'ventas@correo1.computocontable.com' y dar clic en 'Crear'.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "outlook",
-      "contactos",
-      "agregar",
-      "computo contable",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Cómo agregar el dominio de Computo Contable a remitentes seguros en Outlook?",
-    "a": "Ir a 'Configuración', seleccionar 'Ver toda la configuración de Outlook', buscar 'Correo no deseado', en 'Remitentes y dominios seguros' dar clic en agregar, ingresar 'ventas@correo1.computocontable.com' y guardar.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "outlook",
+      "correo",
       "remitentes seguros",
-      "dominio",
-      "configuración",
-      "correo no deseado"
-    ]
+      "contacto",
+      "mover correo",
+      "configuración"
+    ],
+    "faq_id": "D-20-02-05-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si los correos de MiExpedienteContable llegan a la bandeja de SPAM en Outlook? Respuesta: Debes mover el correo de spam a correo deseado haciendo clic derecho sobre el correo y seleccionando 'Marcar como correo deseado'. Además, agrega el contacto de ventas@correo1.computocontable.com y el dominio de Computo Contable a remitentes seguros en la configuración de Outlook."
   },
   {
-    "q": "¿Cómo agregar el contacto de Computo Contable en Gmail?",
-    "a": "Iniciar sesión en Gmail, ir a 'Contactos' desde Google Apps, dar clic en 'Agregar un contacto' o 'Crear contacto', llenar los datos con 'ventas@correo1.computocontable.com' y guardar.",
+    "q": "¿Cómo puedo evitar que los correos de MiExpedienteContable vayan a SPAM en Gmail?",
+    "a": "Inicia sesión en Gmail, ve a Contactos y agrega un nuevo contacto con el correo ventas@correo1.computocontable.com. Guarda el contacto y vuelve a intentar el proceso de registro y validación.",
     "product": "MiExpedienteContable",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "gmail",
+      "spam",
       "contactos",
-      "agregar",
-      "computo contable",
-      "correo"
-    ]
+      "agregar contacto",
+      "correo electrónico",
+      "registro"
+    ],
+    "faq_id": "D-20-02-05-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo evitar que los correos de MiExpedienteContable vayan a SPAM en Gmail? Respuesta: Inicia sesión en Gmail, ve a Contactos y agrega un nuevo contacto con el correo ventas@correo1.computocontable.com. Guarda el contacto y vuelve a intentar el proceso de registro y validación."
   },
   {
-    "q": "¿Cómo agregar el contacto de Computo Contable en Yahoo?",
-    "a": "Dar clic en 'Contactos', luego en 'Nuevo contacto', llenar los datos con Nombre 'Computo Contable' y correo 'ventas@correo1.computocontable.com', y dar clic en 'Guardar'.",
+    "q": "¿Qué pasos debo seguir para que los correos de MiExpedienteContable no lleguen a SPAM en Yahoo?",
+    "a": "Ve a Contactos en Yahoo, crea un nuevo contacto con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com. Guarda el contacto para evitar que los correos vayan a SPAM.",
     "product": "MiExpedienteContable",
+    "categoria": "Correo Electrónico",
     "keywords": [
       "yahoo",
+      "spam",
       "contactos",
-      "agregar",
-      "computo contable",
-      "correo"
-    ]
+      "nuevo contacto",
+      "guardar",
+      "correo electrónico"
+    ],
+    "faq_id": "D-20-02-05-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir para que los correos de MiExpedienteContable no lleguen a SPAM en Yahoo? Respuesta: Ve a Contactos en Yahoo, crea un nuevo contacto con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com. Guarda el contacto para evitar que los correos vayan a SPAM."
   },
   {
-    "q": "¿Qué correo se debe agregar como contacto seguro para evitar SPAM en MiExpedienteContable?",
-    "a": "Se debe agregar el correo 'ventas@correo1.computocontable.com' como contacto seguro en el cliente de correo que se esté utilizando.",
+    "q": "¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable en la bandeja de entrada?",
+    "a": "Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos",
     "keywords": [
-      "correo",
-      "contacto seguro",
+      "licencia",
+      "periodo demostrativo",
+      "correo electrónico",
+      "requisitos",
+      "bandeja de entrada"
+    ],
+    "faq_id": "D-20-02-05-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable en la bandeja de entrada? Respuesta: Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico."
+  },
+  {
+    "q": "¿Qué tipo de incidencia es cuando los correos de MiExpedienteContable llegan a SPAM?",
+    "a": "Es una incidencia tipo INC-02 con un nivel de prioridad 2 – Medio.",
+    "product": "MiExpedienteContable",
+    "categoria": "General",
+    "keywords": [
+      "incidencia",
+      "tipo",
+      "nivel",
+      "prioridad",
       "spam",
-      "ventas",
-      "computocontable"
-    ]
+      "correo"
+    ],
+    "faq_id": "D-20-02-05-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando los correos de MiExpedienteContable llegan a SPAM? Respuesta: Es una incidencia tipo INC-02 con un nivel de prioridad 2 – Medio."
+  },
+  {
+    "q": "¿Qué correo electrónico debo agregar como contacto para evitar que los correos de MiExpedienteContable vayan a SPAM?",
+    "a": "Debes agregar el correo ventas@correo1.computocontable.com como contacto en tu cliente de correo electrónico.",
+    "product": "MiExpedienteContable",
+    "categoria": "Correo Electrónico",
+    "keywords": [
+      "correo electrónico",
+      "contacto",
+      "spam",
+      "agregar",
+      "ventas"
+    ],
+    "faq_id": "D-20-02-05-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué correo electrónico debo agregar como contacto para evitar que los correos de MiExpedienteContable vayan a SPAM? Respuesta: Debes agregar el correo ventas@correo1.computocontable.com como contacto en tu cliente de correo electrónico."
   }
 ]

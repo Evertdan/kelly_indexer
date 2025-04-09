@@ -3,6 +3,7 @@
     "q": "¿Qué función tiene la herramienta de Leer complementos en MiAdminXML?",
     "a": "La herramienta Premium de Leer complementos permite extraer toda la información del complemento seleccionado y agregarlo al reporte, logrando un reporte más detallado. La información se agrega al final de las columnas del reporte.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "leer complementos",
       "herramienta",
@@ -11,48 +12,55 @@
       "detallado",
       "información",
       "columnas"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-19_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta de Leer complementos en MiAdminXML? Respuesta: La herramienta Premium de Leer complementos permite extraer toda la información del complemento seleccionado y agregarlo al reporte, logrando un reporte más detallado. La información se agrega al final de las columnas del reporte."
   },
   {
     "q": "¿Qué se necesita para usar la herramienta de Leer complementos en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo para usar la herramienta de Leer complementos.",
+    "a": "Para usar la herramienta de Leer complementos, es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
+      "leer complementos",
       "licencia",
       "periodo demostrativo",
-      "leer complementos",
-      "acceso",
+      "requisitos",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-19_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta de Leer complementos en MiAdminXML? Respuesta: Para usar la herramienta de Leer complementos, es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se utiliza la herramienta de Leer complementos en MiAdminXML?",
-    "a": "Para usar la herramienta, se debe seleccionar la información del contribuyente: RFC, Tipo (Emitido/Recibido), Año, Mes. Una vez que se arrojen los resultados en el módulo, el usuario seleccionará el botón 'Leer complementos'.",
+    "a": "Para utilizar la herramienta, se debe seleccionar la información del contribuyente: RFC, Tipo (Emitido/Recibido), Año, Mes. Una vez que se arrojen los resultados en el módulo, el usuario seleccionará el botón 'Leer complementos'.",
     "product": "MiAdminXML",
+    "categoria": "Uso",
     "keywords": [
+      "leer complementos",
       "uso",
-      "procedimiento",
-      "seleccionar",
       "rfc",
       "tipo",
       "año",
       "mes",
       "botón",
-      "leer complementos"
-    ]
+      "seleccionar"
+    ],
+    "faq_id": "A-20-03-25-03-19_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se utiliza la herramienta de Leer complementos en MiAdminXML? Respuesta: Para utilizar la herramienta, se debe seleccionar la información del contribuyente: RFC, Tipo (Emitido/Recibido), Año, Mes. Una vez que se arrojen los resultados en el módulo, el usuario seleccionará el botón 'Leer complementos'."
   },
   {
-    "q": "¿Qué tipo de información se puede obtener con la herramienta de Leer complementos?",
-    "a": "La herramienta permite extraer toda la información del complemento seleccionado, la cual se agrega al final de las columnas del reporte para lograr un reporte más detallado.",
+    "q": "¿Qué tipo de herramienta es Leer complementos en MiAdminXML?",
+    "a": "Leer complementos es una herramienta Premium dentro de MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
-      "información",
-      "complemento",
-      "reporte",
-      "detallado",
-      "columnas",
-      "extraer"
-    ]
+      "leer complementos",
+      "herramienta",
+      "premium",
+      "tipo"
+    ],
+    "faq_id": "A-20-03-25-03-19_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de herramienta es Leer complementos en MiAdminXML? Respuesta: Leer complementos es una herramienta Premium dentro de MiAdminXML."
   }
 ]

@@ -1,94 +1,154 @@
 [
   {
     "q": "¿Qué se necesita para generar la DIOT en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
       "requisitos",
       "licencia",
-      "miadminxml",
-      "periodo demostrativo"
-    ]
+      "periodo demostrativo",
+      "generación"
+    ],
+    "faq_id": "A-20-03-25-03-25_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar la DIOT en MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cómo se inicia el proceso de generación de la DIOT en MiAdminXML?",
+    "q": "¿Cómo se inicia el proceso de generación de DIOT en MiAdminXML?",
     "a": "Se ingresa al apartado Contabilidad y se elige el módulo Generar DIOT y Carga Batch.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
-      "proceso",
+      "inicio",
       "contabilidad",
-      "generar diot",
-      "carga batch",
-      "inicio"
-    ]
+      "módulo",
+      "carga batch"
+    ],
+    "faq_id": "A-20-03-25-03-25_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia el proceso de generación de DIOT en MiAdminXML? Respuesta: Se ingresa al apartado Contabilidad y se elige el módulo Generar DIOT y Carga Batch."
   },
   {
-    "q": "¿Qué pasos se deben seguir para generar la DIOT en MiAdminXML?",
-    "a": "Se selecciona el contribuyente, tipo de facturas, periodo de tiempo, se validan las facturas pagadas y no pagadas, se actualiza el estado SAT, y finalmente se genera el archivo DIOT y la carga BATCH.",
+    "q": "¿Qué datos se deben seleccionar para generar la DIOT?",
+    "a": "Se debe seleccionar el contribuyente, tipo de facturas, periodo de tiempo (año/mes), periodo de pago y trabajo para la generación de DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
-      "pasos",
+      "datos",
+      "contribuyente",
       "facturas",
       "periodo",
-      "validación",
-      "generar archivo"
-    ]
+      "pago"
+    ],
+    "faq_id": "A-20-03-25-03-25_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos se deben seleccionar para generar la DIOT? Respuesta: Se debe seleccionar el contribuyente, tipo de facturas, periodo de tiempo (año/mes), periodo de pago y trabajo para la generación de DIOT."
   },
   {
-    "q": "¿Qué herramientas están disponibles durante el proceso de generación de la DIOT?",
-    "a": "Se dispone de herramientas como Acreditable, No Acreditable, Tipo de IVA, Operación o Proveedor para atender los apartados de las columnas según el caso.",
+    "q": "¿Qué pestañas se despliegan automáticamente en el módulo de DIOT?",
+    "a": "Se despliegan dos pestañas: Facturas NO Pagadas y Facturas Pagadas.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
+    "keywords": [
+      "diot",
+      "pestañas",
+      "facturas",
+      "pagadas",
+      "no pagadas"
+    ],
+    "faq_id": "A-20-03-25-03-25_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pestañas se despliegan automáticamente en el módulo de DIOT? Respuesta: Se despliegan dos pestañas: Facturas NO Pagadas y Facturas Pagadas."
+  },
+  {
+    "q": "¿Cómo se agregan las facturas a la pestaña de Pagadas?",
+    "a": "Se identifican las facturas seleccionándolas y en el menú de herramientas se elige el botón Pagado según corresponda.",
+    "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
+    "keywords": [
+      "diot",
+      "facturas",
+      "pagadas",
+      "selección",
+      "botón pagado"
+    ],
+    "faq_id": "A-20-03-25-03-25_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se agregan las facturas a la pestaña de Pagadas? Respuesta: Se identifican las facturas seleccionándolas y en el menú de herramientas se elige el botón Pagado según corresponda."
+  },
+  {
+    "q": "¿Qué se recomienda hacer antes de generar el archivo DIOT?",
+    "a": "Se recomienda dar clic en el botón Valida estado SAT para actualizar al último estado las facturas con las que se está trabajando.",
+    "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
+    "keywords": [
+      "diot",
+      "validación",
+      "sat",
+      "facturas",
+      "estado"
+    ],
+    "faq_id": "A-20-03-25-03-25_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda hacer antes de generar el archivo DIOT? Respuesta: Se recomienda dar clic en el botón Valida estado SAT para actualizar al último estado las facturas con las que se está trabajando."
+  },
+  {
+    "q": "¿Qué hacer con las facturas que tienen estatus Cancelado?",
+    "a": "Se deben seleccionar con el botón No Pagado, ya que estas no se incluirán en la generación del archivo.",
+    "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
+    "keywords": [
+      "diot",
+      "facturas",
+      "cancelado",
+      "no pagado",
+      "exclusión"
+    ],
+    "faq_id": "A-20-03-25-03-25_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer con las facturas que tienen estatus Cancelado? Respuesta: Se deben seleccionar con el botón No Pagado, ya que estas no se incluirán en la generación del archivo."
+  },
+  {
+    "q": "¿Qué herramientas adicionales están disponibles en el módulo DIOT?",
+    "a": "Se disponen de herramientas como Acreditable, No Acreditable, Tipo de IVA, Operación o Proveedor para atender los apartados de las columnas según el caso.",
+    "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
       "herramientas",
       "acreditable",
       "iva",
-      "proveedor",
-      "operación"
-    ]
+      "proveedor"
+    ],
+    "faq_id": "A-20-03-25-03-25_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas adicionales están disponibles en el módulo DIOT? Respuesta: Se disponen de herramientas como Acreditable, No Acreditable, Tipo de IVA, Operación o Proveedor para atender los apartados de las columnas según el caso."
   },
   {
-    "q": "¿Cómo se generan los archivos DIOT y BATCH en MiAdminXML?",
-    "a": "Se selecciona el botón Generar DIOT para el reporte y luego el botón Generar BATCH para crear el archivo .txt que se usará en la herramienta DIOT del SAT.",
+    "q": "¿Cómo se genera el archivo DIOT final?",
+    "a": "Se selecciona el botón Generar DIOT y luego el botón Generar BATCH para generar la carga con extensión .txt, que se usará en la herramienta DIOT del SAT para convertirlo en formato .dec.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
-      "batch",
       "generar",
+      "batch",
       "archivo",
       "txt",
-      "sat",
       "dec"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-25_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera el archivo DIOT final? Respuesta: Se selecciona el botón Generar DIOT y luego el botón Generar BATCH para generar la carga con extensión .txt, que se usará en la herramienta DIOT del SAT para convertirlo en formato .dec."
   },
   {
-    "q": "¿Qué se debe hacer con las facturas canceladas durante la generación de la DIOT?",
-    "a": "Se deben seleccionar las facturas con estatus Cancelado y marcarlas como No Pagado para que no se incluyan en la generación del archivo.",
+    "q": "¿Dónde se indica la ubicación del archivo BATCH generado?",
+    "a": "El mensaje final en el módulo indicará la ubicación donde se genera la CARGA BATCH.",
     "product": "MiAdminXML",
-    "keywords": [
-      "diot",
-      "facturas",
-      "canceladas",
-      "no pagado",
-      "excluir",
-      "estatus"
-    ]
-  },
-  {
-    "q": "¿Qué mensaje se muestra al finalizar la generación de la carga BATCH?",
-    "a": "El mensaje final indica la ubicación donde se genera la CARGA BATCH, la cual se puede cargar al sistema del SAT para generar el archivo .dec.",
-    "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "diot",
       "batch",
-      "mensaje",
       "ubicación",
-      "sat",
-      "dec",
-      "finalización"
-    ]
+      "archivo",
+      "generación"
+    ],
+    "faq_id": "A-20-03-25-03-25_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se indica la ubicación del archivo BATCH generado? Respuesta: El mensaje final en el módulo indicará la ubicación donde se genera la CARGA BATCH."
   }
 ]

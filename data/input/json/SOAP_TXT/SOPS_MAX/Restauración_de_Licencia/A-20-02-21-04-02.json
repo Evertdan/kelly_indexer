@@ -1,35 +1,42 @@
 [
   {
     "q": "¿Qué error aparece cuando un cliente intenta activar su licencia en un nuevo equipo sin desactivarla primero?",
-    "a": "El error que aparece es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
+    "a": "Aparece el error: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "licencia",
       "error",
+      "licencia",
       "activación",
       "equipo",
       "uso",
       "bloqueo"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece cuando un cliente intenta activar su licencia en un nuevo equipo sin desactivarla primero? Respuesta: Aparece el error: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'."
   },
   {
-    "q": "¿En qué casos aplica el procedimiento de reactivación de licencia en MiAdminXML?",
-    "a": "Aplica en casos de error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
+    "q": "¿En qué casos aplica el proceso de reactivación de licencia en MiAdminXML?",
+    "a": "Aplica en casos de error de activación (bloqueo de antivirus o falla de conexión), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "reactivación",
-      "licencia",
       "casos",
       "error",
       "formateo",
       "cambio",
+      "hdd",
       "robo"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos aplica el proceso de reactivación de licencia en MiAdminXML? Respuesta: Aplica en casos de error de activación (bloqueo de antivirus o falla de conexión), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo."
   },
   {
     "q": "¿Qué datos debe corroborar el AMS antes de proceder con la reactivación de una licencia?",
-    "a": "El AMS debe corroborar a nombre de quien está registrada la licencia, correo electrónico, RFC, que la licencia esté en estado pagado con fecha vigente y si es primera o segunda reactivación.",
+    "a": "Debe corroborar a nombre de quien está registrada la licencia, correo electrónico, RFC, estado de pago y fecha de vigencia, y si es primera o segunda reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "ams",
       "datos",
@@ -40,12 +47,15 @@
       "rfc",
       "pago",
       "vigencia"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos debe corroborar el AMS antes de proceder con la reactivación de una licencia? Respuesta: Debe corroborar a nombre de quien está registrada la licencia, correo electrónico, RFC, estado de pago y fecha de vigencia, y si es primera o segunda reactivación."
   },
   {
     "q": "¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación de licencia?",
-    "a": "El tiempo máximo de espera para recibir el oficio de reactivación es de 72 horas.",
+    "a": "El tiempo máximo de espera es de 72 horas.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "oficio",
       "reactivación",
@@ -53,55 +63,43 @@
       "espera",
       "horas",
       "máximo"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación de licencia? Respuesta: El tiempo máximo de espera es de 72 horas."
   },
   {
-    "q": "¿Qué comando se debe usar para reactivar una licencia a través del BOT?",
-    "a": "Se debe ingresar al BOT con un comando específico (no detallado en el texto) para realizar la reactivación.",
+    "q": "¿Qué pasos sigue el área de ATC o ST para reactivar una licencia una vez recibido el oficio?",
+    "a": "Ingresan al BOT con un comando específico para realizar la reactivación, esperan a que el área de operaciones restaure la licencia y una vez restaurada, avisan al cliente.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
+      "atc",
+      "st",
+      "pasos",
+      "reactivación",
       "bot",
       "comando",
-      "reactivación",
-      "licencia",
-      "procedimiento"
-    ]
-  },
-  {
-    "q": "¿Quién notifica al cliente una vez que se ha restaurado la licencia?",
-    "a": "Una vez restaurada la licencia, se le avisará al cliente, aunque el texto no especifica qué área realiza esta notificación.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "notificación",
-      "cliente",
+      "operaciones",
       "restauración",
-      "licencia",
-      "aviso"
-    ]
+      "cliente"
+    ],
+    "faq_id": "A-20-02-21-04-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos sigue el área de ATC o ST para reactivar una licencia una vez recibido el oficio? Respuesta: Ingresan al BOT con un comando específico para realizar la reactivación, esperan a que el área de operaciones restaure la licencia y una vez restaurada, avisan al cliente."
   },
   {
     "q": "¿Qué nivel de incidencia tiene el problema de reactivación de licencia?",
-    "a": "El problema de reactivación de licencia tiene un nivel de incidencia 2 – Medio.",
+    "a": "El nivel de incidencia es 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "incidencia",
       "nivel",
+      "incidencia",
       "medio",
       "problema",
       "reactivación",
       "licencia"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se necesitan para realizar la reactivación de una licencia?",
-    "a": "El recurso necesario para realizar la reactivación de una licencia es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recursos",
-      "necesarios",
-      "reactivación",
-      "licencia",
-      "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de incidencia tiene el problema de reactivación de licencia? Respuesta: El nivel de incidencia es 2 – Medio."
   }
 ]

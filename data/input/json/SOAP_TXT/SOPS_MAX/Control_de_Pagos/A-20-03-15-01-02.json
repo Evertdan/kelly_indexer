@@ -1,67 +1,51 @@
 [
   {
-    "q": "¿Qué sucede cuando no se visualiza la información al seleccionar un mes o agrupación en MiAdminXML?",
-    "a": "No se visualiza la información al momento de seleccionar mes o la agrupación. Para solucionarlo, al dar clic en el mes debe dar clic en la herramienta 'Leer XMLs' para extraer la información en el sistema.",
+    "q": "¿Qué debo hacer si no se visualiza la información al seleccionar un mes o agrupación en MiAdminXML?",
+    "a": "Debes dar clic en la herramienta 'Leer XMLs' después de seleccionar el mes. También puedes hacer multi-selección de meses para una mejor conciliación, lo que hará que aparezca la información seleccionada en pantalla.",
     "product": "MiAdminXML",
+    "categoria": "Control de Pagos",
     "keywords": [
       "visualización",
-      "información",
       "mes",
       "agrupación",
       "leer xmls",
-      "problema",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Cómo se puede extraer la información de los meses seleccionados en MiAdminXML?",
-    "a": "Se debe dar clic en la herramienta 'Leer XMLs' después de seleccionar el mes para extraer la información en el sistema. También se puede hacer multi-selección de los meses para una mejor conciliación.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "extraer",
-      "información",
-      "meses",
-      "leer xmls",
       "multi-selección",
-      "conciliación"
-    ]
+      "conciliación",
+      "pantalla"
+    ],
+    "faq_id": "A-20-03-15-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no se visualiza la información al seleccionar un mes o agrupación en MiAdminXML? Respuesta: Debes dar clic en la herramienta 'Leer XMLs' después de seleccionar el mes. También puedes hacer multi-selección de meses para una mejor conciliación, lo que hará que aparezca la información seleccionada en pantalla."
   },
   {
     "q": "¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
+      "requisitos",
       "solución",
       "correo electrónico",
       "visualización"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para solucionar problemas de visualización en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué herramienta se utiliza para extraer la información de los XMLs en MiAdminXML?",
-    "a": "La herramienta 'Leer XMLs' se utiliza para extraer la información en el sistema después de seleccionar el mes o los meses.",
+    "q": "¿Cómo puedo mejorar la conciliación de información en MiAdminXML?",
+    "a": "Puedes hacer multi-selección de los meses al usar la herramienta 'Leer XMLs', lo que permite una mejor conciliación y visualización de la información en pantalla.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
-      "herramienta",
-      "leer xmls",
-      "extraer",
-      "información",
-      "meses",
-      "sistema"
-    ]
-  },
-  {
-    "q": "¿Se pueden seleccionar múltiples meses en MiAdminXML para conciliación?",
-    "a": "Sí, se puede hacer multi-selección de los meses para una mejor conciliación en MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
+      "conciliación",
       "multi-selección",
       "meses",
-      "conciliación",
-      "mejor",
-      "seleccionar"
-    ]
+      "leer xmls",
+      "visualización",
+      "pantalla"
+    ],
+    "faq_id": "A-20-03-15-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo mejorar la conciliación de información en MiAdminXML? Respuesta: Puedes hacer multi-selección de los meses al usar la herramienta 'Leer XMLs', lo que permite una mejor conciliación y visualización de la información en pantalla."
   }
 ]

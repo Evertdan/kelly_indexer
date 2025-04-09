@@ -1,69 +1,80 @@
 [
   {
     "q": "¿Cómo puedo desactivar mi licencia en MiExpedienteContable?",
-    "a": "Para desactivar la licencia en MiExpedienteContable, ingresa al módulo de licenciamiento, ubica tu clave de licencia activa y haz clic en el botón 'Desactivar'. Luego, acepta en la pantalla que aparece y guarda, copia o toma captura del número de serie para futuras activaciones.",
+    "a": "Para desactivar la licencia en MiExpedienteContable, ingresa al módulo de licenciamiento, ubica tu clave de licencia y haz clic en el botón 'Desactivar'. Luego, acepta en la pantalla que aparece y guarda, copia o toma captura del número de serie para futuras activaciones.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
       "desactivar",
       "licencia",
       "mi expediente contable",
-      "pasos",
       "módulo",
-      "licenciamiento",
       "número de serie"
-    ]
+    ],
+    "faq_id": "D-20-03-08-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo desactivar mi licencia en MiExpedienteContable? Respuesta: Para desactivar la licencia en MiExpedienteContable, ingresa al módulo de licenciamiento, ubica tu clave de licencia y haz clic en el botón 'Desactivar'. Luego, acepta en la pantalla que aparece y guarda, copia o toma captura del número de serie para futuras activaciones."
   },
   {
-    "q": "¿Qué debo hacer después de desactivar mi licencia en MiExpedienteContable?",
-    "a": "Después de desactivar la licencia, se recomienda guardar, copiar o tomar captura de pantalla del número de serie para la próxima activación. Si deseas respaldar la información, haz clic en el icono del sistema y selecciona 'Respaldar/Restaurar', luego 'Restaurar'.",
+    "q": "¿Qué debo hacer antes de desactivar mi licencia en MiExpedienteContable?",
+    "a": "Antes de desactivar la licencia, se recomienda guardar, copiar o tomar captura de pantalla del número de serie para facilitar la próxima activación.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "post desactivación",
-      "respaldo",
+      "antes",
+      "desactivar",
+      "licencia",
       "número de serie",
       "captura",
-      "restaurar",
+      "recomendación"
+    ],
+    "faq_id": "D-20-03-08-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer antes de desactivar mi licencia en MiExpedienteContable? Respuesta: Antes de desactivar la licencia, se recomienda guardar, copiar o tomar captura de pantalla del número de serie para facilitar la próxima activación."
+  },
+  {
+    "q": "¿Cómo puedo respaldar mi información en MiExpedienteContable después de desactivar la licencia?",
+    "a": "Para respaldar la información después de desactivar la licencia, haz clic en el icono del sistema, selecciona 'Respaldar/Restaurar' y luego elige 'Restaurar'.",
+    "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
+    "keywords": [
+      "respaldar",
       "información",
-      "recomendaciones"
-    ]
+      "desactivar",
+      "licencia",
+      "restaurar",
+      "sistema"
+    ],
+    "faq_id": "D-20-03-08-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo respaldar mi información en MiExpedienteContable después de desactivar la licencia? Respuesta: Para respaldar la información después de desactivar la licencia, haz clic en el icono del sistema, selecciona 'Respaldar/Restaurar' y luego elige 'Restaurar'."
   },
   {
     "q": "¿Qué módulo debo usar para desactivar mi licencia en MiExpedienteContable?",
-    "a": "Para desactivar tu licencia en MiExpedienteContable, debes ingresar al módulo de licenciamiento.",
+    "a": "Debes ingresar al módulo de licenciamiento en MiExpedienteContable para desactivar tu licencia.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
       "módulo",
       "licenciamiento",
       "desactivar",
       "licencia",
-      "acceso",
-      "ubicación"
-    ]
+      "mi expediente contable"
+    ],
+    "faq_id": "D-20-03-08-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué módulo debo usar para desactivar mi licencia en MiExpedienteContable? Respuesta: Debes ingresar al módulo de licenciamiento en MiExpedienteContable para desactivar tu licencia."
   },
   {
-    "q": "¿Qué información debo guardar al desactivar mi licencia en MiExpedienteContable?",
-    "a": "Al desactivar tu licencia en MiExpedienteContable, es importante guardar, copiar o tomar captura de pantalla del número de serie para facilitar la próxima activación.",
+    "q": "¿Qué pasos debo seguir después de hacer clic en 'Desactivar' en MiExpedienteContable?",
+    "a": "Después de hacer clic en 'Desactivar', acepta en la pantalla que aparece y asegúrate de guardar, copiar o tomar captura del número de serie para futuras activaciones.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
+      "pasos",
+      "desactivar",
+      "aceptar",
       "número de serie",
-      "guardar",
-      "copiar",
       "captura",
-      "activación futura",
-      "importancia"
-    ]
-  },
-  {
-    "q": "¿Cómo puedo respaldar mi información después de desactivar la licencia en MiExpedienteContable?",
-    "a": "Para respaldar tu información después de desactivar la licencia, haz clic en el icono del sistema, selecciona 'Respaldar/Restaurar' y luego 'Restaurar'.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "respaldar",
-      "información",
-      "restaurar",
-      "icono del sistema",
-      "post desactivación",
-      "procedimiento"
-    ]
+      "guardar"
+    ],
+    "faq_id": "D-20-03-08-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir después de hacer clic en 'Desactivar' en MiExpedienteContable? Respuesta: Después de hacer clic en 'Desactivar', acepta en la pantalla que aparece y asegúrate de guardar, copiar o tomar captura del número de serie para futuras activaciones."
   }
 ]

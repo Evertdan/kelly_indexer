@@ -1,84 +1,87 @@
 [
   {
-    "q": "¿Qué tipo de incidencia es cuando un RFC ya está registrado en el Catálogo de Contribuyentes?",
-    "a": "El tipo de incidencia es INC-02 y tiene un nivel de 2 – Medio.",
+    "q": "¿Qué tipo de error ocurre cuando se intenta agregar un RFC ya registrado en el Catálogo de Contribuyentes?",
+    "a": "El error indica que ya existe un contribuyente registrado con ese RFC en la base de datos.",
     "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "incidencia",
-      "tipo",
-      "rfc",
-      "registrado",
-      "catálogo",
-      "contribuyentes",
-      "nivel"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se necesitan para resolver un problema de RFC duplicado en el Catálogo de Contribuyentes?",
-    "a": "Se necesitan MAX /Supremo Control o Anydesk para resolver el problema.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "recursos",
-      "max",
-      "supremo control",
-      "anydesk",
-      "rfc",
-      "duplicado",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Qué políticas se deben cumplir para trabajar con el Catálogo de Contribuyentes en MiAdminXML?",
-    "a": "Se debe contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "políticas",
-      "licencia",
-      "miadminxml",
-      "periodo demostrativo",
-      "requisitos",
-      "catálogo"
-    ]
-  },
-  {
-    "q": "¿Qué alcance tiene la solución para un RFC ya registrado en el Catálogo de Contribuyentes?",
-    "a": "El alcance es la identificación de contribuyentes.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "alcance",
-      "identificación",
-      "contribuyentes",
-      "rfc",
-      "registrado",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer si aparece un error al agregar un RFC porque ya está registrado?",
-    "a": "Se debe verificar la información ingresada, ya que el RFC ya existe en la base de datos. Para modificar la información, se puede dar clic en el RFC y seleccionar 'Modificar' o 'Eliminar' y dar de alta nuevamente el contribuyente.",
-    "product": "Catálogo de Contribuyentes",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "rfc",
       "registrado",
-      "modificar",
-      "eliminar",
-      "alta",
-      "contribuyente",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Es posible guardar el mismo RFC más de una vez en el Catálogo de Contribuyentes?",
-    "a": "No, no es posible guardar el mismo RFC dos veces o más en el Catálogo de Contribuyentes.",
-    "product": "Catálogo de Contribuyentes",
-    "keywords": [
-      "rfc",
-      "duplicado",
-      "guardar",
       "catálogo",
       "contribuyentes",
-      "restricción"
-    ]
+      "existente",
+      "base de datos"
+    ],
+    "faq_id": "A-20-02-22-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de error ocurre cuando se intenta agregar un RFC ya registrado en el Catálogo de Contribuyentes? Respuesta: El error indica que ya existe un contribuyente registrado con ese RFC en la base de datos."
+  },
+  {
+    "q": "¿Qué se necesita para acceder al Catálogo de Contribuyentes en MiAdminXML?",
+    "a": "Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
+    "keywords": [
+      "acceso",
+      "catálogo",
+      "contribuyentes",
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-02-22-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para acceder al Catálogo de Contribuyentes en MiAdminXML? Respuesta: Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo."
+  },
+  {
+    "q": "¿Cómo se puede modificar la información de un contribuyente ya registrado en el Catálogo?",
+    "a": "Se debe dar clic en el RFC del contribuyente y seleccionar la opción 'Modificar' para editar la información.",
+    "product": "Catálogo de Contribuyentes",
+    "categoria": "Operaciones",
+    "keywords": [
+      "modificar",
+      "contribuyente",
+      "rfc",
+      "editar",
+      "información",
+      "catálogo",
+      "opciones"
+    ],
+    "faq_id": "A-20-02-22-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede modificar la información de un contribuyente ya registrado en el Catálogo? Respuesta: Se debe dar clic en el RFC del contribuyente y seleccionar la opción 'Modificar' para editar la información."
+  },
+  {
+    "q": "¿Qué opciones tiene un usuario si necesita eliminar y volver a registrar un contribuyente en el Catálogo?",
+    "a": "El usuario puede seleccionar la opción 'Eliminar' para el contribuyente y luego dar de alta nuevamente con la información correcta.",
+    "product": "Catálogo de Contribuyentes",
+    "categoria": "Operaciones",
+    "keywords": [
+      "eliminar",
+      "registrar",
+      "contribuyente",
+      "alta",
+      "catálogo",
+      "opciones",
+      "rfc"
+    ],
+    "faq_id": "A-20-02-22-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones tiene un usuario si necesita eliminar y volver a registrar un contribuyente en el Catálogo? Respuesta: El usuario puede seleccionar la opción 'Eliminar' para el contribuyente y luego dar de alta nuevamente con la información correcta."
+  },
+  {
+    "q": "¿Qué nivel de impacto tiene el error de RFC ya registrado en el Catálogo de Contribuyentes?",
+    "a": "El error tiene un nivel de impacto 2 – Medio.",
+    "product": "Catálogo de Contribuyentes",
+    "categoria": "Errores Comunes",
+    "keywords": [
+      "nivel",
+      "impacto",
+      "error",
+      "rfc",
+      "registrado",
+      "medio",
+      "catálogo"
+    ],
+    "faq_id": "A-20-02-22-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de impacto tiene el error de RFC ya registrado en el Catálogo de Contribuyentes? Respuesta: El error tiene un nivel de impacto 2 – Medio."
   }
 ]

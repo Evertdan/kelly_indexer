@@ -3,21 +3,25 @@
     "q": "¿Qué se necesita para utilizar el módulo de Descarga de Retenciones WebService SAT en MiAdminXML?",
     "a": "Se requiere tener la e-firma del contribuyente y contar con una licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga",
       "retenciones",
       "web service",
       "sat",
-      "requisitos",
       "e-firma",
       "licencia",
-      "demostrativo"
-    ]
+      "requisitos",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-01-05_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de Descarga de Retenciones WebService SAT en MiAdminXML? Respuesta: Se requiere tener la e-firma del contribuyente y contar con una licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
     "q": "¿Cómo se accede al módulo de Descarga de Retenciones WebService SAT en MiAdminXML?",
-    "a": "Se accede a MiAdminXML y se da clic en la opción 'Descarga de Retenciones WebService SAT'.",
+    "a": "Se accede desde MiAdminXML, dando clic en la opción 'Descarga de Retenciones WebService SAT'.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "acceso",
       "módulo",
@@ -25,77 +29,76 @@
       "retenciones",
       "web service",
       "sat",
-      "clic"
-    ]
+      "inicio"
+    ],
+    "faq_id": "A-20-03-25-01-05_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de Descarga de Retenciones WebService SAT en MiAdminXML? Respuesta: Se accede desde MiAdminXML, dando clic en la opción 'Descarga de Retenciones WebService SAT'."
   },
   {
     "q": "¿Qué pasos se deben seguir para descargar retenciones en MiAdminXML?",
-    "a": "1. Ingresar la e-firma y contraseña. 2. Validar los datos de acceso. 3. Seleccionar 'Solicitar descarga'. 4. Llenar campos de tipos de comprobantes, organización de archivos XML y fechas. 5. Generar solicitud. 6. Verificar solicitudes.",
+    "a": "1. Ingresar con la e-firma del contribuyente. 2. Seleccionar 'Solicitar descarga'. 3. Llenar los campos de tipos de comprobantes, organización de archivos XML y fechas. 4. Dar clic en 'Generar solicitud'. 5. Verificar las solicitudes con 'Verificar solicitudes'.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "pasos",
       "descarga",
       "retenciones",
-      "e-firma",
-      "solicitar",
-      "comprobantes",
-      "fechas",
-      "verificar"
-    ]
+      "proceso",
+      "solicitud",
+      "validación",
+      "cfdi",
+      "fechas"
+    ],
+    "faq_id": "A-20-03-25-01-05_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para descargar retenciones en MiAdminXML? Respuesta: 1. Ingresar con la e-firma del contribuyente. 2. Seleccionar 'Solicitar descarga'. 3. Llenar los campos de tipos de comprobantes, organización de archivos XML y fechas. 4. Dar clic en 'Generar solicitud'. 5. Verificar las solicitudes con 'Verificar solicitudes'."
   },
   {
-    "q": "¿Qué ocurre si no se tiene la e-firma del contribuyente en MiAdminXML?",
-    "a": "No se podrá utilizar el módulo de Descarga de Retenciones WebService SAT.",
+    "q": "¿Qué sucede si no tengo la e-firma del contribuyente para usar el módulo de Descarga de Retenciones?",
+    "a": "Si no cuentas con la e-firma del contribuyente, no podrás utilizar este módulo.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "e-firma",
       "requisito",
       "restricción",
-      "descarga",
+      "acceso",
       "retenciones",
-      "web service",
-      "sat"
-    ]
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-01-05_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si no tengo la e-firma del contribuyente para usar el módulo de Descarga de Retenciones? Respuesta: Si no cuentas con la e-firma del contribuyente, no podrás utilizar este módulo."
   },
   {
-    "q": "¿Cómo se verifica el estado de las solicitudes de descarga en MiAdminXML?",
-    "a": "Dando clic en 'Verificar solicitudes' para visualizar el proceso de validación y descarga de los CFDi de retenciones.",
+    "q": "¿Cómo se verifica el estado de las solicitudes de descarga de retenciones en MiAdminXML?",
+    "a": "Se verifica dando clic en 'Verificar solicitudes', lo que mostrará ventanas con el proceso de validación y descarga de los CFDi de retenciones.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "verificar",
+      "verificación",
       "solicitudes",
       "estado",
-      "descarga",
-      "retenciones",
-      "cfdi",
-      "validación"
-    ]
-  },
-  {
-    "q": "¿Qué mensaje se muestra cuando los datos de acceso son validados correctamente en MiAdminXML?",
-    "a": "Se muestra una ventana con la leyenda 'Sus datos de acceso han sido validados correctamente' y se debe dar clic en 'Aceptar'.",
-    "product": "MiAdminXML",
-    "keywords": [
       "validación",
-      "datos",
-      "acceso",
-      "mensaje",
-      "correcto",
-      "aceptar"
-    ]
+      "cfdi",
+      "retenciones",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-25-01-05_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se verifica el estado de las solicitudes de descarga de retenciones en MiAdminXML? Respuesta: Se verifica dando clic en 'Verificar solicitudes', lo que mostrará ventanas con el proceso de validación y descarga de los CFDi de retenciones."
   },
   {
-    "q": "¿Qué opciones se deben seleccionar al generar una solicitud de descarga en MiAdminXML?",
-    "a": "Se deben seleccionar los tipos de comprobantes, la organización de archivos XML y las fechas para la descarga.",
+    "q": "¿Qué información se muestra después de generar una solicitud de descarga de retenciones?",
+    "a": "Se muestra una ventana indicando si la solicitud fue aceptada y posteriormente el listado de las solicitudes realizadas.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "solicitud",
-      "descarga",
-      "comprobantes",
-      "organización",
-      "archivos",
-      "xml",
-      "fechas"
-    ]
+      "confirmación",
+      "listado",
+      "aceptada",
+      "retenciones",
+      "descarga"
+    ],
+    "faq_id": "A-20-03-25-01-05_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se muestra después de generar una solicitud de descarga de retenciones? Respuesta: Se muestra una ventana indicando si la solicitud fue aceptada y posteriormente el listado de las solicitudes realizadas."
   }
 ]

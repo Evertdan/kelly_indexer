@@ -1,96 +1,102 @@
 [
   {
-    "q": "¿Qué debe hacer el cliente si no ha recibido su clave de licencia?",
-    "a": "El cliente debe reportar la situación mediante una llamada, correo o Feedback, proporcionando su número de orden de compra para validar la información en el BOT.",
+    "q": "¿Qué debo hacer si no he recibido mi clave de licencia?",
+    "a": "Debes reportarlo llamando, enviando un correo o proporcionando Feedback. Un ejecutivo solicitará tu número de orden de compra para validar la información en el bot.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "cliente",
       "licencia",
+      "clave",
       "no recibida",
       "reporte",
       "orden de compra",
       "validación",
       "bot"
-    ]
+    ],
+    "faq_id": "A-20-01-02-08-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no he recibido mi clave de licencia? Respuesta: Debes reportarlo llamando, enviando un correo o proporcionando Feedback. Un ejecutivo solicitará tu número de orden de compra para validar la información en el bot."
   },
   {
-    "q": "¿Qué datos debe confirmar el cliente para recibir su licencia?",
-    "a": "El cliente debe confirmar su correo electrónico, razón social, RFC y el nombre de a quien se llenó la orden de compra.",
+    "q": "¿Qué datos necesito proporcionar para recibir mi clave de licencia?",
+    "a": "Debes confirmar los siguientes datos: correo electrónico, razón social, RFC y nombre de la persona a quien se llenó la orden de compra.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
       "datos",
       "confirmación",
-      "licencia",
       "correo electrónico",
       "razón social",
       "rfc",
-      "orden de compra"
-    ]
+      "orden de compra",
+      "licencia"
+    ],
+    "faq_id": "A-20-01-02-08-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos necesito proporcionar para recibir mi clave de licencia? Respuesta: Debes confirmar los siguientes datos: correo electrónico, razón social, RFC y nombre de la persona a quien se llenó la orden de compra."
   },
   {
-    "q": "¿Cómo se valida la información del cliente para el envío de la licencia?",
-    "a": "La información del cliente se valida utilizando el comando /orden en el BOT, una vez que el cliente proporciona su número de orden de compra.",
+    "q": "¿Cómo se valida la información para reenviar la licencia?",
+    "a": "El ejecutivo valida la información usando el comando /orden en el bot, una vez que el cliente proporciona el número de orden de compra.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
       "validación",
-      "información",
-      "cliente",
+      "orden de compra",
       "bot",
       "comando",
-      "orden",
-      "número de orden"
-    ]
+      "ejecutivo",
+      "información"
+    ],
+    "faq_id": "A-20-01-02-08-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida la información para reenviar la licencia? Respuesta: El ejecutivo valida la información usando el comando /orden en el bot, una vez que el cliente proporciona el número de orden de compra."
   },
   {
-    "q": "¿Qué comando se utiliza para enviar la licencia al cliente?",
-    "a": "Se utiliza el comando /enviarlicencias en el BOT para enviar la licencia correspondiente al cliente.",
+    "q": "¿Cómo se envía la licencia al cliente?",
+    "a": "Una vez validados los datos, el ejecutivo usa el comando /enviarlicencias en el bot para enviar la licencia correspondiente y confirmar la recepción del correo.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "comando",
-      "enviar",
+      "envío",
       "licencia",
+      "comando",
       "bot",
-      "enviarlicencias",
-      "correspondiente"
-    ]
+      "correo",
+      "confirmación",
+      "ejecutivo"
+    ],
+    "faq_id": "A-20-01-02-08-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se envía la licencia al cliente? Respuesta: Una vez validados los datos, el ejecutivo usa el comando /enviarlicencias en el bot para enviar la licencia correspondiente y confirmar la recepción del correo."
   },
   {
-    "q": "¿Qué sucede si el cliente no confirma sus datos para el envío de la licencia?",
-    "a": "Si el cliente no confirma sus datos, la licencia se enviará al correo electrónico registrado en el BOT.",
+    "q": "¿Se puede enviar la clave de licencia a otro correo electrónico?",
+    "a": "Sí, pero el cliente debe confirmar los datos previamente mencionados. Si no se confirman, la licencia se enviará al correo registrado en el bot.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
+      "correo alternativo",
       "confirmación",
       "datos",
-      "licencia",
-      "correo electrónico",
       "registrado",
-      "bot"
-    ]
+      "bot",
+      "licencia",
+      "envío"
+    ],
+    "faq_id": "A-20-01-02-08-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Se puede enviar la clave de licencia a otro correo electrónico? Respuesta: Sí, pero el cliente debe confirmar los datos previamente mencionados. Si no se confirman, la licencia se enviará al correo registrado en el bot."
   },
   {
     "q": "¿Qué nivel de prioridad tiene una solicitud de licencia no recibida?",
-    "a": "Una solicitud de licencia no recibida tiene un nivel de prioridad 1 – Bajo.",
+    "a": "El nivel de prioridad es 1 – Bajo.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "solicitud",
-      "licencia",
-      "no recibida",
       "prioridad",
       "nivel",
-      "bajo"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se utilizan para manejar la solicitud de licencia no recibida?",
-    "a": "Se utiliza un BOT para manejar la solicitud de licencia no recibida.",
-    "product": "General",
-    "keywords": [
-      "recursos",
-      "bot",
+      "bajo",
       "solicitud",
       "licencia",
-      "no recibida",
-      "manejo"
-    ]
+      "no recibida"
+    ],
+    "faq_id": "A-20-01-02-08-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene una solicitud de licencia no recibida? Respuesta: El nivel de prioridad es 1 – Bajo."
   }
 ]

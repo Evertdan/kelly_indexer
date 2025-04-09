@@ -3,118 +3,140 @@
     "q": "¿Qué tipo de solicitud es cuando un cliente quiere realizar la compra y pagar en tienda?",
     "a": "Es una Solicitud 01.",
     "product": "General",
+    "categoria": "Tipo de Solicitud",
     "keywords": [
       "solicitud",
       "tipo",
       "compra",
-      "pago",
       "tienda",
-      "cliente"
-    ]
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud es cuando un cliente quiere realizar la compra y pagar en tienda? Respuesta: Es una Solicitud 01."
   },
   {
-    "q": "¿Cuál es el nivel de complejidad para una compra con pago en tienda?",
+    "q": "¿Cuál es el nivel de la solicitud de compra y pago en tienda?",
     "a": "El nivel es 1 – Bajo.",
     "product": "General",
+    "categoria": "Nivel de Solicitud",
     "keywords": [
       "nivel",
-      "complejidad",
+      "solicitud",
+      "bajo",
       "compra",
-      "pago",
-      "tienda",
-      "bajo"
-    ]
+      "tienda"
+    ],
+    "faq_id": "A-20-03-02-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de la solicitud de compra y pago en tienda? Respuesta: El nivel es 1 – Bajo."
   },
   {
     "q": "¿Qué resultado se espera al realizar una compra con pago en tienda?",
     "a": "El resultado esperado es una compra exitosa con el método de pago tienda.",
     "product": "General",
+    "categoria": "Resultados",
     "keywords": [
       "resultado",
       "compra",
       "exitosa",
       "pago",
-      "tienda",
-      "método"
-    ]
+      "tienda"
+    ],
+    "faq_id": "A-20-03-02-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué resultado se espera al realizar una compra con pago en tienda? Respuesta: El resultado esperado es una compra exitosa con el método de pago tienda."
   },
   {
     "q": "¿Qué recurso se utiliza para realizar una compra con pago en tienda?",
     "a": "Se utiliza la tienda en línea.",
     "product": "General",
+    "categoria": "Recursos",
     "keywords": [
       "recurso",
-      "compra",
-      "pago",
       "tienda",
-      "en línea"
-    ]
+      "en línea",
+      "compra",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se utiliza para realizar una compra con pago en tienda? Respuesta: Se utiliza la tienda en línea."
   },
   {
     "q": "¿Cuál es el alcance de la orientación para una compra con pago en tienda?",
-    "a": "El alcance es la orientación para una compra exitosa por método de pago tienda.",
+    "a": "El alcance es orientar para una compra exitosa por método de pago tienda.",
     "product": "General",
+    "categoria": "Alcances",
     "keywords": [
       "alcance",
       "orientación",
       "compra",
+      "exitosa",
       "pago",
-      "tienda",
-      "método"
-    ]
+      "tienda"
+    ],
+    "faq_id": "A-20-03-02-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de la orientación para una compra con pago en tienda? Respuesta: El alcance es orientar para una compra exitosa por método de pago tienda."
   },
   {
     "q": "¿Qué debe hacer el cliente para pagar en tienda?",
-    "a": "El cliente debe elegir el método de pago en tienda, se generará su ficha de pago y con ella puede asistir a la tienda de su elección para realizar el cobro.",
+    "a": "El cliente debe elegir el método de pago en tienda, lo que generará una ficha de pago que debe entregar al cajero de la tienda de su elección.",
     "product": "General",
+    "categoria": "Proceso de Pago",
     "keywords": [
       "cliente",
       "pago",
       "tienda",
       "ficha",
-      "método",
+      "cajero",
       "elección"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente para pagar en tienda? Respuesta: El cliente debe elegir el método de pago en tienda, lo que generará una ficha de pago que debe entregar al cajero de la tienda de su elección."
   },
   {
-    "q": "¿Dónde puede el cliente encontrar información sobre tiendas para realizar el pago?",
-    "a": "El cliente puede visitar https://www.openpay.mx/tiendas/ para encontrar información sobre tiendas donde realizar el pago.",
+    "q": "¿Dónde puede el cliente encontrar información sobre las tiendas donde puede pagar?",
+    "a": "El cliente puede encontrar información en https://www.openpay.mx/tiendas/.",
     "product": "General",
+    "categoria": "Recursos",
     "keywords": [
-      "cliente",
       "tiendas",
       "pago",
       "información",
       "openpay",
       "en línea"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puede el cliente encontrar información sobre las tiendas donde puede pagar? Respuesta: El cliente puede encontrar información en https://www.openpay.mx/tiendas/."
   },
   {
     "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después de realizar el pago en tienda?",
     "a": "La clave de licencia llega en un lapso de 3 a 24 horas al correo registrado en la orden de compra.",
     "product": "General",
+    "categoria": "Tiempos de Entrega",
     "keywords": [
       "clave",
       "licencia",
       "tiempo",
       "pago",
       "tienda",
-      "correo",
-      "orden"
-    ]
+      "correo"
+    ],
+    "faq_id": "A-20-03-02-04-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tarda en llegar la clave de licencia después de realizar el pago en tienda? Respuesta: La clave de licencia llega en un lapso de 3 a 24 horas al correo registrado en la orden de compra."
   },
   {
     "q": "¿Qué debe hacer el cliente si no recibe la clave de licencia en 3 a 4 horas?",
-    "a": "Si no recibe la clave de licencia en 3 a 4 horas, debe comunicarse al área de atención a clientes para validar el estatus de su pago.",
+    "a": "Si no recibe la clave de licencia en ese lapso, debe comunicarse al área de atención a clientes para validar el estatus de su pago.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "cliente",
       "clave",
       "licencia",
       "tiempo",
       "atención",
+      "clientes",
       "validar",
-      "estatus"
-    ]
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-04-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente si no recibe la clave de licencia en 3 a 4 horas? Respuesta: Si no recibe la clave de licencia en ese lapso, debe comunicarse al área de atención a clientes para validar el estatus de su pago."
   }
 ]

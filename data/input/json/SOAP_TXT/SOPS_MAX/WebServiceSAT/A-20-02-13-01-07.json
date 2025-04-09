@@ -1,88 +1,84 @@
 [
   {
     "q": "¿Qué tipo de incidencia es el tiempo de respuesta en la descarga de comprobantes?",
-    "a": "El tipo de incidencia es INC-02.",
+    "a": "El tipo de incidencia es INC-02 y tiene un nivel de 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "incidencia",
       "tipo",
-      "respuesta",
-      "descarga",
-      "comprobantes"
-    ]
-  },
-  {
-    "q": "¿Cuál es el nivel de la incidencia por tiempo de respuesta en la descarga de comprobantes?",
-    "a": "El nivel de la incidencia es 2 – Medio.",
-    "product": "MiAdminXML",
-    "keywords": [
       "nivel",
-      "incidencia",
-      "medio",
+      "tiempo",
       "respuesta",
-      "descarga"
-    ]
+      "comprobantes",
+      "sat"
+    ],
+    "faq_id": "A-20-02-13-01-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es el tiempo de respuesta en la descarga de comprobantes? Respuesta: El tipo de incidencia es INC-02 y tiene un nivel de 2 – Medio."
   },
   {
-    "q": "¿Qué recursos se utilizan para la descarga de comprobantes?",
-    "a": "Se utiliza MiAdminXML.",
+    "q": "¿Qué recursos se necesitan para usar el descargable y marcable de comprobantes?",
+    "a": "Se necesita contar con la licencia MiAdminXML Profesional.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "recursos",
-      "descarga",
-      "comprobantes",
-      "miadminxml"
-    ]
-  },
-  {
-    "q": "¿Qué licencia se necesita para usar la descarga de comprobantes en MiAdminXML?",
-    "a": "Se requiere la licencia MiAdminXML Profesional.",
-    "product": "MiAdminXML",
-    "keywords": [
+      "descargable",
+      "marcable",
       "licencia",
       "profesional",
-      "requisitos",
-      "descarga",
-      "comprobantes"
-    ]
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-13-01-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recursos se necesitan para usar el descargable y marcable de comprobantes? Respuesta: Se necesita contar con la licencia MiAdminXML Profesional."
   },
   {
     "q": "¿De qué depende el tiempo de respuesta en la descarga de comprobantes?",
     "a": "El tiempo de respuesta depende del SAT y puede tardar desde minutos hasta 72 horas.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "tiempo",
       "respuesta",
       "sat",
       "descarga",
       "comprobantes",
-      "horas"
-    ]
+      "depende"
+    ],
+    "faq_id": "A-20-02-13-01-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿De qué depende el tiempo de respuesta en la descarga de comprobantes? Respuesta: El tiempo de respuesta depende del SAT y puede tardar desde minutos hasta 72 horas."
   },
   {
-    "q": "¿Qué hace MiAdminXML en el proceso de descarga de comprobantes?",
+    "q": "¿Qué hace MiAdminXML durante el proceso de descarga de comprobantes?",
     "a": "MiAdminXML solo manda las solicitudes y descarga la información.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "proceso",
-      "solicitudes",
       "descarga",
+      "comprobantes",
+      "solicitudes",
       "información",
-      "comprobantes"
-    ]
+      "funcionalidad"
+    ],
+    "faq_id": "A-20-02-13-01-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace MiAdminXML durante el proceso de descarga de comprobantes? Respuesta: MiAdminXML solo manda las solicitudes y descarga la información."
   },
   {
     "q": "¿Qué se recomienda si la solicitud de descarga excede las 72 horas?",
     "a": "Se recomienda al cliente que vuelva a hacer otra solicitud, ya que excedió el tiempo de respuesta de 72 horas por el WebServiceSAT.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "solicitud",
       "exceder",
       "tiempo",
-      "respuesta",
+      "72 horas",
       "recomendación",
-      "horas",
+      "cliente",
       "webservicesat"
-    ]
+    ],
+    "faq_id": "A-20-02-13-01-07_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda si la solicitud de descarga excede las 72 horas? Respuesta: Se recomienda al cliente que vuelva a hacer otra solicitud, ya que excedió el tiempo de respuesta de 72 horas por el WebServiceSAT."
   }
 ]

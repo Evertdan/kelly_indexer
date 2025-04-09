@@ -1,36 +1,42 @@
 [
   {
-    "q": "¿Cómo puedo realizar un reporte de XML no descargados en MiAdminXML?",
-    "a": "Puedes utilizar la herramienta XML Externos para leer los XML desde una USB o carpeta externa y generar reportes. Sigue los pasos: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, da clic derecho en 'Leer XMLs', selecciona 'XML externos', carga los XML desde la ruta deseada y visualiza los XML importados para generar reportes.",
+    "q": "¿Cómo puedo generar un reporte de XML que no descargué directamente en MiAdminXML?",
+    "a": "Puedes utilizar la herramienta XML Externos en MiAdminXML para leer XML desde una USB o carpeta externa y generar reportes. Sigue los pasos: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic derecho en 'Leer XMLs', selecciona 'XML externos', carga los XML desde la ruta deseada y visualiza los XML importados para generar reportes.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
       "reporte",
       "xml",
-      "no descargados",
-      "herramienta",
       "externos",
-      "usb",
+      "herramienta",
       "carpeta",
-      "pasos"
-    ]
+      "usb",
+      "importar",
+      "visualizar"
+    ],
+    "faq_id": "A-20-03-26-01-12_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo generar un reporte de XML que no descargué directamente en MiAdminXML? Respuesta: Puedes utilizar la herramienta XML Externos en MiAdminXML para leer XML desde una USB o carpeta externa y generar reportes. Sigue los pasos: Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic derecho en 'Leer XMLs', selecciona 'XML externos', carga los XML desde la ruta deseada y visualiza los XML importados para generar reportes."
   },
   {
     "q": "¿Qué necesito para usar la herramienta XML Externos en MiAdminXML?",
     "a": "Necesitas contar con una licencia de MiAdminXML o estar en el periodo demostrativo del programa.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
-      "periodo demostrativo",
+      "requisitos",
       "xml externos",
-      "herramienta",
+      "periodo demostrativo",
       "acceso"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-12_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué necesito para usar la herramienta XML Externos en MiAdminXML? Respuesta: Necesitas contar con una licencia de MiAdminXML o estar en el periodo demostrativo del programa."
   },
   {
-    "q": "¿Cuál es la función de la herramienta XML Externos en MiAdminXML?",
+    "q": "¿Cuál es la función principal de la herramienta XML Externos en MiAdminXML?",
     "a": "La herramienta XML Externos permite leer de forma rápida los XML que tengas en una USB o carpeta externa, con la finalidad de poder realizar reportes con MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "función",
       "xml externos",
@@ -38,35 +44,43 @@
       "usb",
       "carpeta",
       "reportes",
-      "herramienta"
-    ]
+      "rápido"
+    ],
+    "faq_id": "A-20-03-26-01-12_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la función principal de la herramienta XML Externos en MiAdminXML? Respuesta: La herramienta XML Externos permite leer de forma rápida los XML que tengas en una USB o carpeta externa, con la finalidad de poder realizar reportes con MiAdminXML."
   },
   {
-    "q": "¿Qué pasos debo seguir para importar XML externos en MiAdminXML?",
-    "a": "Los pasos son: 1) Ingresar al módulo de Administración de XML, 2) Seleccionar el submódulo Administración de XML 4.0, 3) Elegir RFC, Tipo, Año y mes, 4) Dar clic derecho en 'Leer XMLs', 5) Seleccionar 'XML externos' y cargar los XML, 6) Elegir la carpeta o ruta de los XML, 7) Visualizar los XML importados para generar reportes.",
+    "q": "¿Qué pasos debo seguir para importar XML desde una carpeta externa en MiAdminXML?",
+    "a": "Los pasos son: 1) Ingresa al módulo de Administración de XML, 2) Selecciona el submódulo Administración de XML 4.0, 3) Elige RFC, Tipo, Año y mes, 4) Haz clic derecho en 'Leer XMLs', 5) Selecciona 'XML externos' y haz clic en 'Cargar XML', 6) Selecciona la carpeta o ruta de los XML y haz clic en aceptar, 7) Visualiza los XML importados.",
     "product": "MiAdminXML",
+    "categoria": "Procedimiento",
     "keywords": [
-      "pasos",
       "importar",
-      "xml externos",
-      "administración",
+      "xml",
+      "carpeta",
+      "externos",
+      "pasos",
+      "procedimiento",
       "cargar",
-      "ruta",
-      "visualizar"
-    ]
+      "ruta"
+    ],
+    "faq_id": "A-20-03-26-01-12_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir para importar XML desde una carpeta externa en MiAdminXML? Respuesta: Los pasos son: 1) Ingresa al módulo de Administración de XML, 2) Selecciona el submódulo Administración de XML 4.0, 3) Elige RFC, Tipo, Año y mes, 4) Haz clic derecho en 'Leer XMLs', 5) Selecciona 'XML externos' y haz clic en 'Cargar XML', 6) Selecciona la carpeta o ruta de los XML y haz clic en aceptar, 7) Visualiza los XML importados."
   },
   {
-    "q": "¿Dónde encuentro la herramienta XML Externos en MiAdminXML?",
-    "a": "La herramienta XML Externos se encuentra en el módulo de Administración de XML, dentro del submódulo Administración de XML 4.0, en la opción 'Leer XMLs' al dar clic derecho.",
+    "q": "¿Dónde se encuentran los XML importados después de usar la herramienta XML Externos?",
+    "a": "Los XML importados se muestran en pantalla dentro de MiAdminXML, donde puedes visualizarlos y generar reportes.",
     "product": "MiAdminXML",
+    "categoria": "Visualización",
     "keywords": [
-      "ubicación",
-      "herramienta",
-      "xml externos",
-      "módulo",
-      "administración",
-      "submódulo",
-      "leer xmls"
-    ]
+      "xml",
+      "importados",
+      "visualizar",
+      "pantalla",
+      "reportes",
+      "mostrar"
+    ],
+    "faq_id": "A-20-03-26-01-12_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentran los XML importados después de usar la herramienta XML Externos? Respuesta: Los XML importados se muestran en pantalla dentro de MiAdminXML, donde puedes visualizarlos y generar reportes."
   }
 ]

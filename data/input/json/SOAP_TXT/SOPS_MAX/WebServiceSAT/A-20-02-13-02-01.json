@@ -1,103 +1,102 @@
 [
   {
-    "q": "¿Qué tipo de error se presenta al generar una solicitud en el Web Service SAT?",
-    "a": "Al generar una solicitud aparece un error de conexión al servidor del SAT.",
+    "q": "¿Qué error aparece al generar una solicitud en el Web Service SAT?",
+    "a": "Aparece un error de conexión al servidor del SAT.",
     "product": "Web Service SAT",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "conexión",
       "servidor",
       "sat",
-      "solicitud"
-    ]
+      "solicitud",
+      "generar"
+    ],
+    "faq_id": "A-20-02-13-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece al generar una solicitud en el Web Service SAT? Respuesta: Aparece un error de conexión al servidor del SAT."
   },
   {
-    "q": "¿Qué nivel de incidencia tiene el error de conexión al servidor del SAT?",
-    "a": "El nivel de incidencia es 2 – Medio.",
+    "q": "¿Qué requisitos son necesarios para solucionar el error de conexión al SAT?",
+    "a": "Se requiere contar con licencia MiAdminXML, tener MiAdminXML actualizado, permisos de administrador en el usuario y verificar la sincronización de fecha y hora.",
     "product": "Web Service SAT",
+    "categoria": "Requisitos",
     "keywords": [
-      "nivel",
-      "incidencia",
-      "medio",
-      "error",
-      "conexión"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se necesitan para solucionar el error de conexión al servidor del SAT?",
-    "a": "Se necesita contar con licencia MiAdminXML, MiAdminXML actualizado y Supremo Control / AnyDesk.",
-    "product": "Web Service SAT",
-    "keywords": [
-      "recursos",
-      "licencia",
-      "miadminxml",
-      "actualizado",
-      "supremo control",
-      "anydesk"
-    ]
-  },
-  {
-    "q": "¿Qué políticas se deben cumplir para solucionar el error de conexión al servidor del SAT?",
-    "a": "Se debe contar con licencia MiAdminXML, MiAdminXML actualizado y permisos de Administrador en el usuario.",
-    "product": "Web Service SAT",
-    "keywords": [
-      "políticas",
+      "requisitos",
       "licencia",
       "miadminxml",
       "actualizado",
       "permisos",
-      "administrador"
-    ]
-  },
-  {
-    "q": "¿Qué alcances se consideran para solucionar el error de conexión al servidor del SAT?",
-    "a": "Se debe agregar excepciones al antivirus correspondiente que esté generando el bloqueo en el equipo y sincronizar la fecha y hora.",
-    "product": "Web Service SAT",
-    "keywords": [
-      "alcances",
-      "antivirus",
-      "excepciones",
-      "bloqueo",
-      "sincronización",
+      "administrador",
       "fecha",
       "hora"
-    ]
+    ],
+    "faq_id": "A-20-02-13-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos son necesarios para solucionar el error de conexión al SAT? Respuesta: Se requiere contar con licencia MiAdminXML, tener MiAdminXML actualizado, permisos de administrador en el usuario y verificar la sincronización de fecha y hora."
   },
   {
-    "q": "¿Cuál es la primera solución recomendada para el error de conexión al servidor del SAT?",
-    "a": "Se recomienda verificar que la fecha y hora estén sincronizadas con conexión a internet desde la opción 'Ajustar Fecha y Hora'.",
+    "q": "¿Cómo se puede solucionar el error de conexión al servidor del SAT?",
+    "a": "Se recomienda verificar que la fecha y hora estén sincronizadas con conexión a internet desde la opción 'Ajustar Fecha y Hora' y agregar excepciones al antivirus que esté generando bloqueo en el equipo.",
     "product": "Web Service SAT",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "solución",
+      "error",
+      "conexión",
       "fecha",
       "hora",
-      "sincronización",
-      "internet",
-      "ajustar"
-    ]
+      "antivirus",
+      "excepciones"
+    ],
+    "faq_id": "A-20-02-13-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede solucionar el error de conexión al servidor del SAT? Respuesta: Se recomienda verificar que la fecha y hora estén sincronizadas con conexión a internet desde la opción 'Ajustar Fecha y Hora' y agregar excepciones al antivirus que esté generando bloqueo en el equipo."
   },
   {
-    "q": "¿Qué se puede hacer si el cliente tiene complicaciones para sincronizar la fecha y hora?",
-    "a": "Se puede realizar una Sesión Remota para validar este tema y algún posible bloqueo por parte del antivirus.",
+    "q": "¿Qué se debe hacer si el cliente tiene complicaciones para solucionar el error de conexión?",
+    "a": "En caso de complicaciones, se puede realizar una sesión remota para validar la sincronización de fecha y hora y posibles bloqueos por parte del antivirus.",
     "product": "Web Service SAT",
+    "categoria": "Soporte",
     "keywords": [
       "sesión remota",
-      "validación",
+      "soporte",
+      "cliente",
+      "complicaciones",
+      "validar",
       "bloqueo",
-      "antivirus",
-      "complicaciones"
-    ]
+      "antivirus"
+    ],
+    "faq_id": "A-20-02-13-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si el cliente tiene complicaciones para solucionar el error de conexión? Respuesta: En caso de complicaciones, se puede realizar una sesión remota para validar la sincronización de fecha y hora y posibles bloqueos por parte del antivirus."
   },
   {
-    "q": "¿Cuál es la segunda solución para el error de conexión al servidor del SAT?",
-    "a": "Compartir una guía al cliente que le indicará cuáles son las direcciones o exclusiones que tiene que configurar correctamente.",
+    "q": "¿Qué guía se puede compartir al cliente para solucionar el error de conexión?",
+    "a": "Se puede compartir una guía que indica las direcciones o exclusiones que el cliente debe configurar correctamente en su equipo.",
     "product": "Web Service SAT",
+    "categoria": "Documentación",
     "keywords": [
-      "solución",
       "guía",
+      "cliente",
       "direcciones",
       "exclusiones",
-      "configuración"
-    ]
+      "configurar",
+      "equipo"
+    ],
+    "faq_id": "A-20-02-13-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué guía se puede compartir al cliente para solucionar el error de conexión? Respuesta: Se puede compartir una guía que indica las direcciones o exclusiones que el cliente debe configurar correctamente en su equipo."
+  },
+  {
+    "q": "¿Qué nivel de impacto tiene el error de conexión al servidor del SAT?",
+    "a": "El error tiene un nivel de impacto 2 – Medio.",
+    "product": "Web Service SAT",
+    "categoria": "General",
+    "keywords": [
+      "nivel",
+      "impacto",
+      "medio",
+      "error",
+      "conexión",
+      "sat"
+    ],
+    "faq_id": "A-20-02-13-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de impacto tiene el error de conexión al servidor del SAT? Respuesta: El error tiene un nivel de impacto 2 – Medio."
   }
 ]

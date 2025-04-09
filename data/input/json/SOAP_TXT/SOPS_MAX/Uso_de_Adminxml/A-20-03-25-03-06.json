@@ -1,53 +1,64 @@
 [
   {
-    "q": "¿Qué se necesita para utilizar la herramienta guardar Excel en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "q": "¿Cómo se utiliza la herramienta guardar Excel en MiAdminXML?",
+    "a": "Al dar clic sobre la opción de guardar Excel, se guardará un reporte automáticamente en la bóvedaCFDi mostrando un mensaje de que la Exportación de Información es completa.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "guardar excel",
-      "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "herramienta"
-    ]
-  },
-  {
-    "q": "¿Qué sucede al hacer clic en la opción guardar Excel en MiAdminXML?",
-    "a": "Se guarda un reporte automáticamente en la bóvedaCFDi y se muestra un mensaje de que la Exportación de Información es completa.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "guardar excel",
+      "herramienta",
       "reporte",
       "bóvedacfdi",
-      "exportación",
-      "mensaje"
-    ]
+      "exportación"
+    ],
+    "faq_id": "A-20-03-25-03-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se utiliza la herramienta guardar Excel en MiAdminXML? Respuesta: Al dar clic sobre la opción de guardar Excel, se guardará un reporte automáticamente en la bóvedaCFDi mostrando un mensaje de que la Exportación de Información es completa."
   },
   {
-    "q": "¿Dónde se pueden encontrar los reportes guardados con la herramienta guardar Excel en MiAdminXML?",
+    "q": "¿Dónde se guardan los reportes generados con la herramienta guardar Excel?",
     "a": "Los reportes se guardan en el disco local C, en la carpeta AdminXML, dentro de BóvedaCFDi, en la subcarpeta del RFC del contribuyente, tipo de comprobante y año. Además, se crea una nueva carpeta llamada 'reportes' donde se almacenan los reportes guardados por el programa.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "reportes",
       "ubicación",
       "disco local",
+      "carpeta",
+      "adminxml",
       "bóvedacfdi",
-      "rfc",
-      "comprobante",
-      "año",
-      "carpeta reportes"
-    ]
+      "rfc"
+    ],
+    "faq_id": "A-20-03-25-03-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guardan los reportes generados con la herramienta guardar Excel? Respuesta: Los reportes se guardan en el disco local C, en la carpeta AdminXML, dentro de BóvedaCFDi, en la subcarpeta del RFC del contribuyente, tipo de comprobante y año. Además, se crea una nueva carpeta llamada 'reportes' donde se almacenan los reportes guardados por el programa."
   },
   {
-    "q": "¿Qué tipo de archivo se genera al usar la herramienta guardar Excel en MiAdminXML?",
-    "a": "La herramienta genera un reporte en formato Excel que se guarda automáticamente en la ubicación especificada.",
+    "q": "¿Qué requisitos se necesitan para usar la herramienta guardar Excel en MiAdminXML?",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "formato",
-      "excel",
-      "reporte",
-      "archivo",
-      "generación"
-    ]
+      "requisitos",
+      "licencia",
+      "periodo demostrativo",
+      "herramienta",
+      "guardar excel"
+    ],
+    "faq_id": "A-20-03-25-03-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta guardar Excel en MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto."
+  },
+  {
+    "q": "¿Qué mensaje se muestra al guardar un reporte con la herramienta guardar Excel?",
+    "a": "Se muestra un mensaje indicando que la Exportación de Información es completa.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "mensaje",
+      "exportación",
+      "completa",
+      "guardar excel",
+      "confirmación"
+    ],
+    "faq_id": "A-20-03-25-03-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje se muestra al guardar un reporte con la herramienta guardar Excel? Respuesta: Se muestra un mensaje indicando que la Exportación de Información es completa."
   }
 ]

@@ -1,76 +1,107 @@
 [
   {
     "q": "¿Qué se necesita para restaurar una licencia de MiAdminXML después de un formateo?",
-    "a": "Se necesita contar con la licencia MiAdminXML y que no se hayan cambiado componentes como NoSerieHD, Mac o MotherBoard.",
+    "a": "Se requiere contar con la licencia MiAdminXML y que no se hayan cambiado componentes como NoSerieHD, Mac o MotherBoard. Además, el correo electrónico debe coincidir con el registrado al activar la licencia.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "restauración",
       "licencia",
       "formateo",
       "requisitos",
-      "componentes"
-    ]
+      "miadminxml",
+      "componentes",
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-01-20-05-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para restaurar una licencia de MiAdminXML después de un formateo? Respuesta: Se requiere contar con la licencia MiAdminXML y que no se hayan cambiado componentes como NoSerieHD, Mac o MotherBoard. Además, el correo electrónico debe coincidir con el registrado al activar la licencia."
   },
   {
-    "q": "¿En qué casos se puede usar la restauración por formateo en MiAdminXML?",
-    "a": "Se puede usar en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o desactivación de la licencia por alguna incidencia.",
+    "q": "¿En qué casos se puede usar la herramienta de Restauración por Formateo en MiAdminXML?",
+    "a": "La herramienta puede usarse en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o cuando se desactiva la licencia por alguna incidencia.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "restauración",
       "formateo",
       "casos",
       "uso",
-      "bloqueos",
+      "herramienta",
+      "miadminxml",
+      "sistema operativo",
       "antivirus"
-    ]
+    ],
+    "faq_id": "A-20-01-20-05-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos se puede usar la herramienta de Restauración por Formateo en MiAdminXML? Respuesta: La herramienta puede usarse en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o cuando se desactiva la licencia por alguna incidencia."
   },
   {
     "q": "¿Cuáles son los pasos para restaurar una licencia de MiAdminXML por formateo?",
     "a": "1. Seleccionar la herramienta 'Utilidades'. 2. Elegir 'Restauración por Formateo'. 3. Introducir la clave de licencia y verificar el correo electrónico registrado. 4. Dar clic en continuar y esperar el mensaje de confirmación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "pasos",
       "restauración",
-      "formateo",
       "licencia",
-      "utilidades"
-    ]
+      "formateo",
+      "utilidades",
+      "clave",
+      "correo electrónico",
+      "confirmación"
+    ],
+    "faq_id": "A-20-01-20-05-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para restaurar una licencia de MiAdminXML por formateo? Respuesta: 1. Seleccionar la herramienta 'Utilidades'. 2. Elegir 'Restauración por Formateo'. 3. Introducir la clave de licencia y verificar el correo electrónico registrado. 4. Dar clic en continuar y esperar el mensaje de confirmación."
   },
   {
     "q": "¿Qué mensaje aparece si la restauración de la licencia de MiAdminXML es exitosa?",
-    "a": "Aparece el mensaje 'tu licencia fue restaurada correctamente'.",
+    "a": "Aparecerá el mensaje 'tu licencia fue restaurada correctamente'.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "mensaje",
       "éxito",
       "restauración",
       "licencia",
+      "miadminxml",
       "confirmación"
-    ]
+    ],
+    "faq_id": "A-20-01-20-05-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece si la restauración de la licencia de MiAdminXML es exitosa? Respuesta: Aparecerá el mensaje 'tu licencia fue restaurada correctamente'."
   },
   {
-    "q": "¿Qué hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo'?",
-    "a": "Este mensaje indica que hubo un cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no es el vinculado con la licencia. En este caso, no se puede usar la herramienta y se debe enviar un oficio de reactivación.",
+    "q": "¿Qué hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo' al intentar restaurar la licencia de MiAdminXML?",
+    "a": "Este mensaje indica que hubo un cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo electrónico no coincide con el registrado. En este caso, no se puede usar la herramienta y se debe enviar un oficio de reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "error",
       "mensaje",
       "licencia",
-      "reactivación",
+      "preactivada",
       "componentes",
-      "correo"
-    ]
+      "correo electrónico",
+      "reactivación",
+      "oficio"
+    ],
+    "faq_id": "A-20-01-20-05-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo' al intentar restaurar la licencia de MiAdminXML? Respuesta: Este mensaje indica que hubo un cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo electrónico no coincide con el registrado. En este caso, no se puede usar la herramienta y se debe enviar un oficio de reactivación."
   },
   {
-    "q": "¿Qué componentes se deben verificar antes de restaurar una licencia de MiAdminXML?",
-    "a": "Se deben verificar que los componentes NoSerieHD, Mac y MotherBoard sean los mismos que cuando se activó la licencia originalmente.",
+    "q": "¿Qué componentes del equipo no deben cambiar para poder restaurar una licencia de MiAdminXML?",
+    "a": "No deben cambiar los componentes NoSerieHD, Mac y MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "componentes",
-      "verificación",
-      "licencia",
+      "equipo",
+      "no cambiar",
+      "noseriehd",
+      "mac",
+      "motherboard",
       "restauración",
-      "hardware"
-    ]
+      "licencia"
+    ],
+    "faq_id": "A-20-01-20-05-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué componentes del equipo no deben cambiar para poder restaurar una licencia de MiAdminXML? Respuesta: No deben cambiar los componentes NoSerieHD, Mac y MotherBoard."
   }
 ]

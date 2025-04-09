@@ -1,96 +1,102 @@
 [
   {
-    "q": "¿Qué error aparece cuando un cliente intenta activar una licencia que ya está en uso en otro equipo?",
-    "a": "El error que aparece es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
+    "q": "¿Qué error aparece cuando un cliente necesita restaurar su licencia de MiAdminXML?",
+    "a": "El error que aparece es 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "licencia",
       "error",
-      "activación",
+      "licencia",
       "uso",
-      "equipo"
-    ]
+      "activada",
+      "equipo",
+      "restauración"
+    ],
+    "faq_id": "A-20-02-21-04-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece cuando un cliente necesita restaurar su licencia de MiAdminXML? Respuesta: El error que aparece es 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'."
   },
   {
-    "q": "¿En qué casos aplica el procedimiento de reactivación de licencia en MiAdminXML?",
+    "q": "¿En qué casos aplica la restauración de licencia en MiAdminXML?",
     "a": "Aplica en casos de error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "reactivación",
-      "licencia",
       "casos",
+      "aplicación",
       "error",
+      "activación",
       "formateo",
       "hdd",
       "robo",
       "cambio equipo"
-    ]
+    ],
+    "faq_id": "A-20-02-21-04-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos aplica la restauración de licencia en MiAdminXML? Respuesta: Aplica en casos de error de activación (por bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo."
   },
   {
-    "q": "¿Qué datos debe corroborar el AMS antes de proceder con la reactivación de una licencia?",
-    "a": "El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico, RFC, estado de pago de la licencia y si es primera o segunda reactivación.",
+    "q": "¿Qué debe corroborar el AMS antes de proceder con la restauración de la licencia?",
+    "a": "El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico y RFC, que la licencia esté en estado pagado con fecha vigente, y si es primera o segunda reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "ams",
-      "datos",
       "corroborar",
+      "datos",
       "licencia",
-      "reactivación",
       "registro",
       "correo",
-      "rfc"
-    ]
+      "rfc",
+      "estado",
+      "pago",
+      "fecha"
+    ],
+    "faq_id": "A-20-02-21-04-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe corroborar el AMS antes de proceder con la restauración de la licencia? Respuesta: El AMS debe corroborar datos como a nombre de quien está registrada la licencia, correo electrónico y RFC, que la licencia esté en estado pagado con fecha vigente, y si es primera o segunda reactivación."
   },
   {
     "q": "¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación de licencia?",
-    "a": "El tiempo máximo de espera para recibir el oficio de reactivación es de 72 horas.",
+    "a": "El tiempo máximo de espera para recibir el oficio de reactivación de licencia es de 72 horas.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "oficio",
-      "reactivación",
       "tiempo",
       "espera",
-      "horas",
-      "72"
-    ]
-  },
-  {
-    "q": "¿Qué comando se debe usar en el BOT para realizar la reactivación de una licencia?",
-    "a": "Se debe ingresar al BOT con un comando específico (no mencionado en el texto) para realizar la reactivación de la licencia.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "bot",
-      "comando",
-      "reactivación",
-      "licencia",
-      "procedimiento"
-    ]
-  },
-  {
-    "q": "¿Qué debe hacer el cliente si cambia el HDD de su equipo sin desactivar previamente la licencia?",
-    "a": "El cliente debe contactar al soporte para realizar el procedimiento de reactivación de la licencia, ya que esta quedó activada en el equipo anterior.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "hdd",
-      "cambio",
-      "licencia",
-      "reactivación",
-      "soporte",
-      "equipo"
-    ]
-  },
-  {
-    "q": "¿Qué áreas son responsables de reactivar la licencia una vez recibido el oficio de reactivación?",
-    "a": "Cualquier área (ATC o ST) puede proceder a reactivar la licencia una vez recibido y validado el oficio de reactivación.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "áreas",
-      "atc",
-      "st",
-      "reactivación",
-      "licencia",
       "oficio",
-      "validación"
-    ]
+      "reactivación",
+      "horas",
+      "máximo"
+    ],
+    "faq_id": "A-20-02-21-04-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el tiempo máximo de espera para recibir el oficio de reactivación de licencia? Respuesta: El tiempo máximo de espera para recibir el oficio de reactivación de licencia es de 72 horas."
+  },
+  {
+    "q": "¿Qué comando se debe usar para realizar la reactivación de la licencia?",
+    "a": "Se debe ingresar al BOT con un comando específico (no especificado en el texto) para realizar la reactivación.",
+    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
+    "keywords": [
+      "comando",
+      "bot",
+      "reactivación",
+      "licencia",
+      "proceso"
+    ],
+    "faq_id": "A-20-02-21-04-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se debe usar para realizar la reactivación de la licencia? Respuesta: Se debe ingresar al BOT con un comando específico (no especificado en el texto) para realizar la reactivación."
+  },
+  {
+    "q": "¿Quién notifica al cliente una vez restaurada la licencia?",
+    "a": "Una vez restaurada la licencia, se le avisará al cliente.",
+    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
+    "keywords": [
+      "notificación",
+      "cliente",
+      "restauración",
+      "licencia",
+      "aviso"
+    ],
+    "faq_id": "A-20-02-21-04-03_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Quién notifica al cliente una vez restaurada la licencia? Respuesta: Una vez restaurada la licencia, se le avisará al cliente."
   }
 ]

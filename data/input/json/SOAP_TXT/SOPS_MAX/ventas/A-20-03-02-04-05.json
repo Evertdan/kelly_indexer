@@ -3,84 +3,107 @@
     "q": "¿Cómo puede un cliente realizar una compra con transferencia si no tiene internet?",
     "a": "Se le pide un correo electrónico al cliente para enviarle los pasos a seguir.",
     "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "compra",
       "transferencia",
       "sin internet",
       "correo electrónico",
       "pasos"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-05_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente realizar una compra con transferencia si no tiene internet? Respuesta: Se le pide un correo electrónico al cliente para enviarle los pasos a seguir."
   },
   {
-    "q": "¿Qué debe hacer un cliente con internet para comprar con transferencia en AdminXML?",
-    "a": "El cliente debe ingresar a www.adminxml.com en un navegador, donde el agente lo guiará para generar la orden de compra web.",
-    "product": "AdminXML",
+    "q": "¿Qué pasos debe seguir un cliente con internet para comprar con transferencia?",
+    "a": "El cliente debe ingresar a www.adminxml.com, generar la orden de compra web, seleccionar el paquete, llenar los datos de contacto, seleccionar 'Requiere factura' si es necesario, elegir la cantidad de licencias, seleccionar 'Transferencia' como método de pago y seguir las instrucciones para completar el pago.",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "compra",
       "transferencia",
       "internet",
-      "navegador",
-      "orden de compra"
-    ]
-  },
-  {
-    "q": "¿Cómo seleccionar el método de pago por transferencia en AdminXML?",
-    "a": "Después de llenar la orden de compra, se selecciona el método de pago 'Transferencia' y se genera una ficha de pago con vigencia de 7 días.",
-    "product": "AdminXML",
-    "keywords": [
-      "método de pago",
-      "transferencia",
-      "selección",
-      "ficha de pago",
-      "vigencia"
-    ]
+      "orden de compra",
+      "factura",
+      "licencias",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-04-05_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debe seguir un cliente con internet para comprar con transferencia? Respuesta: El cliente debe ingresar a www.adminxml.com, generar la orden de compra web, seleccionar el paquete, llenar los datos de contacto, seleccionar 'Requiere factura' si es necesario, elegir la cantidad de licencias, seleccionar 'Transferencia' como método de pago y seguir las instrucciones para completar el pago."
   },
   {
     "q": "¿Qué información se necesita para realizar el pago por transferencia?",
-    "a": "En la ficha de pago, se deben colocar los 20 números del Concepto de pago y los 7 números de Referencia.",
-    "product": "AdminXML",
+    "a": "En la ficha de pago, se deben colocar en Concepto de pago los 20 números que aparecen en la ficha y en Referencia los 7 números.",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "pago",
       "transferencia",
       "concepto",
       "referencia",
       "ficha de pago"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-05_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita para realizar el pago por transferencia? Respuesta: En la ficha de pago, se deben colocar en Concepto de pago los 20 números que aparecen en la ficha y en Referencia los 7 números."
   },
   {
-    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después del pago?",
-    "a": "El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado en la orden de compra.",
-    "product": "AdminXML",
+    "q": "¿Cuánto tiempo tiene el cliente para pagar la ficha de pago generada?",
+    "a": "La ficha de pago tiene una vigencia de 7 días para poder pagarla.",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
+    "keywords": [
+      "ficha de pago",
+      "vigencia",
+      "7 días",
+      "tiempo",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-04-05_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tiene el cliente para pagar la ficha de pago generada? Respuesta: La ficha de pago tiene una vigencia de 7 días para poder pagarla."
+  },
+  {
+    "q": "¿Cuándo recibirá el cliente su clave de licencia después del pago?",
+    "a": "El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado en su orden de compra.",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "clave de licencia",
+      "factura",
       "tiempo",
       "correo electrónico",
-      "factura",
       "orden de compra"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-05_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuándo recibirá el cliente su clave de licencia después del pago? Respuesta: El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado en su orden de compra."
   },
   {
-    "q": "¿Qué hacer si no llega la clave de licencia después de 3-4 horas?",
-    "a": "El cliente debe comunicarse al área de Atención a clientes con el número de orden de compra para verificar el estado del pago.",
-    "product": "AdminXML",
+    "q": "¿Qué debe hacer el cliente si no recibe su clave de licencia en 3 a 4 horas?",
+    "a": "Debe comunicarse al área de Atención a clientes con el número de orden de compra a mano para verificar el estado de su pago.",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "clave de licencia",
-      "problema",
+      "no recibido",
       "atención a clientes",
       "orden de compra",
       "verificación"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-05_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente si no recibe su clave de licencia en 3 a 4 horas? Respuesta: Debe comunicarse al área de Atención a clientes con el número de orden de compra a mano para verificar el estado de su pago."
   },
   {
-    "q": "¿Cómo verificar el estado de un pago en AdminXML?",
-    "a": "Se puede verificar el pago ingresando al Chat 'ComputoCreativoBot' en Telegram y usando el comando /orden seguido del número de orden de compra o concepto de pago.",
-    "product": "AdminXML",
+    "q": "¿Cómo se puede verificar el estado de un pago?",
+    "a": "Ingresando a telegram en el Chat 'ComputoCreativoBot' e ingresando el comando /orden (numero de orden de compra) o /orden (concepto de pago).",
+    "product": "General",
+    "categoria": "Compra con Transferencia",
     "keywords": [
       "verificar pago",
       "telegram",
-      "chat",
+      "ComputoCreativoBot",
       "orden de compra",
       "concepto de pago"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-05_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede verificar el estado de un pago? Respuesta: Ingresando a telegram en el Chat 'ComputoCreativoBot' e ingresando el comando /orden (numero de orden de compra) o /orden (concepto de pago)."
   }
 ]

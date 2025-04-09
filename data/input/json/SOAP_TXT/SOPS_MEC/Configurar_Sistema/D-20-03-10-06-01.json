@@ -1,93 +1,77 @@
 [
   {
     "q": "¿Qué se necesita para cambiar la ruta de Bóveda en MiExpedienteContable?",
-    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. Si no se cumple, se enviará la solución por correo electrónico.",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "ruta",
       "bóveda",
       "licencia",
       "requisitos",
-      "periodo demostrativo",
-      "solución",
-      "correo"
-    ]
+      "periodo demostrativo"
+    ],
+    "faq_id": "D-20-03-10-06-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para cambiar la ruta de Bóveda en MiExpedienteContable? Respuesta: Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico."
   },
   {
-    "q": "¿Cómo se cambia la ruta de Bóveda en MiExpedienteContable en modo local?",
-    "a": "Ingrese al sistema sin iniciar sesión, diríjase al menú principal y seleccione 'Configurar conexión'. Luego, seleccione la ruta local o en red donde desea cambiar la Bóveda.",
+    "q": "¿Cómo se cambia la ruta de Bóveda en modo local en MiExpedienteContable?",
+    "a": "Ingrese al sistema sin iniciar sesión, diríjase al menú principal y seleccione 'Configurar conexión'. Luego, seleccione la opción de conexión modo local y elija la nueva ruta para la Bóveda, ya sea local o en red.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "modo local",
-      "configurar conexión",
+      "configuración",
       "ruta",
       "bóveda",
-      "menú principal",
-      "carpeta"
-    ]
+      "menú principal"
+    ],
+    "faq_id": "D-20-03-10-06-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se cambia la ruta de Bóveda en modo local en MiExpedienteContable? Respuesta: Ingrese al sistema sin iniciar sesión, diríjase al menú principal y seleccione 'Configurar conexión'. Luego, seleccione la opción de conexión modo local y elija la nueva ruta para la Bóveda, ya sea local o en red."
   },
   {
     "q": "¿Qué debo hacer si quiero migrar toda mi información a una nueva ruta en MiExpedienteContable?",
-    "a": "Debe copiar la carpeta 'MiExpedienteContable' a la nueva ubicación deseada. Si no lo hace, el sistema cargará sin información al seleccionar la nueva ruta.",
+    "a": "Debe copiar la carpeta 'MiExpedienteContable' a la nueva ubicación deseada antes de cambiar la ruta. De lo contrario, el sistema cargará sin información.",
     "product": "MiExpedienteContable",
+    "categoria": "Migración",
     "keywords": [
       "migrar",
       "información",
       "carpeta",
       "nueva ruta",
-      "copiar",
-      "sin información"
-    ]
+      "copiar"
+    ],
+    "faq_id": "D-20-03-10-06-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si quiero migrar toda mi información a una nueva ruta en MiExpedienteContable? Respuesta: Debe copiar la carpeta 'MiExpedienteContable' a la nueva ubicación deseada antes de cambiar la ruta. De lo contrario, el sistema cargará sin información."
   },
   {
-    "q": "¿Cómo se configura la conexión en modo servidor en MiExpedienteContable?",
-    "a": "Seleccione la opción 'Modo Servidor', ingrese el Nombre o IP Fija del servidor y la carpeta compartida. Asegúrese de tener la configuración pertinente en el servidor, instalar el sistema en opción terminal y llenar el registro.",
+    "q": "¿Cómo se configura la conexión modo servidor en MiExpedienteContable?",
+    "a": "Seleccione la opción de conexión modo servidor, ingrese el nombre o IP fija del servidor y la carpeta compartida. Asegúrese de tener la configuración pertinente en el servidor, instalar el sistema seleccionando opción terminal y llenar el registro. Finalmente, haga clic en 'Aceptar' para reiniciar el sistema.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "modo servidor",
-      "configurar conexión",
-      "ip fija",
+      "ip",
       "carpeta compartida",
-      "instalar",
-      "terminal",
-      "registro"
-    ]
+      "configuración",
+      "terminal"
+    ],
+    "faq_id": "D-20-03-10-06-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se configura la conexión modo servidor en MiExpedienteContable? Respuesta: Seleccione la opción de conexión modo servidor, ingrese el nombre o IP fija del servidor y la carpeta compartida. Asegúrese de tener la configuración pertinente en el servidor, instalar el sistema seleccionando opción terminal y llenar el registro. Finalmente, haga clic en 'Aceptar' para reiniciar el sistema."
   },
   {
-    "q": "¿Qué pasa si no copio la carpeta MiExpedienteContable al cambiar la ruta?",
-    "a": "El sistema cargará sin información si no se copia la carpeta 'MiExpedienteContable' a la nueva ruta deseada.",
+    "q": "¿Qué pasa si no copio la carpeta MiExpedienteContable antes de cambiar la ruta?",
+    "a": "Si no copia la carpeta 'MiExpedienteContable' a la nueva ubicación, el sistema cargará sin información al elegir la nueva ruta.",
     "product": "MiExpedienteContable",
+    "categoria": "Migración",
     "keywords": [
       "carpeta",
-      "sin información",
+      "información",
       "nueva ruta",
-      "copiar",
-      "cargar"
-    ]
-  },
-  {
-    "q": "¿Qué opciones de conexión tiene MiExpedienteContable para cambiar la ruta de Bóveda?",
-    "a": "MiExpedienteContable tiene dos modos de conexión: local y servidor. En modo local se selecciona la ruta local o en red, y en modo servidor se ingresa el Nombre o IP Fija del servidor y la carpeta compartida.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "conexión",
-      "modo local",
-      "modo servidor",
-      "ruta",
-      "ip fija",
-      "carpeta compartida"
-    ]
-  },
-  {
-    "q": "¿Qué debo hacer después de configurar la nueva ruta en MiExpedienteContable?",
-    "a": "Después de realizar la configuración, debe dar clic en 'Aceptar' para reiniciar el sistema MiExpedienteContable.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "configurar",
-      "aceptar",
-      "reiniciar",
-      "sistema",
-      "nueva ruta"
-    ]
+      "sin datos",
+      "copiar"
+    ],
+    "faq_id": "D-20-03-10-06-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si no copio la carpeta MiExpedienteContable antes de cambiar la ruta? Respuesta: Si no copia la carpeta 'MiExpedienteContable' a la nueva ubicación, el sistema cargará sin información al elegir la nueva ruta."
   }
 ]

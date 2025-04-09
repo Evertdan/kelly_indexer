@@ -3,6 +3,7 @@
     "q": "¿Qué mensaje de error indica que una licencia de MiExpedienteContable está en uso en otro equipo?",
     "a": "El mensaje de error es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "licencia",
       "error",
@@ -10,12 +11,15 @@
       "activada",
       "equipo",
       "mensaje"
-    ]
+    ],
+    "faq_id": "D-20-01-09-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje de error indica que una licencia de MiExpedienteContable está en uso en otro equipo? Respuesta: El mensaje de error es: 'Licencia actualmente en uso, aun esta activada o se quedó activada en otro equipo'."
   },
   {
     "q": "¿En qué casos aplica el error de licencia en uso en MiExpedienteContable?",
     "a": "Aplica en casos de error de activación (bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "error",
       "licencia",
@@ -24,26 +28,32 @@
       "formateo",
       "robo",
       "cambio equipo"
-    ]
+    ],
+    "faq_id": "D-20-01-09-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos aplica el error de licencia en uso en MiExpedienteContable? Respuesta: Aplica en casos de error de activación (bloqueo de antivirus o falla de conexión al servidor), formateo del equipo, cambio de HDD, robo del equipo o cambio permanente de equipo."
   },
   {
-    "q": "¿Qué requisitos debe cumplir el equipo para instalar MiExpedienteContable?",
-    "a": "El equipo debe tener S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200 MB de espacio en disco duro y no es compatible con MAC ni Windows 7, 8 u 8.1.",
+    "q": "¿Qué requisitos de sistema necesita MiExpedienteContable para funcionar correctamente?",
+    "a": "Requiere S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con MAC, Windows 7, Windows 8 ni Windows 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos del sistema",
     "keywords": [
       "requisitos",
-      "instalación",
+      "sistema",
       "windows",
       "java",
       "ram",
       "disco duro",
       "compatibilidad"
-    ]
+    ],
+    "faq_id": "D-20-01-09-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos de sistema necesita MiExpedienteContable para funcionar correctamente? Respuesta: Requiere S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con MAC, Windows 7, Windows 8 ni Windows 8.1."
   },
   {
-    "q": "¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia?",
-    "a": "El ejecutivo valida la clave de licencia en el SACC, corrobora datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada en otro equipo.",
+    "q": "¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia de MiExpedienteContable?",
+    "a": "El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada y en uso. También requiere el número de serie del equipo donde se encontraba.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
       "ejecutivo",
       "validación",
@@ -51,61 +61,76 @@
       "sacc",
       "datos",
       "vigente",
-      "activada"
-    ]
+      "número de serie"
+    ],
+    "faq_id": "D-20-01-09-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos sigue el ejecutivo para validar la reactivación de una licencia de MiExpedienteContable? Respuesta: El ejecutivo valida la clave de licencia en el SACC, corrobora los datos del titular, verifica que la licencia esté pagada y vigente, y confirma que no esté activada y en uso. También requiere el número de serie del equipo donde se encontraba."
   },
   {
-    "q": "¿Qué documento se envía al cliente para la primera reactivación de licencia?",
+    "q": "¿Qué documento se envía al cliente para la primera reactivación de la licencia de MiExpedienteContable?",
     "a": "Se envía el formato '1era Reactivación MEC' vía correo electrónico para que el cliente lo llene, firme y escanee.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
-      "primera reactivación",
+      "primera",
+      "reactivación",
       "documento",
       "formato",
       "correo",
       "llenar",
       "firmar"
-    ]
+    ],
+    "faq_id": "D-20-01-09-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documento se envía al cliente para la primera reactivación de la licencia de MiExpedienteContable? Respuesta: Se envía el formato '1era Reactivación MEC' vía correo electrónico para que el cliente lo llene, firme y escanee."
   },
   {
-    "q": "¿Qué documento se envía al cliente para la segunda reactivación de licencia?",
-    "a": "Se envía el formato '2da Reactivación MEC PRO' o '2da Reactivación MEC PLUS' según corresponda, y un formato adicional para indicar si requiere factura por el pago.",
+    "q": "¿Qué documento se envía al cliente para la segunda reactivación de la licencia de MiExpedienteContable?",
+    "a": "Se envía el formato '2da Reactivación MEC PRO' o '2da Reactivación MEC PLUS' según corresponda, y un formato adicional para indicar si requiere factura por el pago realizado.",
     "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
     "keywords": [
-      "segunda reactivación",
+      "segunda",
+      "reactivación",
       "documento",
       "formato",
-      "pro",
-      "plus",
       "factura",
-      "pago"
-    ]
+      "pago",
+      "pro",
+      "plus"
+    ],
+    "faq_id": "D-20-01-09-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documento se envía al cliente para la segunda reactivación de la licencia de MiExpedienteContable? Respuesta: Se envía el formato '2da Reactivación MEC PRO' o '2da Reactivación MEC PLUS' según corresponda, y un formato adicional para indicar si requiere factura por el pago realizado."
   },
   {
-    "q": "¿Qué sistema operativo no es compatible con MiExpedienteContable?",
+    "q": "¿Qué acción debe realizar el cliente después de recibir el formato de reactivación de licencia?",
+    "a": "El cliente debe llenar el formato, firmarlo, escanearlo y enviarlo de vuelta. Además, debe llenar el control de reactivaciones ubicado en el drive según el instructivo correspondiente.",
+    "product": "MiExpedienteContable",
+    "categoria": "Reactivación de licencia",
+    "keywords": [
+      "cliente",
+      "formato",
+      "llenar",
+      "firmar",
+      "escanear",
+      "control",
+      "reactivaciones"
+    ],
+    "faq_id": "D-20-01-09-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué acción debe realizar el cliente después de recibir el formato de reactivación de licencia? Respuesta: El cliente debe llenar el formato, firmarlo, escanearlo y enviarlo de vuelta. Además, debe llenar el control de reactivaciones ubicado en el drive según el instructivo correspondiente."
+  },
+  {
+    "q": "¿Qué sistemas operativos no son compatibles con MiExpedienteContable?",
     "a": "No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos del sistema",
     "keywords": [
+      "compatibilidad",
       "sistema operativo",
-      "no compatible",
+      "windows",
       "macos",
-      "windows 7",
-      "windows 8",
-      "windows 8.1"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer con el control de reactivaciones en cualquier caso de reactivación?",
-    "a": "En cualquier caso de reactivación (primera o segunda), se debe llenar el control de reactivaciones ubicado en el drive, siguiendo el instructivo correspondiente.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "control",
-      "reactivaciones",
-      "drive",
-      "instructivo",
-      "llenar",
-      "primera",
-      "segunda"
-    ]
+      "no compatible"
+    ],
+    "faq_id": "D-20-01-09-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sistemas operativos no son compatibles con MiExpedienteContable? Respuesta: No es compatible con macOS, Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1."
   }
 ]

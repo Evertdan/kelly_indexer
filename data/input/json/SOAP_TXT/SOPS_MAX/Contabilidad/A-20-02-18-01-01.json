@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué error aparece al importar la plantilla de balanza en MiAdminXML?",
-    "a": "Aparece el error 'MAX:Msg: Excepción la url no puede estar vacía. Nombre del parametro:url'.",
+    "a": "El error que aparece es 'MAX:Msg: Excepción la url no puede estar vacía. Nombre del parametro:url'.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "importar",
@@ -11,62 +12,75 @@
       "url",
       "vacía",
       "excepción"
-    ]
+    ],
+    "faq_id": "A-20-02-18-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece al importar la plantilla de balanza en MiAdminXML? Respuesta: El error que aparece es 'MAX:Msg: Excepción la url no puede estar vacía. Nombre del parametro:url'."
   },
   {
-    "q": "¿Qué tipo de incidencia es el error de URL vacía en MiAdminXML?",
-    "a": "Es una incidencia de tipo INC-02 con nivel 2 – Medio.",
+    "q": "¿Qué se necesita para usar MiAdminXML y resolver este problema?",
+    "a": "Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "incidencia",
-      "tipo",
-      "inc-02",
-      "nivel",
-      "medio",
-      "error",
-      "url"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar MiAdminXML y resolver este error?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisitos",
       "licencia",
-      "periodo",
-      "demostrativo",
-      "error",
-      "solución"
-    ]
+      "periodo demostrativo",
+      "requisitos",
+      "acceso",
+      "necesario"
+    ],
+    "faq_id": "A-20-02-18-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar MiAdminXML y resolver este problema? Respuesta: Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cuál es la solución cuando aparece el error de URL vacía al importar la plantilla de balanza?",
-    "a": "Se dejó un dato sin seleccionar. El paso para validar contra el XML del catálogo de cuentas es opcional. Se puede generar la balanza sin esa validación.",
+    "q": "¿Cómo se puede resolver el error de URL vacía al importar la plantilla de balanza?",
+    "a": "Se debe seleccionar la información necesaria para generar la balanza de comprobación, ya sea validando contra el catálogo de cuentas o creando la balanza sin esa validación.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "solución",
+      "resolver",
       "error",
       "url",
       "vacía",
-      "plantilla",
-      "balanza",
+      "seleccionar",
+      "información",
       "validación",
-      "opcional"
-    ]
+      "catálogo",
+      "cuentas"
+    ],
+    "faq_id": "A-20-02-18-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede resolver el error de URL vacía al importar la plantilla de balanza? Respuesta: Se debe seleccionar la información necesaria para generar la balanza de comprobación, ya sea validando contra el catálogo de cuentas o creando la balanza sin esa validación."
   },
   {
-    "q": "¿Cómo funciona la validación contra el catálogo de cuentas al generar la balanza de comprobación?",
-    "a": "Si está activa la casilla de validación, se compara con el catálogo de cuentas. Si no está activa, solo se valida sin esa comparación.",
+    "q": "¿Es obligatorio validar la balanza de comprobación contra el catálogo de cuentas?",
+    "a": "No, es opcional. Se puede validar contra el catálogo de cuentas o simplemente crear la balanza sin esa validación.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "validación",
+      "opcional",
       "catálogo",
       "cuentas",
       "balanza",
       "comprobación",
-      "casilla",
-      "comparar"
-    ]
+      "crear"
+    ],
+    "faq_id": "A-20-02-18-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Es obligatorio validar la balanza de comprobación contra el catálogo de cuentas? Respuesta: No, es opcional. Se puede validar contra el catálogo de cuentas o simplemente crear la balanza sin esa validación."
+  },
+  {
+    "q": "¿Qué nivel de gravedad tiene el error de URL vacía en MiAdminXML?",
+    "a": "El error tiene un nivel de gravedad 2 – Medio.",
+    "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
+    "keywords": [
+      "nivel",
+      "gravedad",
+      "error",
+      "medio",
+      "url",
+      "vacía"
+    ],
+    "faq_id": "A-20-02-18-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de gravedad tiene el error de URL vacía en MiAdminXML? Respuesta: El error tiene un nivel de gravedad 2 – Medio."
   }
 ]

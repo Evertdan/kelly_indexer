@@ -3,96 +3,120 @@
     "q": "¿Qué permite hacer el módulo de Papeles de Trabajo?",
     "a": "El módulo de Papeles de Trabajo permite visualizar el expediente digital del contribuyente seleccionado, agregar nuevas carpetas y archivos al expediente, y cuenta con un visor de archivos para una vista rápida de los documentos.",
     "product": "Papeles de Trabajo",
+    "categoria": "General",
     "keywords": [
       "papeles de trabajo",
       "expediente digital",
       "contribuyente",
       "visor",
       "archivos"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer el módulo de Papeles de Trabajo? Respuesta: El módulo de Papeles de Trabajo permite visualizar el expediente digital del contribuyente seleccionado, agregar nuevas carpetas y archivos al expediente, y cuenta con un visor de archivos para una vista rápida de los documentos."
   },
   {
     "q": "¿Cómo accedo al módulo de Papeles de Trabajo para un contribuyente?",
     "a": "Para acceder al módulo de Papeles de Trabajo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'.",
     "product": "Papeles de Trabajo",
+    "categoria": "Acceso",
     "keywords": [
-      "acceder",
+      "acceso",
       "contribuyente",
       "pestaña",
       "papeles de trabajo",
       "seleccionar"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo accedo al módulo de Papeles de Trabajo para un contribuyente? Respuesta: Para acceder al módulo de Papeles de Trabajo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'."
   },
   {
     "q": "¿Cómo visualizo el contenido de una carpeta en el expediente digital?",
     "a": "Para visualizar el contenido de una carpeta, debes dar clic sobre el nodo correspondiente y se irá desplegando el contenido.",
     "product": "Papeles de Trabajo",
+    "categoria": "Visualización",
     "keywords": [
       "visualizar",
       "carpeta",
       "expediente",
       "nodo",
       "contenido"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo visualizo el contenido de una carpeta en el expediente digital? Respuesta: Para visualizar el contenido de una carpeta, debes dar clic sobre el nodo correspondiente y se irá desplegando el contenido."
   },
   {
     "q": "¿Cómo agrego una nueva carpeta al expediente digital?",
-    "a": "Para agregar una nueva carpeta, selecciona alguno de los nodos y da clic en el botón 'Crear carpeta'. Luego ingresa el nombre de la carpeta y da clic en 'Crear'.",
+    "a": "Para agregar una nueva carpeta, selecciona alguno de los nodos y da clic en 'Crear carpeta'. Luego ingresa el nombre de la carpeta y da clic en 'Crear'. La carpeta aparecerá en el expediente.",
     "product": "Papeles de Trabajo",
+    "categoria": "Gestión de Carpetas",
     "keywords": [
       "agregar",
       "carpeta",
       "expediente",
       "crear",
       "nodo"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agrego una nueva carpeta al expediente digital? Respuesta: Para agregar una nueva carpeta, selecciona alguno de los nodos y da clic en 'Crear carpeta'. Luego ingresa el nombre de la carpeta y da clic en 'Crear'. La carpeta aparecerá en el expediente."
   },
   {
     "q": "¿Cómo agrego un nuevo archivo al expediente digital?",
-    "a": "Para agregar un nuevo archivo, selecciona el nodo donde se almacenará y da clic en 'Agregar archivo'. Luego selecciona el archivo y da clic en 'Aceptar'.",
+    "a": "Para agregar un nuevo archivo, selecciona el nodo donde se almacenará y da clic en 'Agregar archivo'. Selecciona el archivo deseado y da clic en 'Aceptar'. El archivo aparecerá dentro del expediente.",
     "product": "Papeles de Trabajo",
+    "categoria": "Gestión de Archivos",
     "keywords": [
       "agregar",
       "archivo",
       "expediente",
       "seleccionar",
       "aceptar"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agrego un nuevo archivo al expediente digital? Respuesta: Para agregar un nuevo archivo, selecciona el nodo donde se almacenará y da clic en 'Agregar archivo'. Selecciona el archivo deseado y da clic en 'Aceptar'. El archivo aparecerá dentro del expediente."
   },
   {
     "q": "¿Cómo abro un archivo con un programa predeterminado?",
     "a": "Para abrir un archivo con un programa predeterminado, selecciona el archivo y da clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado.",
     "product": "Papeles de Trabajo",
+    "categoria": "Visualización",
     "keywords": [
       "abrir",
       "archivo",
       "programa",
       "predeterminado",
       "lector"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo abro un archivo con un programa predeterminado? Respuesta: Para abrir un archivo con un programa predeterminado, selecciona el archivo y da clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado."
   },
   {
     "q": "¿Cómo renombro una carpeta o archivo en el expediente digital?",
-    "a": "Para renombrar una carpeta o archivo, selecciona el nodo y da clic en 'Renombrar'. Luego ingresa el nuevo nombre y da clic en 'Aceptar'.",
+    "a": "Para renombrar una carpeta o archivo, selecciona el nodo y da clic en 'Renombrar'. Ingresa el nuevo nombre y da clic en 'Aceptar'. La carpeta o archivo aparecerá con el nuevo nombre.",
     "product": "Papeles de Trabajo",
+    "categoria": "Gestión de Carpetas",
     "keywords": [
       "renombrar",
       "carpeta",
       "archivo",
-      "nodo",
+      "expediente",
       "nombre"
-    ]
+    ],
+    "faq_id": "D-20-03-11-05-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo renombro una carpeta o archivo en el expediente digital? Respuesta: Para renombrar una carpeta o archivo, selecciona el nodo y da clic en 'Renombrar'. Ingresa el nuevo nombre y da clic en 'Aceptar'. La carpeta o archivo aparecerá con el nuevo nombre."
   },
   {
     "q": "¿Cómo elimino una carpeta o archivo del expediente digital?",
-    "a": "Para eliminar una carpeta o archivo, selecciónalo y da clic en 'Eliminar'. Confirma la eliminación dando clic en 'Sí' en el mensaje de confirmación.",
+    "a": "Para eliminar una carpeta o archivo, selecciónalo y da clic en 'Eliminar'. Confirma la eliminación en el mensaje que aparece y el archivo o carpeta será eliminado.",
     "product": "Papeles de Trabajo",
+    "categoria": "Gestión de Archivos",
     "keywords": [
       "eliminar",
       "carpeta",
       "archivo",
       "expediente",
-      "confirmación"
-    ]
+      "confirmar"
+    ],
+    "faq_id": "D-20-03-11-05-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo elimino una carpeta o archivo del expediente digital? Respuesta: Para eliminar una carpeta o archivo, selecciónalo y da clic en 'Eliminar'. Confirma la eliminación en el mensaje que aparece y el archivo o carpeta será eliminado."
   }
 ]

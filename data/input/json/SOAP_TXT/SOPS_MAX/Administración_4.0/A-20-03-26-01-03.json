@@ -1,73 +1,84 @@
 [
   {
     "q": "¿Qué se necesita para exportar un reporte a Excel en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
       "excel",
-      "requisitos",
       "licencia",
-      "periodo demostrativo",
-      "reporte",
-      "necesito"
-    ]
+      "requisitos",
+      "periodo demostrativo"
+    ],
+    "faq_id": "A-20-03-26-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para exportar un reporte a Excel en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Cómo se exporta un reporte a Excel en MiAdminXML?",
-    "a": "Ingresa al módulo de Administración de XML, selecciona el submódulo Administración de XML 4.0, elige RFC, Tipo, Año y mes, haz clic en Leer XMLs, luego en Exportar, selecciona Exportar a Excel y guarda el archivo.",
+    "q": "¿Cómo exportar un reporte a Excel en MiAdminXML?",
+    "a": "Ingresa al módulo de Administración de XML, selecciona el submódulo de Administración de XML 4.0, elige RFC, Tipo, Año y mes, da clic en 'Leer XMLs', luego en 'Exportar', selecciona 'Exportar a Excel', guarda el archivo y se abrirá en Excel.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
       "excel",
       "pasos",
       "proceso",
       "reporte",
-      "administración",
       "xml",
-      "módulo"
-    ]
+      "administración"
+    ],
+    "faq_id": "A-20-03-26-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo exportar un reporte a Excel en MiAdminXML? Respuesta: Ingresa al módulo de Administración de XML, selecciona el submódulo de Administración de XML 4.0, elige RFC, Tipo, Año y mes, da clic en 'Leer XMLs', luego en 'Exportar', selecciona 'Exportar a Excel', guarda el archivo y se abrirá en Excel."
   },
   {
-    "q": "¿Qué opciones hay para guardar un reporte en Excel en MiAdminXML?",
-    "a": "Puedes seleccionar 'Exportar a Excel' y guardar el archivo manualmente o elegir 'Guardar en Excel' para que el reporte se abra automáticamente.",
+    "q": "¿Qué opciones hay para exportar a Excel en MiAdminXML?",
+    "a": "Puedes seleccionar 'Exportar a Excel' y guardar el archivo manualmente, o elegir 'Guardar en Excel' para que el reporte se abra automáticamente en Excel.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
       "excel",
       "opciones",
       "guardar",
       "automático",
-      "reporte",
-      "selección"
-    ]
+      "reporte"
+    ],
+    "faq_id": "A-20-03-26-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones hay para exportar a Excel en MiAdminXML? Respuesta: Puedes seleccionar 'Exportar a Excel' y guardar el archivo manualmente, o elegir 'Guardar en Excel' para que el reporte se abra automáticamente en Excel."
   },
   {
     "q": "¿Qué información se necesita seleccionar antes de exportar a Excel en MiAdminXML?",
-    "a": "Debes seleccionar el RFC, Tipo, Año y mes del reporte que deseas exportar.",
+    "a": "Antes de exportar, debes seleccionar el RFC, Tipo, Año y mes del reporte que deseas exportar.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
       "excel",
-      "selección",
+      "seleccionar",
       "rfc",
       "tipo",
       "año",
       "mes",
       "filtros"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita seleccionar antes de exportar a Excel en MiAdminXML? Respuesta: Antes de exportar, debes seleccionar el RFC, Tipo, Año y mes del reporte que deseas exportar."
   },
   {
-    "q": "¿Dónde se encuentra la herramienta Exportar en MiAdminXML?",
-    "a": "La herramienta Exportar se encuentra del lado derecho después de desglosar la información al hacer clic en Leer XMLs.",
+    "q": "¿Dónde se encuentra la herramienta para exportar a Excel en MiAdminXML?",
+    "a": "La herramienta 'Exportar' se encuentra del lado derecho después de leer los XMLs en el módulo de Administración de XML 4.0.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
+      "excel",
       "herramienta",
       "ubicación",
-      "derecho",
-      "leer xmls",
-      "interfaz"
-    ]
+      "administración",
+      "xml"
+    ],
+    "faq_id": "A-20-03-26-01-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la herramienta para exportar a Excel en MiAdminXML? Respuesta: La herramienta 'Exportar' se encuentra del lado derecho después de leer los XMLs en el módulo de Administración de XML 4.0."
   }
 ]

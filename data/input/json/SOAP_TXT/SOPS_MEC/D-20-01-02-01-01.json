@@ -1,83 +1,93 @@
 [
   {
-    "q": "¿Qué solicita el cliente en este caso?",
-    "a": "El cliente solicita los datos fiscales para dar de alta a proveedor.",
+    "q": "¿Qué tipo de solicitud es cuando un cliente pide los datos fiscales para dar de alta a un proveedor?",
+    "a": "Es una solicitud de tipo SOL-01.",
     "product": "General",
+    "categoria": "Solicitudes",
     "keywords": [
-      "cliente",
       "solicitud",
       "datos fiscales",
-      "alta",
-      "proveedor"
-    ]
-  },
-  {
-    "q": "¿Cuál es el tipo de solicitud en este caso?",
-    "a": "El tipo de solicitud es SOL-01.",
-    "product": "General",
-    "keywords": [
+      "proveedor",
       "tipo",
-      "solicitud",
-      "sol-01",
-      "clasificación"
-    ]
+      "sol-01"
+    ],
+    "faq_id": "D-20-01-02-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud es cuando un cliente pide los datos fiscales para dar de alta a un proveedor? Respuesta: Es una solicitud de tipo SOL-01."
   },
   {
-    "q": "¿Cuál es el nivel de prioridad de esta solicitud?",
+    "q": "¿Cuál es el nivel de prioridad de una solicitud de datos fiscales para proveedor?",
     "a": "El nivel de prioridad es 1 – Bajo.",
     "product": "General",
+    "categoria": "Prioridad",
     "keywords": [
       "nivel",
       "prioridad",
       "bajo",
-      "urgencia"
-    ]
+      "datos fiscales",
+      "proveedor"
+    ],
+    "faq_id": "D-20-01-02-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de prioridad de una solicitud de datos fiscales para proveedor? Respuesta: El nivel de prioridad es 1 – Bajo."
   },
   {
-    "q": "¿Qué resultado se espera de esta solicitud?",
-    "a": "Se espera enviar al usuario los datos de proveedor solicitados.",
+    "q": "¿Qué se debe hacer como resultado de una solicitud de datos fiscales para proveedor?",
+    "a": "Se deben enviar al usuario los datos de proveedor solicitados.",
     "product": "General",
+    "categoria": "Resultados",
     "keywords": [
-      "resultado",
+      "resultados",
       "enviar",
       "datos",
       "proveedor",
       "solicitud"
-    ]
+    ],
+    "faq_id": "D-20-01-02-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer como resultado de una solicitud de datos fiscales para proveedor? Respuesta: Se deben enviar al usuario los datos de proveedor solicitados."
   },
   {
-    "q": "¿Qué recursos se utilizan para atender esta solicitud?",
-    "a": "Los recursos utilizados son los datos de facturación.",
+    "q": "¿Qué recursos se utilizan para responder a una solicitud de datos fiscales para proveedor?",
+    "a": "Se utilizan los datos de facturación.",
     "product": "General",
+    "categoria": "Recursos",
     "keywords": [
       "recursos",
       "datos",
       "facturación",
-      "utilizados"
-    ]
+      "proveedor",
+      "solicitud"
+    ],
+    "faq_id": "D-20-01-02-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recursos se utilizan para responder a una solicitud de datos fiscales para proveedor? Respuesta: Se utilizan los datos de facturación."
   },
   {
-    "q": "¿Cómo se enviarán los datos al cliente?",
-    "a": "Los datos se enviarán al cliente vía correo electrónico.",
+    "q": "¿Cómo se deben enviar los datos fiscales al cliente que los solicita para un proveedor?",
+    "a": "Los datos deben enviarse vía correo electrónico.",
     "product": "General",
+    "categoria": "Proceso",
     "keywords": [
       "enviar",
-      "datos",
+      "datos fiscales",
       "correo electrónico",
-      "cliente",
-      "método"
-    ]
+      "proveedor",
+      "cliente"
+    ],
+    "faq_id": "D-20-01-02-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se deben enviar los datos fiscales al cliente que los solicita para un proveedor? Respuesta: Los datos deben enviarse vía correo electrónico."
   },
   {
-    "q": "¿Qué debe proporcionar el cliente para recibir los datos fiscales?",
-    "a": "El cliente debe proporcionar un correo electrónico para recibir la información requerida.",
+    "q": "¿Qué debe hacer el ejecutivo cuando un cliente solicita datos fiscales para un proveedor?",
+    "a": "El ejecutivo debe pedir al cliente que proporcione un correo electrónico para enviar la información requerida.",
     "product": "General",
+    "categoria": "Proceso",
     "keywords": [
+      "ejecutivo",
       "cliente",
-      "proporcionar",
       "correo electrónico",
       "datos fiscales",
-      "requisito"
-    ]
+      "proveedor",
+      "solicitud"
+    ],
+    "faq_id": "D-20-01-02-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el ejecutivo cuando un cliente solicita datos fiscales para un proveedor? Respuesta: El ejecutivo debe pedir al cliente que proporcione un correo electrónico para enviar la información requerida."
   }
 ]

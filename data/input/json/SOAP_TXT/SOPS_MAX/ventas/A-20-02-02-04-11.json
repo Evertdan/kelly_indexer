@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué debo hacer si la Ficha de Pago ha llegado a su fecha de vencimiento?",
-    "a": "Se debe validar la orden de compra para verificar el estado de la Ficha de Pago, ingresando desde Telegram a 'ComputoCreativoBot' y usando el comando /orden + número de orden de compra.",
+    "a": "Se debe validar la fecha de vencimiento de la orden de compra ingresando desde Telegram a 'ComputoCreativoBot' y usando el comando /orden + número de orden de compra.",
     "product": "General",
+    "categoria": "Validación de Pago",
     "keywords": [
       "ficha de pago",
       "vencimiento",
@@ -10,61 +11,58 @@
       "orden de compra",
       "telegram",
       "computocreativobot"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-11_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si la Ficha de Pago ha llegado a su fecha de vencimiento? Respuesta: Se debe validar la fecha de vencimiento de la orden de compra ingresando desde Telegram a 'ComputoCreativoBot' y usando el comando /orden + número de orden de compra."
   },
   {
-    "q": "¿Cómo puedo validar la fecha de vencimiento de una orden de compra?",
-    "a": "Para validar la fecha de vencimiento de una orden de compra, debes ingresar desde Telegram a 'ComputoCreativoBot' y usar el comando /orden seguido del número de orden de compra. En la parte baja de la información se indicará si la ficha de pago está vigente o no.",
+    "q": "¿Cómo puedo validar si una orden de compra está vigente?",
+    "a": "Para validar si una orden de compra está vigente, ingresa desde Telegram a 'ComputoCreativoBot' y usa el comando /orden seguido del número de orden de compra. La información de vigencia aparecerá en la parte baja de los resultados.",
     "product": "General",
+    "categoria": "Validación de Pago",
     "keywords": [
       "validar",
-      "fecha de vencimiento",
       "orden de compra",
+      "vigente",
       "telegram",
       "computocreativobot",
       "comando",
-      "vigente"
-    ]
+      "/orden"
+    ],
+    "faq_id": "A-20-02-02-04-11_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo validar si una orden de compra está vigente? Respuesta: Para validar si una orden de compra está vigente, ingresa desde Telegram a 'ComputoCreativoBot' y usa el comando /orden seguido del número de orden de compra. La información de vigencia aparecerá en la parte baja de los resultados."
   },
   {
     "q": "¿Qué comando se utiliza en Telegram para verificar el estado de una orden de compra?",
     "a": "El comando utilizado en Telegram para verificar el estado de una orden de compra es /orden seguido del número de orden de compra.",
     "product": "General",
+    "categoria": "Validación de Pago",
     "keywords": [
       "telegram",
       "comando",
-      "orden de compra",
+      "/orden",
       "verificar",
       "estado",
-      "computocreativobot"
-    ]
+      "orden de compra"
+    ],
+    "faq_id": "A-20-02-02-04-11_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se utiliza en Telegram para verificar el estado de una orden de compra? Respuesta: El comando utilizado en Telegram para verificar el estado de una orden de compra es /orden seguido del número de orden de compra."
   },
   {
-    "q": "¿Dónde puedo revisar si una ficha de pago está vigente?",
-    "a": "Puedes revisar si una ficha de pago está vigente en la parte baja de la información que aparece al usar el comando /orden + número de orden de compra en 'ComputoCreativoBot' desde Telegram.",
+    "q": "¿Dónde puedo encontrar la información sobre la vigencia de una ficha de pago?",
+    "a": "La información sobre la vigencia de una ficha de pago se encuentra en la parte baja de los resultados al usar el comando /orden + número de orden de compra en 'ComputoCreativoBot' de Telegram.",
     "product": "General",
+    "categoria": "Validación de Pago",
     "keywords": [
+      "vigencia",
       "ficha de pago",
-      "vigente",
-      "revisar",
+      "información",
       "telegram",
       "computocreativobot",
       "comando",
-      "orden de compra"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de orientación proporciona este documento?",
-    "a": "Este documento proporciona orientación para realizar una compra exitosa con el método de pago Transferencia, específicamente cómo validar la fecha de vencimiento de una orden de compra.",
-    "product": "General",
-    "keywords": [
-      "orientación",
-      "compra",
-      "método de pago",
-      "transferencia",
-      "validar",
-      "fecha de vencimiento",
-      "orden de compra"
-    ]
+      "/orden"
+    ],
+    "faq_id": "A-20-02-02-04-11_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar la información sobre la vigencia de una ficha de pago? Respuesta: La información sobre la vigencia de una ficha de pago se encuentra en la parte baja de los resultados al usar el comando /orden + número de orden de compra en 'ComputoCreativoBot' de Telegram."
   }
 ]

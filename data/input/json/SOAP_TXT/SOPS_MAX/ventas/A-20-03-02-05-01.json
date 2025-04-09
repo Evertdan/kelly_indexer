@@ -1,62 +1,72 @@
 [
   {
-    "q": "¿Qué debo hacer si un cliente no sabe en qué tiendas puede realizar su pago?",
-    "a": "Informar al cliente las tiendas afiliadas donde puede realizar su pago, como Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
-    "product": "General",
-    "keywords": [
-      "tiendas",
-      "pago",
-      "afiliadas",
-      "información",
-      "cliente",
-      "conveniencia",
-      "ubicación",
-      "lista"
-    ]
-  },
-  {
-    "q": "¿Cómo se maneja la solicitud de información de tiendas para pago si el cliente contacta por correo electrónico?",
-    "a": "Se envía al cliente la lista de tiendas afiliadas utilizando la respuesta automática llamada 'pago por tiendas de conveniencia'.",
-    "product": "General",
-    "keywords": [
-      "correo",
-      "electrónico",
-      "respuesta",
-      "automática",
-      "tiendas",
-      "pago",
-      "afiliadas",
-      "conveniencia"
-    ]
-  },
-  {
-    "q": "¿Qué tiendas están afiliadas para realizar pagos?",
-    "a": "Las tiendas afiliadas incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
-    "product": "General",
+    "q": "¿Qué tiendas están afiliadas para realizar pagos en AdminXML?",
+    "a": "Las tiendas afiliadas para realizar pagos en AdminXML incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos.",
+    "product": "AdminXML",
+    "categoria": "Pagos",
     "keywords": [
       "tiendas",
       "afiliadas",
-      "pago",
+      "pagos",
       "conveniencia",
       "lista",
-      "ubicación",
+      "adminxml",
       "farmacias",
-      "supermercados"
-    ]
+      "wal-mart"
+    ],
+    "faq_id": "A-20-03-02-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tiendas están afiliadas para realizar pagos en AdminXML? Respuesta: Las tiendas afiliadas para realizar pagos en AdminXML incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart, Superama y Waldos."
   },
   {
-    "q": "¿Cuál es el primer paso para responder a un cliente que pregunta sobre tiendas para pago?",
-    "a": "Seleccionar la respuesta automática llamada 'pago por tiendas de conveniencia' para proporcionar al cliente la información necesaria.",
-    "product": "General",
+    "q": "¿Cómo se informa al cliente sobre las tiendas donde puede pagar si contacta por correo electrónico?",
+    "a": "Si el cliente contacta por correo electrónico, se le envía la lista de tiendas afiliadas utilizando la respuesta automática llamada 'pago por tiendas de conveniencia'.",
+    "product": "AdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "paso",
+      "correo",
       "respuesta",
       "automática",
       "tiendas",
-      "pago",
-      "proceso",
+      "conveniencia",
       "información",
-      "cliente"
-    ]
+      "cliente",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se informa al cliente sobre las tiendas donde puede pagar si contacta por correo electrónico? Respuesta: Si el cliente contacta por correo electrónico, se le envía la lista de tiendas afiliadas utilizando la respuesta automática llamada 'pago por tiendas de conveniencia'."
+  },
+  {
+    "q": "¿Qué tipo de respuesta se utiliza para informar sobre tiendas de pago en AdminXML?",
+    "a": "Se utiliza la respuesta automática llamada 'pago por tiendas de conveniencia' para informar sobre las tiendas donde se puede realizar el pago.",
+    "product": "AdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "respuesta",
+      "automática",
+      "tiendas",
+      "conveniencia",
+      "pago",
+      "información",
+      "adminxml"
+    ],
+    "faq_id": "A-20-03-02-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de respuesta se utiliza para informar sobre tiendas de pago en AdminXML? Respuesta: Se utiliza la respuesta automática llamada 'pago por tiendas de conveniencia' para informar sobre las tiendas donde se puede realizar el pago."
+  },
+  {
+    "q": "¿Qué acción toma el ejecutivo cuando un cliente pregunta sobre tiendas para pagar?",
+    "a": "El ejecutivo informa al cliente las tiendas afiliadas donde puede realizar su pago, como Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, entre otras.",
+    "product": "AdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "ejecutivo",
+      "tiendas",
+      "pago",
+      "información",
+      "cliente",
+      "afiliadas",
+      "adminxml"
+    ],
+    "faq_id": "A-20-03-02-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué acción toma el ejecutivo cuando un cliente pregunta sobre tiendas para pagar? Respuesta: El ejecutivo informa al cliente las tiendas afiliadas donde puede realizar su pago, como Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, entre otras."
   }
 ]

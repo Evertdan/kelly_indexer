@@ -3,84 +3,85 @@
     "q": "¿Cómo se guarda una contraseña en el llavero digital de Mi Expediente Contable?",
     "a": "Para guardar una contraseña, posicionarse en la pestaña de contribuyentes, seleccionar un contribuyente, dar clic en 'Llavero digital', elegir una categoría como 'Contraseña SAT', ingresar los datos y dar clic en 'Guardar cambios'.",
     "product": "Mi Expediente Contable",
+    "categoria": "Llavero Digital",
     "keywords": [
-      "llavero digital",
       "guardar",
       "contraseña",
+      "llavero digital",
       "contribuyente",
       "categoría",
       "sat",
       "datos",
       "acceso"
-    ]
+    ],
+    "faq_id": "D-20-03-11-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se guarda una contraseña en el llavero digital de Mi Expediente Contable? Respuesta: Para guardar una contraseña, posicionarse en la pestaña de contribuyentes, seleccionar un contribuyente, dar clic en 'Llavero digital', elegir una categoría como 'Contraseña SAT', ingresar los datos y dar clic en 'Guardar cambios'."
   },
   {
     "q": "¿Cómo se consultan los datos guardados en el llavero digital?",
     "a": "Para consultar los datos, dar clic sobre la categoría correspondiente en el llavero digital. Los botones superiores y las teclas F1 a F8 permiten copiar los datos para un acceso rápido.",
     "product": "Mi Expediente Contable",
+    "categoria": "Llavero Digital",
     "keywords": [
-      "llavero digital",
       "consultar",
       "datos",
+      "llavero digital",
       "categoría",
       "acceso rápido",
       "teclas",
       "botones"
-    ]
+    ],
+    "faq_id": "D-20-03-11-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se consultan los datos guardados en el llavero digital? Respuesta: Para consultar los datos, dar clic sobre la categoría correspondiente en el llavero digital. Los botones superiores y las teclas F1 a F8 permiten copiar los datos para un acceso rápido."
   },
   {
     "q": "¿Qué pasos se deben seguir para actualizar un certificado en el llavero digital?",
-    "a": "Seleccionar un contribuyente, acceder al llavero digital, verificar si el certificado está vencido, dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo, y finalmente guardar los cambios.",
+    "a": "Seleccionar un contribuyente, acceder al llavero digital, elegir una categoría con certificado, verificar si está 'vigente' o 'vencido', dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo, y guardar los cambios.",
     "product": "Mi Expediente Contable",
+    "categoria": "Llavero Digital",
     "keywords": [
       "actualizar",
       "certificado",
       "llavero digital",
       "vencido",
-      "renovar",
+      "vigente",
+      "renovación",
       "e.firma",
-      "sat",
-      "guardar"
-    ]
+      "sat"
+    ],
+    "faq_id": "D-20-03-11-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para actualizar un certificado en el llavero digital? Respuesta: Seleccionar un contribuyente, acceder al llavero digital, elegir una categoría con certificado, verificar si está 'vigente' o 'vencido', dar clic en 'Actualizar certificado', ingresar los datos y el nuevo archivo, y guardar los cambios."
   },
   {
-    "q": "¿Cómo se renueva la e.firma desde el llavero digital?",
+    "q": "¿Cómo se renueva la e.firma en línea desde el llavero digital?",
     "a": "Al dar clic en 'Da clic aquí para renovar tu e.firma online' en el módulo de llavero digital, se mostrará el apartado del portal SAT para realizar la renovación en línea antes del vencimiento.",
     "product": "Mi Expediente Contable",
+    "categoria": "Llavero Digital",
     "keywords": [
       "renovar",
       "e.firma",
-      "sat",
-      "online",
+      "en línea",
       "llavero digital",
-      "vencimiento",
-      "portal"
-    ]
+      "sat",
+      "portal",
+      "vencimiento"
+    ],
+    "faq_id": "D-20-03-11-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se renueva la e.firma en línea desde el llavero digital? Respuesta: Al dar clic en 'Da clic aquí para renovar tu e.firma online' en el módulo de llavero digital, se mostrará el apartado del portal SAT para realizar la renovación en línea antes del vencimiento."
   },
   {
     "q": "¿Qué sucede con los archivos cambiados en el llavero digital?",
     "a": "Todos los archivos que sean cambiados en el llavero digital serán respaldados automáticamente.",
     "product": "Mi Expediente Contable",
+    "categoria": "Llavero Digital",
     "keywords": [
       "archivos",
-      "respaldar",
+      "cambiados",
       "llavero digital",
-      "cambios",
-      "seguridad",
-      "backup"
-    ]
-  },
-  {
-    "q": "¿Qué mensaje se muestra al guardar un certificado en el llavero digital?",
-    "a": "Se muestra un mensaje confirmando que se guardó el certificado exitosamente.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "mensaje",
-      "guardar",
-      "certificado",
-      "éxito",
-      "llavero digital",
-      "confirmación"
-    ]
+      "respaldo",
+      "automático"
+    ],
+    "faq_id": "D-20-03-11-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede con los archivos cambiados en el llavero digital? Respuesta: Todos los archivos que sean cambiados en el llavero digital serán respaldados automáticamente."
   }
 ]

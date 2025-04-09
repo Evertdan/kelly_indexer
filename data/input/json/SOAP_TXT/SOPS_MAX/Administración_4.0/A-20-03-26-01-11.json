@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué es el Catálogo de Logos en MiAdminXML?",
-    "a": "El Catálogo de Logos es una herramienta para guardar el RFC (emisor) y logo de la empresa para personalizar la representación gráfica del XML (PDF).",
+    "a": "El Catálogo de Logos es una herramienta para guardar el RFC (emisor) y logo de la empresa, con el fin de personalizar la representación gráfica del XML (PDF).",
     "product": "MiAdminXML",
+    "categoria": "Administración de XML",
     "keywords": [
       "catálogo de logos",
       "rfc",
@@ -11,129 +12,153 @@
       "xml",
       "pdf",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-11_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el Catálogo de Logos en MiAdminXML? Respuesta: El Catálogo de Logos es una herramienta para guardar el RFC (emisor) y logo de la empresa, con el fin de personalizar la representación gráfica del XML (PDF)."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar el Catálogo de Logos?",
-    "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "catálogo de logos",
-      "acceso"
-    ]
+      "acceso",
+      "catálogo de logos"
+    ],
+    "faq_id": "A-20-03-26-01-11_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar el Catálogo de Logos? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Cómo accedo al Catálogo de Logos en MiAdminXML?",
-    "a": "Ingresando al Módulo de Administración de XML, seleccionando el submódulo de Administración de XML 4.0 y dando clic al botón Catálogo de Logos.",
+    "q": "¿Cómo acceder al Catálogo de Logos en MiAdminXML?",
+    "a": "Para acceder al Catálogo de Logos, ingresa al Módulo de Administración de XML, selecciona el submódulo de Administración de XML 4.0 y haz clic en el botón 'Catálogo de Logos'.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
       "módulo",
       "administración",
       "xml",
       "submódulo",
-      "catálogo de logos",
-      "botón"
-    ]
+      "botón",
+      "catálogo de logos"
+    ],
+    "faq_id": "A-20-03-26-01-11_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo acceder al Catálogo de Logos en MiAdminXML? Respuesta: Para acceder al Catálogo de Logos, ingresa al Módulo de Administración de XML, selecciona el submódulo de Administración de XML 4.0 y haz clic en el botón 'Catálogo de Logos'."
   },
   {
-    "q": "¿Cómo agrego un nuevo logo en el Catálogo de Logos?",
-    "a": "Dando clic al botón Nuevo, colocando el RFC, seleccionando el logo en formato PNG o JPG desde la ruta de guardado y dando clic en Aceptar.",
+    "q": "¿Cómo agregar un nuevo logo en el Catálogo de Logos?",
+    "a": "Para agregar un nuevo logo, haz clic en 'Nuevo', ingresa el RFC, selecciona el logo en formato PNG o JPG usando el botón con lupa y haz clic en 'Aceptar'.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "nuevo",
       "logo",
       "rfc",
-      "formato",
       "png",
       "jpg",
-      "ruta",
-      "guardado",
+      "agregar",
+      "botón",
+      "lupa",
       "aceptar"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-11_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar un nuevo logo en el Catálogo de Logos? Respuesta: Para agregar un nuevo logo, haz clic en 'Nuevo', ingresa el RFC, selecciona el logo en formato PNG o JPG usando el botón con lupa y haz clic en 'Aceptar'."
   },
   {
-    "q": "¿Cómo modifico un logo existente en el Catálogo de Logos?",
-    "a": "Seleccionando el RFC a modificar, dando clic en Modificar, seleccionando el nuevo logo en formato PNG o JPG y dando clic en Actualizar.",
+    "q": "¿Cómo modificar un logo existente en el Catálogo de Logos?",
+    "a": "Para modificar un logo, selecciona el RFC, haz clic en 'Modificar', selecciona el nuevo logo con el botón de lupa y haz clic en 'Actualizar'.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "modificar",
       "logo",
       "rfc",
-      "formato",
-      "png",
-      "jpg",
       "actualizar",
-      "botón"
-    ]
+      "botón",
+      "lupa",
+      "seleccionar"
+    ],
+    "faq_id": "A-20-03-26-01-11_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo modificar un logo existente en el Catálogo de Logos? Respuesta: Para modificar un logo, selecciona el RFC, haz clic en 'Modificar', selecciona el nuevo logo con el botón de lupa y haz clic en 'Actualizar'."
   },
   {
-    "q": "¿Cómo elimino un logo del Catálogo de Logos?",
-    "a": "Seleccionando el RFC a eliminar, dando clic en Eliminar, confirmando la eliminación con Sí y dando clic en Aceptar.",
+    "q": "¿Cómo eliminar un logo del Catálogo de Logos?",
+    "a": "Para eliminar un logo, selecciona el RFC, haz clic en 'Eliminar', confirma la acción en el mensaje de alerta y haz clic en 'Aceptar'.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "eliminar",
       "logo",
       "rfc",
       "confirmación",
       "alerta",
-      "aceptar",
-      "botón"
-    ]
+      "aceptar"
+    ],
+    "faq_id": "A-20-03-26-01-11_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo eliminar un logo del Catálogo de Logos? Respuesta: Para eliminar un logo, selecciona el RFC, haz clic en 'Eliminar', confirma la acción en el mensaje de alerta y haz clic en 'Aceptar'."
   },
   {
-    "q": "¿Qué formatos de imagen son soportados para los logos en MiAdminXML?",
-    "a": "Los formatos soportados para los logos son PNG y JPG.",
+    "q": "¿Qué formatos de imagen son aceptados para los logos en MiAdminXML?",
+    "a": "Los formatos aceptados para los logos son PNG y JPG.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "formatos",
       "imagen",
       "png",
       "jpg",
       "logo",
-      "soportados"
-    ]
+      "requisitos"
+    ],
+    "faq_id": "A-20-03-26-01-11_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué formatos de imagen son aceptados para los logos en MiAdminXML? Respuesta: Los formatos aceptados para los logos son PNG y JPG."
   },
   {
     "q": "¿Qué mensaje aparece después de agregar un logo exitosamente?",
-    "a": "Aparece una ventana informando que se ha creado con Éxito.",
+    "a": "Después de agregar un logo, aparece un mensaje que informa que se ha creado con éxito.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
       "mensaje",
       "éxito",
-      "creación",
+      "creado",
       "logo",
-      "ventana",
       "confirmación"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-11_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de agregar un logo exitosamente? Respuesta: Después de agregar un logo, aparece un mensaje que informa que se ha creado con éxito."
   },
   {
     "q": "¿Qué mensaje aparece después de modificar un logo exitosamente?",
-    "a": "Aparece una ventana informando que se ha modificado con Éxito y se debe dar clic en Aceptar.",
+    "a": "Después de modificar un logo, aparece un mensaje que informa que se ha modificado con éxito y debes hacer clic en 'Aceptar'.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
       "mensaje",
       "éxito",
-      "modificación",
+      "modificado",
       "logo",
-      "ventana",
       "aceptar"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-11_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de modificar un logo exitosamente? Respuesta: Después de modificar un logo, aparece un mensaje que informa que se ha modificado con éxito y debes hacer clic en 'Aceptar'."
   },
   {
     "q": "¿Qué mensaje aparece después de eliminar un logo exitosamente?",
-    "a": "Aparece un mensaje informando que se ha Eliminado con Éxito y se debe dar clic en Aceptar.",
+    "a": "Después de eliminar un logo, aparece un mensaje que informa que se ha eliminado con éxito y debes hacer clic en 'Aceptar'.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
       "mensaje",
       "éxito",
-      "eliminación",
+      "eliminado",
       "logo",
-      "ventana",
       "aceptar"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-11_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de eliminar un logo exitosamente? Respuesta: Después de eliminar un logo, aparece un mensaje que informa que se ha eliminado con éxito y debes hacer clic en 'Aceptar'."
   }
 ]

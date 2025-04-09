@@ -1,22 +1,25 @@
 [
   {
     "q": "¿Cómo puede un cliente sin acceso a internet realizar una compra en AdminXML?",
-    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda. Los pasos incluyen crear un nuevo correo en Missive, agregar la plantilla correspondiente y enviarla al cliente.",
+    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda, siguiendo los pasos de creación y envío del correo en Missive.",
     "product": "AdminXML",
+    "categoria": "Compra sin internet",
     "keywords": [
       "compra",
       "sin internet",
       "missive",
       "plantilla",
       "pasos",
-      "correo electrónico",
-      "cliente"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-02-04-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente sin acceso a internet realizar una compra en AdminXML? Respuesta: Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según corresponda, siguiendo los pasos de creación y envío del correo en Missive."
   },
   {
     "q": "¿Cuáles son los pasos para comprar una licencia en AdminXML con tarjeta?",
-    "a": "1) Ingresar a www.adminxml.com y hacer clic en 'Precios'. 2) Seleccionar el paquete deseado (Plus o Pro), llenar el formulario de datos de contacto y facturación si es necesario, seleccionar cantidad de licencias y hacer clic en 'Continuar'. 3) Completar datos de contacto y facturación, luego 'Continuar'. 4) Seleccionar pago con 'Tarjeta', ingresar datos de la tarjeta y hacer clic en 'Continuar' para completar el pago.",
+    "a": "1) Ingresar a www.adminxml.com y dar clic en 'Precios'. 2) Seleccionar el paquete deseado (Plus o Pro), llenar datos de contacto y facturación si aplica, seleccionar cantidad de licencias y dar clic en 'Continuar'. 3) Colocar datos de contacto y facturación si es necesario, luego dar clic en 'Continuar'. 4) Seleccionar pago con 'Tarjeta', ingresar datos de la tarjeta y dar clic en 'Continuar' para completar el pago.",
     "product": "AdminXML",
+    "categoria": "Proceso de compra",
     "keywords": [
       "compra",
       "licencia",
@@ -24,49 +27,55 @@
       "pasos",
       "proceso",
       "pago",
-      "formulario",
-      "datos"
-    ]
+      "adminxml"
+    ],
+    "faq_id": "A-20-03-02-04-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para comprar una licencia en AdminXML con tarjeta? Respuesta: 1) Ingresar a www.adminxml.com y dar clic en 'Precios'. 2) Seleccionar el paquete deseado (Plus o Pro), llenar datos de contacto y facturación si aplica, seleccionar cantidad de licencias y dar clic en 'Continuar'. 3) Colocar datos de contacto y facturación si es necesario, luego dar clic en 'Continuar'. 4) Seleccionar pago con 'Tarjeta', ingresar datos de la tarjeta y dar clic en 'Continuar' para completar el pago."
   },
   {
     "q": "¿Qué sucede después de un pago exitoso con tarjeta en AdminXML?",
-    "a": "Aparecerá un mensaje que dice 'Tu pago se ha procesado exitosamente' y se podrá visualizar la Clave de licencia en pantalla, la cual también será enviada al correo electrónico proporcionado en los datos de contacto.",
+    "a": "Aparecerá un mensaje que dice 'Tu pago se ha procesado exitosamente', y se podrá visualizar la Clave de licencia en pantalla, la cual también será enviada al correo electrónico proporcionado en los datos de contacto.",
     "product": "AdminXML",
+    "categoria": "Post-compra",
     "keywords": [
-      "pago",
-      "exitoso",
+      "pago exitoso",
       "tarjeta",
-      "licencia",
-      "clave",
+      "clave de licencia",
       "correo electrónico",
       "confirmación"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de un pago exitoso con tarjeta en AdminXML? Respuesta: Aparecerá un mensaje que dice 'Tu pago se ha procesado exitosamente', y se podrá visualizar la Clave de licencia en pantalla, la cual también será enviada al correo electrónico proporcionado en los datos de contacto."
   },
   {
     "q": "¿Dónde se puede encontrar información sobre errores de pago con tarjeta en AdminXML?",
-    "a": "Los errores de pago con tarjeta están documentados en el soporte A-30-02-02-06-04.",
+    "a": "Los errores de pago con tarjeta se detallan en el soporte A-30-02-02-06-04.",
     "product": "AdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "errores",
       "pago",
       "tarjeta",
       "soporte",
-      "documentación",
       "referencia"
-    ]
+    ],
+    "faq_id": "A-20-03-02-04-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se puede encontrar información sobre errores de pago con tarjeta en AdminXML? Respuesta: Los errores de pago con tarjeta se detallan en el soporte A-30-02-02-06-04."
   },
   {
-    "q": "¿Qué opciones de licencia están disponibles para comprar en AdminXML?",
-    "a": "Están disponibles las licencias Plus y Pro, las cuales pueden seleccionarse al hacer clic en 'Comprar Licencia' en la página de precios.",
+    "q": "¿Qué información se necesita para comprar una licencia en AdminXML?",
+    "a": "Se requieren los datos de contacto y, en caso de necesitar factura, los datos de facturación. También se debe seleccionar el tipo de licencia (Plus o Pro) y la cantidad de licencias a adquirir.",
     "product": "AdminXML",
+    "categoria": "Requisitos de compra",
     "keywords": [
-      "licencias",
-      "opciones",
-      "plus",
-      "pro",
       "compra",
-      "precios",
-      "paquetes"
-    ]
+      "licencia",
+      "datos",
+      "contacto",
+      "facturación",
+      "requisitos"
+    ],
+    "faq_id": "A-20-03-02-04-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita para comprar una licencia en AdminXML? Respuesta: Se requieren los datos de contacto y, en caso de necesitar factura, los datos de facturación. También se debe seleccionar el tipo de licencia (Plus o Pro) y la cantidad de licencias a adquirir."
   }
 ]

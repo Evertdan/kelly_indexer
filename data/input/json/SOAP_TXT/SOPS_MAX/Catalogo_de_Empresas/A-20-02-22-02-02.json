@@ -1,69 +1,85 @@
 [
   {
     "q": "¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información?",
-    "a": "Es una incidencia tipo INC 02, nivel 2 (Medio).",
+    "a": "Es una incidencia tipo INC 02, con nivel de dificultad 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Soporte Técnico",
     "keywords": [
       "incidencia",
       "tipo",
       "nivel",
+      "dificultad",
       "alta",
       "contribuyente",
-      "información",
-      "inc02"
-    ]
+      "información"
+    ],
+    "faq_id": "A-20-02-22-02-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información? Respuesta: Es una incidencia tipo INC 02, con nivel de dificultad 2 – Medio."
   },
   {
-    "q": "¿Qué se necesita para dar de alta contribuyentes en MiAdminXML?",
+    "q": "¿Qué requisitos se necesitan para dar de alta contribuyentes en MiAdminXML?",
     "a": "Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "alta",
-      "contribuyentes",
       "requisitos",
       "licencia",
       "periodo demostrativo",
+      "alta",
+      "contribuyentes",
       "clave"
-    ]
+    ],
+    "faq_id": "A-20-02-22-02-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para dar de alta contribuyentes en MiAdminXML? Respuesta: Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Qué debe hacer un cliente si no puede agregar un contribuyente correctamente?",
-    "a": "El cliente debe agregar los datos del contribuyente llenando todos los campos requeridos en el Catálogo.",
+    "q": "¿Qué debe hacer un cliente si no puede agregar un contribuyente por falta de información?",
+    "a": "El cliente debe agregar los datos del contribuyente de manera correcta, llenando todos los campos requeridos en el Catálogo.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
-      "agregar",
+      "alta",
       "contribuyente",
-      "datos",
+      "información",
       "catálogo",
       "campos",
       "requeridos",
-      "solución"
-    ]
+      "procedimiento"
+    ],
+    "faq_id": "A-20-02-22-02-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer un cliente si no puede agregar un contribuyente por falta de información? Respuesta: El cliente debe agregar los datos del contribuyente de manera correcta, llenando todos los campos requeridos en el Catálogo."
   },
   {
     "q": "¿Cuál es el alcance de la solución para el problema de alta de contribuyentes?",
-    "a": "El alcance es informar el procedimiento correcto para el alta de los contribuyentes en el sistema.",
+    "a": "El alcance es informar el procedimiento correcto para el alta de los contribuyentes, asegurando que se completen todos los datos necesarios.",
     "product": "MiAdminXML",
+    "categoria": "Alcances",
     "keywords": [
       "alcance",
       "solución",
-      "procedimiento",
       "alta",
       "contribuyentes",
-      "informar"
-    ]
+      "procedimiento",
+      "datos",
+      "necesarios"
+    ],
+    "faq_id": "A-20-02-22-02-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de la solución para el problema de alta de contribuyentes? Respuesta: El alcance es informar el procedimiento correcto para el alta de los contribuyentes, asegurando que se completen todos los datos necesarios."
   },
   {
     "q": "¿Qué recurso se utiliza para resolver el problema de alta de contribuyentes?",
-    "a": "Se utiliza el recurso MAX para orientar al cliente en el alta de contribuyentes.",
+    "a": "Se utiliza el recurso MAX para orientar al cliente en el proceso de alta de contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Recursos",
     "keywords": [
       "recurso",
       "max",
-      "orientación",
       "alta",
       "contribuyentes",
+      "orientación",
       "soporte"
-    ]
+    ],
+    "faq_id": "A-20-02-22-02-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se utiliza para resolver el problema de alta de contribuyentes? Respuesta: Se utiliza el recurso MAX para orientar al cliente en el proceso de alta de contribuyentes."
   }
 ]

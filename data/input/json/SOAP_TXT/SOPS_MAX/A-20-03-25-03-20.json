@@ -1,39 +1,62 @@
 [
   {
-    "q": "¿Qué se necesita para leer XML externos en MiAdminXML?",
+    "q": "¿Qué se necesita para resolver problemas relacionados con la lectura de XML externos en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "xml",
       "externos",
       "lectura",
       "licencia",
       "profesional",
-      "periodo",
-      "demostrativo",
-      "requisitos",
-      "soporte"
-    ]
+      "periodo demostrativo",
+      "soporte",
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-25-03-20_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para resolver problemas relacionados con la lectura de XML externos en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué tipo de soporte se ofrece para leer XML externos en MiAdminXML?",
-    "a": "El soporte es de tipo Soporte Temprano (ST) y está clasificado como Nivel 1 - Temprano.",
+    "q": "¿Qué tipo de soporte se ofrece para problemas con la lectura de XML externos en MiAdminXML?",
+    "a": "El soporte es de tipo Temprano (ST) y se clasifica como Nivel 1, lo que indica que es un soporte básico y temprano para resolver el problema.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
       "temprano",
       "nivel 1",
       "xml",
       "externos",
+      "lectura",
       "tipo",
-      "clasificación",
-      "ayuda"
-    ]
+      "clasificación"
+    ],
+    "faq_id": "A-20-03-25-03-20_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de soporte se ofrece para problemas con la lectura de XML externos en MiAdminXML? Respuesta: El soporte es de tipo Temprano (ST) y se clasifica como Nivel 1, lo que indica que es un soporte básico y temprano para resolver el problema."
   },
   {
-    "q": "¿Qué versión del documento describe la situación de leer XML externos en MiAdminXML?",
-    "a": "La versión del documento es 09.09.2020.04, con fecha de revisión 09.09.2020.",
+    "q": "¿Cuál es el alcance del soporte para la lectura de XML externos en MiAdminXML?",
+    "a": "El texto no especifica un alcance detallado para el soporte de lectura de XML externos en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "alcance",
+      "soporte",
+      "xml",
+      "externos",
+      "lectura",
+      "detalles",
+      "especificación"
+    ],
+    "faq_id": "A-20-03-25-03-20_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance del soporte para la lectura de XML externos en MiAdminXML? Respuesta: El texto no especifica un alcance detallado para el soporte de lectura de XML externos en MiAdminXML."
+  },
+  {
+    "q": "¿Qué versión del documento describe la situación de lectura de XML externos en MiAdminXML?",
+    "a": "La versión del documento es 09.09.2020.04, con revisión realizada el 09.09.2020.",
+    "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "versión",
       "documento",
@@ -41,22 +64,9 @@
       "fecha",
       "xml",
       "externos",
-      "detalles",
-      "actualización"
-    ]
-  },
-  {
-    "q": "¿Qué recurso se utiliza para leer XML externos según el documento?",
-    "a": "El recurso utilizado es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recurso",
-      "xml",
-      "externos",
-      "miadminxml",
-      "herramienta",
-      "solución",
       "lectura"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-20_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión del documento describe la situación de lectura de XML externos en MiAdminXML? Respuesta: La versión del documento es 09.09.2020.04, con revisión realizada el 09.09.2020."
   }
 ]

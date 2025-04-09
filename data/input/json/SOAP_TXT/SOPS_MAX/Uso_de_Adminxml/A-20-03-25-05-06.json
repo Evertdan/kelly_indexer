@@ -3,20 +3,24 @@
     "q": "¿Qué es el módulo de código agrupador en MiAdminXML?",
     "a": "Es un catálogo de códigos agrupador del SAT que permite buscar y agregar los que no se encuentren en el listado para validar correctamente los XML.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "módulo",
       "código agrupador",
       "sat",
       "catálogo",
-      "validar",
+      "validación",
       "xml",
-      "listado"
-    ]
+      "módulo",
+      "funcionalidad"
+    ],
+    "faq_id": "A-20-03-25-05-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el módulo de código agrupador en MiAdminXML? Respuesta: Es un catálogo de códigos agrupador del SAT que permite buscar y agregar los que no se encuentren en el listado para validar correctamente los XML."
   },
   {
     "q": "¿Qué se necesita para utilizar el módulo de código agrupador en MiAdminXML?",
-    "a": "Se requiere contar con una licencia de MiAdminXML o estar en periodo demostrativo.",
+    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -24,20 +28,25 @@
       "acceso",
       "módulo",
       "código agrupador"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de código agrupador en MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Qué función tiene el módulo de código agrupador en MiAdminXML?",
-    "a": "Permite buscar y agregar códigos agrupador del SAT que no se encuentren en el listado para validar correctamente los XML.",
+    "a": "Permite buscar y agregar códigos agrupador del SAT que no estén en el listado, para validar correctamente los XML.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "función",
       "código agrupador",
       "sat",
-      "buscar",
+      "validación",
+      "xml",
       "agregar",
-      "validar",
-      "xml"
-    ]
+      "buscar"
+    ],
+    "faq_id": "A-20-03-25-05-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene el módulo de código agrupador en MiAdminXML? Respuesta: Permite buscar y agregar códigos agrupador del SAT que no estén en el listado, para validar correctamente los XML."
   }
 ]

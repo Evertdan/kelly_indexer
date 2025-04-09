@@ -1,161 +1,154 @@
 [
   {
-    "q": "¿Qué tipo de incidencia es cuando un cliente no puede activar su clave de licencia en MiAdminXML?",
-    "a": "Es un INC-02, nivel 2 – Medio.",
+    "q": "¿Qué error puede aparecer cuando un cliente no puede activar su clave de licencia en MiAdminXML?",
+    "a": "El sistema no reconoce los componentes (NONE) o no puede activar la licencia a pesar de tener los mismos componentes físicos.",
     "product": "MiAdminXML",
-    "keywords": [
-      "incidencia",
-      "tipo",
-      "nivel",
-      "activación",
-      "licencia",
-      "error",
-      "cliente"
-    ]
-  },
-  {
-    "q": "¿Qué recursos necesita un cliente para activar su licencia en MiAdminXML?",
-    "a": "El cliente debe contar con una clave de licencia de MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recursos",
-      "clave",
-      "licencia",
-      "activación",
-      "requisitos",
-      "necesario"
-    ]
-  },
-  {
-    "q": "¿Qué políticas se deben cumplir para activar una licencia en MiAdminXML?",
-    "a": "Se debe contar con una licencia MiAdminXML vigente, tener MiAdminXML actualizado y permisos de Administrador.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "políticas",
-      "licencia",
-      "vigente",
-      "actualizado",
-      "permisos",
-      "administrador",
-      "requisitos"
-    ]
-  },
-  {
-    "q": "¿Qué error puede aparecer cuando un cliente no puede activar su licencia en MiAdminXML?",
-    "a": "Puede aparecer un error donde el sistema no reconoce los componentes (NONE) o no puede activar la licencia a pesar de tener los mismos componentes físicos.",
-    "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "error",
       "activación",
       "licencia",
       "componentes",
-      "none",
+      "nuevo",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-21-07-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error puede aparecer cuando un cliente no puede activar su clave de licencia en MiAdminXML? Respuesta: El sistema no reconoce los componentes (NONE) o no puede activar la licencia a pesar de tener los mismos componentes físicos."
   },
   {
-    "q": "¿Cuál es el primer paso para restaurar una clave de licencia en MiAdminXML?",
-    "a": "Se le pide al cliente que proporcione los últimos 5 caracteres de su clave de licencia y se verifica el estado de la licencia en el SACC.",
+    "q": "¿Qué requisitos son necesarios para restaurar una licencia en MiAdminXML?",
+    "a": "Contar con una licencia MiAdminXML vigente, tener el software actualizado y permisos de administrador.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
+    "keywords": [
+      "requisitos",
+      "licencia",
+      "vigente",
+      "actualizado",
+      "permisos",
+      "administrador"
+    ],
+    "faq_id": "A-20-02-21-07-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos son necesarios para restaurar una licencia en MiAdminXML? Respuesta: Contar con una licencia MiAdminXML vigente, tener el software actualizado y permisos de administrador."
+  },
+  {
+    "q": "¿Cuál es el primer paso para restaurar una licencia en MiAdminXML?",
+    "a": "El cliente debe proporcionar los últimos 5 caracteres de su clave de licencia para verificar su estado en el SACC.",
+    "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "primer paso",
-      "restaurar",
-      "licencia",
+      "restauración",
       "clave",
       "verificación",
       "sacc"
-    ]
+    ],
+    "faq_id": "A-20-02-21-07-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el primer paso para restaurar una licencia en MiAdminXML? Respuesta: El cliente debe proporcionar los últimos 5 caracteres de su clave de licencia para verificar su estado en el SACC."
   },
   {
-    "q": "¿Qué debe hacer un cliente para restaurar su clave de licencia en MiAdminXML después de verificar su información?",
-    "a": "Debe llenar un Primer Oficio de Aclaración.",
+    "q": "¿Qué documento debe llenar el cliente para restaurar su licencia en MiAdminXML?",
+    "a": "El cliente debe llenar un Primer Oficio de Aclaración.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "restaurar",
-      "licencia",
+      "documento",
       "oficio",
       "aclaración",
-      "paso",
+      "llenar",
       "proceso"
-    ]
+    ],
+    "faq_id": "A-20-02-21-07-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué documento debe llenar el cliente para restaurar su licencia en MiAdminXML? Respuesta: El cliente debe llenar un Primer Oficio de Aclaración."
   },
   {
-    "q": "¿Cuánto tiempo tiene un cliente para enviar su información después de llenar el Primer Oficio de Aclaración?",
-    "a": "El cliente cuenta con 72 horas para enviar su información.",
+    "q": "¿Cuánto tiempo tiene el cliente para enviar la información requerida para restaurar su licencia?",
+    "a": "El cliente cuenta con 72 horas para enviar su información después de llenar el oficio.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "tiempo",
+      "72 horas",
+      "información",
       "enviar",
-      "información",
-      "oficio",
-      "aclaración",
-      "horas",
       "plazo"
-    ]
+    ],
+    "faq_id": "A-20-02-21-07-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tiene el cliente para enviar la información requerida para restaurar su licencia? Respuesta: El cliente cuenta con 72 horas para enviar su información después de llenar el oficio."
   },
   {
-    "q": "¿Qué sucede si el cliente no envía su información dentro de las 72 horas?",
-    "a": "Si no envía la información en este lapso de tiempo, debe comunicarse para comenzar nuevamente con el proceso.",
+    "q": "¿Qué sucede si el cliente no envía la información requerida en el plazo de 72 horas?",
+    "a": "Si no envía la información en este lapso, debe comunicarse para comenzar nuevamente con el proceso.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "tiempo",
-      "información",
       "plazo",
-      "comunicar",
+      "72 horas",
       "reiniciar",
-      "proceso"
-    ]
+      "proceso",
+      "comunicación"
+    ],
+    "faq_id": "A-20-02-21-07-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si el cliente no envía la información requerida en el plazo de 72 horas? Respuesta: Si no envía la información en este lapso, debe comunicarse para comenzar nuevamente con el proceso."
   },
   {
-    "q": "¿Qué hace el agente de Mesa de Servicio una vez recibida la información del cliente?",
-    "a": "Valida que la información sea correcta y, de ser así, procede a la reactivación de la licencia.",
+    "q": "¿Quién valida la información enviada por el cliente para restaurar la licencia?",
+    "a": "El agente de Mesa de Servicio valida que la información sea correcta antes de proceder a la reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
+      "validación",
       "agente",
       "mesa de servicio",
-      "validación",
       "información",
-      "reactivación",
-      "licencia"
-    ]
+      "correcta"
+    ],
+    "faq_id": "A-20-02-21-07-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Quién valida la información enviada por el cliente para restaurar la licencia? Respuesta: El agente de Mesa de Servicio valida que la información sea correcta antes de proceder a la reactivación."
   },
   {
-    "q": "¿Cómo se solicita la reactivación de una licencia en MiAdminXML?",
+    "q": "¿Qué áreas pueden realizar el proceso de restauración de licencia en MiAdminXML?",
+    "a": "Cualquier área ST o ATC puede realizar el proceso de restauración de licencia.",
+    "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
+    "keywords": [
+      "áreas",
+      "st",
+      "atc",
+      "proceso",
+      "restauración"
+    ],
+    "faq_id": "A-20-02-21-07-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué áreas pueden realizar el proceso de restauración de licencia en MiAdminXML? Respuesta: Cualquier área ST o ATC puede realizar el proceso de restauración de licencia."
+  },
+  {
+    "q": "¿Cómo se solicita la reactivación de la licencia a través del BOT?",
     "a": "Se ingresa al BOT con un comando específico para solicitar la reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "solicitar",
-      "reactivación",
-      "licencia",
       "bot",
       "comando",
-      "proceso"
-    ]
-  },
-  {
-    "q": "¿Qué área acepta la reactivación de la licencia en MiAdminXML?",
-    "a": "El área de operaciones acepta la reactivación de la licencia.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "área",
-      "operaciones",
-      "aceptar",
+      "solicitud",
       "reactivación",
       "licencia"
-    ]
+    ],
+    "faq_id": "A-20-02-21-07-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se solicita la reactivación de la licencia a través del BOT? Respuesta: Se ingresa al BOT con un comando específico para solicitar la reactivación."
   },
   {
-    "q": "¿Cómo se le notifica al cliente que su licencia ha sido reactivada?",
-    "a": "Se le avisa al cliente por correo electrónico que ya puede volver a activar su licencia en el módulo de “Licenciamiento”.",
+    "q": "¿Cómo se notifica al cliente una vez reactivada la licencia?",
+    "a": "Se le avisa al cliente por correo electrónico que ya puede volver a activar su licencia en el módulo de 'Licenciamiento'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "notificación",
       "correo",
       "electrónico",
-      "reactivación",
-      "licencia",
-      "módulo",
-      "licenciamiento"
-    ]
+      "activación",
+      "módulo"
+    ],
+    "faq_id": "A-20-02-21-07-01_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se notifica al cliente una vez reactivada la licencia? Respuesta: Se le avisa al cliente por correo electrónico que ya puede volver a activar su licencia en el módulo de 'Licenciamiento'."
   }
 ]

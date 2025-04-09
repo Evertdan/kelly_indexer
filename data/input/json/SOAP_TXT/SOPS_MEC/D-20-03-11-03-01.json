@@ -1,98 +1,123 @@
 [
   {
     "q": "¿Cómo se agrega una declaración de forma manual en el módulo de declaraciones?",
-    "a": "Para agregar una declaración manualmente: 1) Ingresar a la pestaña de contribuyentes y seleccionar uno. 2) Hacer clic en 'Declaraciones SAT'. 3) Dentro de 'Declaraciones y pagos', hacer clic en 'Agregar'. 4) Completar los datos generales, detalles de operación y obligaciones. 5) Hacer clic en 'Guardar' y confirmar el mensaje de éxito.",
+    "a": "Para agregar una declaración manualmente, sigue estos pasos: 1) Ingresa a la pestaña de contribuyentes y selecciona uno. 2) Haz clic en 'Declaraciones SAT'. 3) Dentro de 'Declaraciones y pagos', haz clic en 'Agregar'. 4) Completa los datos generales y detalles de la operación. 5) Si incluye línea de captura, registra los datos de pago. 6) Registra los montos pagados de las obligaciones activas. 7) Haz clic en 'Guardar' y confirma con 'Aceptar'.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Agregar Declaración",
     "keywords": [
-      "declaraciones",
-      "agregar",
+      "declaración",
       "manual",
+      "agregar",
       "pasos",
-      "contribuyentes",
+      "contribuyente",
       "sat",
-      "guardar"
-    ]
+      "guardar",
+      "datos"
+    ],
+    "faq_id": "D-20-03-11-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se agrega una declaración de forma manual en el módulo de declaraciones? Respuesta: Para agregar una declaración manualmente, sigue estos pasos: 1) Ingresa a la pestaña de contribuyentes y selecciona uno. 2) Haz clic en 'Declaraciones SAT'. 3) Dentro de 'Declaraciones y pagos', haz clic en 'Agregar'. 4) Completa los datos generales y detalles de la operación. 5) Si incluye línea de captura, registra los datos de pago. 6) Registra los montos pagados de las obligaciones activas. 7) Haz clic en 'Guardar' y confirma con 'Aceptar'."
   },
   {
-    "q": "¿Cómo se importan declaraciones SAT desde archivos PDF?",
-    "a": "Para importar declaraciones desde PDF: 1) Seleccionar un contribuyente y entrar a 'Declaraciones SAT'. 2) Hacer clic en 'Agregar desde PDF'. 3) Elegir entre importación individual (un PDF) o masiva (carpeta con múltiples PDFs). 4) Hacer clic en 'Cargar datos' y esperar el mensaje de confirmación.",
+    "q": "¿Cómo se pueden agregar declaraciones SAT desde un PDF?",
+    "a": "Para agregar declaraciones desde un PDF: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Agregar desde PDF'. 3) Elige el tipo de importación (individual o masiva). 4) Selecciona el archivo o carpeta con los PDF. 5) Haz clic en 'Cargar datos' y confirma el mensaje de éxito.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Importar Declaración",
     "keywords": [
-      "importar",
-      "declaraciones",
+      "declaración",
       "pdf",
+      "importar",
       "masiva",
       "individual",
       "cargar",
+      "datos",
       "sat"
-    ]
+    ],
+    "faq_id": "D-20-03-11-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se pueden agregar declaraciones SAT desde un PDF? Respuesta: Para agregar declaraciones desde un PDF: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Agregar desde PDF'. 3) Elige el tipo de importación (individual o masiva). 4) Selecciona el archivo o carpeta con los PDF. 5) Haz clic en 'Cargar datos' y confirma el mensaje de éxito."
   },
   {
-    "q": "¿Qué pasos seguir para editar una declaración existente?",
-    "a": "Para editar una declaración: 1) Seleccionar el contribuyente y entrar a 'Declaraciones SAT'. 2) Elegir la declaración del listado y hacer clic en 'Actualizar'. 3) Modificar los datos necesarios. 4) Hacer clic en 'Guardar' y confirmar el mensaje de actualización exitosa.",
+    "q": "¿Qué pasos se deben seguir para editar una declaración existente?",
+    "a": "Para editar una declaración: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Elige la declaración de la lista y haz clic en 'Actualizar'. 3) Realiza los cambios necesarios en la ventana de edición. 4) Haz clic en 'Guardar' y confirma el mensaje de actualización exitosa.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Editar Declaración",
     "keywords": [
       "editar",
       "declaración",
       "actualizar",
-      "modificar",
+      "cambios",
       "guardar",
-      "contribuyente"
-    ]
+      "contribuyente",
+      "sat"
+    ],
+    "faq_id": "D-20-03-11-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para editar una declaración existente? Respuesta: Para editar una declaración: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Elige la declaración de la lista y haz clic en 'Actualizar'. 3) Realiza los cambios necesarios en la ventana de edición. 4) Haz clic en 'Guardar' y confirma el mensaje de actualización exitosa."
   },
   {
-    "q": "¿Cómo eliminar una declaración en el sistema?",
-    "a": "Para eliminar una declaración: 1) Seleccionar el contribuyente y acceder a 'Declaraciones SAT'. 2) Elegir la declaración del listado. 3) Hacer clic en 'Eliminar'. 4) Confirmar la acción en el mensaje emergente. 5) Recibir confirmación de eliminación exitosa.",
+    "q": "¿Cómo se elimina una declaración en el módulo?",
+    "a": "Para eliminar una declaración: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Elige la declaración de la lista y haz clic en 'Eliminar'. 3) Confirma la acción en el mensaje emergente. 4) Recibe el mensaje de eliminación exitosa.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Eliminar Declaración",
     "keywords": [
       "eliminar",
       "declaración",
       "confirmar",
-      "listado",
       "contribuyente",
-      "sat"
-    ]
+      "sat",
+      "mensaje"
+    ],
+    "faq_id": "D-20-03-11-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se elimina una declaración en el módulo? Respuesta: Para eliminar una declaración: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Elige la declaración de la lista y haz clic en 'Eliminar'. 3) Confirma la acción en el mensaje emergente. 4) Recibe el mensaje de eliminación exitosa."
   },
   {
-    "q": "¿Cómo generar un reporte personalizado de declaraciones?",
-    "a": "Para generar un reporte personalizado: 1) Seleccionar contribuyente y entrar a 'Declaraciones SAT'. 2) Hacer clic en 'Columnas visibles' para elegir qué datos mostrar. 3) Aplicar filtros si es necesario. 4) Hacer clic en 'Exportar' para guardar en Excel y confirmar la ubicación.",
+    "q": "¿Cómo se genera un reporte personalizado de declaraciones?",
+    "a": "Para generar un reporte personalizado: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Columnas visibles' para elegir qué columnas mostrar. 3) Filtra la información con la barra de búsqueda si es necesario. 4) Exporta a Excel con 'Exportar', elige la ubicación y guarda. 5) Confirma el mensaje de exportación exitosa.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Reportes",
     "keywords": [
       "reporte",
       "personalizado",
-      "columnas",
       "exportar",
       "excel",
-      "filtros",
-      "declaraciones"
-    ]
+      "columnas",
+      "filtro",
+      "contribuyente",
+      "sat"
+    ],
+    "faq_id": "D-20-03-11-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera un reporte personalizado de declaraciones? Respuesta: Para generar un reporte personalizado: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Columnas visibles' para elegir qué columnas mostrar. 3) Filtra la información con la barra de búsqueda si es necesario. 4) Exporta a Excel con 'Exportar', elige la ubicación y guarda. 5) Confirma el mensaje de exportación exitosa."
   },
   {
-    "q": "¿Cómo crear un reporte concentrado por ejercicio de declaraciones mensuales?",
-    "a": "Para crear un concentrado: 1) Seleccionar contribuyente y acceder a 'Declaraciones SAT'. 2) Hacer clic en 'Crear concentrado'. 3) Seleccionar el ejercicio deseado. 4) Elegir carpeta de destino. 5) Confirmar la exportación exitosa y abrir el archivo Excel generado.",
+    "q": "¿Cómo se crea un reporte concentrado por ejercicio de declaraciones mensuales SAT?",
+    "a": "Para crear un reporte concentrado: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Crear concentrado'. 3) Elige el ejercicio deseado y haz clic en 'Crear'. 4) Selecciona la carpeta de destino. 5) Confirma el mensaje de exportación exitosa y abre el archivo Excel generado.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Reportes",
     "keywords": [
       "reporte",
       "concentrado",
       "ejercicio",
       "exportar",
       "excel",
-      "declaraciones",
-      "mensuales"
-    ]
+      "contribuyente",
+      "sat"
+    ],
+    "faq_id": "D-20-03-11-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se crea un reporte concentrado por ejercicio de declaraciones mensuales SAT? Respuesta: Para crear un reporte concentrado: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Crear concentrado'. 3) Elige el ejercicio deseado y haz clic en 'Crear'. 4) Selecciona la carpeta de destino. 5) Confirma el mensaje de exportación exitosa y abre el archivo Excel generado."
   },
   {
-    "q": "¿Cómo validar número de operación y línea de captura de declaraciones SAT?",
-    "a": "Para validar: 1) Seleccionar contribuyente y entrar a 'Declaraciones SAT'. 2) Hacer clic en 'Validar'. 3) Seleccionar tipo de declaración (mensual/anual) e ingresar datos de inicio de sesión, ejercicio y datos a validar. 4) Hacer clic en 'Validar' y revisar resultados en las columnas 'Estado validación' y 'Observaciones'.",
+    "q": "¿Cómo se valida el número de operación y línea de captura de las declaraciones SAT?",
+    "a": "Para validar: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Validar'. 3) Elige el tipo de declaración (mensual/anual) e ingresa los datos de inicio de sesión, ejercicio y datos a validar (número de operación o línea de captura). 4) Haz clic en 'Validar' y revisa los resultados en las columnas 'Estado validación' y 'Observaciones'.",
     "product": "Módulo de Declaraciones",
+    "categoria": "Validación",
     "keywords": [
       "validar",
-      "número de operación",
-      "línea de captura",
-      "declaraciones",
+      "número operación",
+      "línea captura",
+      "declaración",
       "sat",
       "resultados",
       "estado"
-    ]
+    ],
+    "faq_id": "D-20-03-11-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida el número de operación y línea de captura de las declaraciones SAT? Respuesta: Para validar: 1) Selecciona un contribuyente y entra a 'Declaraciones SAT'. 2) Haz clic en 'Validar'. 3) Elige el tipo de declaración (mensual/anual) e ingresa los datos de inicio de sesión, ejercicio y datos a validar (número de operación o línea de captura). 4) Haz clic en 'Validar' y revisa los resultados en las columnas 'Estado validación' y 'Observaciones'."
   }
 ]

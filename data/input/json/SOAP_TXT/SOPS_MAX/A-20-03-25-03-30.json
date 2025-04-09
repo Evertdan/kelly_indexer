@@ -1,61 +1,76 @@
 [
   {
-    "q": "¿Qué tipo de operación se puede modificar con la herramienta en MiAdminXML?",
-    "a": "La herramienta de tipo de operación se utiliza para modificar dependiendo las prestaciones de servicio, arrendamiento u otros.",
+    "q": "¿Qué tipo de operación se puede modificar con la herramienta descrita en el texto?",
+    "a": "La herramienta permite modificar el tipo de operación dependiendo de las prestaciones de servicio, arrendamiento u otros.",
     "product": "MiAdminXML",
+    "categoria": "Operaciones",
     "keywords": [
       "tipo de operación",
       "modificar",
       "prestaciones de servicio",
       "arrendamiento",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-30_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de operación se puede modificar con la herramienta descrita en el texto? Respuesta: La herramienta permite modificar el tipo de operación dependiendo de las prestaciones de servicio, arrendamiento u otros."
   },
   {
-    "q": "¿Qué versión del documento se está revisando?",
-    "a": "La versión del documento es 09.09.2020.04.",
-    "product": "General",
-    "keywords": [
-      "versión",
-      "documento",
-      "revisión",
-      "09.09.2020.04"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de soporte se menciona en el documento?",
-    "a": "El nivel de soporte mencionado es Nivel 1 - Temprano.",
-    "product": "General",
-    "keywords": [
-      "nivel de soporte",
-      "temprano",
-      "nivel 1",
-      "soporte"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para solucionar problemas en MiAdminXML según las políticas?",
-    "a": "Se debe contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué requisitos se necesitan para utilizar la herramienta de tipo de operación en MiAdminXML?",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "profesional",
       "periodo demostrativo",
-      "solucionar problemas",
       "correo electrónico"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-30_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para utilizar la herramienta de tipo de operación en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Para qué se utiliza la herramienta de tipo de operación en MiAdminXML?",
-    "a": "La herramienta de tipo de operación se utiliza para que al generar la DIOT puedan aparecer con el tipo de operación que pertenecen.",
+    "a": "La herramienta se utiliza para que al generar la DIOT, los tipos de operación aparezcan correctamente según corresponda (prestaciones de servicio, arrendamiento u otros).",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "herramienta",
       "tipo de operación",
-      "DIOT",
-      "generar",
-      "pertenecen"
-    ]
+      "diot",
+      "prestaciones de servicio",
+      "arrendamiento",
+      "generar"
+    ],
+    "faq_id": "A-20-03-25-03-30_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Para qué se utiliza la herramienta de tipo de operación en MiAdminXML? Respuesta: La herramienta se utiliza para que al generar la DIOT, los tipos de operación aparezcan correctamente según corresponda (prestaciones de servicio, arrendamiento u otros)."
+  },
+  {
+    "q": "¿Qué nivel de soporte se aplica a la herramienta de tipo de operación en MiAdminXML?",
+    "a": "El nivel de soporte aplicado es Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "nivel de soporte",
+      "nivel 1",
+      "temprano",
+      "soporte técnico"
+    ],
+    "faq_id": "A-20-03-25-03-30_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte se aplica a la herramienta de tipo de operación en MiAdminXML? Respuesta: El nivel de soporte aplicado es Nivel 1 - Temprano."
+  },
+  {
+    "q": "¿Qué versión del documento describe la herramienta de tipo de operación en MiAdminXML?",
+    "a": "La versión del documento es 09.09.2020.04.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "versión",
+      "documento",
+      "09.09.2020.04",
+      "fecha"
+    ],
+    "faq_id": "A-20-03-25-03-30_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión del documento describe la herramienta de tipo de operación en MiAdminXML? Respuesta: La versión del documento es 09.09.2020.04."
   }
 ]

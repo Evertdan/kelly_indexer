@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué se necesita para generar un reporte DIOT en MiAdminXML?",
+    "q": "¿Qué se necesita para generar el reporte DIOT en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
       "diot",
       "reporte",
@@ -11,44 +12,42 @@
       "periodo demostrativo",
       "requisitos",
       "generar"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-25_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar el reporte DIOT en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Cómo se genera el reporte DIOT en MiAdminXML?",
-    "a": "Una vez que el reporte está correctamente configurado, se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte.",
+    "a": "Cuando el reporte está correctamente configurado, se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
       "diot",
       "generar",
       "herramienta",
       "reporte",
+      "configuración",
       "sistema",
-      "configuración"
-    ]
+      "seleccionar"
+    ],
+    "faq_id": "A-20-03-25-03-25_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera el reporte DIOT en MiAdminXML? Respuesta: Cuando el reporte está correctamente configurado, se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte DIOT."
   },
   {
-    "q": "¿Qué tipo de soporte se ofrece para la generación de DIOT en MiAdminXML?",
-    "a": "El soporte para la generación de DIOT es de tipo Soporte Temprano (ST) y está clasificado como Nivel 1 - Temprano.",
+    "q": "¿Qué opciones hay si no tengo la licencia MiAdminXML Profesional para generar el DIOT?",
+    "a": "Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
+      "licencia",
+      "profesional",
+      "periodo demostrativo",
       "diot",
       "soporte",
-      "temprano",
-      "nivel 1",
-      "tipo",
-      "clasificación"
-    ]
-  },
-  {
-    "q": "¿Qué recurso se utiliza para generar el reporte DIOT?",
-    "a": "El recurso utilizado para generar el reporte DIOT es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "diot",
-      "recurso",
-      "miadminxml",
-      "generar",
-      "reporte"
-    ]
+      "correo electrónico",
+      "alternativas"
+    ],
+    "faq_id": "A-20-03-25-03-25_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones hay si no tengo la licencia MiAdminXML Profesional para generar el DIOT? Respuesta: Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico."
   }
 ]

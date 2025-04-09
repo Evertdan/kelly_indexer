@@ -1,99 +1,96 @@
 [
   {
     "q": "¿Cómo descargar e instalar MiAdminXML?",
-    "a": "Primero ingresar a la página www.adminxml.com y llenar los campos de Nombre, Apellido, correo electrónico, ingresar al correo electrónico para dar clic derecho sobre el instalador y seleccionar Abrir, o solo de doble clic sobre el instalador. Luego seleccionar la opción Ejecutar, aceptar el acuerdo, seguir los pasos indicados para la instalación y finalmente abrir MiAdminXML desde el icono creado en el escritorio.",
+    "a": "Para descargar e instalar MiAdminXML, primero ingresa a www.adminxml.com, llena los campos de Nombre, Apellido y correo electrónico. Luego, ingresa al correo electrónico para dar clic derecho sobre el instalador y seleccionar Abrir, o doble clic sobre el instalador. Selecciona la opción Ejecutar, acepta el acuerdo, sigue los pasos indicados y finalmente abre MiAdminXML desde el icono creado en el escritorio.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
       "descargar",
       "instalar",
       "miadminxml",
       "pasos",
-      "instalador"
-    ]
+      "instalador",
+      "proceso",
+      "web"
+    ],
+    "faq_id": "A-20-03-23-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo descargar e instalar MiAdminXML? Respuesta: Para descargar e instalar MiAdminXML, primero ingresa a www.adminxml.com, llena los campos de Nombre, Apellido y correo electrónico. Luego, ingresa al correo electrónico para dar clic derecho sobre el instalador y seleccionar Abrir, o doble clic sobre el instalador. Selecciona la opción Ejecutar, acepta el acuerdo, sigue los pasos indicados y finalmente abre MiAdminXML desde el icono creado en el escritorio."
   },
   {
-    "q": "¿Qué se necesita para instalar MiAdminXML?",
-    "a": "Contar con el instalador actualizado a la última versión.",
+    "q": "¿Qué información se necesita para descargar MiAdminXML?",
+    "a": "Para descargar MiAdminXML se requiere ingresar Nombre, Apellido y correo electrónico en la página www.adminxml.com.",
     "product": "MiAdminXML",
+    "categoria": "Descarga",
     "keywords": [
       "requisitos",
-      "instalación",
-      "miadminxml",
-      "instalador",
-      "versión"
-    ]
-  },
-  {
-    "q": "¿Dónde puedo descargar MiAdminXML?",
-    "a": "Se puede descargar ingresando a la página www.adminxml.com.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "descargar",
-      "miadminxml",
-      "página",
-      "web",
-      "adminxml"
-    ]
-  },
-  {
-    "q": "¿Qué información debo proporcionar para descargar MiAdminXML?",
-    "a": "Debes llenar los campos de Nombre, Apellido y correo electrónico en la página de descarga.",
-    "product": "MiAdminXML",
-    "keywords": [
       "información",
       "descarga",
       "miadminxml",
-      "nombre",
-      "apellido",
-      "correo"
-    ]
+      "datos",
+      "web"
+    ],
+    "faq_id": "A-20-03-23-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita para descargar MiAdminXML? Respuesta: Para descargar MiAdminXML se requiere ingresar Nombre, Apellido y correo electrónico en la página www.adminxml.com."
   },
   {
-    "q": "¿Cómo abro el instalador de MiAdminXML después de descargarlo?",
-    "a": "Puedes dar clic derecho sobre el instalador y seleccionar Abrir, o hacer doble clic sobre el instalador.",
+    "q": "¿Qué versión del instalador se necesita para MiAdminXML?",
+    "a": "Se debe contar con el instalador actualizado a la última versión para MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
+    "keywords": [
+      "versión",
+      "instalador",
+      "actualizado",
+      "requisitos",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión del instalador se necesita para MiAdminXML? Respuesta: Se debe contar con el instalador actualizado a la última versión para MiAdminXML."
+  },
+  {
+    "q": "¿Cómo abrir el instalador de MiAdminXML después de descargarlo?",
+    "a": "Después de descargar el instalador de MiAdminXML, se debe ingresar al correo electrónico para dar clic derecho sobre el instalador y seleccionar Abrir, o dar doble clic sobre el instalador.",
+    "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
       "abrir",
       "instalador",
-      "miadminxml",
-      "clic",
-      "doble clic"
-    ]
+      "descarga",
+      "correo",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo abrir el instalador de MiAdminXML después de descargarlo? Respuesta: Después de descargar el instalador de MiAdminXML, se debe ingresar al correo electrónico para dar clic derecho sobre el instalador y seleccionar Abrir, o dar doble clic sobre el instalador."
   },
   {
-    "q": "¿Qué opción debo seleccionar al iniciar el instalador de MiAdminXML?",
-    "a": "Debes seleccionar la opción Ejecutar.",
+    "q": "¿Qué pasos seguir después de abrir el instalador de MiAdminXML?",
+    "a": "Después de abrir el instalador de MiAdminXML, se debe seleccionar la opción Ejecutar, aceptar el acuerdo, seguir los pasos indicados y finalmente abrir MiAdminXML desde el icono creado en el escritorio.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "instalador",
+      "pasos",
+      "instalación",
       "ejecutar",
-      "miadminxml",
-      "opción",
-      "inicio"
-    ]
+      "acuerdo",
+      "escritorio",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir después de abrir el instalador de MiAdminXML? Respuesta: Después de abrir el instalador de MiAdminXML, se debe seleccionar la opción Ejecutar, aceptar el acuerdo, seguir los pasos indicados y finalmente abrir MiAdminXML desde el icono creado en el escritorio."
   },
   {
     "q": "¿Dónde se crea el acceso directo de MiAdminXML después de la instalación?",
-    "a": "Se crea un acceso directo en el Escritorio, lo cual es recomendado.",
+    "a": "Después de la instalación de MiAdminXML, se crea un acceso directo en el Escritorio (Recomendado).",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "acceso directo",
+      "acceso",
+      "directo",
       "escritorio",
-      "miadminxml",
       "instalación",
-      "recomendado"
-    ]
-  },
-  {
-    "q": "¿Cómo puedo abrir MiAdminXML después de la instalación?",
-    "a": "Puedes abrir MiAdminXML desde el icono creado en el escritorio.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "abrir",
-      "miadminxml",
-      "icono",
-      "escritorio",
-      "después de instalar"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se crea el acceso directo de MiAdminXML después de la instalación? Respuesta: Después de la instalación de MiAdminXML, se crea un acceso directo en el Escritorio (Recomendado)."
   }
 ]

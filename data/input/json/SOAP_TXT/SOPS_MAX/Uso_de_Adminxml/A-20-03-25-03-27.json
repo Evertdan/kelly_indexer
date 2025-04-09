@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué es la herramienta reglas en MiAdminXML?",
-    "a": "La herramienta reglas en MiAdminXML se refiere a los criterios para la generación de DIOT, la cual se encuentra en el menú de herramientas del módulo de Generación de DIOT.",
+    "a": "La herramienta reglas en MiAdminXML se refiere a los criterios para la generación de DIOT, la cual se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
       "herramienta",
       "reglas",
@@ -11,62 +12,71 @@
       "criterios",
       "menú",
       "módulo"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-27_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta reglas en MiAdminXML? Respuesta: La herramienta reglas en MiAdminXML se refiere a los criterios para la generación de DIOT, la cual se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT."
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta reglas en MiAdminXML?",
+    "a": "La herramienta reglas se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT en MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
+    "keywords": [
+      "ubicación",
+      "herramienta",
+      "reglas",
+      "menú",
+      "diot",
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-03-27_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la herramienta reglas en MiAdminXML? Respuesta: La herramienta reglas se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT en MiAdminXML."
   },
   {
     "q": "¿Qué se necesita para usar la herramienta reglas en MiAdminXML?",
-    "a": "Para usar la herramienta reglas en MiAdminXML, es necesario contar con una licencia MiAdminXML o estar en periodo demostrativo.",
+    "a": "Para usar la herramienta reglas en MiAdminXML, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "herramienta",
-      "reglas",
-      "acceso"
-    ]
-  },
-  {
-    "q": "¿Cómo se accede a la herramienta reglas en MiAdminXML?",
-    "a": "La herramienta reglas se encuentra en el menú de herramientas dentro del módulo de Generación de DIOT en MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "acceso",
-      "herramienta",
-      "reglas",
-      "menú",
-      "herramientas",
-      "módulo",
-      "diot"
-    ]
+      "reglas"
+    ],
+    "faq_id": "A-20-03-25-03-27_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta reglas en MiAdminXML? Respuesta: Para usar la herramienta reglas en MiAdminXML, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Qué parámetros se pueden configurar en la herramienta reglas de MiAdminXML?",
-    "a": "Al seleccionar la herramienta reglas, se abre una ventana que muestra el desglose de los parámetros a configurar para aplicarlos como criterios en la Generación de la carga Batch DIOT.",
+    "a": "Al seleccionar la herramienta reglas, se abre una ventana que presenta el desglose de los parámetros a configurar para aplicarlos como criterios en la Generación de la carga Batch DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
       "parámetros",
       "configuración",
       "herramienta",
       "reglas",
-      "criterios",
-      "carga batch",
       "diot",
-      "ventana"
-    ]
+      "carga batch"
+    ],
+    "faq_id": "A-20-03-25-03-27_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué parámetros se pueden configurar en la herramienta reglas de MiAdminXML? Respuesta: Al seleccionar la herramienta reglas, se abre una ventana que presenta el desglose de los parámetros a configurar para aplicarlos como criterios en la Generación de la carga Batch DIOT."
   },
   {
     "q": "¿Para qué sirve la herramienta reglas en MiAdminXML?",
-    "a": "La herramienta reglas en MiAdminXML sirve para configurar los criterios necesarios en la Generación de la carga Batch DIOT.",
+    "a": "La herramienta reglas en MiAdminXML sirve para configurar los criterios necesarios para la generación de la carga Batch DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
       "función",
       "herramienta",
       "reglas",
-      "criterios",
-      "generación",
+      "diot",
       "carga batch",
-      "diot"
-    ]
+      "criterios"
+    ],
+    "faq_id": "A-20-03-25-03-27_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Para qué sirve la herramienta reglas en MiAdminXML? Respuesta: La herramienta reglas en MiAdminXML sirve para configurar los criterios necesarios para la generación de la carga Batch DIOT."
   }
 ]

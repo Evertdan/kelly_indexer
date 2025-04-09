@@ -1,113 +1,100 @@
 [
   {
     "q": "¿Qué mensaje aparece si intento ingresar a MiAdminXML después de un formateo y la licencia está en uso?",
-    "a": "El mensaje que aparece es 'mi licencia está en uso'.",
+    "a": "Aparece el mensaje 'mi licencia está en uso' cuando intentas ingresar después de un formateo.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
+      "formateo",
       "licencia",
       "en uso",
-      "formateo",
       "mensaje",
-      "error"
-    ]
+      "error",
+      "acceso"
+    ],
+    "faq_id": "A-20-01-20-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece si intento ingresar a MiAdminXML después de un formateo y la licencia está en uso? Respuesta: Aparece el mensaje 'mi licencia está en uso' cuando intentas ingresar después de un formateo."
   },
   {
-    "q": "¿Qué tipo de solución es la restauración de licencia por formateo en MiAdminXML?",
-    "a": "Es una solución tipo SOL-01 con un nivel de dificultad 2 – Medio.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "tipo",
-      "solución",
-      "sol-01",
-      "nivel",
-      "medio"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar la restauración por formateo en MiAdminXML?",
+    "q": "¿Qué requisitos se necesitan para usar la herramienta de Restauración por Formateo en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "requisitos",
+      "restauración",
+      "formateo",
       "licencia",
       "componentes",
-      "no cambiar",
-      "restauración"
-    ]
+      "hardware"
+    ],
+    "faq_id": "A-20-01-20-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta de Restauración por Formateo en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML y no haber cambiado ningún componente como NoSerieHD, Mac o MotherBoard."
   },
   {
-    "q": "¿En qué casos se puede usar la restauración por formateo en MiAdminXML?",
+    "q": "¿En qué casos se puede utilizar la opción de Restauración por Formateo en MiAdminXML?",
     "a": "Se puede usar en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o desactivación de la licencia por alguna incidencia.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "casos",
+      "uso",
+      "restauración",
       "formateo",
-      "actualización",
       "antivirus",
       "archivos cl",
       "desactivación"
-    ]
+    ],
+    "faq_id": "A-20-01-20-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿En qué casos se puede utilizar la opción de Restauración por Formateo en MiAdminXML? Respuesta: Se puede usar en casos de formateo, actualización del sistema operativo, bloqueos por antivirus, daño en archivos CL de las licencias o desactivación de la licencia por alguna incidencia."
   },
   {
-    "q": "¿Cuál es el primer paso para restaurar la licencia por formateo en MiAdminXML?",
-    "a": "El primer paso es seleccionar la herramienta llamada 'Utilidades'.",
+    "q": "¿Cuáles son los pasos para restaurar una licencia por formateo en MiAdminXML?",
+    "a": "Los pasos son: 1) Seleccionar la herramienta 'Utilidades', 2) Elegir 'Restauración por Formateo', 3) Introducir la clave de licencia y verificar el correo electrónico registrado, 4) Hacer clic en continuar y esperar el mensaje de confirmación 'tu licencia fue restaurada correctamente'.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
-      "primer paso",
-      "utilidades",
-      "herramienta",
+      "pasos",
       "restauración",
-      "formateo"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer en el paso 3 de la restauración por formateo en MiAdminXML?",
-    "a": "En el paso 3 se debe introducir la clave de licencia y verificar que el correo electrónico mostrado corresponda al registrado al activar la licencia. Si no coincide, se debe sustituir por el correcto y dar clic en continuar.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "paso 3",
+      "formateo",
+      "utilidades",
       "clave",
-      "licencia",
       "correo",
-      "verificar",
-      "continuar"
-    ]
+      "confirmación"
+    ],
+    "faq_id": "A-20-01-20-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para restaurar una licencia por formateo en MiAdminXML? Respuesta: Los pasos son: 1) Seleccionar la herramienta 'Utilidades', 2) Elegir 'Restauración por Formateo', 3) Introducir la clave de licencia y verificar el correo electrónico registrado, 4) Hacer clic en continuar y esperar el mensaje de confirmación 'tu licencia fue restaurada correctamente'."
   },
   {
-    "q": "¿Qué mensaje aparece cuando la licencia es restaurada correctamente en MiAdminXML?",
-    "a": "Aparece el mensaje 'tu licencia fue restaurada correctamente'.",
+    "q": "¿Qué mensaje aparece si no se puede restaurar la licencia por formateo en MiAdminXML?",
+    "a": "Aparece el mensaje 'No se detectó una licencia preactivada en este equipo', lo que indica que hubo un cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no coincide con el registrado.",
     "product": "MiAdminXML",
-    "keywords": [
-      "mensaje",
-      "restaurada",
-      "correctamente",
-      "éxito",
-      "licencia"
-    ]
-  },
-  {
-    "q": "¿Qué causa el mensaje 'No se detectó una licencia preactivada en este equipo' al intentar restaurar la licencia?",
-    "a": "La causa es que se hizo algún cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no es el vinculado con la licencia.",
-    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "error",
-      "no detectada",
-      "preactivada",
+      "restauración",
+      "licencia",
       "componentes",
       "correo",
-      "vinculado"
-    ]
+      "no detectada"
+    ],
+    "faq_id": "A-20-01-20-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece si no se puede restaurar la licencia por formateo en MiAdminXML? Respuesta: Aparece el mensaje 'No se detectó una licencia preactivada en este equipo', lo que indica que hubo un cambio en componentes como NoSerieHD, Mac, MotherBoard o el correo ingresado no coincide con el registrado."
   },
   {
     "q": "¿Qué se debe hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo'?",
-    "a": "No se podrá usar la herramienta de restauración y se tendrá que enviar un oficio de reactivación.",
+    "a": "En este caso, no se podrá usar la herramienta de restauración y se tendrá que enviar un oficio de reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "solución",
-      "oficio",
+      "error",
       "reactivación",
+      "oficio",
       "no detectada",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-01-20-04-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si aparece el mensaje 'No se detectó una licencia preactivada en este equipo'? Respuesta: En este caso, no se podrá usar la herramienta de restauración y se tendrá que enviar un oficio de reactivación."
   }
 ]

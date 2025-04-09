@@ -1,77 +1,95 @@
 [
   {
     "q": "¿Cuáles son los pasos para registrarse por primera vez en MiAdminXML?",
-    "a": "1. Aceptar los Términos y Condiciones. 2. Llenar los campos de Nombre, Apellidos y Correo electrónico. 3. Contestar dos preguntas. 4. Confirmar el correo electrónico. 5. Buscar y hacer clic en el correo de confirmación. 6. Regresar a MiAdminXML. 7. Validar el correo. 8. Finalizar el registro.",
+    "a": "1. Aceptar los Términos y Condiciones. 2. Llenar los campos de Nombre, Apellidos y Correo electrónico. 3. Contestar dos preguntas. 4. Confirmar correo electrónico. 5. Buscar y hacer clic en el correo de confirmación. 6. Regresar a MiAdminXML. 7. Validar el correo. 8. Finalizar el registro.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
       "registro",
       "primer uso",
       "pasos",
       "términos",
       "condiciones",
-      "correo electrónico",
-      "validación"
-    ]
+      "correo",
+      "confirmación"
+    ],
+    "faq_id": "A-20-03-05-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para registrarse por primera vez en MiAdminXML? Respuesta: 1. Aceptar los Términos y Condiciones. 2. Llenar los campos de Nombre, Apellidos y Correo electrónico. 3. Contestar dos preguntas. 4. Confirmar correo electrónico. 5. Buscar y hacer clic en el correo de confirmación. 6. Regresar a MiAdminXML. 7. Validar el correo. 8. Finalizar el registro."
   },
   {
     "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiAdminXML?",
-    "a": "Como último recurso, se puede usar el comando '/confirma (producto max, mjp,mec) nombre o correo electrónico' para confirmar manualmente. Ejemplo: '/confirma max Carlos.barcenas@outlook.com'.",
+    "a": "Como último recurso, se puede usar el comando '/confirma (producto max, mjp, mec) nombre o correo electrónico' para confirmar manualmente. Ejemplo: '/confirma max Carlos.barcenas@outlook.com'.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
       "correo",
       "confirmación",
-      "no recibido",
-      "solución",
+      "no llega",
+      "manual",
       "comando",
-      "manual"
-    ]
+      "solución"
+    ],
+    "faq_id": "A-20-03-05-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no recibo el correo de confirmación de MiAdminXML? Respuesta: Como último recurso, se puede usar el comando '/confirma (producto max, mjp, mec) nombre o correo electrónico' para confirmar manualmente. Ejemplo: '/confirma max Carlos.barcenas@outlook.com'."
+  },
+  {
+    "q": "¿Qué sucede si estoy actualizando MiAdminXML con una licencia activa?",
+    "a": "Si tienes una licencia activa, el sistema respetará tu licencia y no te pedirá ingresar la clave de licencia, tampoco el periodo de prueba.",
+    "product": "MiAdminXML",
+    "categoria": "Registro",
+    "keywords": [
+      "actualización",
+      "licencia",
+      "activa",
+      "clave",
+      "periodo de prueba"
+    ],
+    "faq_id": "A-20-03-05-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si estoy actualizando MiAdminXML con una licencia activa? Respuesta: Si tienes una licencia activa, el sistema respetará tu licencia y no te pedirá ingresar la clave de licencia, tampoco el periodo de prueba."
   },
   {
     "q": "¿Qué opciones de notificaciones puedo seleccionar durante el registro en MiAdminXML?",
-    "a": "El cliente puede deseleccionar las notificaciones o seleccionar las que desee que le lleguen a su correo electrónico. Si está en modo gratuito, debe seleccionar las 3.",
+    "a": "El cliente puede deseleccionar las notificaciones o seleccionar las que desee que le lleguen a su correo electrónico. Si está en versión gratuita, debe seleccionar las 3.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
       "notificaciones",
+      "correo",
       "selección",
-      "correo electrónico",
-      "gratuito",
+      "gratis",
       "opciones"
-    ]
+    ],
+    "faq_id": "A-20-03-05-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de notificaciones puedo seleccionar durante el registro en MiAdminXML? Respuesta: El cliente puede deseleccionar las notificaciones o seleccionar las que desee que le lleguen a su correo electrónico. Si está en versión gratuita, debe seleccionar las 3."
   },
   {
-    "q": "¿Qué sucede si ya tengo una licencia activa al registrarme en MiAdminXML?",
-    "a": "Si el cliente está actualizando y tiene una licencia activada, el sistema respetará la licencia y no pedirá ingresar la clave de licencia, al igual que el periodo de prueba.",
+    "q": "¿Qué información debo proporcionar en el segundo paso del registro de MiAdminXML?",
+    "a": "Debes llenar los campos de Nombre, Apellidos y Correo electrónico, luego dar clic en siguiente.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
-      "licencia",
-      "activada",
-      "actualización",
-      "clave",
-      "periodo de prueba"
-    ]
-  },
-  {
-    "q": "¿Cómo confirmo manualmente mi correo electrónico en MiAdminXML?",
-    "a": "Se puede confirmar manualmente usando el comando '/confirma (producto max, mjp,mec) nombre o correo electrónico', por ejemplo: '/confirma max Carlos.barcenas@outlook.com'.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "confirmación",
-      "manual",
-      "correo electrónico",
-      "comando",
-      "solución"
-    ]
+      "información",
+      "nombre",
+      "apellidos",
+      "correo",
+      "paso 2"
+    ],
+    "faq_id": "A-20-03-05-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información debo proporcionar en el segundo paso del registro de MiAdminXML? Respuesta: Debes llenar los campos de Nombre, Apellidos y Correo electrónico, luego dar clic en siguiente."
   },
   {
     "q": "¿Qué mensaje veré al finalizar el registro exitoso en MiAdminXML?",
-    "a": "Al finalizar el registro, aparecerá la pantalla de 'Felicidades Acabas de registrarte exitosamente' y se verá la nueva imagen de MiAdminXML.",
+    "a": "Verás una pantalla con el mensaje 'Felicidades Acabas de registrarte exitosamente' y deberás dar clic en finalizar para ver la nueva imagen de MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
-      "registro exitoso",
+      "final",
+      "éxito",
       "mensaje",
-      "finalización",
-      "felicitaciones",
-      "nueva imagen"
-    ]
+      "pantalla",
+      "registro completo"
+    ],
+    "faq_id": "A-20-03-05-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje veré al finalizar el registro exitoso en MiAdminXML? Respuesta: Verás una pantalla con el mensaje 'Felicidades Acabas de registrarte exitosamente' y deberás dar clic en finalizar para ver la nueva imagen de MiAdminXML."
   }
 ]

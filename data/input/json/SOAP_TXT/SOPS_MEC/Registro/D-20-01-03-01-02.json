@@ -1,67 +1,87 @@
 [
   {
-    "q": "¿Qué debe hacer un cliente si no recibe el correo de confirmación de registro en MiExpedienteContable?",
-    "a": "El cliente debe proporcionar el correo electrónico registrado en el formulario al ejecutivo para que este verifique en el sistema mediante el comando /confirma MEC seguido del correo electrónico.",
+    "q": "¿Qué debo hacer si no he recibido el correo de confirmación de registro en MiExpedienteContable?",
+    "a": "Debes proporcionar el correo electrónico registrado en el formulario al ejecutivo de soporte, quien verificará mediante el comando '/confirma MEC' si ya se realizó la validación y se envió el correo. Si no se encuentra la solicitud, se te indicará que des clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
+      "correo",
+      "confirmación",
       "registro",
-      "correo",
-      "confirmación",
-      "cliente",
+      "soporte",
+      "validación",
       "ejecutivo",
-      "verificación",
-      "sistema"
-    ]
+      "formulario",
+      "solicitud"
+    ],
+    "faq_id": "D-20-01-03-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no he recibido el correo de confirmación de registro en MiExpedienteContable? Respuesta: Debes proporcionar el correo electrónico registrado en el formulario al ejecutivo de soporte, quien verificará mediante el comando '/confirma MEC' si ya se realizó la validación y se envió el correo. Si no se encuentra la solicitud, se te indicará que des clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'."
   },
   {
-    "q": "¿Qué comando utiliza el ejecutivo para verificar el envío del correo de confirmación en MiExpedienteContable?",
-    "a": "El ejecutivo utiliza el comando /confirma MEC seguido del correo electrónico del cliente para verificar si se envió el correo de confirmación.",
+    "q": "¿Qué requisitos se necesitan para registrar MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "comando",
-      "ejecutivo",
-      "verificación",
-      "correo",
-      "confirmación",
-      "sistema"
-    ]
-  },
-  {
-    "q": "¿Qué opciones tiene el ejecutivo si no encuentra solicitudes de registro en MiExpedienteContable?",
-    "a": "Si no se encuentran solicitudes, el ejecutivo informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO'.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "ejecutivo",
-      "solicitudes",
-      "no encontradas",
-      "botón",
-      "confirmación",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos debe cumplir un cliente para registrar MiExpedienteContable?",
-    "a": "El cliente debe contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo.",
-    "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "registro",
-      "cliente"
-    ]
+      "solución",
+      "correo electrónico"
+    ],
+    "faq_id": "D-20-01-03-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para registrar MiExpedienteContable? Respuesta: Se requiere contar con una licencia de MiExpedienteContable o encontrarse en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico."
   },
   {
-    "q": "¿Qué nivel de prioridad tiene una solicitud de no recepción de correo de confirmación en MiExpedienteContable?",
-    "a": "El nivel de prioridad es 1 - Bajo.",
+    "q": "¿Cómo verifica el ejecutivo si se envió el correo de confirmación de registro?",
+    "a": "El ejecutivo verifica mediante el comando '/confirma MEC' seguido del correo electrónico registrado. Esto permite confirmar si ya se realizó la validación y se envió el correo al destino.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte",
+    "keywords": [
+      "ejecutivo",
+      "verificación",
+      "comando",
+      "confirma",
+      "correo",
+      "validación",
+      "registro"
+    ],
+    "faq_id": "D-20-01-03-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo verifica el ejecutivo si se envió el correo de confirmación de registro? Respuesta: El ejecutivo verifica mediante el comando '/confirma MEC' seguido del correo electrónico registrado. Esto permite confirmar si ya se realizó la validación y se envió el correo al destino."
+  },
+  {
+    "q": "¿Qué sucede si no se encuentra la solicitud de registro en el sistema?",
+    "a": "Si no se encuentra la solicitud de registro, se informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO' para proceder con el registro.",
+    "product": "MiExpedienteContable",
+    "categoria": "Registro",
+    "keywords": [
+      "solicitud",
+      "registro",
+      "no encontrado",
+      "botón",
+      "confirmación",
+      "correo electrónico",
+      "cliente"
+    ],
+    "faq_id": "D-20-01-03-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si no se encuentra la solicitud de registro en el sistema? Respuesta: Si no se encuentra la solicitud de registro, se informará al cliente que debe dar clic en el botón 'ENVIAR CONFIRMACION DE CORREO ELECTRONICO' para proceder con el registro."
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene el problema de no recibir el correo de confirmación de registro?",
+    "a": "El problema de no recibir el correo de confirmación de registro tiene un nivel de prioridad 1 - Bajo.",
+    "product": "MiExpedienteContable",
+    "categoria": "Soporte",
     "keywords": [
       "prioridad",
       "nivel",
       "bajo",
-      "solicitud",
       "correo",
-      "confirmación"
-    ]
+      "confirmación",
+      "registro",
+      "problema"
+    ],
+    "faq_id": "D-20-01-03-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene el problema de no recibir el correo de confirmación de registro? Respuesta: El problema de no recibir el correo de confirmación de registro tiene un nivel de prioridad 1 - Bajo."
   }
 ]

@@ -1,62 +1,77 @@
 [
   {
     "q": "¿Qué se necesita para registrar MiExpedienteContable?",
-    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "registro",
       "licencia",
       "periodo demostrativo",
       "requisitos",
-      "formulario"
-    ]
+      "solución"
+    ],
+    "faq_id": "D-20-03-03-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para registrar MiExpedienteContable? Respuesta: Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico."
   },
   {
-    "q": "¿Qué sucede si el usuario no recibe el correo de registro de MiExpedienteContable?",
-    "a": "En caso de no recibir el correo, se puede verificar y confirmar mediante el comando /bot confirma MEC correo_registrado_usuario.",
+    "q": "¿Qué sucede después de instalar MiExpedienteContable?",
+    "a": "Después de la instalación, se solicitará llenar un formulario de registro para validar los datos del usuario.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
+    "keywords": [
+      "instalación",
+      "formulario",
+      "registro",
+      "validación",
+      "datos usuario"
+    ],
+    "faq_id": "D-20-03-03-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de instalar MiExpedienteContable? Respuesta: Después de la instalación, se solicitará llenar un formulario de registro para validar los datos del usuario."
+  },
+  {
+    "q": "¿Cómo se verifica si el usuario no ha recibido el correo de registro?",
+    "a": "Mediante el bot, se verifica y confirma el correo registrado del usuario con el comando: /bot confirma MEC correo_registrado_usuario.",
+    "product": "MiExpedienteContable",
+    "categoria": "Soporte",
     "keywords": [
       "correo",
       "registro",
       "verificación",
       "bot",
       "soporte"
-    ]
+    ],
+    "faq_id": "D-20-03-03-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se verifica si el usuario no ha recibido el correo de registro? Respuesta: Mediante el bot, se verifica y confirma el correo registrado del usuario con el comando: /bot confirma MEC correo_registrado_usuario."
   },
   {
     "q": "¿Cómo se confirma que el registro de MiExpedienteContable fue exitoso?",
-    "a": "Al finalizar el registro, el sistema mostrará una leyenda indicando que el registro fue exitoso. Si se marcó la casilla 'Ya cuento con clave de licencia', también se indicará que la activación fue exitosa, lo cual se puede validar en el módulo de LICENCIAMIENTO.",
+    "a": "Al finalizar el registro, el sistema mostrará una leyenda indicando que se ha registrado con éxito la aplicación MiExpedienteContable.",
     "product": "MiExpedienteContable",
+    "categoria": "Registro",
     "keywords": [
       "registro exitoso",
-      "confirmación",
       "leyenda",
+      "confirmación",
+      "aplicación",
+      "finalización"
+    ],
+    "faq_id": "D-20-03-03-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se confirma que el registro de MiExpedienteContable fue exitoso? Respuesta: Al finalizar el registro, el sistema mostrará una leyenda indicando que se ha registrado con éxito la aplicación MiExpedienteContable."
+  },
+  {
+    "q": "¿Qué pasa si el usuario marca 'Ya cuento con clave de licencia' durante el registro?",
+    "a": "Si el usuario marca esa casilla, el sistema indicará que la licencia se activó con éxito, lo cual puede validarse en el módulo de LICENCIAMIENTO al ingresar a la aplicación.",
+    "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
+    "keywords": [
+      "clave licencia",
       "activación",
-      "módulo licenciamiento"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de situación se describe en el documento?",
-    "a": "El documento describe el proceso de registro del formulario MiExpedienteContable por parte del cliente.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "situación",
-      "registro",
-      "formulario",
-      "proceso",
-      "cliente"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de complejidad tiene el registro de MiExpedienteContable?",
-    "a": "El nivel de complejidad del registro de MiExpedienteContable es bajo (Nivel 1).",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "nivel",
-      "complejidad",
-      "bajo",
-      "registro",
-      "soporte"
-    ]
+      "módulo",
+      "validación",
+      "licenciamiento"
+    ],
+    "faq_id": "D-20-03-03-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si el usuario marca 'Ya cuento con clave de licencia' durante el registro? Respuesta: Si el usuario marca esa casilla, el sistema indicará que la licencia se activó con éxito, lo cual puede validarse en el módulo de LICENCIAMIENTO al ingresar a la aplicación."
   }
 ]

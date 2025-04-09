@@ -1,71 +1,89 @@
 [
   {
     "q": "¿Cómo puedo exportar información a Excel en MiAdminXML?",
-    "a": "Al dar clic sobre la opción 'Exportar a Excel', el programa generará un reporte en Excel de facturas, nóminas, notas de crédito, traslados o conceptos. Te pedirá donde guardar el archivo y se abrirá automáticamente.",
+    "a": "Para exportar a Excel en MiAdminXML, debes seleccionar tu RFC, el tipo de documento, el año y el mes, luego hacer clic en la opción 'Exportar a Excel'. El programa te pedirá donde guardar el archivo y se abrirá automáticamente.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
       "exportar",
       "excel",
-      "reporte",
+      "miadminxml",
+      "pasos",
+      "rfc",
+      "tipo",
+      "año",
+      "mes"
+    ],
+    "faq_id": "A-20-03-25-03-05_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo exportar información a Excel en MiAdminXML? Respuesta: Para exportar a Excel en MiAdminXML, debes seleccionar tu RFC, el tipo de documento, el año y el mes, luego hacer clic en la opción 'Exportar a Excel'. El programa te pedirá donde guardar el archivo y se abrirá automáticamente."
+  },
+  {
+    "q": "¿Qué tipos de documentos se pueden exportar a Excel en MiAdminXML?",
+    "a": "En MiAdminXML puedes exportar facturas, nóminas, notas de crédito, traslados y conceptos a Excel.",
+    "product": "MiAdminXML",
+    "categoria": "Exportación",
+    "keywords": [
+      "documentos",
+      "exportar",
+      "excel",
       "facturas",
       "nóminas",
       "notas de crédito",
       "traslados",
       "conceptos"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-05_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de documentos se pueden exportar a Excel en MiAdminXML? Respuesta: En MiAdminXML puedes exportar facturas, nóminas, notas de crédito, traslados y conceptos a Excel."
   },
   {
     "q": "¿Qué requisitos necesito para exportar a Excel en MiAdminXML?",
-    "a": "Es necesario contar con una licencia de MiAdminXML o estar en el periodo demostrativo del producto.",
+    "a": "Para exportar a Excel en MiAdminXML necesitas contar con una licencia del producto o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "exportar",
-      "excel"
-    ]
-  },
-  {
-    "q": "¿Qué información puedo exportar a Excel en MiAdminXML?",
-    "a": "Puedes exportar facturas, nóminas, notas de crédito, traslados y conceptos a Excel.",
-    "product": "MiAdminXML",
-    "keywords": [
       "exportar",
       "excel",
-      "facturas",
-      "nóminas",
-      "notas de crédito",
-      "traslados",
-      "conceptos"
-    ]
+      "licencia",
+      "periodo demostrativo",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-05_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos necesito para exportar a Excel en MiAdminXML? Respuesta: Para exportar a Excel en MiAdminXML necesitas contar con una licencia del producto o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué pasos debo seguir para exportar a Excel en MiAdminXML?",
-    "a": "1) Seleccionar tu RFC, 2) Elegir el TIPO de documento, 3) Seleccionar AÑO y MES, 4) Hacer clic en 'Exportar a Excel'.",
+    "q": "¿Qué información debo seleccionar antes de exportar a Excel en MiAdminXML?",
+    "a": "Antes de exportar a Excel en MiAdminXML, debes seleccionar tu RFC, el tipo de documento, el año y el mes correspondiente.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
-      "pasos",
+      "seleccionar",
       "exportar",
       "excel",
       "rfc",
       "tipo",
       "año",
       "mes",
-      "proceso"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-05_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información debo seleccionar antes de exportar a Excel en MiAdminXML? Respuesta: Antes de exportar a Excel en MiAdminXML, debes seleccionar tu RFC, el tipo de documento, el año y el mes correspondiente."
   },
   {
     "q": "¿Qué sucede después de exportar a Excel en MiAdminXML?",
-    "a": "El programa te pedirá donde guardar el archivo y luego se abrirá automáticamente el reporte en Excel.",
+    "a": "Después de exportar a Excel en MiAdminXML, el programa te pedirá donde guardar el archivo y este se abrirá automáticamente.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
+      "proceso",
       "exportar",
       "excel",
       "guardar",
-      "archivo",
       "abrir",
-      "automático"
-    ]
+      "automático",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-05_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de exportar a Excel en MiAdminXML? Respuesta: Después de exportar a Excel en MiAdminXML, el programa te pedirá donde guardar el archivo y este se abrirá automáticamente."
   }
 ]

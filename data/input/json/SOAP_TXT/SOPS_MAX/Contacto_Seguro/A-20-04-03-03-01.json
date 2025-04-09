@@ -1,110 +1,107 @@
 [
   {
-    "q": "¿Qué hacer si los correos de ComputoContable llegan a spam?",
-    "a": "El cliente debe agregar los correos de ComputoContable como contacto seguro en su cliente de correo (Outlook, Gmail o Yahoo!) para que los correos lleguen a la bandeja principal.",
+    "q": "¿Qué hacer si los correos de ComputoContable llegan a spam en Outlook?",
+    "a": "Puedes marcar el correo como deseado en la carpeta 'Correo no deseados' o agregar el remitente como contacto seguro siguiendo las opciones proporcionadas en Outlook.",
     "product": "Contacto Seguro",
+    "categoria": "Outlook",
     "keywords": [
+      "outlook",
       "spam",
-      "correo",
-      "contacto seguro",
-      "computocontable",
-      "solucion"
-    ]
-  },
-  {
-    "q": "¿Cómo marcar un correo como deseado en Outlook?",
-    "a": "En Outlook, dirígete a la carpeta 'Correo no deseados', selecciona el correo y haz clic en 'No es un correo no deseado'.",
-    "product": "Outlook",
-    "keywords": [
-      "outlook",
       "correo no deseado",
-      "marcar",
-      "deseado",
-      "spam"
-    ]
-  },
-  {
-    "q": "¿Cómo agregar un remitente seguro en Outlook?",
-    "a": "Selecciona el correo, haz clic en los tres puntos superiores, elige 'Agregar a los remitentes seguros' y confirma la acción.",
-    "product": "Outlook",
-    "keywords": [
-      "outlook",
-      "remitente seguro",
-      "agregar",
-      "contacto",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Cómo agregar manualmente un contacto seguro en Outlook?",
-    "a": "Ve a Configuración > Ver toda la configuración de Outlook > Correo > Correo no deseado > Remitentes y dominios seguros, agrega el correo y guarda los cambios.",
-    "product": "Outlook",
-    "keywords": [
-      "outlook",
       "contacto seguro",
-      "manual",
+      "remitente"
+    ],
+    "faq_id": "A-20-04-03-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si los correos de ComputoContable llegan a spam en Outlook? Respuesta: Puedes marcar el correo como deseado en la carpeta 'Correo no deseados' o agregar el remitente como contacto seguro siguiendo las opciones proporcionadas en Outlook."
+  },
+  {
+    "q": "¿Cómo agregar un contacto seguro en Outlook?",
+    "a": "Selecciona el correo, haz clic en los tres puntos superiores y elige 'Agregar a los remitentes seguros'. También puedes agregarlo manualmente en la configuración de Outlook bajo 'Remitentes y dominios seguros'.",
+    "product": "Contacto Seguro",
+    "categoria": "Outlook",
+    "keywords": [
+      "outlook",
+      "agregar contacto",
+      "remitente seguro",
       "configuración",
-      "remitentes"
-    ]
+      "correo"
+    ],
+    "faq_id": "A-20-04-03-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar un contacto seguro en Outlook? Respuesta: Selecciona el correo, haz clic en los tres puntos superiores y elige 'Agregar a los remitentes seguros'. También puedes agregarlo manualmente en la configuración de Outlook bajo 'Remitentes y dominios seguros'."
   },
   {
     "q": "¿Qué correos de ComputoContable se deben agregar como contactos seguros?",
     "a": "Los correos a agregar son: ventas@computocontable.com, Computocontable.com, Correo1.computocontable.com, soporte.computocontable@gmail.com, ventas.computocontable@gmail.com.",
     "product": "Contacto Seguro",
+    "categoria": "General",
     "keywords": [
-      "computocontable",
       "correos",
+      "computocontable",
       "contacto seguro",
       "lista",
-      "agregar"
-    ]
+      "remitentes"
+    ],
+    "faq_id": "A-20-04-03-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué correos de ComputoContable se deben agregar como contactos seguros? Respuesta: Los correos a agregar son: ventas@computocontable.com, Computocontable.com, Correo1.computocontable.com, soporte.computocontable@gmail.com, ventas.computocontable@gmail.com."
   },
   {
-    "q": "¿Cómo agregar un contacto en Gmail?",
-    "a": "Inicia sesión en Gmail, ve a Google Apps > Contactos > Crear contacto y llena los datos solicitados.",
-    "product": "Gmail",
+    "q": "¿Cómo agregar un contacto seguro en Gmail?",
+    "a": "Inicia sesión en Gmail, ve a 'Contactos' desde el icono de Google Apps, haz clic en 'crear contacto' y llena los datos solicitados.",
+    "product": "Contacto Seguro",
+    "categoria": "Gmail",
     "keywords": [
       "gmail",
-      "contacto",
+      "contactos",
       "agregar",
-      "google apps",
-      "crear"
-    ]
+      "seguro",
+      "correo"
+    ],
+    "faq_id": "A-20-04-03-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar un contacto seguro en Gmail? Respuesta: Inicia sesión en Gmail, ve a 'Contactos' desde el icono de Google Apps, haz clic en 'crear contacto' y llena los datos solicitados."
   },
   {
-    "q": "¿Cómo agregar un contacto en Yahoo!?",
-    "a": "Inicia sesión en Yahoo!, ve al apartado Contactos > Nuevo contacto, ingresa los datos del correo y guarda.",
-    "product": "Yahoo!",
+    "q": "¿Cómo agregar un contacto seguro en Yahoo!?",
+    "a": "Inicia sesión en Yahoo!, dirígete al apartado 'Contactos', haz clic en 'Nuevo contacto', ingresa los datos del correo y guarda.",
+    "product": "Contacto Seguro",
+    "categoria": "Yahoo!",
     "keywords": [
       "yahoo",
-      "contacto",
+      "contactos",
       "agregar",
-      "nuevo",
-      "guardar"
-    ]
+      "seguro",
+      "correo"
+    ],
+    "faq_id": "A-20-04-03-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar un contacto seguro en Yahoo!? Respuesta: Inicia sesión en Yahoo!, dirígete al apartado 'Contactos', haz clic en 'Nuevo contacto', ingresa los datos del correo y guarda."
+  },
+  {
+    "q": "¿Qué nivel de incidencia tiene el problema de correos en spam?",
+    "a": "El nivel de incidencia es 2 – Medio.",
+    "product": "Contacto Seguro",
+    "categoria": "General",
+    "keywords": [
+      "incidencia",
+      "nivel",
+      "medio",
+      "problema",
+      "spam"
+    ],
+    "faq_id": "A-20-04-03-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de incidencia tiene el problema de correos en spam? Respuesta: El nivel de incidencia es 2 – Medio."
   },
   {
     "q": "¿Qué tipo de incidencia es cuando los correos llegan a spam?",
-    "a": "Es una incidencia tipo INC-02 con nivel de prioridad 2 – Medio.",
+    "a": "El tipo de incidencia es INC-02.",
     "product": "Contacto Seguro",
+    "categoria": "General",
     "keywords": [
       "incidencia",
-      "spam",
       "tipo",
-      "nivel",
-      "prioridad"
-    ]
-  },
-  {
-    "q": "¿Qué sucede después de agregar un remitente seguro en Outlook?",
-    "a": "Los próximos correos del remitente se mostrarán en la bandeja principal del correo electrónico.",
-    "product": "Outlook",
-    "keywords": [
-      "outlook",
-      "remitente seguro",
-      "bandeja principal",
-      "correos",
-      "efecto"
-    ]
+      "inc-02",
+      "spam",
+      "correo"
+    ],
+    "faq_id": "A-20-04-03-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando los correos llegan a spam? Respuesta: El tipo de incidencia es INC-02."
   }
 ]

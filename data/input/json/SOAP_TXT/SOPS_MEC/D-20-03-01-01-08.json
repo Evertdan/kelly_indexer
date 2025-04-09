@@ -3,40 +3,50 @@
     "q": "¿En cuántos equipos se puede utilizar la clave de licencia de MiExpedienteContable?",
     "a": "La clave de licencia de MiExpedienteContable se usa únicamente en un equipo y/o sesión de usuario.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
       "licencia",
       "equipos",
-      "clave",
-      "uso",
       "sesión",
       "usuario",
-      "restricciones"
-    ]
+      "clave",
+      "restricciones",
+      "uso"
+    ],
+    "faq_id": "D-20-03-01-01-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿En cuántos equipos se puede utilizar la clave de licencia de MiExpedienteContable? Respuesta: La clave de licencia de MiExpedienteContable se usa únicamente en un equipo y/o sesión de usuario."
   },
   {
-    "q": "¿Qué restricciones tiene la clave de licencia de MiExpedienteContable?",
-    "a": "La clave de licencia de MiExpedienteContable está restringida a un solo equipo y/o sesión de usuario.",
+    "q": "¿Cuál es la política de uso de la clave de licencia para MiExpedienteContable?",
+    "a": "La clave de licencia de MiExpedienteContable está limitada a un solo equipo y/o sesión de usuario.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
-      "restricciones",
+      "política",
       "licencia",
+      "uso",
+      "limitaciones",
       "equipo",
       "sesión",
-      "usuario",
-      "limitaciones"
-    ]
+      "usuario"
+    ],
+    "faq_id": "D-20-03-01-01-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la política de uso de la clave de licencia para MiExpedienteContable? Respuesta: La clave de licencia de MiExpedienteContable está limitada a un solo equipo y/o sesión de usuario."
   },
   {
     "q": "¿Puedo usar MiExpedienteContable en varios equipos con la misma licencia?",
     "a": "No, la clave de licencia de MiExpedienteContable solo puede ser utilizada en un equipo y/o sesión de usuario.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
       "varios equipos",
       "licencia",
-      "uso",
+      "uso compartido",
       "restricción",
       "sesión",
       "usuario"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Puedo usar MiExpedienteContable en varios equipos con la misma licencia? Respuesta: No, la clave de licencia de MiExpedienteContable solo puede ser utilizada en un equipo y/o sesión de usuario."
   }
 ]

@@ -1,95 +1,145 @@
 [
   {
     "q": "¿Qué tipo de solicitud es cuando un cliente pide su factura?",
-    "a": "Es una solicitud de tipo SOL-01 con un nivel de prioridad 1 – Bajo.",
+    "a": "Es una solicitud tipo SOL-01.",
     "product": "General",
+    "categoria": "Tipos de Solicitud",
     "keywords": [
       "solicitud",
       "factura",
       "tipo",
-      "sol-01",
+      "cliente",
+      "sol-01"
+    ],
+    "faq_id": "D-20-01-02-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud es cuando un cliente pide su factura? Respuesta: Es una solicitud tipo SOL-01."
+  },
+  {
+    "q": "¿Qué nivel de prioridad tiene una solicitud de factura?",
+    "a": "Tiene un nivel de prioridad 1 – Bajo.",
+    "product": "General",
+    "categoria": "Prioridad",
+    "keywords": [
       "prioridad",
-      "bajo"
-    ]
+      "nivel",
+      "bajo",
+      "factura",
+      "solicitud"
+    ],
+    "faq_id": "D-20-01-02-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene una solicitud de factura? Respuesta: Tiene un nivel de prioridad 1 – Bajo."
   },
   {
     "q": "¿Qué datos se pueden solicitar al cliente para encontrar su factura?",
-    "a": "Se pueden solicitar algunos de los siguientes datos: No. Orden de compra, RFC, correo electrónico registrado o fecha de compra.",
+    "a": "Se puede solicitar el No. Orden de compra, RFC, correo electrónico registrado o fecha de compra.",
     "product": "General",
+    "categoria": "Datos de Búsqueda",
     "keywords": [
       "datos",
       "cliente",
       "factura",
-      "orden de compra",
-      "rfc",
-      "correo electrónico",
-      "fecha de compra"
-    ]
-  },
-  {
-    "q": "¿Cómo se busca la información de la compra en el BOT?",
-    "a": "Se utiliza el comando /orden si se tiene el número de orden o el comando /bo si se tiene el correo electrónico.",
-    "product": "General",
-    "keywords": [
-      "bot",
-      "buscar",
-      "información",
-      "compra",
-      "comando",
       "orden",
-      "correo electrónico"
-    ]
+      "rfc",
+      "correo",
+      "fecha"
+    ],
+    "faq_id": "D-20-01-02-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos se pueden solicitar al cliente para encontrar su factura? Respuesta: Se puede solicitar el No. Orden de compra, RFC, correo electrónico registrado o fecha de compra."
   },
   {
-    "q": "¿Qué sucede si se busca la compra con el correo electrónico en el BOT?",
-    "a": "El BOT mostrará todas las órdenes de compra asociadas a ese correo, y se debe seleccionar la orden con la fecha deseada para ver los datos.",
+    "q": "¿Cómo se busca la información de la compra si el cliente proporciona el número de orden?",
+    "a": "Se utiliza el comando /orden en el BOT para buscar con el número de orden.",
     "product": "General",
+    "categoria": "Búsqueda",
     "keywords": [
+      "buscar",
+      "orden",
+      "número",
       "bot",
-      "correo electrónico",
-      "órdenes de compra",
-      "fecha",
-      "seleccionar"
-    ]
+      "comando",
+      "/orden"
+    ],
+    "faq_id": "D-20-01-02-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se busca la información de la compra si el cliente proporciona el número de orden? Respuesta: Se utiliza el comando /orden en el BOT para buscar con el número de orden."
   },
   {
-    "q": "¿Cómo se envía la factura al cliente?",
-    "a": "Se usa el comando /enviarfactura seguido del número de orden para enviar la factura al correo registrado en la orden de compra.",
+    "q": "¿Cómo se busca la información de la compra si el cliente proporciona el correo electrónico?",
+    "a": "Se utiliza el comando /bo en el BOT para buscar con el correo electrónico.",
     "product": "General",
+    "categoria": "Búsqueda",
+    "keywords": [
+      "buscar",
+      "correo",
+      "electrónico",
+      "bot",
+      "comando",
+      "/bo"
+    ],
+    "faq_id": "D-20-01-02-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se busca la información de la compra si el cliente proporciona el correo electrónico? Respuesta: Se utiliza el comando /bo en el BOT para buscar con el correo electrónico."
+  },
+  {
+    "q": "¿Qué sucede si se busca con el correo electrónico y hay múltiples órdenes?",
+    "a": "El BOT mostrará todas las órdenes de compra con ese correo y se debe seleccionar la orden con la fecha deseada.",
+    "product": "General",
+    "categoria": "Búsqueda",
+    "keywords": [
+      "múltiples",
+      "órdenes",
+      "correo",
+      "seleccionar",
+      "fecha",
+      "bot"
+    ],
+    "faq_id": "D-20-01-02-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si se busca con el correo electrónico y hay múltiples órdenes? Respuesta: El BOT mostrará todas las órdenes de compra con ese correo y se debe seleccionar la orden con la fecha deseada."
+  },
+  {
+    "q": "¿Cómo se envía la factura al correo registrado en la orden de compra?",
+    "a": "Se utiliza el comando /enviarfactura seguido del número de orden para enviar la factura al correo registrado.",
+    "product": "General",
+    "categoria": "Envío",
     "keywords": [
       "enviar",
       "factura",
-      "comando",
-      "enviarfactura",
+      "correo",
       "orden",
-      "correo registrado"
-    ]
+      "comando",
+      "/enviarfactura"
+    ],
+    "faq_id": "D-20-01-02-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se envía la factura al correo registrado en la orden de compra? Respuesta: Se utiliza el comando /enviarfactura seguido del número de orden para enviar la factura al correo registrado."
   },
   {
-    "q": "¿Qué pasa si el correo registrado no es correcto o se desea enviar la factura a otro correo?",
-    "a": "Se debe modificar el comando para especificar el nuevo correo al que se desea enviar la factura.",
+    "q": "¿Qué mensaje muestra el BOT antes de enviar la factura?",
+    "a": "El BOT pregunta si se desea hacer el envío al correo registrado y se debe confirmar con un clic en 'Enviar Factura'.",
     "product": "General",
+    "categoria": "Confirmación",
+    "keywords": [
+      "bot",
+      "mensaje",
+      "confirmación",
+      "enviar",
+      "factura",
+      "correo"
+    ],
+    "faq_id": "D-20-01-02-02-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje muestra el BOT antes de enviar la factura? Respuesta: El BOT pregunta si se desea hacer el envío al correo registrado y se debe confirmar con un clic en 'Enviar Factura'."
+  },
+  {
+    "q": "¿Qué hacer si el correo registrado no es correcto o se desea enviar a otro correo?",
+    "a": "Se debe modificar el comando para incluir el nuevo correo antes de confirmar el envío.",
+    "product": "General",
+    "categoria": "Modificación",
     "keywords": [
       "correo",
       "incorrecto",
       "modificar",
       "comando",
       "enviar",
-      "factura",
-      "otro correo"
-    ]
-  },
-  {
-    "q": "¿Qué mensaje muestra el BOT antes de enviar la factura?",
-    "a": "El BOT pregunta si se desea hacer el envío al correo registrado con un mensaje de confirmación, donde se debe hacer clic en 'Enviar Factura' si el correo es correcto.",
-    "product": "General",
-    "keywords": [
-      "bot",
-      "mensaje",
-      "confirmación",
-      "enviar factura",
-      "correo registrado",
-      "clic"
-    ]
+      "factura"
+    ],
+    "faq_id": "D-20-01-02-02-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el correo registrado no es correcto o se desea enviar a otro correo? Respuesta: Se debe modificar el comando para incluir el nuevo correo antes de confirmar el envío."
   }
 ]

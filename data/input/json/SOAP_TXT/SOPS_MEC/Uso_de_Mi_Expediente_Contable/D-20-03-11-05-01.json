@@ -3,97 +3,106 @@
     "q": "¿Qué permite hacer el módulo de Papeles de Trabajo en Mi Expediente Contable?",
     "a": "El módulo de Papeles de Trabajo permite visualizar el expediente digital del contribuyente seleccionado, agregar nuevas carpetas y archivos al expediente, y cuenta con un visor de archivos para una vista rápida de los documentos.",
     "product": "Mi Expediente Contable",
+    "categoria": "Funcionalidades",
     "keywords": [
       "papeles de trabajo",
-      "módulo",
       "expediente digital",
-      "contribuyente",
       "visor",
+      "carpetas",
       "archivos",
-      "carpetas"
-    ]
+      "funcionalidades"
+    ],
+    "faq_id": "D-20-03-11-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer el módulo de Papeles de Trabajo en Mi Expediente Contable? Respuesta: El módulo de Papeles de Trabajo permite visualizar el expediente digital del contribuyente seleccionado, agregar nuevas carpetas y archivos al expediente, y cuenta con un visor de archivos para una vista rápida de los documentos."
   },
   {
-    "q": "¿Cómo accedo al módulo de Papeles de Trabajo para un contribuyente específico?",
-    "a": "Para acceder al módulo de Papeles de Trabajo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'.",
+    "q": "¿Cómo accedo al módulo de Papeles de Trabajo en Mi Expediente Contable?",
+    "a": "Para acceder al módulo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'.",
     "product": "Mi Expediente Contable",
+    "categoria": "Acceso",
     "keywords": [
-      "acceder",
-      "papeles de trabajo",
-      "contribuyente",
+      "acceso",
+      "contribuyentes",
       "pestaña",
-      "seleccionar",
-      "lista"
-    ]
+      "papeles de trabajo",
+      "seleccionar"
+    ],
+    "faq_id": "D-20-03-11-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo accedo al módulo de Papeles de Trabajo en Mi Expediente Contable? Respuesta: Para acceder al módulo, debes posicionarte en la pestaña de contribuyentes, seleccionar un contribuyente de la lista y dar clic en la pestaña de 'Papeles de trabajo'."
   },
   {
-    "q": "¿Cómo puedo agregar una nueva carpeta en el expediente de un contribuyente?",
-    "a": "Para agregar una nueva carpeta, selecciona alguno de los nodos y da clic en 'Crear carpeta'. Luego ingresa el nombre de la carpeta y da clic en 'Crear'. La nueva carpeta aparecerá en el expediente.",
+    "q": "¿Cómo puedo agregar una nueva carpeta en el expediente digital?",
+    "a": "Para agregar una nueva carpeta, selecciona un nodo y haz clic en 'Crear carpeta', ingresa el nombre de la carpeta y confirma. La carpeta aparecerá en el expediente.",
     "product": "Mi Expediente Contable",
+    "categoria": "Gestión de Carpetas",
     "keywords": [
-      "agregar",
-      "nueva carpeta",
-      "expediente",
-      "contribuyente",
-      "crear",
+      "agregar carpeta",
+      "crear carpeta",
+      "nodo",
       "nombre",
-      "nodo"
-    ]
+      "expediente"
+    ],
+    "faq_id": "D-20-03-11-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo agregar una nueva carpeta en el expediente digital? Respuesta: Para agregar una nueva carpeta, selecciona un nodo y haz clic en 'Crear carpeta', ingresa el nombre de la carpeta y confirma. La carpeta aparecerá en el expediente."
   },
   {
-    "q": "¿Qué pasos debo seguir para agregar un archivo al expediente de un contribuyente?",
-    "a": "Para agregar un archivo, selecciona el nodo donde se almacenará y da clic en 'Agregar archivo'. Selecciona el archivo deseado y da clic en 'Aceptar'. El archivo aparecerá en el expediente y podrás verlo en el visor de la derecha.",
+    "q": "¿Qué pasos debo seguir para agregar un archivo al expediente digital?",
+    "a": "Selecciona el nodo donde se almacenará el archivo, haz clic en 'Agregar archivo', selecciona el archivo deseado y confirma. El archivo aparecerá en el expediente y podrás visualizarlo con doble clic.",
     "product": "Mi Expediente Contable",
+    "categoria": "Gestión de Archivos",
     "keywords": [
-      "agregar",
-      "archivo",
-      "expediente",
-      "contribuyente",
+      "agregar archivo",
       "seleccionar",
-      "visor",
-      "aceptar"
-    ]
+      "nodo",
+      "visualizar",
+      "expediente"
+    ],
+    "faq_id": "D-20-03-11-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir para agregar un archivo al expediente digital? Respuesta: Selecciona el nodo donde se almacenará el archivo, haz clic en 'Agregar archivo', selecciona el archivo deseado y confirma. El archivo aparecerá en el expediente y podrás visualizarlo con doble clic."
   },
   {
-    "q": "¿Cómo puedo abrir un archivo del expediente con un programa predeterminado?",
-    "a": "Selecciona el archivo y da clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado. También puedes abrir carpetas en el Explorador de archivos de Windows seleccionándolas y dando clic en 'Ir a la carpeta'.",
+    "q": "¿Cómo puedo abrir un archivo con un programa predeterminado?",
+    "a": "Selecciona el archivo y haz clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado. También puedes abrir carpetas en el Explorador de archivos de Windows con 'Ir a la carpeta'.",
     "product": "Mi Expediente Contable",
+    "categoria": "Visualización",
     "keywords": [
-      "abrir",
-      "archivo",
-      "programa predeterminado",
-      "lector",
+      "abrir archivo",
+      "lector predeterminado",
       "explorador",
       "windows",
-      "carpeta"
-    ]
+      "visualizar"
+    ],
+    "faq_id": "D-20-03-11-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo abrir un archivo con un programa predeterminado? Respuesta: Selecciona el archivo y haz clic en 'Abrir archivo'. El archivo se mostrará con el lector predeterminado. También puedes abrir carpetas en el Explorador de archivos de Windows con 'Ir a la carpeta'."
   },
   {
-    "q": "¿Cómo renombro una carpeta o archivo en el expediente de un contribuyente?",
-    "a": "Selecciona el nodo y da clic en 'Renombrar'. Ingresa el nuevo nombre y da clic en 'Aceptar'. Aparecerá un mensaje confirmando el cambio y la carpeta o archivo mostrará el nuevo nombre.",
+    "q": "¿Cómo renombro una carpeta o archivo en el expediente digital?",
+    "a": "Selecciona el nodo, haz clic en 'Renombrar', ingresa el nuevo nombre y confirma. La carpeta o archivo aparecerá con el nuevo nombre.",
     "product": "Mi Expediente Contable",
+    "categoria": "Gestión de Carpetas y Archivos",
     "keywords": [
       "renombrar",
       "carpeta",
       "archivo",
-      "expediente",
-      "nuevo nombre",
-      "aceptar",
-      "mensaje"
-    ]
+      "nodo",
+      "nombre"
+    ],
+    "faq_id": "D-20-03-11-05-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo renombro una carpeta o archivo en el expediente digital? Respuesta: Selecciona el nodo, haz clic en 'Renombrar', ingresa el nuevo nombre y confirma. La carpeta o archivo aparecerá con el nuevo nombre."
   },
   {
-    "q": "¿Qué pasos debo seguir para eliminar una carpeta o archivo del expediente?",
-    "a": "Selecciona la carpeta o archivo y da clic en 'Eliminar'. Confirma la eliminación en el mensaje que aparece. Se mostrará otro mensaje confirmando que el archivo o carpeta fue eliminado.",
+    "q": "¿Qué debo hacer para eliminar una carpeta o archivo del expediente digital?",
+    "a": "Selecciona la carpeta o archivo, haz clic en 'Eliminar', confirma la eliminación y el sistema mostrará un mensaje de éxito.",
     "product": "Mi Expediente Contable",
+    "categoria": "Gestión de Carpetas y Archivos",
     "keywords": [
       "eliminar",
       "carpeta",
       "archivo",
-      "expediente",
       "confirmar",
-      "mensaje",
-      "contribuyente"
-    ]
+      "expediente"
+    ],
+    "faq_id": "D-20-03-11-05-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer para eliminar una carpeta o archivo del expediente digital? Respuesta: Selecciona la carpeta o archivo, haz clic en 'Eliminar', confirma la eliminación y el sistema mostrará un mensaje de éxito."
   }
 ]

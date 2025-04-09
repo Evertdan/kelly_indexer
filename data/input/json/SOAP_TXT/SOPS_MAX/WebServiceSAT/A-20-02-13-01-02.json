@@ -1,98 +1,111 @@
 [
   {
     "q": "¿Qué tipo de error se describe en el texto?",
-    "a": "Error de Solicitud de Webservice SAT, clasificado como Incidencia 02.",
+    "a": "Error de Solicitud de Webservice SAT, identificado como Incidencia 02.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
-      "solicitud",
       "webservice",
       "sat",
-      "incidencia"
-    ]
+      "incidencia",
+      "solicitud"
+    ],
+    "faq_id": "A-20-02-13-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de error se describe en el texto? Respuesta: Error de Solicitud de Webservice SAT, identificado como Incidencia 02."
   },
   {
-    "q": "¿Cuál es el nivel de la incidencia descrita?",
-    "a": "El nivel de la incidencia es 2 – Medio.",
+    "q": "¿Cuál es el nivel de gravedad del error descrito?",
+    "a": "El nivel de gravedad es 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "nivel",
-      "incidencia",
+      "gravedad",
+      "error",
       "medio",
-      "clasificación"
-    ]
+      "incidencia"
+    ],
+    "faq_id": "A-20-02-13-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de gravedad del error descrito? Respuesta: El nivel de gravedad es 2 – Medio."
   },
   {
-    "q": "¿Qué recursos se mencionan para resolver el problema?",
-    "a": "Se menciona el uso de MiAdminXML.",
+    "q": "¿Qué recursos se necesitan para resolver el error de solicitud de Webservice SAT?",
+    "a": "Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "recursos",
-      "miadminxml",
-      "herramienta",
-      "solución"
-    ]
-  },
-  {
-    "q": "¿Qué políticas se deben cumplir para usar el Webservice SAT?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "políticas",
       "licencia",
+      "miadminxml",
       "periodo",
-      "demostrativo",
-      "requisitos"
-    ]
+      "demostrativo"
+    ],
+    "faq_id": "A-20-02-13-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recursos se necesitan para resolver el error de solicitud de Webservice SAT? Respuesta: Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué alcances tiene la solución propuesta?",
-    "a": "La solución incluye la verificación de solicitudes y descarga de paquetes.",
+    "q": "¿Qué alcances tiene la solución para el error de solicitud de Webservice SAT?",
+    "a": "Los alcances incluyen la verificación de solicitudes y descarga de paquetes.",
     "product": "MiAdminXML",
+    "categoria": "Alcances",
     "keywords": [
       "alcances",
       "verificación",
       "solicitudes",
       "descarga",
       "paquetes"
-    ]
+    ],
+    "faq_id": "A-20-02-13-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué alcances tiene la solución para el error de solicitud de Webservice SAT? Respuesta: Los alcances incluyen la verificación de solicitudes y descarga de paquetes."
   },
   {
-    "q": "¿Cuáles son las posibles causas del error en la solicitud?",
-    "a": "El error puede ocurrir por intermitencia en internet o fallas en el portal del SAT durante la descarga de paquetes.",
+    "q": "¿Cuáles son las posibles causas del error de solicitud en el Webservice SAT?",
+    "a": "Puede ocurrir por intermitencia en internet o fallas en el portal del SAT durante la descarga de paquetes.",
     "product": "MiAdminXML",
+    "categoria": "Causas",
     "keywords": [
       "causas",
       "error",
-      "intermitencia",
       "internet",
       "portal",
-      "sat"
-    ]
+      "sat",
+      "descarga"
+    ],
+    "faq_id": "A-20-02-13-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son las posibles causas del error de solicitud en el Webservice SAT? Respuesta: Puede ocurrir por intermitencia en internet o fallas en el portal del SAT durante la descarga de paquetes."
   },
   {
-    "q": "¿Cuál es la primera solución propuesta para el error?",
-    "a": "Usar la herramienta de Desmarcable siguiendo cuatro pasos: clic derecho en los paquetes no descargados, seleccionar Desmarcable, aceptar el letrero emergente y dar clic en marcaqr verificable.",
+    "q": "¿Cuál es la primera solución recomendada para resolver el error de solicitud?",
+    "a": "Usar la herramienta de Desmarcable siguiendo los pasos: clic derecho en los paquetes no descargados, seleccionar Desmarcable, aceptar el letrero emergente y dar clic en marcaqr verificable.",
     "product": "MiAdminXML",
+    "categoria": "Soluciones",
     "keywords": [
       "solución",
       "desmarcable",
       "pasos",
       "paquetes",
-      "descarga"
-    ]
+      "descarga",
+      "error"
+    ],
+    "faq_id": "A-20-02-13-01-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la primera solución recomendada para resolver el error de solicitud? Respuesta: Usar la herramienta de Desmarcable siguiendo los pasos: clic derecho en los paquetes no descargados, seleccionar Desmarcable, aceptar el letrero emergente y dar clic en marcaqr verificable."
   },
   {
-    "q": "¿Cuál es la segunda solución propuesta para evitar el error?",
+    "q": "¿Cuál es la segunda solución recomendada para evitar el error de solicitud?",
     "a": "Hacer uso del módulo de Descarga Masiva WebServiceSAT fuera de los horarios pico de 11am o 3pm.",
     "product": "MiAdminXML",
+    "categoria": "Soluciones",
     "keywords": [
       "solución",
-      "horarios",
-      "pico",
       "descarga",
       "masiva",
-      "webservicesat"
-    ]
+      "horarios",
+      "pico",
+      "11am",
+      "3pm"
+    ],
+    "faq_id": "A-20-02-13-01-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la segunda solución recomendada para evitar el error de solicitud? Respuesta: Hacer uso del módulo de Descarga Masiva WebServiceSAT fuera de los horarios pico de 11am o 3pm."
   }
 ]

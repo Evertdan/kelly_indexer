@@ -1,22 +1,27 @@
 [
   {
     "q": "¿Qué es el validador de XML en MiAdminXML?",
-    "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas, haciendo una comprobación de que los documentos son los correctos, mostrando su nomenclatura, codificación, metadata y etc; para así poder corroborar que puede subir esta información al portal del SAT.",
+    "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas, haciendo una comprobación de que los documentos son los correctos, mostrando su nomenclatura, codificación, metadata y etc; Para así poder corroborar que puede subir esta información al portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
       "validador",
       "xml",
       "balanza",
       "catálogo de cuentas",
-      "comprobación",
       "sat",
-      "documentos"
-    ]
+      "comprobación",
+      "metadata",
+      "nomenclatura"
+    ],
+    "faq_id": "A-20-03-25-05-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el validador de XML en MiAdminXML? Respuesta: El validador de XML funciona para los archivos de balanza o catálogo de cuentas, haciendo una comprobación de que los documentos son los correctos, mostrando su nomenclatura, codificación, metadata y etc; Para así poder corroborar que puede subir esta información al portal del SAT."
   },
   {
-    "q": "¿Qué se necesita para usar el validador de XML en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional, o estar en el periodo demostrativo. Si no se cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué requisitos se necesitan para usar el validador de XML en MiAdminXML?",
+    "a": "Contar con la licencia MiAdminXML Profesional, o estar en el periodo demostrativo. Si no cuenta con ninguna de las anteriores, se soluciona el problema por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -25,46 +30,58 @@
       "correo electrónico",
       "validador",
       "xml"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar el validador de XML en MiAdminXML? Respuesta: Contar con la licencia MiAdminXML Profesional, o estar en el periodo demostrativo. Si no cuenta con ninguna de las anteriores, se soluciona el problema por correo electrónico."
   },
   {
     "q": "¿Qué tipo de archivos puede validar el validador de XML en MiAdminXML?",
     "a": "El validador de XML funciona para los archivos de balanza o catálogo de cuentas.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
-      "archivos",
+      "validador",
+      "xml",
       "balanza",
       "catálogo de cuentas",
-      "validación",
-      "xml",
-      "tipo"
-    ]
+      "archivos",
+      "validación"
+    ],
+    "faq_id": "A-20-03-25-05-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de archivos puede validar el validador de XML en MiAdminXML? Respuesta: El validador de XML funciona para los archivos de balanza o catálogo de cuentas."
   },
   {
     "q": "¿Qué información muestra el validador de XML de MiAdminXML?",
     "a": "Muestra la nomenclatura, codificación, metadata y etc de los documentos, para corroborar que se pueden subir al portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
-      "información",
+      "validador",
+      "xml",
       "nomenclatura",
       "codificación",
       "metadata",
-      "documentos",
       "sat",
-      "mostrar"
-    ]
+      "información",
+      "documentos"
+    ],
+    "faq_id": "A-20-03-25-05-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información muestra el validador de XML de MiAdminXML? Respuesta: Muestra la nomenclatura, codificación, metadata y etc de los documentos, para corroborar que se pueden subir al portal del SAT."
   },
   {
     "q": "¿Qué nivel de soporte tiene el validador de XML en MiAdminXML?",
-    "a": "El validador de XML tiene un nivel de soporte Temprano, específicamente Nivel 1 - Temprano.",
+    "a": "El validador de XML tiene un nivel de soporte Nivel 1 - Temprano.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "soporte",
-      "nivel",
-      "temprano",
-      "nivel 1",
       "validador",
-      "xml"
-    ]
+      "xml",
+      "soporte",
+      "nivel 1",
+      "temprano",
+      "ayuda"
+    ],
+    "faq_id": "A-20-03-25-05-07_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte tiene el validador de XML en MiAdminXML? Respuesta: El validador de XML tiene un nivel de soporte Nivel 1 - Temprano."
   }
 ]

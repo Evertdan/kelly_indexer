@@ -1,74 +1,118 @@
 [
   {
-    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook?",
-    "a": "Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
+    "q": "¿Qué hacer si no recibo el correo de confirmación de MiExpedienteContable en mi bandeja de entrada?",
+    "a": "Se recomienda verificar la bandeja de spam y seguir los pasos para marcar el correo como deseado, agregar el contacto y dominio de Computo Contable a remitentes seguros según tu cliente de correo (Outlook, Gmail o Yahoo).",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
     "keywords": [
-      "outlook",
       "correo",
       "confirmación",
       "spam",
-      "remitentes seguros"
-    ]
+      "bandeja",
+      "entrada",
+      "solución",
+      "outlook",
+      "gmail",
+      "yahoo"
+    ],
+    "faq_id": "D-20-02-04-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no recibo el correo de confirmación de MiExpedienteContable en mi bandeja de entrada? Respuesta: Se recomienda verificar la bandeja de spam y seguir los pasos para marcar el correo como deseado, agregar el contacto y dominio de Computo Contable a remitentes seguros según tu cliente de correo (Outlook, Gmail o Yahoo)."
   },
   {
-    "q": "¿Cómo puedo asegurarme de recibir correos de MiExpedienteContable en Gmail?",
-    "a": "Iniciar sesión en Gmail, agregar el contacto ventas@correo1.computocontable.com en la lista de contactos y luego intentar nuevamente el proceso de registro y validación.",
+    "q": "¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable?",
+    "a": "Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos",
+    "keywords": [
+      "licencia",
+      "periodo demostrativo",
+      "correo",
+      "requisitos",
+      "solución",
+      "envío"
+    ],
+    "faq_id": "D-20-02-04-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable? Respuesta: Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico."
+  },
+  {
+    "q": "¿Cómo agregar el correo de Computo Contable a remitentes seguros en Outlook?",
+    "a": "Ir a Configuración > Ver toda la configuración de Outlook > Correo > Correo no deseado > Remitentes y dominios seguros > Agregar el correo ventas@correo1.computocontable.com y dar clic en Guardar.",
+    "product": "MiExpedienteContable",
+    "categoria": "Configuración",
+    "keywords": [
+      "outlook",
+      "remitentes seguros",
+      "configuración",
+      "correo",
+      "spam",
+      "agregar",
+      "dominio"
+    ],
+    "faq_id": "D-20-02-04-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el correo de Computo Contable a remitentes seguros en Outlook? Respuesta: Ir a Configuración > Ver toda la configuración de Outlook > Correo > Correo no deseado > Remitentes y dominios seguros > Agregar el correo ventas@correo1.computocontable.com y dar clic en Guardar."
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Gmail?",
+    "a": "Iniciar sesión en Gmail, ir a Google Apps > Contactos > Crear contacto > Llenar datos con ventas@correo1.computocontable.com > Guardar.",
+    "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "gmail",
       "contactos",
+      "agregar",
       "correo",
-      "registro",
-      "validación"
-    ]
+      "configuración",
+      "spam",
+      "solución"
+    ],
+    "faq_id": "D-20-02-04-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el contacto de Computo Contable en Gmail? Respuesta: Iniciar sesión en Gmail, ir a Google Apps > Contactos > Crear contacto > Llenar datos con ventas@correo1.computocontable.com > Guardar."
   },
   {
-    "q": "¿Qué pasos debo seguir para recibir correos de MiExpedienteContable en Yahoo?",
-    "a": "Agregar un nuevo contacto en Yahoo con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com, luego guardar el contacto.",
+    "q": "¿Cómo marcar un correo como deseado en Outlook?",
+    "a": "Dar clic derecho sobre el correo en la bandeja de spam y seleccionar 'Marcar como correo deseado'.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
-      "yahoo",
-      "contactos",
-      "correo",
-      "computo contable",
-      "guardar"
-    ]
+      "outlook",
+      "correo deseado",
+      "spam",
+      "marcar",
+      "solución"
+    ],
+    "faq_id": "D-20-02-04-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo marcar un correo como deseado en Outlook? Respuesta: Dar clic derecho sobre el correo en la bandeja de spam y seleccionar 'Marcar como correo deseado'."
   },
   {
-    "q": "¿Qué requisitos se necesitan para recibir soporte sobre correos no recibidos en MiExpedienteContable?",
-    "a": "Contar con una licencia de MiExpedienteContable o estar en periodo demostrativo, de lo contrario la solución se enviará por correo electrónico.",
+    "q": "¿Qué correo de contacto se debe agregar para solucionar problemas de recepción en MiExpedienteContable?",
+    "a": "Se debe agregar el correo ventas@correo1.computocontable.com como contacto y remitente seguro.",
     "product": "MiExpedienteContable",
-    "keywords": [
-      "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "soporte",
-      "correo electrónico"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de incidencia es no recibir correos de confirmación en MiExpedienteContable?",
-    "a": "Es una incidencia tipo INC-02 con nivel de prioridad 2 - Medio.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "incidencia",
-      "tipo",
-      "nivel",
-      "prioridad",
-      "correo confirmación"
-    ]
-  },
-  {
-    "q": "¿Qué correo debo agregar como contacto para recibir correos de MiExpedienteContable?",
-    "a": "Debes agregar el correo ventas@correo1.computocontable.com como contacto en tu cliente de correo.",
-    "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
     "keywords": [
       "correo",
       "contacto",
-      "ventas",
-      "computocontable",
-      "agregar"
-    ]
+      "solución",
+      "spam",
+      "agregar",
+      "ventas"
+    ],
+    "faq_id": "D-20-02-04-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué correo de contacto se debe agregar para solucionar problemas de recepción en MiExpedienteContable? Respuesta: Se debe agregar el correo ventas@correo1.computocontable.com como contacto y remitente seguro."
+  },
+  {
+    "q": "¿Cómo agregar un nuevo contacto en Yahoo Mail?",
+    "a": "Dar clic en Contactos > Nuevo contacto > Llenar datos con Nombre: Computo Contable y correo: ventas@correo1.computocontable.com > Guardar.",
+    "product": "MiExpedienteContable",
+    "categoria": "Configuración",
+    "keywords": [
+      "yahoo",
+      "contactos",
+      "agregar",
+      "correo",
+      "configuración",
+      "spam"
+    ],
+    "faq_id": "D-20-02-04-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar un nuevo contacto en Yahoo Mail? Respuesta: Dar clic en Contactos > Nuevo contacto > Llenar datos con Nombre: Computo Contable y correo: ventas@correo1.computocontable.com > Guardar."
   }
 ]

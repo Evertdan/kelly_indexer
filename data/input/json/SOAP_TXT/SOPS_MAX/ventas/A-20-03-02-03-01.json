@@ -1,36 +1,43 @@
 [
   {
-    "q": "¿Cuáles son los pasos para realizar una compra en adminxml.com?",
-    "a": "1. Ingresar a www.adminxml.com. 2. Posicionarse en el apartado de precios y beneficios y dar clic en 'Comprar Ahora' en el paquete deseado. 3. Llenar la orden de compra con datos de contacto. 4. Marcar la casilla 'Requiero factura' si se necesita. 5. Seleccionar la cantidad de licencias y dar clic en continuar. 6. Confirmar los datos de facturación y seleccionar el método de pago.",
-    "product": "adminxml",
+    "q": "¿Cuáles son los pasos para realizar una compra en AdminXML?",
+    "a": "Los pasos son: 1) Ingresar a www.adminxml.com, 2) Seleccionar el paquete deseado en 'Precios y beneficios' y hacer clic en 'Comprar Ahora', 3) Llenar la orden de compra con datos de contacto, 4) Marcar la casilla 'Requiero factura' si es necesario, 5) Seleccionar la cantidad de licencias y hacer clic en continuar, 6) Confirmar datos de facturación y seleccionar método de pago.",
+    "product": "AdminXML",
+    "categoria": "Compra",
     "keywords": [
       "pasos",
       "compra",
       "adminxml",
       "proceso",
       "orden",
-      "licencias",
       "factura",
+      "licencias",
       "pago"
-    ]
+    ],
+    "faq_id": "A-20-03-02-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para realizar una compra en AdminXML? Respuesta: Los pasos son: 1) Ingresar a www.adminxml.com, 2) Seleccionar el paquete deseado en 'Precios y beneficios' y hacer clic en 'Comprar Ahora', 3) Llenar la orden de compra con datos de contacto, 4) Marcar la casilla 'Requiero factura' si es necesario, 5) Seleccionar la cantidad de licencias y hacer clic en continuar, 6) Confirmar datos de facturación y seleccionar método de pago."
   },
   {
-    "q": "¿Qué descuentos hay por compra en volumen en adminxml.com?",
-    "a": "Los descuentos por compra en volumen son: 5-9 Licencias 10%, 10-14 Licencias 15%, 15 licencias o más 20%.",
-    "product": "adminxml",
+    "q": "¿Qué descuentos aplican por compra de licencias en volumen en AdminXML?",
+    "a": "Los descuentos son: 5-9 Licencias 10%, 10-14 Licencias 15%, 15 licencias o más 20%.",
+    "product": "AdminXML",
+    "categoria": "Compra",
     "keywords": [
       "descuentos",
-      "volumen",
       "licencias",
+      "volumen",
       "compra",
       "porcentaje",
       "adminxml"
-    ]
+    ],
+    "faq_id": "A-20-03-02-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué descuentos aplican por compra de licencias en volumen en AdminXML? Respuesta: Los descuentos son: 5-9 Licencias 10%, 10-14 Licencias 15%, 15 licencias o más 20%."
   },
   {
     "q": "¿Cuánto tiempo tarda en llegar la clave de licencia si pago por transferencia o en tienda?",
     "a": "En un lapso de 3 a 24 horas estarás recibiendo tu clave de licencia y factura (en caso de haberla solicitado) al correo que registraste en tu orden de compra.",
-    "product": "adminxml",
+    "product": "AdminXML",
+    "categoria": "Compra",
     "keywords": [
       "tiempo",
       "clave",
@@ -38,52 +45,76 @@
       "transferencia",
       "tienda",
       "factura",
-      "correo",
-      "orden"
-    ]
+      "correo"
+    ],
+    "faq_id": "A-20-03-02-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tarda en llegar la clave de licencia si pago por transferencia o en tienda? Respuesta: En un lapso de 3 a 24 horas estarás recibiendo tu clave de licencia y factura (en caso de haberla solicitado) al correo que registraste en tu orden de compra."
   },
   {
     "q": "¿Qué debo hacer si no recibo mi clave de licencia después de 3-4 horas?",
     "a": "Te sugerimos comunicarte al área de atención a clientes, teniendo a la mano el número de orden de compra.",
-    "product": "adminxml",
+    "product": "AdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "clave",
       "licencia",
-      "no recibo",
-      "atención",
-      "clientes",
+      "no llega",
+      "soporte",
       "orden",
       "compra",
-      "soporte"
-    ]
+      "ayuda"
+    ],
+    "faq_id": "A-20-03-02-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no recibo mi clave de licencia después de 3-4 horas? Respuesta: Te sugerimos comunicarte al área de atención a clientes, teniendo a la mano el número de orden de compra."
   },
   {
     "q": "¿Cómo recibo mi clave de licencia si pago con tarjeta de crédito o débito?",
     "a": "En cuanto tu pago sea exitoso aparecerá una pantalla con tu clave de licencia y tu factura, de igual manera será enviada por correo electrónico.",
-    "product": "adminxml",
+    "product": "AdminXML",
+    "categoria": "Compra",
     "keywords": [
-      "clave",
-      "licencia",
       "tarjeta",
       "crédito",
       "débito",
-      "pago",
+      "clave",
+      "licencia",
       "factura",
-      "correo"
-    ]
+      "correo",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo recibo mi clave de licencia si pago con tarjeta de crédito o débito? Respuesta: En cuanto tu pago sea exitoso aparecerá una pantalla con tu clave de licencia y tu factura, de igual manera será enviada por correo electrónico."
   },
   {
     "q": "¿Cómo puedo enviar los pasos de compra por correo electrónico?",
-    "a": "1. Ingresar a nuestro correo. 2. Insertar la plantilla 'Pasos de compra'.",
-    "product": "adminxml",
+    "a": "Ingresando a tu correo e insertando la plantilla 'Pasos de compra'.",
+    "product": "AdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "pasos",
       "compra",
       "correo",
       "electrónico",
       "plantilla",
-      "enviar",
-      "instrucciones"
-    ]
+      "envío"
+    ],
+    "faq_id": "A-20-03-02-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo enviar los pasos de compra por correo electrónico? Respuesta: Ingresando a tu correo e insertando la plantilla 'Pasos de compra'."
+  },
+  {
+    "q": "¿Dónde puedo encontrar los paquetes disponibles para comprar en AdminXML?",
+    "a": "En la página www.adminxml.com, en el apartado de 'Precios y beneficios'.",
+    "product": "AdminXML",
+    "categoria": "Compra",
+    "keywords": [
+      "paquetes",
+      "compra",
+      "precios",
+      "beneficios",
+      "adminxml",
+      "sitio web"
+    ],
+    "faq_id": "A-20-03-02-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar los paquetes disponibles para comprar en AdminXML? Respuesta: En la página www.adminxml.com, en el apartado de 'Precios y beneficios'."
   }
 ]

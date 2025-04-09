@@ -1,122 +1,122 @@
 [
   {
-    "q": "¿Qué sucede si un cliente marca como SPAM los correos de MiAdminXML?",
-    "a": "Si un cliente marca como SPAM los correos de MiAdminXML, se le solicitará que agregue a ventas@computocontable.com como remitente seguro. Si no responde, se restringirá el uso de MiAdminXML hasta que realice la configuración.",
+    "q": "¿Qué sucede si un cliente marca los correos de MiAdminXML como SPAM?",
+    "a": "Si un cliente marca los correos como SPAM, se le solicitará que agregue ventas@computocontable.com como remitente seguro. Si no lo hace, se restringirá el uso de MiAdminXML hasta que realice la configuración.",
     "product": "MiAdminXML",
+    "categoria": "Correo SPAM",
     "keywords": [
       "spam",
       "correo",
       "restricción",
       "remitente seguro",
       "configuración"
-    ]
+    ],
+    "faq_id": "A-20-02-06-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si un cliente marca los correos de MiAdminXML como SPAM? Respuesta: Si un cliente marca los correos como SPAM, se le solicitará que agregue ventas@computocontable.com como remitente seguro. Si no lo hace, se restringirá el uso de MiAdminXML hasta que realice la configuración."
   },
   {
-    "q": "¿Qué correo se envía inicialmente a un cliente que marcó como SPAM los correos de MiAdminXML?",
-    "a": "Se envía un correo con el asunto 'Problemas de entrega de correo', informando que debido a que marcó el correo como SPAM, se está afectando el servicio de entrega de licencias y facturas, y solicitando que agregue a ventas@computocontable.com como remitente seguro.",
+    "q": "¿Qué correos se ven afectados si un cliente marca como SPAM los correos de MiAdminXML?",
+    "a": "Los correos afectados incluyen facturas, licencias, códigos de validación, primeros pasos de MJP y descargas MJ. Microsoft Live limita la entrega a direcciones como @hotmail.com, @outlook.com, @msn.com y @live.com.",
     "product": "MiAdminXML",
+    "categoria": "Correo SPAM",
     "keywords": [
-      "correo inicial",
+      "correos afectados",
       "spam",
-      "problemas entrega",
-      "remitente seguro",
-      "soporte"
-    ]
+      "microsoft live",
+      "limitación",
+      "entrega"
+    ],
+    "faq_id": "A-20-02-06-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué correos se ven afectados si un cliente marca como SPAM los correos de MiAdminXML? Respuesta: Los correos afectados incluyen facturas, licencias, códigos de validación, primeros pasos de MJP y descargas MJ. Microsoft Live limita la entrega a direcciones como @hotmail.com, @outlook.com, @msn.com y @live.com."
   },
   {
-    "q": "¿Qué pasa si el cliente no responde al primer correo sobre el marcado como SPAM?",
-    "a": "Si el cliente no responde en 3 días, se envía un segundo correo advirtiendo sobre la restricción del uso de MiAdminXML hasta que agregue a ventas@computocontable.com como remitente seguro.",
+    "q": "¿Qué pasos se siguen cuando un cliente marca los correos como SPAM?",
+    "a": "1. Se envía un primer correo solicitando ser agregado como remitente seguro. 2. Si no hay respuesta en 3 días, se envía un segundo correo advirtiendo restricciones. 3. Si no responde en 2 días, se limita el acceso a MiAdminXML y se notifica al área de desarrollo.",
     "product": "MiAdminXML",
+    "categoria": "Proceso SPAM",
     "keywords": [
-      "segundo correo",
-      "no respuesta",
-      "restricción",
+      "pasos",
+      "spam",
+      "correo",
       "remitente seguro",
-      "plazo"
-    ]
+      "restricción"
+    ],
+    "faq_id": "A-20-02-06-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se siguen cuando un cliente marca los correos como SPAM? Respuesta: 1. Se envía un primer correo solicitando ser agregado como remitente seguro. 2. Si no hay respuesta en 3 días, se envía un segundo correo advirtiendo restricciones. 3. Si no responde en 2 días, se limita el acceso a MiAdminXML y se notifica al área de desarrollo."
   },
   {
-    "q": "¿Qué ocurre con los clientes con licencia que no responden a los correos sobre SPAM?",
-    "a": "Se les incluye en el 'listado de no envío de correos', lo que les impide recibir fichas de compra, claves de licencias, facturas, códigos de validación, y se les restringe el uso de MiAdminXML.",
+    "q": "¿Qué ocurre si un cliente no responde a los correos de solicitud de remitente seguro?",
+    "a": "Si el cliente no responde, se le restringe el uso de MiAdminXML, regresándolo al Pre-registro y no permitiéndole avanzar hasta que configure el remitente seguro.",
     "product": "MiAdminXML",
+    "categoria": "Restricciones",
     "keywords": [
-      "clientes con licencia",
       "no respuesta",
-      "listado no envío",
       "restricción",
-      "correos"
-    ]
+      "pre-registro",
+      "acceso",
+      "configuración"
+    ],
+    "faq_id": "A-20-02-06-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué ocurre si un cliente no responde a los correos de solicitud de remitente seguro? Respuesta: Si el cliente no responde, se le restringe el uso de MiAdminXML, regresándolo al Pre-registro y no permitiéndole avanzar hasta que configure el remitente seguro."
   },
   {
     "q": "¿Cómo se verifica si un correo está en la lista de SPAM o no envío?",
-    "a": "Usando el comando /listacorreo en el bot, seguido de la dirección de correo electrónico, se busca en la lista de dominios incorrectos y en la lista de no envío.",
+    "a": "Usando el comando /listacorreo + correo en el bot, se busca en la lista de dominios incorrectos y en la lista de no envío.",
     "product": "MiAdminXML",
+    "categoria": "Verificación",
     "keywords": [
       "verificación",
-      "correo",
-      "listado spam",
+      "spam",
+      "lista",
       "comando",
       "bot"
-    ]
+    ],
+    "faq_id": "A-20-02-06-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se verifica si un correo está en la lista de SPAM o no envío? Respuesta: Usando el comando /listacorreo + correo en el bot, se busca en la lista de dominios incorrectos y en la lista de no envío."
   },
   {
-    "q": "¿Qué debe hacer soporte técnico una vez que el cliente acepta agregar el remitente seguro?",
-    "a": "Soporte técnico debe realizar la configuración para agregar a ventas@computocontable.com como contacto y dominio seguro, y luego avisar al área de desarrollo para permitir que el cliente pase del Pre-registro.",
+    "q": "¿Qué tipos de casos se identifican al verificar un correo con /listacorreo?",
+    "a": "1. No está en la lista. 2. Dominio incorrecto (ejemplo: hotmal.com en lugar de hotmail.com). 3. Cliente que marcó como SPAM o pidió no recibir correos.",
     "product": "MiAdminXML",
+    "categoria": "Verificación",
     "keywords": [
-      "soporte técnico",
-      "configuración",
-      "remitente seguro",
-      "desarrollo",
-      "pre-registro"
-    ]
+      "casos",
+      "verificación",
+      "dominio incorrecto",
+      "spam",
+      "lista"
+    ],
+    "faq_id": "A-20-02-06-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de casos se identifican al verificar un correo con /listacorreo? Respuesta: 1. No está en la lista. 2. Dominio incorrecto (ejemplo: hotmal.com en lugar de hotmail.com). 3. Cliente que marcó como SPAM o pidió no recibir correos."
   },
   {
-    "q": "¿Cuánto tiempo tarda en habilitarse el acceso a MiAdminXML después de la configuración?",
-    "a": "Una vez que soporte técnico realiza la configuración y avisa al área de desarrollo, el cliente podrá ingresar nuevamente a MiAdminXML en un plazo de 3 a 5 minutos.",
+    "q": "¿Qué dirección de correo se debe agregar como remitente seguro?",
+    "a": "Se debe agregar ventas@computocontable.com como remitente seguro para evitar restricciones en MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
+    "keywords": [
+      "remitente seguro",
+      "correo",
+      "ventas",
+      "configuración",
+      "spam"
+    ],
+    "faq_id": "A-20-02-06-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué dirección de correo se debe agregar como remitente seguro? Respuesta: Se debe agregar ventas@computocontable.com como remitente seguro para evitar restricciones en MiAdminXML."
+  },
+  {
+    "q": "¿Cuánto tiempo tarda en restablecerse el acceso a MiAdminXML después de configurar el remitente seguro?",
+    "a": "Una vez configurado el remitente seguro, el área de desarrollo tarda de 3 a 5 minutos en permitir el acceso nuevamente a MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Tiempos",
     "keywords": [
       "tiempo",
-      "habilitación",
+      "restablecer",
       "acceso",
       "configuración",
       "desarrollo"
-    ]
-  },
-  {
-    "q": "¿Qué tipos de dominios son afectados cuando un cliente marca como SPAM los correos de MiAdminXML?",
-    "a": "Los dominios afectados son @hotmail.com, @outlook.com, @msn.com, @live.com y similares, ya que Microsoft Live limita la entrega de correos electrónicos a estas direcciones.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "dominios",
-      "afectados",
-      "microsoft live",
-      "correos",
-      "spam"
-    ]
-  },
-  {
-    "q": "¿Qué información contiene el segundo correo enviado a clientes sin licencia?",
-    "a": "El segundo correo a clientes sin licencia tiene el asunto 'Aviso de restricción de uso de MiAdminXML' y advierte que se reserva el derecho de uso de MiAdminXML básico hasta que agregue a ventas@computocontable.com como remitente seguro.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "segundo correo",
-      "clientes sin licencia",
-      "restricción",
-      "aviso",
-      "remitente seguro"
-    ]
-  },
-  {
-    "q": "¿Qué sucede si un cliente no responde a los correos y está en el listado de no envío?",
-    "a": "Cuando los clientes en el listado de no envío ingresan a MiAdminXML, el sistema los regresará al Pre-registro y no les permitirá avanzar más allá de ese punto.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "listado no envío",
-      "pre-registro",
-      "restricción",
-      "ingreso",
-      "clientes"
-    ]
+    ],
+    "faq_id": "A-20-02-06-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tarda en restablecerse el acceso a MiAdminXML después de configurar el remitente seguro? Respuesta: Una vez configurado el remitente seguro, el área de desarrollo tarda de 3 a 5 minutos en permitir el acceso nuevamente a MiAdminXML."
   }
 ]

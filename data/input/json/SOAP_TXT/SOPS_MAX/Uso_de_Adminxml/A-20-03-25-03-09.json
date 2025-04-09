@@ -1,74 +1,69 @@
 [
   {
-    "q": "¿Qué permite hacer la herramienta de validación de estado SAT en MiAdminXML?",
+    "q": "¿Qué permite hacer la herramienta de validación estado SAT en MiAdminXML?",
     "a": "La herramienta permite realizar la conexión directamente con los servidores del SAT para validar si los CFDIs están vigentes o cancelados.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
       "validación",
-      "estado sat",
+      "sat",
       "cfdi",
       "vigente",
       "cancelado",
       "herramienta",
-      "conexión",
-      "servidores"
-    ]
+      "estado"
+    ],
+    "faq_id": "A-20-03-25-03-09_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta de validación estado SAT en MiAdminXML? Respuesta: La herramienta permite realizar la conexión directamente con los servidores del SAT para validar si los CFDIs están vigentes o cancelados."
   },
   {
-    "q": "¿Qué se necesita para usar la herramienta de validación de estado SAT?",
-    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
+    "q": "¿Qué se necesita para usar la herramienta de validación estado SAT?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo del producto.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
       "validación",
-      "estado sat",
-      "necesario"
-    ]
+      "sat",
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-03-09_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta de validación estado SAT? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo del producto."
   },
   {
-    "q": "¿Cómo se puede visualizar el estado de los CFDIs en MiAdminXML?",
+    "q": "¿Cómo se puede visualizar el estatus del XML en MiAdminXML?",
     "a": "Se recomienda tener habilitada la columna de Estado SAT para que aparezca el estatus del XML.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
-      "visualizar",
-      "estado sat",
-      "cfdi",
-      "columna",
       "estatus",
       "xml",
-      "habilitar"
-    ]
+      "columna",
+      "estado sat",
+      "visualización",
+      "configuración"
+    ],
+    "faq_id": "A-20-03-25-03-09_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede visualizar el estatus del XML en MiAdminXML? Respuesta: Se recomienda tener habilitada la columna de Estado SAT para que aparezca el estatus del XML."
   },
   {
-    "q": "¿Cuáles son los pasos para validar el estado de los CFDIs en MiAdminXML?",
-    "a": "Primero hay que ingresar al módulo de Administración de XML, luego seleccionar RFC, tipo de comprobante, año y mes.",
+    "q": "¿Cuáles son los pasos para realizar la validación de CFDIs en MiAdminXML?",
+    "a": "Los pasos son: ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "pasos",
       "validación",
-      "estado sat",
       "cfdi",
       "administración xml",
       "rfc",
       "comprobante",
       "año",
       "mes"
-    ]
-  },
-  {
-    "q": "¿Qué información se puede obtener al validar el estado de los CFDIs?",
-    "a": "Se puede saber si los CFDIs están vigentes o cancelados.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "información",
-      "validación",
-      "estado sat",
-      "cfdi",
-      "vigente",
-      "cancelado",
-      "resultados"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-09_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para realizar la validación de CFDIs en MiAdminXML? Respuesta: Los pasos son: ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes."
   }
 ]

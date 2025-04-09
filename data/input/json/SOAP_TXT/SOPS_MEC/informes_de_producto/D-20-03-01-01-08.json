@@ -3,6 +3,7 @@
     "q": "¿En cuántos equipos se puede utilizar la clave de licencia de MiExpedienteContable?",
     "a": "La clave de licencia de MiExpedienteContable se usa únicamente en un equipo y/o sesión de usuario.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
       "licencia",
       "equipos",
@@ -11,12 +12,15 @@
       "sesión",
       "usuario",
       "restricciones"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿En cuántos equipos se puede utilizar la clave de licencia de MiExpedienteContable? Respuesta: La clave de licencia de MiExpedienteContable se usa únicamente en un equipo y/o sesión de usuario."
   },
   {
     "q": "¿Cuáles son los requisitos de instalación para MiExpedienteContable?",
-    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, mínimo de 200 MB de espacio en disco duro. No es compatible con MAC.",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, mínimo de 200 MB de espacio en disco duro. No es compatible con MAC, Windows 7, Windows 8 ni Windows 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
       "requisitos",
       "instalación",
@@ -26,56 +30,37 @@
       "ram",
       "disco duro",
       "compatibilidad"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos de instalación para MiExpedienteContable? Respuesta: Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, mínimo de 200 MB de espacio en disco duro. No es compatible con MAC, Windows 7, Windows 8 ni Windows 8.1."
   },
   {
     "q": "¿MiExpedienteContable es compatible con macOS?",
     "a": "No, el software no es compatible con macOS.",
     "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
     "keywords": [
       "compatibilidad",
       "macos",
       "no compatible",
-      "sistema operativo",
-      "apple"
-    ]
+      "sistema operativo"
+    ],
+    "faq_id": "D-20-03-01-01-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿MiExpedienteContable es compatible con macOS? Respuesta: No, el software no es compatible con macOS."
   },
   {
-    "q": "¿MiExpedienteContable funciona en Windows 7, 8 u 8.1?",
-    "a": "No, el sistema no es compatible con Windows 7, Windows 8 ni Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles del proveedor.",
+    "q": "¿MiExpedienteContable funciona en Windows 7 u 8?",
+    "a": "No, el sistema no es compatible con Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles.",
     "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
     "keywords": [
       "windows 7",
       "windows 8",
-      "windows 8.1",
       "compatibilidad",
-      "no compatible",
       "actualizaciones",
-      "sistema operativo"
-    ]
-  },
-  {
-    "q": "¿Qué versión de Windows es compatible con MiExpedienteContable?",
-    "a": "MiExpedienteContable es compatible con Windows 10 u 11 de 64 bits.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "windows",
-      "versión",
-      "compatible",
-      "64 bits",
-      "sistema operativo"
-    ]
-  },
-  {
-    "q": "¿Qué navegador se requiere para MiExpedienteContable?",
-    "a": "Se requiere Internet Explorer 10 u 11 para el uso de MiExpedienteContable.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "navegador",
-      "internet explorer",
-      "requisitos",
-      "versión",
-      "compatibilidad"
-    ]
+      "no compatible"
+    ],
+    "faq_id": "D-20-03-01-01-08_q3",
+    "texto_para_vectorizar": "Pregunta: ¿MiExpedienteContable funciona en Windows 7 u 8? Respuesta: No, el sistema no es compatible con Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles."
   }
 ]

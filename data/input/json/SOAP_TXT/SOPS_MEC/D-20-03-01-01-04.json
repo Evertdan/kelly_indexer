@@ -1,23 +1,27 @@
 [
   {
     "q": "¿Qué es Mi Expediente Contable (MEC) y cuáles son sus beneficios principales?",
-    "a": "Mi Expediente Contable (MEC) es un programa que permite gestionar información de contribuyentes de forma fácil, rápida y segura. Entre sus beneficios principales están: crear expedientes digitales organizados, almacenar contraseñas de forma segura, recibir recordatorios de vencimiento de certificados, controlar contribuyentes asignados por contador, restringir accesos y llevar control de declaraciones presentadas.",
+    "a": "Mi Expediente Contable (MEC) es un programa que permite gestionar información de contribuyentes de forma fácil, rápida y segura. Entre sus beneficios principales están: crear expedientes digitales organizados, almacenar contraseñas de forma segura, recibir recordatorios de vencimiento de certificados, control de contribuyentes por contador, restricción de acceso por usuario y control de declaraciones presentadas.",
     "product": "Mi Expediente Contable",
+    "categoria": "General",
     "keywords": [
       "mec",
       "beneficios",
       "expediente",
       "contable",
-      "gestión",
       "contribuyentes",
+      "gestión",
       "seguridad",
       "organización"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es Mi Expediente Contable (MEC) y cuáles son sus beneficios principales? Respuesta: Mi Expediente Contable (MEC) es un programa que permite gestionar información de contribuyentes de forma fácil, rápida y segura. Entre sus beneficios principales están: crear expedientes digitales organizados, almacenar contraseñas de forma segura, recibir recordatorios de vencimiento de certificados, control de contribuyentes por contador, restricción de acceso por usuario y control de declaraciones presentadas."
   },
   {
-    "q": "¿Cuáles son las diferencias entre los paquetes Trial/Gratuito y Plus/Profesional de MEC?",
-    "a": "Las principales diferencias son: en los paquetes Trial/Gratuito solo se puede trabajar con 3 contribuyentes y 1 usuario, mientras que en Plus/Profesional no hay límite. Además, Plus/Profesional permite trabajar en red, tener notificaciones, administrar perfiles sin restricciones y personalizar logos, entre otras funcionalidades avanzadas.",
+    "q": "¿Cuáles son las diferencias principales entre los paquetes de MEC?",
+    "a": "Las principales diferencias entre los paquetes de MEC son la vigencia, el número de contribuyentes y usuarios permitidos. El trial y gratuito permiten solo 3 contribuyentes y 1 usuario, mientras que los paquetes Plus y Profesional no tienen límite. Además, solo los paquetes Plus y Profesional permiten trabajar en red y ofrecen notificaciones para agilizar el trabajo.",
     "product": "Mi Expediente Contable",
+    "categoria": "Paquetes",
     "keywords": [
       "paquetes",
       "diferencias",
@@ -25,119 +29,152 @@
       "gratuito",
       "plus",
       "profesional",
-      "límites",
       "contribuyentes",
-      "usuarios"
-    ]
+      "usuarios",
+      "vigencia"
+    ],
+    "faq_id": "D-20-03-01-01-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son las diferencias principales entre los paquetes de MEC? Respuesta: Las principales diferencias entre los paquetes de MEC son la vigencia, el número de contribuyentes y usuarios permitidos. El trial y gratuito permiten solo 3 contribuyentes y 1 usuario, mientras que los paquetes Plus y Profesional no tienen límite. Además, solo los paquetes Plus y Profesional permiten trabajar en red y ofrecen notificaciones para agilizar el trabajo."
   },
   {
     "q": "¿Qué limitaciones tiene el paquete gratuito de MEC?",
-    "a": "El paquete gratuito limita a 3 contribuyentes, 1 usuario, solo perfil por default, logo por default, no permite exportar a Excel, no incluye acuse de pago de declaración, solo 5 movimientos afiliatorios y no tiene gestión de notificaciones ni respaldos.",
+    "a": "El paquete gratuito de MEC tiene las siguientes limitaciones: solo permite trabajar con 3 contribuyentes, 1 usuario, no incluye notificaciones, no permite trabajar en red, y tiene restricciones en la administración de contadores y perfiles.",
     "product": "Mi Expediente Contable",
+    "categoria": "Paquetes",
     "keywords": [
       "gratuito",
       "limitaciones",
       "contribuyentes",
       "usuarios",
-      "funcionalidades",
-      "restricciones",
-      "paquete"
-    ]
+      "notificaciones",
+      "red",
+      "contadores",
+      "perfiles"
+    ],
+    "faq_id": "D-20-03-01-01-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué limitaciones tiene el paquete gratuito de MEC? Respuesta: El paquete gratuito de MEC tiene las siguientes limitaciones: solo permite trabajar con 3 contribuyentes, 1 usuario, no incluye notificaciones, no permite trabajar en red, y tiene restricciones en la administración de contadores y perfiles."
   },
   {
-    "q": "¿Qué ventajas ofrece la licencia profesional de MEC?",
-    "a": "La licencia profesional ofrece: sin límite de contribuyentes ni usuarios, administración ilimitada de perfiles, logo personalizado, acuse de pago de declaración, movimientos afiliatorios sin límite, control de vencimientos, gestión de notificaciones, respaldos y restauración, y capacidad de trabajar en red.",
+    "q": "¿Qué ventajas ofrece el paquete Profesional de MEC?",
+    "a": "El paquete Profesional de MEC ofrece ventajas como: sin límite de contribuyentes y usuarios, notificaciones para agilizar el trabajo, posibilidad de trabajar en red, administración ilimitada de contadores y perfiles, y gestión de respaldos y restauración.",
     "product": "Mi Expediente Contable",
+    "categoria": "Paquetes",
     "keywords": [
       "profesional",
       "ventajas",
-      "licencia",
-      "ilimitado",
+      "contribuyentes",
+      "usuarios",
       "notificaciones",
-      "respaldos",
       "red",
-      "funcionalidades"
-    ]
+      "contadores",
+      "perfiles",
+      "respaldos"
+    ],
+    "faq_id": "D-20-03-01-01-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué ventajas ofrece el paquete Profesional de MEC? Respuesta: El paquete Profesional de MEC ofrece ventajas como: sin límite de contribuyentes y usuarios, notificaciones para agilizar el trabajo, posibilidad de trabajar en red, administración ilimitada de contadores y perfiles, y gestión de respaldos y restauración."
   },
   {
-    "q": "¿Se puede trabajar en red con cualquier paquete de MEC?",
-    "a": "No, solo los paquetes Plus y Profesional permiten trabajar en red. Los paquetes Trial y Gratuito solo permiten trabajar de manera local.",
+    "q": "¿Puedo trabajar en red con cualquier paquete de MEC?",
+    "a": "No, solo los paquetes Plus y Profesional de MEC permiten trabajar en red. Los paquetes trial y gratuito solo permiten trabajar de manera local.",
     "product": "Mi Expediente Contable",
+    "categoria": "Funcionalidades",
     "keywords": [
       "red",
-      "conexión",
       "local",
       "paquetes",
       "plus",
       "profesional",
       "trial",
-      "gratuito"
-    ]
+      "gratuito",
+      "conexión"
+    ],
+    "faq_id": "D-20-03-01-01-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Puedo trabajar en red con cualquier paquete de MEC? Respuesta: No, solo los paquetes Plus y Profesional de MEC permiten trabajar en red. Los paquetes trial y gratuito solo permiten trabajar de manera local."
   },
   {
-    "q": "¿Qué opciones de administración de usuarios ofrece MEC en sus diferentes paquetes?",
-    "a": "En Trial/Gratuito solo permite 1 usuario con perfil por default. En Plus/Profesional permite administración ilimitada de usuarios y perfiles personalizados.",
+    "q": "¿Qué funcionalidades incluye el Centro de Notificaciones en MEC?",
+    "a": "El Centro de Notificaciones en MEC incluye la gestión de notificaciones, pero esta funcionalidad solo está disponible en el paquete Profesional, donde no hay límite en su uso.",
     "product": "Mi Expediente Contable",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "usuarios",
-      "administración",
-      "perfiles",
+      "notificaciones",
+      "centro",
+      "profesional",
+      "gestión",
       "paquetes",
-      "límites",
-      "personalización"
-    ]
+      "funcionalidades"
+    ],
+    "faq_id": "D-20-03-01-01-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué funcionalidades incluye el Centro de Notificaciones en MEC? Respuesta: El Centro de Notificaciones en MEC incluye la gestión de notificaciones, pero esta funcionalidad solo está disponible en el paquete Profesional, donde no hay límite en su uso."
   },
   {
-    "q": "¿Qué características incluye MEC para el control de certificados?",
-    "a": "MEC incluye recordatorios antes del vencimiento de certificados. En la versión Profesional además ofrece control de vencimientos sin límite.",
+    "q": "¿Cómo funciona el control de vencimientos de certificados en MEC?",
+    "a": "MEC incluye un control de vencimientos de certificados que permite recibir recordatorios antes del vencimiento. Esta funcionalidad está disponible en todos los paquetes, pero el paquete Profesional ofrece un control sin límite.",
     "product": "Mi Expediente Contable",
+    "categoria": "Funcionalidades",
     "keywords": [
       "certificados",
       "vencimientos",
       "recordatorios",
       "control",
-      "profesional"
-    ]
-  },
-  {
-    "q": "¿Qué diferencias hay en la gestión de declaraciones entre los paquetes de MEC?",
-    "a": "El paquete Profesional incluye acuse de pago de declaración, mientras que los otros no. Todos permiten gestión de expediente sin límite, pero solo Plus/Profesional permiten movimientos afiliatorios sin límite.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "declaraciones",
-      "pagos",
-      "acuse",
-      "movimientos",
-      "afiliatorios",
-      "diferencias",
-      "paquetes"
-    ]
-  },
-  {
-    "q": "¿Se puede personalizar el logo del despacho en MEC?",
-    "a": "Sí, pero solo en los paquetes Plus y Profesional. En Trial y Gratuito se usa el logo por default de MEC.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "logo",
-      "personalización",
-      "despacho",
-      "paquetes",
-      "default",
-      "plus",
-      "profesional"
-    ]
-  },
-  {
-    "q": "¿Qué opciones de respaldo ofrece MEC?",
-    "a": "La gestión de respaldos y restauración solo está disponible en los paquetes Plus y Profesional de MEC.",
-    "product": "Mi Expediente Contable",
-    "keywords": [
-      "respaldos",
-      "restauración",
-      "backup",
-      "plus",
       "profesional",
       "paquetes"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-04_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo funciona el control de vencimientos de certificados en MEC? Respuesta: MEC incluye un control de vencimientos de certificados que permite recibir recordatorios antes del vencimiento. Esta funcionalidad está disponible en todos los paquetes, pero el paquete Profesional ofrece un control sin límite."
+  },
+  {
+    "q": "¿Qué opciones de administración de usuarios ofrece MEC?",
+    "a": "MEC ofrece diferentes opciones de administración de usuarios según el paquete: los paquetes trial y gratuito permiten solo 1 usuario, mientras que los paquetes Plus y Profesional permiten un número ilimitado de usuarios y perfiles.",
+    "product": "Mi Expediente Contable",
+    "categoria": "Funcionalidades",
+    "keywords": [
+      "usuarios",
+      "administración",
+      "perfiles",
+      "trial",
+      "gratuito",
+      "plus",
+      "profesional",
+      "límite"
+    ],
+    "faq_id": "D-20-03-01-01-04_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de administración de usuarios ofrece MEC? Respuesta: MEC ofrece diferentes opciones de administración de usuarios según el paquete: los paquetes trial y gratuito permiten solo 1 usuario, mientras que los paquetes Plus y Profesional permiten un número ilimitado de usuarios y perfiles."
+  },
+  {
+    "q": "¿Qué características incluye el módulo de contribuyentes en MEC?",
+    "a": "El módulo de contribuyentes en MEC incluye: alta de contribuyentes, administración de usuarios, exportación a Excel, gestión de expedientes y control de declaraciones presentadas. Las limitaciones varían según el paquete contratado.",
+    "product": "Mi Expediente Contable",
+    "categoria": "Módulos",
+    "keywords": [
+      "contribuyentes",
+      "módulo",
+      "alta",
+      "administración",
+      "excel",
+      "expedientes",
+      "declaraciones",
+      "paquetes"
+    ],
+    "faq_id": "D-20-03-01-01-04_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué características incluye el módulo de contribuyentes en MEC? Respuesta: El módulo de contribuyentes en MEC incluye: alta de contribuyentes, administración de usuarios, exportación a Excel, gestión de expedientes y control de declaraciones presentadas. Las limitaciones varían según el paquete contratado."
+  },
+  {
+    "q": "¿Qué opciones de personalización ofrece MEC para el logo del despacho?",
+    "a": "MEC permite personalizar el logo del despacho en los paquetes Plus y Profesional. En los paquetes trial y gratuito, se utiliza el logo por default de MEC.",
+    "product": "Mi Expediente Contable",
+    "categoria": "Personalización",
+    "keywords": [
+      "logo",
+      "despacho",
+      "personalización",
+      "default",
+      "plus",
+      "profesional",
+      "trial",
+      "gratuito"
+    ],
+    "faq_id": "D-20-03-01-01-04_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de personalización ofrece MEC para el logo del despacho? Respuesta: MEC permite personalizar el logo del despacho en los paquetes Plus y Profesional. En los paquetes trial y gratuito, se utiliza el logo por default de MEC."
   }
 ]

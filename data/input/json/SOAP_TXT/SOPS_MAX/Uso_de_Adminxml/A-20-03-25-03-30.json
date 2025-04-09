@@ -1,57 +1,85 @@
 [
   {
     "q": "¿Qué función tiene la herramienta 'Tipo de Operación' en el módulo Generación de DIOT de MiAdminXML?",
-    "a": "La herramienta 'Tipo de Operación' permite modificar las facturas seleccionadas de acuerdo a tres factores: Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros, para que al generar el archivo DIOT se muestre el tipo correspondiente.",
+    "a": "La herramienta 'Tipo de Operación' permite modificar las facturas seleccionadas según tres factores: Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros, para reflejar el tipo correspondiente en el archivo generado.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
       "tipo de operación",
       "diot",
       "modificar facturas",
-      "prestaciones de servicios",
+      "servicios profesionales",
       "arrendamiento",
       "otros",
-      "generación de carga batch"
-    ]
+      "generación archivo"
+    ],
+    "faq_id": "A-20-03-25-03-30_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta 'Tipo de Operación' en el módulo Generación de DIOT de MiAdminXML? Respuesta: La herramienta 'Tipo de Operación' permite modificar las facturas seleccionadas según tres factores: Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros, para reflejar el tipo correspondiente en el archivo generado."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la generación de carga Batch DIOT en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML para utilizar la generación de carga Batch DIOT.",
+    "a": "Se requiere contar con una licencia de MiAdminXML para utilizar la generación de carga Batch DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "miadminxml",
-      "generación de carga",
+      "generación diot",
       "batch",
-      "diot"
-    ]
+      "necesario"
+    ],
+    "faq_id": "A-20-03-25-03-30_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la generación de carga Batch DIOT en MiAdminXML? Respuesta: Se requiere contar con una licencia de MiAdminXML para utilizar la generación de carga Batch DIOT."
   },
   {
     "q": "¿Cómo se aplica el tipo de operación a las facturas en MiAdminXML?",
-    "a": "Para aplicar el tipo de operación, se selecciona el tipo requerido (Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros) y se hace clic en el botón Aceptar. El resultado se verá reflejado en el documento generado al realizar el proceso de generación de carga batch.",
+    "a": "Se selecciona el tipo de operación requerido (Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros) y se hace clic en el botón Aceptar durante el proceso de generación de carga batch.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
-      "aplicar tipo de operación",
+      "aplicar tipo",
       "facturas",
-      "seleccionar tipo",
-      "prestaciones de servicios",
+      "seleccionar",
+      "servicios profesionales",
       "arrendamiento",
       "otros",
       "botón aceptar",
-      "generación batch"
-    ]
+      "carga batch"
+    ],
+    "faq_id": "A-20-03-25-03-30_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se aplica el tipo de operación a las facturas en MiAdminXML? Respuesta: Se selecciona el tipo de operación requerido (Prestaciones de servicios profesionales, Arrendamiento de inmuebles u Otros) y se hace clic en el botón Aceptar durante el proceso de generación de carga batch."
   },
   {
-    "q": "¿Qué opciones de tipo de operación están disponibles en MiAdminXML?",
-    "a": "Las opciones disponibles para el tipo de operación son: Prestaciones de servicios profesionales, Arrendamiento de inmuebles y Otros.",
+    "q": "¿Qué tipos de operación se pueden asignar a las facturas en el módulo DIOT de MiAdminXML?",
+    "a": "Los tipos de operación disponibles son: Prestaciones de servicios profesionales, Arrendamiento de inmuebles y Otros.",
     "product": "MiAdminXML",
+    "categoria": "Generación DIOT",
     "keywords": [
-      "opciones",
-      "tipo de operación",
-      "prestaciones de servicios",
+      "tipos operación",
+      "facturas",
+      "diot",
+      "servicios profesionales",
       "arrendamiento",
       "otros",
-      "miadminxml"
-    ]
+      "opciones"
+    ],
+    "faq_id": "A-20-03-25-03-30_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de operación se pueden asignar a las facturas en el módulo DIOT de MiAdminXML? Respuesta: Los tipos de operación disponibles son: Prestaciones de servicios profesionales, Arrendamiento de inmuebles y Otros."
+  },
+  {
+    "q": "¿Dónde se encuentra la herramienta 'Tipo de Operación' en MiAdminXML?",
+    "a": "La herramienta 'Tipo de Operación' se encuentra en el menú de herramientas dentro del módulo Generación de DIOT.",
+    "product": "MiAdminXML",
+    "categoria": "Ubicación",
+    "keywords": [
+      "ubicación",
+      "tipo de operación",
+      "menú herramientas",
+      "módulo diot",
+      "encontrar"
+    ],
+    "faq_id": "A-20-03-25-03-30_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la herramienta 'Tipo de Operación' en MiAdminXML? Respuesta: La herramienta 'Tipo de Operación' se encuentra en el menú de herramientas dentro del módulo Generación de DIOT."
   }
 ]

@@ -1,52 +1,69 @@
 [
   {
     "q": "¿Cuáles son los costos de las licencias de MiExpedienteContable?",
-    "a": "La Licencia Plus tiene un costo de $1498.00 anuales y la Licencia Profesional cuesta $1996.00 anuales.",
+    "a": "Los costos de las licencias son: Licencia Plus $1498.00 anuales y Licencia Profesional $1996.00 anuales.",
     "product": "MiExpedienteContable",
+    "categoria": "Costos",
     "keywords": [
       "costos",
       "licencia",
       "plus",
       "profesional",
       "anual",
-      "precios"
-    ]
+      "precios",
+      "miexpedientecontable"
+    ],
+    "faq_id": "D-20-03-01-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los costos de las licencias de MiExpedienteContable? Respuesta: Los costos de las licencias son: Licencia Plus $1498.00 anuales y Licencia Profesional $1996.00 anuales."
   },
   {
     "q": "¿Dónde puedo verificar si hay ofertas para las licencias de MiExpedienteContable?",
     "a": "Puedes verificar ofertas en la página web www.miexpedientecontable.com.",
     "product": "MiExpedienteContable",
+    "categoria": "Ofertas",
     "keywords": [
       "ofertas",
       "promociones",
       "descuentos",
       "pagina web",
+      "miexpedientecontable",
       "verificar"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo verificar si hay ofertas para las licencias de MiExpedienteContable? Respuesta: Puedes verificar ofertas en la página web www.miexpedientecontable.com."
   },
   {
-    "q": "¿Cómo puede un cliente solicitar información sobre los costos de las licencias?",
-    "a": "El cliente puede contactar vía telefónica o email para solicitar información sobre los costos de las licencias.",
+    "q": "¿Cómo puedo solicitar información sobre los costos de las licencias de MiExpedienteContable?",
+    "a": "Puedes contactar al equipo de ventas por vía telefónica o email para solicitar información sobre los costos de las licencias.",
     "product": "MiExpedienteContable",
+    "categoria": "Contacto",
     "keywords": [
-      "contacto",
       "solicitar",
       "información",
+      "costos",
+      "contacto",
       "telefono",
       "email",
-      "costos"
-    ]
+      "ventas",
+      "miexpedientecontable"
+    ],
+    "faq_id": "D-20-03-01-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo solicitar información sobre los costos de las licencias de MiExpedienteContable? Respuesta: Puedes contactar al equipo de ventas por vía telefónica o email para solicitar información sobre los costos de las licencias."
   },
   {
-    "q": "¿Qué tipo de licencias ofrece MiExpedienteContable?",
-    "a": "MiExpedienteContable ofrece la Licencia Plus y la Licencia Profesional.",
+    "q": "¿Qué tipos de licencias ofrece MiExpedienteContable?",
+    "a": "MiExpedienteContable ofrece dos tipos de licencias: Licencia Plus y Licencia Profesional.",
     "product": "MiExpedienteContable",
+    "categoria": "Licencias",
     "keywords": [
       "tipos",
-      "licencia",
+      "licencias",
       "plus",
       "profesional",
-      "opciones"
-    ]
+      "opciones",
+      "miexpedientecontable"
+    ],
+    "faq_id": "D-20-03-01-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de licencias ofrece MiExpedienteContable? Respuesta: MiExpedienteContable ofrece dos tipos de licencias: Licencia Plus y Licencia Profesional."
   }
 ]

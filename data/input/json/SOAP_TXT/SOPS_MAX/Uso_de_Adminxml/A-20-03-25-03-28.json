@@ -1,56 +1,64 @@
 [
   {
-    "q": "¿Qué se necesita para generar un batch en MiAdminXML?",
+    "q": "¿Qué se necesita para generar un Batch en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Generación de Batch",
     "keywords": [
       "batch",
-      "generar",
       "licencia",
-      "miadminxml",
       "periodo demostrativo",
-      "requisitos"
-    ]
+      "requisitos",
+      "generación"
+    ],
+    "faq_id": "A-20-03-25-03-28_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar un Batch en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué función tiene la herramienta de generación de DIOT en MiAdminXML?",
-    "a": "La herramienta permite especificar si las facturas seleccionadas son acreditables o no acreditables, actualizando estos valores en el reporte generado.",
+    "q": "¿Qué función tiene la herramienta de Generación de DIOT en MiAdminXML?",
+    "a": "La herramienta permite especificar si las facturas seleccionadas son Acreditables o No Acreditables, actualizando estos valores en el reporte generado.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
       "diot",
       "generación",
       "facturas",
       "acreditable",
-      "no acreditable",
       "reporte",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-28_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta de Generación de DIOT en MiAdminXML? Respuesta: La herramienta permite especificar si las facturas seleccionadas son Acreditables o No Acreditables, actualizando estos valores en el reporte generado."
   },
   {
-    "q": "¿Dónde se encuentran las opciones para marcar facturas como acreditables o no acreditables en MiAdminXML?",
-    "a": "Las opciones se encuentran en el módulo de Generación de DIOT, dentro del menú de herramientas, bajo los conceptos 'Si Acreditable' y 'No Acreditable'.",
+    "q": "¿Cómo se especifica si una factura es Acreditable o No Acreditable en MiAdminXML?",
+    "a": "Dentro del módulo Generación de DIOT, en el menú de herramientas, se encuentran los conceptos 'Si Acreditable' y 'No Acreditable' para especificar esta información en las facturas seleccionadas.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
-      "diot",
-      "módulo",
-      "menú",
-      "herramientas",
+      "facturas",
       "acreditable",
       "no acreditable",
-      "opciones"
-    ]
+      "especificar",
+      "módulo",
+      "diot"
+    ],
+    "faq_id": "A-20-03-25-03-28_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se especifica si una factura es Acreditable o No Acreditable en MiAdminXML? Respuesta: Dentro del módulo Generación de DIOT, en el menú de herramientas, se encuentran los conceptos 'Si Acreditable' y 'No Acreditable' para especificar esta información en las facturas seleccionadas."
   },
   {
     "q": "¿Qué se verifica al generar una carga batch DIOT en MiAdminXML?",
     "a": "Al generar la carga batch DIOT, se verificará el resultado de la generación.",
     "product": "MiAdminXML",
+    "categoria": "Generación de DIOT",
     "keywords": [
-      "diot",
       "batch",
+      "diot",
       "generación",
       "verificación",
-      "resultado",
-      "carga"
-    ]
+      "resultado"
+    ],
+    "faq_id": "A-20-03-25-03-28_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se verifica al generar una carga batch DIOT en MiAdminXML? Respuesta: Al generar la carga batch DIOT, se verificará el resultado de la generación."
   }
 ]

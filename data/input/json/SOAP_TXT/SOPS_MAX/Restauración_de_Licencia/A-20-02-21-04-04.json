@@ -1,106 +1,107 @@
 [
   {
-    "q": "¿Qué error puede aparecer al intentar activar una clave de licencia de MiAdminXML después de cambiar el disco duro?",
-    "a": "El cliente puede encontrar un error al intentar activar su clave de licencia después de cambiar el disco duro sin desactivar previamente la licencia.",
+    "q": "¿Qué debo hacer si cambio mi disco duro sin desactivar la licencia de MiAdminXML?",
+    "a": "Debes contactar al servicio técnico, proporcionar los últimos 5 caracteres de tu clave de licencia y llenar un Primer Oficio de Reactivación. Luego, enviar la información requerida dentro de 72 horas para proceder con la reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
+    "keywords": [
+      "disco duro",
+      "licencia",
+      "reactivación",
+      "oficio",
+      "soporte"
+    ],
+    "faq_id": "A-20-02-21-04-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si cambio mi disco duro sin desactivar la licencia de MiAdminXML? Respuesta: Debes contactar al servicio técnico, proporcionar los últimos 5 caracteres de tu clave de licencia y llenar un Primer Oficio de Reactivación. Luego, enviar la información requerida dentro de 72 horas para proceder con la reactivación."
+  },
+  {
+    "q": "¿Qué error aparece al intentar activar una licencia después de cambiar el disco duro?",
+    "a": "El sistema detecta discos duros diferentes entre la activación original y el intento de reactivación, impidiendo la activación sin el proceso de restauración.",
+    "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
       "activación",
-      "licencia",
       "disco duro",
-      "cambio",
-      "problema"
-    ]
+      "licencia",
+      "reactivación"
+    ],
+    "faq_id": "A-20-02-21-04-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error aparece al intentar activar una licencia después de cambiar el disco duro? Respuesta: El sistema detecta discos duros diferentes entre la activación original y el intento de reactivación, impidiendo la activación sin el proceso de restauración."
   },
   {
-    "q": "¿Qué se necesita para restaurar una clave de licencia de MiAdminXML después de un cambio de disco duro?",
-    "a": "Para restaurar la clave de licencia, el cliente debe llenar un Primer Oficio de Reactivación y proporcionar los últimos 5 caracteres de su clave de licencia para su validación en el SACC.",
+    "q": "¿Cuánto tiempo tengo para enviar la información requerida para la reactivación de mi licencia?",
+    "a": "Tienes 72 horas para enviar la información requerida después de llenar el Oficio de Reactivación. Si no se envía en este plazo, se debe reiniciar el proceso.",
     "product": "MiAdminXML",
-    "keywords": [
-      "restaurar",
-      "licencia",
-      "disco duro",
-      "oficio",
-      "reactivación",
-      "validación"
-    ]
-  },
-  {
-    "q": "¿Cuánto tiempo tiene el cliente para enviar la información requerida para la reactivación de la licencia?",
-    "a": "El cliente tiene 72 horas para enviar la información requerida después de haber enviado el oficio de Reactivación. Si no lo hace en este tiempo, debe comunicarse para reiniciar el proceso.",
-    "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "tiempo",
       "reactivación",
-      "licencia",
+      "oficio",
       "72 horas",
-      "información",
-      "oficio"
-    ]
+      "proceso"
+    ],
+    "faq_id": "A-20-02-21-04-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tengo para enviar la información requerida para la reactivación de mi licencia? Respuesta: Tienes 72 horas para enviar la información requerida después de llenar el Oficio de Reactivación. Si no se envía en este plazo, se debe reiniciar el proceso."
   },
   {
-    "q": "¿Qué sucede si es la segunda reactivación de una licencia de MiAdminXML?",
-    "a": "Si es la segunda reactivación, se debe llenar un formato y tendrá un costo del 50% del valor de la clave de licencia para poder reactivarla.",
+    "q": "¿Qué pasa si es mi segunda reactivación de licencia en MiAdminXML?",
+    "a": "En la segunda reactivación, se debe llenar un formato adicional y tendrá un costo del 50% del valor de la clave de licencia para proceder con la reactivación.",
     "product": "MiAdminXML",
+    "categoria": "Restauración de Licencia",
     "keywords": [
       "segunda reactivación",
       "costo",
       "50%",
       "formato",
-      "licencia",
-      "proceso"
-    ]
+      "licencia"
+    ],
+    "faq_id": "A-20-02-21-04-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si es mi segunda reactivación de licencia en MiAdminXML? Respuesta: En la segunda reactivación, se debe llenar un formato adicional y tendrá un costo del 50% del valor de la clave de licencia para proceder con la reactivación."
   },
   {
-    "q": "¿Cómo se notifica al cliente una vez reactivada su licencia de MiAdminXML?",
-    "a": "Una vez reactivada la licencia, se le notifica al cliente por correo electrónico que puede volver a activar su licencia en el módulo de 'Licenciamiento'.",
+    "q": "¿Cómo se notifica al cliente una vez reactivada la licencia?",
+    "a": "Una vez reactivada la licencia, se le notifica al cliente por correo electrónico que puede activar su licencia nuevamente en el módulo de 'Licenciamiento'.",
     "product": "MiAdminXML",
+    "categoria": "Notificaciones",
     "keywords": [
       "notificación",
       "correo electrónico",
       "reactivación",
-      "licencia",
-      "módulo",
-      "licenciamiento"
-    ]
+      "licenciamiento",
+      "cliente"
+    ],
+    "faq_id": "A-20-02-21-04-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se notifica al cliente una vez reactivada la licencia? Respuesta: Una vez reactivada la licencia, se le notifica al cliente por correo electrónico que puede activar su licencia nuevamente en el módulo de 'Licenciamiento'."
   },
   {
     "q": "¿Qué áreas pueden realizar el proceso de reactivación de licencia en MiAdminXML?",
-    "a": "El proceso de reactivación de licencia puede ser realizado por cualquier área ST o ATC.",
+    "a": "El proceso de reactivación puede ser realizado por cualquier área de Soporte Técnico (ST) o Asistencia Técnica Cliente (ATC).",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "áreas",
       "reactivación",
-      "licencia",
+      "soporte técnico",
       "st",
-      "atc",
-      "proceso"
-    ]
+      "atc"
+    ],
+    "faq_id": "A-20-02-21-04-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué áreas pueden realizar el proceso de reactivación de licencia en MiAdminXML? Respuesta: El proceso de reactivación puede ser realizado por cualquier área de Soporte Técnico (ST) o Asistencia Técnica Cliente (ATC)."
   },
   {
-    "q": "¿Qué comando se utiliza para solicitar la reactivación de una licencia a través del BOT?",
-    "a": "Se ingresa al BOT con un comando específico para solicitar la reactivación de la licencia, aunque el texto no especifica cuál es el comando exacto.",
+    "q": "¿Qué información se valida antes de reactivar una licencia en MiAdminXML?",
+    "a": "Se validan los componentes del sistema, como los discos duros, y se verifica que la información proporcionada en el Oficio de Reactivación sea correcta.",
     "product": "MiAdminXML",
+    "categoria": "Validación",
     "keywords": [
-      "bot",
-      "comando",
-      "reactivación",
-      "licencia",
-      "solicitud",
-      "proceso"
-    ]
-  },
-  {
-    "q": "¿Qué valida el agente de Mesa de Servicio antes de proceder con la reactivación de la licencia?",
-    "a": "El agente de Mesa de Servicio valida que la información proporcionada por el cliente sea correcta antes de proceder con la reactivación de la licencia.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "agente",
       "validación",
       "información",
-      "reactivación",
-      "licencia",
-      "mesa de servicio"
-    ]
+      "disco duro",
+      "oficio",
+      "reactivación"
+    ],
+    "faq_id": "A-20-02-21-04-04_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se valida antes de reactivar una licencia en MiAdminXML? Respuesta: Se validan los componentes del sistema, como los discos duros, y se verifica que la información proporcionada en el Oficio de Reactivación sea correcta."
   }
 ]

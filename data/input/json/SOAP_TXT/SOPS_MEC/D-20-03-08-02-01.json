@@ -3,20 +3,25 @@
     "q": "¿Cómo puede un cliente verificar la vigencia de su licencia en MiAdminXML?",
     "a": "El cliente debe ingresar a MiExpedienteContable, hacer clic en el icono verde en la parte superior izquierda y acceder al apartado de licenciamiento, donde se muestra la clave de licencia y su vigencia.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "vigencia",
       "licencia",
-      "verificar",
       "miadminxml",
-      "miexpedientecontable",
+      "verificar",
       "fecha",
-      "clave"
-    ]
+      "clave",
+      "miExpedienteContable",
+      "icono verde"
+    ],
+    "faq_id": "D-20-03-08-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente verificar la vigencia de su licencia en MiAdminXML? Respuesta: El cliente debe ingresar a MiExpedienteContable, hacer clic en el icono verde en la parte superior izquierda y acceder al apartado de licenciamiento, donde se muestra la clave de licencia y su vigencia."
   },
   {
-    "q": "¿Qué hacer si el cliente no está en el equipo donde tiene la clave de licencia?",
-    "a": "El ejecutivo debe solicitar el nombre del titular de la clave de licencia y validar la información ingresando a Sacc en la página de administración de clientes, buscando el nombre de la empresa o cliente y seleccionando la opción de licencias.",
+    "q": "¿Qué hacer si el cliente no está en el equipo donde tiene la clave de licencia para verificar la vigencia?",
+    "a": "El ejecutivo debe solicitar el nombre del titular de la clave de licencia y validar la información en Sacc, accediendo a 'Administración de clientes', ingresando el nombre del cliente y seleccionando la opción 'Licencias'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "clave",
       "licencia",
@@ -24,35 +29,46 @@
       "sacc",
       "administración",
       "clientes",
-      "titular"
-    ]
+      "titular",
+      "vigencia"
+    ],
+    "faq_id": "D-20-03-08-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente no está en el equipo donde tiene la clave de licencia para verificar la vigencia? Respuesta: El ejecutivo debe solicitar el nombre del titular de la clave de licencia y validar la información en Sacc, accediendo a 'Administración de clientes', ingresando el nombre del cliente y seleccionando la opción 'Licencias'."
   },
   {
-    "q": "¿Cuál es el procedimiento para verificar la vigencia de una licencia a través de Sacc?",
-    "a": "El procedimiento incluye ingresar a Sacc, acceder al apartado de administración de clientes, ingresar el nombre de la empresa o cliente, seleccionar el cliente y dar clic en la opción de licencias.",
+    "q": "¿Qué pasos debe seguir un ejecutivo para validar la vigencia de una licencia en Sacc?",
+    "a": "1. Ingresar a Sacc en el enlace proporcionado. 2. Acceder a 'Administración de clientes'. 3. Ingresar el nombre de la empresa o cliente. 4. Seleccionar el cliente y hacer clic en 'Licencias'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "sacc",
-      "procedimiento",
-      "vigencia",
+      "validar",
       "licencia",
+      "pasos",
+      "ejecutivo",
       "administración",
       "clientes",
-      "validar"
-    ]
+      "vigencia"
+    ],
+    "faq_id": "D-20-03-08-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debe seguir un ejecutivo para validar la vigencia de una licencia en Sacc? Respuesta: 1. Ingresar a Sacc en el enlace proporcionado. 2. Acceder a 'Administración de clientes'. 3. Ingresar el nombre de la empresa o cliente. 4. Seleccionar el cliente y hacer clic en 'Licencias'."
   },
   {
-    "q": "¿Dónde se encuentra la información de la licencia en MiExpedienteContable?",
-    "a": "La información de la licencia, incluyendo la clave y vigencia, se encuentra en el apartado de licenciamiento al que se accede haciendo clic en el icono verde ubicado en la parte superior izquierda de MiExpedienteContable.",
+    "q": "¿Dónde se encuentra la información de la vigencia de la licencia en MiExpedienteContable?",
+    "a": "La información de la vigencia de la licencia se encuentra en el apartado de licenciamiento, al que se accede haciendo clic en el icono verde ubicado en la parte superior izquierda de MiExpedienteContable.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "miexpedientecontable",
-      "licencia",
-      "información",
-      "icono",
-      "verde",
+      "miExpedienteContable",
       "vigencia",
-      "clave"
-    ]
+      "licencia",
+      "icono verde",
+      "parte superior",
+      "izquierda",
+      "apartado",
+      "licenciamiento"
+    ],
+    "faq_id": "D-20-03-08-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la información de la vigencia de la licencia en MiExpedienteContable? Respuesta: La información de la vigencia de la licencia se encuentra en el apartado de licenciamiento, al que se accede haciendo clic en el icono verde ubicado en la parte superior izquierda de MiExpedienteContable."
   }
 ]

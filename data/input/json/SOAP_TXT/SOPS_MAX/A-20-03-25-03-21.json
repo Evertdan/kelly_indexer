@@ -3,69 +3,88 @@
     "q": "¿Qué se necesita para configurar una bóveda en red con MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda",
       "red",
-      "configuración",
       "licencia",
       "profesional",
+      "demostrativo",
       "requisitos",
-      "periodo demostrativo"
-    ]
+      "configuración"
+    ],
+    "faq_id": "A-20-03-25-03-21_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para configurar una bóveda en red con MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué se puede compartir en la bóveda CFDI ubicada en RED con MiAdminXML?",
-    "a": "Se puede compartir la carpeta con archivos XML y PDF en la bóveda CFDI ubicada en RED.",
+    "q": "¿Cómo se comparte la bóveda CFDI en red con MiAdminXML?",
+    "a": "Se puede compartir la bóveda CFDI ubicada en RED y compartir la carpeta con archivos XML y PDF. Para ello, se da clic en el botón de la 'Lupa' para seleccionar la ruta de destino.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda",
       "cfdi",
       "red",
       "compartir",
-      "archivos",
+      "carpeta",
       "xml",
-      "pdf"
-    ]
+      "pdf",
+      "lupa",
+      "ruta"
+    ],
+    "faq_id": "A-20-03-25-03-21_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se comparte la bóveda CFDI en red con MiAdminXML? Respuesta: Se puede compartir la bóveda CFDI ubicada en RED y compartir la carpeta con archivos XML y PDF. Para ello, se da clic en el botón de la 'Lupa' para seleccionar la ruta de destino."
   },
   {
-    "q": "¿Cómo se selecciona la ruta de destino para la bóveda en red en MiAdminXML?",
-    "a": "Se da clic en el botón de la 'Lupa' para mostrar la ventana de la ruta a elegir. Una vez seleccionada la ruta, el sistema mostrará una ventana de advertencia indicando la dirección donde se guardarán y tomarán los XML descargados.",
+    "q": "¿Qué sucede después de seleccionar la ruta de destino para la bóveda en red?",
+    "a": "El sistema muestra una ventana de advertencia indicando la dirección donde se guardará y se tomará la información de los XML que se descarguen.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda",
       "red",
       "ruta",
       "destino",
-      "selección",
-      "lupa",
       "ventana",
-      "advertencia"
-    ]
+      "advertencia",
+      "xml",
+      "descarga"
+    ],
+    "faq_id": "A-20-03-25-03-21_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de seleccionar la ruta de destino para la bóveda en red? Respuesta: El sistema muestra una ventana de advertencia indicando la dirección donde se guardará y se tomará la información de los XML que se descarguen."
   },
   {
-    "q": "¿Qué nivel de soporte tiene la configuración de bóveda en red en MiAdminXML?",
-    "a": "La configuración de bóveda en red tiene un nivel de soporte Nivel 1 - Temprano.",
+    "q": "¿Qué tipo de licencia se requiere para configurar una bóveda en red en MiAdminXML?",
+    "a": "Se requiere la licencia MiAdminXML Profesional o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
+      "licencia",
+      "profesional",
+      "demostrativo",
       "bóveda",
       "red",
+      "requisitos"
+    ],
+    "faq_id": "A-20-03-25-03-21_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de licencia se requiere para configurar una bóveda en red en MiAdminXML? Respuesta: Se requiere la licencia MiAdminXML Profesional o estar en el periodo demostrativo."
+  },
+  {
+    "q": "¿Qué se hace si no se cuenta con la licencia necesaria para configurar la bóveda en red?",
+    "a": "Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "licencia",
+      "profesional",
+      "demostrativo",
+      "correo",
+      "electrónico",
       "soporte",
-      "nivel",
-      "temprano",
-      "configuración"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de situación describe la configuración de bóveda en red en MiAdminXML?",
-    "a": "La configuración de bóveda en red se describe como una situación de tipo ST (Soporte Temprano).",
-    "product": "MiAdminXML",
-    "keywords": [
       "bóveda",
-      "red",
-      "tipo",
-      "situación",
-      "st",
-      "soporte temprano"
-    ]
+      "red"
+    ],
+    "faq_id": "A-20-03-25-03-21_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se hace si no se cuenta con la licencia necesaria para configurar la bóveda en red? Respuesta: Si no se cuenta con la licencia MiAdminXML Profesional o no se está en el periodo demostrativo, el problema se soluciona por correo electrónico."
   }
 ]

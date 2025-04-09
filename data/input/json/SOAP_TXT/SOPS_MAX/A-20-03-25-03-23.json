@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué se necesita para utilizar la funcionalidad de cuentas bancarias en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Cuentas Bancarias",
     "keywords": [
       "cuentas bancarias",
       "requisitos",
@@ -11,12 +12,15 @@
       "periodo demostrativo",
       "soporte",
       "correo electrónico"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-23_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la funcionalidad de cuentas bancarias en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué información se puede guardar en la herramienta de cuentas bancarias de MiAdminXML?",
     "a": "La herramienta permite guardar el número de cuenta y el banco por contribuyente.",
     "product": "MiAdminXML",
+    "categoria": "Cuentas Bancarias",
     "keywords": [
       "cuentas bancarias",
       "información",
@@ -25,33 +29,24 @@
       "banco",
       "contribuyente",
       "datos"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-23_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede guardar en la herramienta de cuentas bancarias de MiAdminXML? Respuesta: La herramienta permite guardar el número de cuenta y el banco por contribuyente."
   },
   {
-    "q": "¿Qué tipo de soporte se ofrece para la funcionalidad de cuentas bancarias en MiAdminXML?",
-    "a": "El soporte es de tipo Soporte Temprano (ST) y está clasificado como Nivel 1 - Temprano.",
+    "q": "¿Qué nivel de soporte tiene la funcionalidad de cuentas bancarias en MiAdminXML?",
+    "a": "La funcionalidad de cuentas bancarias tiene un nivel de soporte Nivel 1 - Temprano.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
+      "cuentas bancarias",
       "soporte",
-      "temprano",
       "nivel 1",
-      "tipo",
-      "st",
-      "cuentas bancarias",
-      "clasificación"
-    ]
-  },
-  {
-    "q": "¿Cuál es la versión y fecha de revisión del documento que describe la funcionalidad de cuentas bancarias en MiAdminXML?",
-    "a": "La versión es 09.09.2020.04 y la fecha de revisión es 09.09.2020.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "versión",
-      "fecha",
-      "revisión",
-      "documento",
-      "cuentas bancarias",
-      "actualización"
-    ]
+      "temprano",
+      "ayuda",
+      "asistencia"
+    ],
+    "faq_id": "A-20-03-25-03-23_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte tiene la funcionalidad de cuentas bancarias en MiAdminXML? Respuesta: La funcionalidad de cuentas bancarias tiene un nivel de soporte Nivel 1 - Temprano."
   }
 ]

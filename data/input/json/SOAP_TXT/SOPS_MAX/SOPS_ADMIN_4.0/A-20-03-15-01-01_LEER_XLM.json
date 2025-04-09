@@ -1,71 +1,80 @@
 [
   {
-    "q": "¿Cómo puedo usar la herramienta Leer XML en MiAdminXML?",
-    "a": "Para usar la herramienta Leer XML en MiAdminXML, primero ingrese al programa, luego haga clic en Administración XML 4.0, seleccione RC/TIPO/AÑO/MES, y finalmente seleccione la herramienta Leer XML ubicada en la parte superior derecha.",
+    "q": "¿Qué se necesita para utilizar la herramienta Leer XML en MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "leer xml",
-      "herramienta",
-      "miadminxml",
-      "proceso",
-      "pasos",
-      "administración xml",
-      "uso"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos necesito para utilizar la herramienta Leer XML?",
-    "a": "Para utilizar la herramienta Leer XML, es necesario contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
-    "product": "MiAdminXML",
-    "keywords": [
       "requisitos",
       "licencia",
-      "miadminxml",
       "periodo demostrativo",
-      "herramienta leer xml",
-      "acceso"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-15-01-01_LEER_XLM_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la herramienta Leer XML en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo."
+  },
+  {
+    "q": "¿Cuáles son los pasos para usar la herramienta Leer XML en MAX?",
+    "a": "1. Ingresar al programa MiAdminXML. 2. Dar clic en Administración XML 4.0. 3. Seleccionar RC/TIPO/AÑO/MES. 4. Seleccionar la herramienta Leer XML en la parte superior derecha. 5. Visualizar los archivos XML.",
+    "product": "MiAdminXML",
+    "categoria": "Procedimiento",
+    "keywords": [
+      "pasos",
+      "leer xml",
+      "max",
+      "procedimiento",
+      "administración xml",
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-15-01-01_LEER_XLM_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para usar la herramienta Leer XML en MAX? Respuesta: 1. Ingresar al programa MiAdminXML. 2. Dar clic en Administración XML 4.0. 3. Seleccionar RC/TIPO/AÑO/MES. 4. Seleccionar la herramienta Leer XML en la parte superior derecha. 5. Visualizar los archivos XML."
   },
   {
     "q": "¿Dónde se encuentra la herramienta Leer XML en MiAdminXML?",
-    "a": "La herramienta Leer XML se encuentra en la parte superior derecha de la pantalla después de seleccionar RC/TIPO/AÑO/MES en Administración XML 4.0.",
+    "a": "La herramienta Leer XML se encuentra en la parte superior derecha después de seleccionar RC/TIPO/AÑO/MES en Administración XML 4.0.",
     "product": "MiAdminXML",
+    "categoria": "Ubicación",
     "keywords": [
       "ubicación",
-      "herramienta leer xml",
+      "leer xml",
+      "herramienta",
       "miadminxml",
-      "interfaz",
-      "administración xml",
-      "selección"
-    ]
-  },
-  {
-    "q": "¿Qué pasos debo seguir para visualizar mis archivos XML en MiAdminXML?",
-    "a": "Los pasos para visualizar archivos XML son: ingresar a MiAdminXML, clic en Administración XML 4.0, seleccionar RC/TIPO/AÑO/MES, y luego seleccionar la herramienta Leer XML en la parte superior derecha.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "pasos",
-      "visualizar",
-      "archivos xml",
-      "miadminxml",
-      "proceso",
-      "herramienta leer xml",
-      "guía"
-    ]
+      "interfaz"
+    ],
+    "faq_id": "A-20-03-15-01-01_LEER_XLM_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la herramienta Leer XML en MiAdminXML? Respuesta: La herramienta Leer XML se encuentra en la parte superior derecha después de seleccionar RC/TIPO/AÑO/MES en Administración XML 4.0."
   },
   {
     "q": "¿Qué tipo de soporte se ofrece para aprender a usar la herramienta Leer XML?",
-    "a": "El soporte incluye orientación sobre cómo usar la herramienta Leer XML, ya sea por llamada, correo, Feedback o Facebook, siguiendo los pasos establecidos para su uso en MiAdminXML.",
+    "a": "El soporte se ofrece a través de llamada, correo, Feedback o Facebook para orientar al cliente en el uso de la herramienta Leer XML.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
+      "leer xml",
       "ayuda",
-      "herramienta leer xml",
-      "orientación",
       "llamada",
       "correo",
       "feedback",
       "facebook"
-    ]
+    ],
+    "faq_id": "A-20-03-15-01-01_LEER_XLM_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de soporte se ofrece para aprender a usar la herramienta Leer XML? Respuesta: El soporte se ofrece a través de llamada, correo, Feedback o Facebook para orientar al cliente en el uso de la herramienta Leer XML."
+  },
+  {
+    "q": "¿Qué información se puede visualizar con la herramienta Leer XML?",
+    "a": "La herramienta Leer XML permite visualizar los archivos XML del usuario.",
+    "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
+    "keywords": [
+      "visualizar",
+      "archivos xml",
+      "leer xml",
+      "funcionalidad",
+      "datos"
+    ],
+    "faq_id": "A-20-03-15-01-01_LEER_XLM_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede visualizar con la herramienta Leer XML? Respuesta: La herramienta Leer XML permite visualizar los archivos XML del usuario."
   }
 ]

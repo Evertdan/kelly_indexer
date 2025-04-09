@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Cuáles son los requisitos de instalación del producto?",
-    "a": "Los requisitos de instalación incluyen: S.O Windows 10 u 11, arquitectura de 64 bits, Internet Explorer 10 u 11, permisos de Administrador, disco en estado sólido, 4 GB de RAM o más, procesador Core i3 equivalente o superior, y no es compatible con Linux o MacOS.",
+    "q": "¿Cuáles son los requisitos de instalación para el producto?",
+    "a": "Los requisitos de instalación incluyen: S.O Windows 10 u 11, arquitectura de 64 bits, Internet Explorer 10 u 11, permisos de Administrador, disco en estado sólido, 4 GB de RAM o más, y procesador Core i3 equivalente o superior.",
     "product": "General",
+    "categoria": "Instalación",
     "keywords": [
       "requisitos",
       "instalación",
@@ -12,105 +13,99 @@
       "administrador",
       "disco sólido",
       "ram",
-      "procesador",
-      "compatibilidad"
-    ]
+      "procesador"
+    ],
+    "faq_id": "A-20-03-01-01-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos de instalación para el producto? Respuesta: Los requisitos de instalación incluyen: S.O Windows 10 u 11, arquitectura de 64 bits, Internet Explorer 10 u 11, permisos de Administrador, disco en estado sólido, 4 GB de RAM o más, y procesador Core i3 equivalente o superior."
   },
   {
     "q": "¿El producto es compatible con Linux o MacOS?",
     "a": "No, el producto no es compatible con Linux o MacOS.",
     "product": "General",
+    "categoria": "Compatibilidad",
     "keywords": [
       "compatibilidad",
       "linux",
       "macos",
       "sistema operativo",
       "no compatible"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿El producto es compatible con Linux o MacOS? Respuesta: No, el producto no es compatible con Linux o MacOS."
   },
   {
-    "q": "¿Qué versión de Internet Explorer se necesita para instalar el producto?",
-    "a": "Se necesita Internet Explorer 10 u 11.",
+    "q": "¿Qué versión de Internet Explorer se requiere para la instalación?",
+    "a": "Se requiere Internet Explorer 10 u 11 para la instalación del producto.",
     "product": "General",
+    "categoria": "Instalación",
     "keywords": [
       "internet explorer",
       "versión",
       "requisitos",
-      "navegador",
-      "instalación"
-    ]
-  },
-  {
-    "q": "¿Cuánta RAM se requiere para instalar el producto?",
-    "a": "Se requiere 4 GB de RAM o más.",
-    "product": "General",
-    "keywords": [
-      "ram",
-      "memoria",
-      "requisitos",
       "instalación",
-      "especificaciones"
-    ]
+      "navegador"
+    ],
+    "faq_id": "A-20-03-01-01-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión de Internet Explorer se requiere para la instalación? Respuesta: Se requiere Internet Explorer 10 u 11 para la instalación del producto."
   },
   {
-    "q": "¿Qué tipo de procesador se necesita para el producto?",
-    "a": "Se necesita un procesador Core i3 equivalente o superior.",
+    "q": "¿Es necesario tener permisos de administrador para instalar el producto?",
+    "a": "Sí, se necesitan permisos de Administrador para instalar el producto.",
     "product": "General",
-    "keywords": [
-      "procesador",
-      "core i3",
-      "requisitos",
-      "instalación",
-      "especificaciones"
-    ]
-  },
-  {
-    "q": "¿Se necesitan permisos de administrador para instalar el producto?",
-    "a": "Sí, se necesitan permisos de Administrador.",
-    "product": "General",
+    "categoria": "Instalación",
     "keywords": [
       "permisos",
       "administrador",
       "requisitos",
       "instalación",
       "privilegios"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Es necesario tener permisos de administrador para instalar el producto? Respuesta: Sí, se necesitan permisos de Administrador para instalar el producto."
   },
   {
-    "q": "¿Qué tipo de disco se recomienda para el producto?",
-    "a": "Se recomienda un disco en estado sólido.",
+    "q": "¿Qué tipo de disco se recomienda para la instalación del producto?",
+    "a": "Se recomienda un disco en estado sólido para la instalación del producto.",
     "product": "General",
+    "categoria": "Instalación",
     "keywords": [
       "disco",
       "estado sólido",
       "ssd",
-      "requisitos",
+      "recomendación",
       "instalación"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de disco se recomienda para la instalación del producto? Respuesta: Se recomienda un disco en estado sólido para la instalación del producto."
   },
   {
-    "q": "¿Qué arquitectura de sistema operativo se requiere?",
-    "a": "Se requiere una arquitectura de 64 bits.",
+    "q": "¿Cuál es la cantidad mínima de RAM requerida para el producto?",
+    "a": "Se requiere un mínimo de 4 GB de RAM para el producto.",
     "product": "General",
+    "categoria": "Requisitos",
     "keywords": [
-      "arquitectura",
-      "64 bits",
-      "sistema operativo",
+      "ram",
+      "memoria",
       "requisitos",
-      "instalación"
-    ]
+      "mínimo",
+      "4gb"
+    ],
+    "faq_id": "A-20-03-01-01-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la cantidad mínima de RAM requerida para el producto? Respuesta: Se requiere un mínimo de 4 GB de RAM para el producto."
   },
   {
-    "q": "¿Qué versiones de Windows son compatibles con el producto?",
-    "a": "Las versiones compatibles son Windows 10 u 11.",
+    "q": "¿Qué procesador se necesita para instalar el producto?",
+    "a": "Se necesita un procesador Core i3 equivalente o superior para instalar el producto.",
     "product": "General",
+    "categoria": "Requisitos",
     "keywords": [
-      "windows",
-      "versiones",
-      "compatibilidad",
-      "10",
-      "11",
-      "sistema operativo"
-    ]
+      "procesador",
+      "core i3",
+      "requisitos",
+      "instalación",
+      "equivalente"
+    ],
+    "faq_id": "A-20-03-01-01-04_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué procesador se necesita para instalar el producto? Respuesta: Se necesita un procesador Core i3 equivalente o superior para instalar el producto."
   }
 ]

@@ -1,50 +1,70 @@
 [
   {
     "q": "¿Qué debo hacer si no encuentro la columna clave producto servicio o clave unidad en mi reporte de MiAdminXML?",
-    "a": "Dentro del primer reporte al seleccionar en Administración 4.0 estos datos solo se pueden ver en la vista rápida.",
+    "a": "Dentro del primer reporte al seleccionar en Administración 4.0 estos datos solo se pueden ver en la vista rápida. Para exportar la información de 'CONCEPTOS' debe seleccionar esa herramienta Premium dentro del programa.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
       "reporte",
       "clave producto servicio",
       "clave unidad",
       "vista rápida",
-      "administración 4.0"
-    ]
-  },
-  {
-    "q": "¿Cómo puedo exportar la información de CONCEPTOS en MiAdminXML?",
-    "a": "Para exportar la información de 'CONCEPTOS' debe seleccionar esa herramienta Premium dentro del programa.",
-    "product": "MiAdminXML",
-    "keywords": [
       "exportar",
       "conceptos",
-      "herramienta premium",
-      "programa",
-      "información"
-    ]
+      "herramienta premium"
+    ],
+    "faq_id": "A-20-02-14-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no encuentro la columna clave producto servicio o clave unidad en mi reporte de MiAdminXML? Respuesta: Dentro del primer reporte al seleccionar en Administración 4.0 estos datos solo se pueden ver en la vista rápida. Para exportar la información de 'CONCEPTOS' debe seleccionar esa herramienta Premium dentro del programa."
   },
   {
-    "q": "¿Qué necesito para solucionar problemas de visualización en MiAdminXML si no tengo licencia?",
-    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo, sino cuenta con ninguna de las anteriores se soluciona el problema por correo electrónico.",
+    "q": "¿Cómo puedo visualizar la clave del producto o su unidad en MiAdminXML?",
+    "a": "Estos datos solo se pueden ver en la vista rápida dentro del primer reporte al seleccionar en Administración 4.0. Para exportar la información, debe seleccionar la herramienta Premium 'CONCEPTOS' dentro del programa.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
+      "visualizar",
+      "clave producto",
+      "clave unidad",
+      "vista rápida",
+      "administración 4.0",
+      "herramienta premium",
+      "conceptos"
+    ],
+    "faq_id": "A-20-02-14-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo visualizar la clave del producto o su unidad en MiAdminXML? Respuesta: Estos datos solo se pueden ver en la vista rápida dentro del primer reporte al seleccionar en Administración 4.0. Para exportar la información, debe seleccionar la herramienta Premium 'CONCEPTOS' dentro del programa."
+  },
+  {
+    "q": "¿Qué requisitos necesito para solucionar problemas de visualización de columnas en MiAdminXML?",
+    "a": "Debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
+    "keywords": [
+      "requisitos",
       "licencia",
       "periodo demostrativo",
       "solución",
       "correo electrónico",
-      "visualización"
-    ]
+      "visualización",
+      "columnas"
+    ],
+    "faq_id": "A-20-02-14-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos necesito para solucionar problemas de visualización de columnas en MiAdminXML? Respuesta: Debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no cuenta con ninguna de las anteriores, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Cómo puedo generar un reporte desglosado de conceptos en MiAdminXML?",
-    "a": "Para que se cree otro reporte de la información de conceptos desglosado y poder exportar a Excel, debe seleccionar la herramienta Premium dentro del programa.",
+    "q": "¿Cómo puedo exportar la información de conceptos desglosados en MiAdminXML?",
+    "a": "Para exportar la información de 'CONCEPTOS' debe seleccionar esa herramienta Premium dentro del programa, lo que creará otro reporte de la información de conceptos desglosado y permitirá exportar a Excel.",
     "product": "MiAdminXML",
+    "categoria": "Exportación",
     "keywords": [
-      "reporte desglosado",
+      "exportar",
       "conceptos",
-      "exportar excel",
+      "desglose",
       "herramienta premium",
-      "generar"
-    ]
+      "reporte",
+      "excel",
+      "información"
+    ],
+    "faq_id": "A-20-02-14-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo exportar la información de conceptos desglosados en MiAdminXML? Respuesta: Para exportar la información de 'CONCEPTOS' debe seleccionar esa herramienta Premium dentro del programa, lo que creará otro reporte de la información de conceptos desglosado y permitirá exportar a Excel."
   }
 ]

@@ -1,69 +1,112 @@
 [
   {
-    "q": "¿Qué versión y revisión tiene el documento de soporte temprano?",
-    "a": "El documento tiene la versión 09.09.2020.04 y revisión 09.09.2020.",
+    "q": "¿Qué versión del documento se está revisando en el texto?",
+    "a": "La versión del documento es 09.09.2020.04.",
     "product": "General",
+    "categoria": "General",
     "keywords": [
       "versión",
-      "revisión",
       "documento",
-      "soporte",
-      "temprano",
-      "fecha"
-    ]
+      "revisión",
+      "fecha",
+      "09.09.2020.04"
+    ],
+    "faq_id": "A-20-03-25-03-14_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versión del documento se está revisando en el texto? Respuesta: La versión del documento es 09.09.2020.04."
   },
   {
-    "q": "¿Qué tipo de soporte se describe en el documento?",
-    "a": "El documento describe un soporte de tipo ST (Soporte Temprano) de Nivel 1 - Temprano.",
+    "q": "¿Qué área está relacionada con el documento?",
+    "a": "El área relacionada es Soporte Temprano.",
     "product": "General",
+    "categoria": "General",
+    "keywords": [
+      "área",
+      "soporte",
+      "temprano",
+      "relacionada",
+      "documento"
+    ],
+    "faq_id": "A-20-03-25-03-14_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué área está relacionada con el documento? Respuesta: El área relacionada es Soporte Temprano."
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento?",
+    "a": "El tipo de situación descrita es ST (Soporte Temprano).",
+    "product": "General",
+    "categoria": "General",
     "keywords": [
       "tipo",
-      "soporte",
+      "situación",
       "st",
-      "nivel",
-      "temprano",
-      "descripción"
-    ]
-  },
-  {
-    "q": "¿Qué producto está relacionado con este soporte temprano?",
-    "a": "El producto relacionado con este soporte temprano es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "producto",
-      "relacionado",
       "soporte",
-      "temprano",
-      "miadminxml"
-    ]
+      "temprano"
+    ],
+    "faq_id": "A-20-03-25-03-14_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de situación se describe en el documento? Respuesta: El tipo de situación descrita es ST (Soporte Temprano)."
   },
   {
-    "q": "¿Qué requisitos se necesitan para recibir soporte temprano de MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "q": "¿Cuál es el nivel de soporte mencionado en el documento?",
+    "a": "El nivel de soporte mencionado es Nivel 1 - Temprano.",
+    "product": "General",
+    "categoria": "General",
+    "keywords": [
+      "nivel",
+      "soporte",
+      "1",
+      "temprano",
+      "mencionado"
+    ],
+    "faq_id": "A-20-03-25-03-14_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de soporte mencionado en el documento? Respuesta: El nivel de soporte mencionado es Nivel 1 - Temprano."
+  },
+  {
+    "q": "¿Qué recurso se menciona en el documento?",
+    "a": "El recurso mencionado es MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "recurso",
+      "mencionado",
+      "miadminxml",
+      "documento",
+      "soporte"
+    ],
+    "faq_id": "A-20-03-25-03-14_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se menciona en el documento? Respuesta: El recurso mencionado es MiAdminXML."
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para resolver el problema mencionado?",
+    "a": "Se necesita contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
-      "soporte",
-      "temprano",
       "licencia",
       "profesional",
       "periodo",
       "demostrativo",
       "correo",
-      "electrónico"
-    ]
+      "electrónico",
+      "solución"
+    ],
+    "faq_id": "A-20-03-25-03-14_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para resolver el problema mencionado? Respuesta: Se necesita contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué función tiene la Solución 1 mencionada en el documento?",
+    "q": "¿Qué hace la Solución 1 mencionada en el documento?",
     "a": "La Solución 1 enlista los XML por conceptos o productos de pago.",
     "product": "MiAdminXML",
+    "categoria": "Soluciones",
     "keywords": [
       "solución",
+      "1",
       "xml",
       "conceptos",
       "productos",
       "pago",
-      "lista"
-    ]
+      "enlista"
+    ],
+    "faq_id": "A-20-03-25-03-14_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace la Solución 1 mencionada en el documento? Respuesta: La Solución 1 enlista los XML por conceptos o productos de pago."
   }
 ]

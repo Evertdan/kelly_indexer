@@ -1,78 +1,115 @@
 [
   {
-    "q": "¿Qué se necesita para cambiar la ruta de la Bóveda en Red en MiExpedienteContable?",
-    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en el periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
+    "q": "¿Qué se necesita para cambiar la ruta de Bóveda en Red en MiExpedienteContable?",
+    "a": "Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "bóveda",
       "red",
-      "cambio",
-      "ruta",
       "licencia",
       "requisitos",
-      "periodo demostrativo"
-    ]
+      "cambio",
+      "ruta",
+      "almacenamiento"
+    ],
+    "faq_id": "D-20-03-10-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para cambiar la ruta de Bóveda en Red en MiExpedienteContable? Respuesta: Se requiere contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, se enviará la solución por correo electrónico."
   },
   {
     "q": "¿Cuáles son los modos de conexión disponibles en MiExpedienteContable?",
     "a": "MiExpedienteContable cuenta con dos modos de conexión: terminal y servidor.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "conexión",
       "modos",
       "terminal",
       "servidor",
       "configuración"
-    ]
+    ],
+    "faq_id": "D-20-03-10-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los modos de conexión disponibles en MiExpedienteContable? Respuesta: MiExpedienteContable cuenta con dos modos de conexión: terminal y servidor."
   },
   {
-    "q": "¿Cómo configurar la conexión en modo servidor en MiExpedienteContable?",
-    "a": "Para configurar la conexión en modo servidor, se debe instalar el sistema bajo la opción Servidor, registrar el sistema, compartir la carpeta de instalación (C:\\MiExpedienteContable) y configurar el puerto como excepción en el firewall del equipo.",
+    "q": "¿Cómo configurar MiExpedienteContable en modo servidor?",
+    "a": "Para configurar en modo servidor, se debe instalar el sistema bajo la opción Servidor, registrar el sistema, compartir la carpeta de instalación (C:\\MiExpedienteContable) y configurar el puerto como excepción en el firewall del equipo.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
-      "configuración",
+      "modo",
       "servidor",
       "instalación",
-      "carpeta compartida",
       "firewall",
-      "puerto"
-    ]
+      "puerto",
+      "carpeta",
+      "compartida"
+    ],
+    "faq_id": "D-20-03-10-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo configurar MiExpedienteContable en modo servidor? Respuesta: Para configurar en modo servidor, se debe instalar el sistema bajo la opción Servidor, registrar el sistema, compartir la carpeta de instalación (C:\\MiExpedienteContable) y configurar el puerto como excepción en el firewall del equipo."
   },
   {
-    "q": "¿Qué pasos seguir para configurar el firewall en MiExpedienteContable?",
-    "a": "Para configurar el firewall, se debe ingresar a Panel de Control/Firewall de Windows Defender, seleccionar Configuración avanzada, Reglas de entrada y Nueva Regla, eligiendo la opción Puerto y separando por comas los puertos necesarios.",
+    "q": "¿Qué pasos seguir para configurar el firewall en modo servidor?",
+    "a": "Ingresar a Panel de Control/Firewall de Windows Defender, Configuración avanzada, Reglas de entrada y Nueva Regla. Seleccionar la opción Puerto y separar por comas los puertos necesarios.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "firewall",
       "configuración",
+      "puerto",
       "windows defender",
       "reglas",
-      "puertos"
-    ]
+      "entrada"
+    ],
+    "faq_id": "D-20-03-10-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir para configurar el firewall en modo servidor? Respuesta: Ingresar a Panel de Control/Firewall de Windows Defender, Configuración avanzada, Reglas de entrada y Nueva Regla. Seleccionar la opción Puerto y separar por comas los puertos necesarios."
   },
   {
-    "q": "¿Cómo configurar la conexión en modo terminal en MiExpedienteContable?",
-    "a": "Para configurar la conexión en modo terminal, se debe instalar el sistema bajo la opción Terminal, registrar el sistema, ingresar el Nombre o IP Fija del servidor y la carpeta compartida del servidor, y luego reiniciar el sistema.",
+    "q": "¿Cómo configurar MiExpedienteContable en modo terminal?",
+    "a": "Para configurar en modo terminal, se debe instalar el sistema bajo la opción Terminal, registrar el sistema e ingresar el Nombre o IP Fija del servidor junto con la carpeta compartida del servidor.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
-      "configuración",
+      "modo",
       "terminal",
       "instalación",
       "servidor",
       "ip",
-      "carpeta compartida"
-    ]
+      "carpeta",
+      "compartida"
+    ],
+    "faq_id": "D-20-03-10-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo configurar MiExpedienteContable en modo terminal? Respuesta: Para configurar en modo terminal, se debe instalar el sistema bajo la opción Terminal, registrar el sistema e ingresar el Nombre o IP Fija del servidor junto con la carpeta compartida del servidor."
   },
   {
-    "q": "¿Qué se debe hacer para migrar la información a otra ubicación en MiExpedienteContable?",
-    "a": "Para migrar toda la información a otra ubicación, se debe copiar la carpeta MiExpedienteContable a la ruta deseada. De lo contrario, al elegir una nueva ruta, el sistema cargará sin información.",
+    "q": "¿Qué consideraciones hay al configurar MiExpedienteContable en modo terminal?",
+    "a": "Es importante tener la configuración pertinente en el servidor, instalar el sistema seleccionando la opción terminal y llenar el registro correctamente.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
+    "keywords": [
+      "consideraciones",
+      "terminal",
+      "servidor",
+      "configuración",
+      "registro"
+    ],
+    "faq_id": "D-20-03-10-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué consideraciones hay al configurar MiExpedienteContable en modo terminal? Respuesta: Es importante tener la configuración pertinente en el servidor, instalar el sistema seleccionando la opción terminal y llenar el registro correctamente."
+  },
+  {
+    "q": "¿Qué hacer si se requiere migrar toda la información a otra ubicación en MiExpedienteContable?",
+    "a": "Se debe copiar la carpeta MiExpedienteContable a la ruta deseada. De lo contrario, al elegir una nueva ruta, el sistema cargará sin información.",
+    "product": "MiExpedienteContable",
+    "categoria": "Migración",
     "keywords": [
       "migración",
       "información",
       "carpeta",
       "ruta",
+      "ubicación",
       "copia"
-    ]
+    ],
+    "faq_id": "D-20-03-10-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si se requiere migrar toda la información a otra ubicación en MiExpedienteContable? Respuesta: Se debe copiar la carpeta MiExpedienteContable a la ruta deseada. De lo contrario, al elegir una nueva ruta, el sistema cargará sin información."
   }
 ]

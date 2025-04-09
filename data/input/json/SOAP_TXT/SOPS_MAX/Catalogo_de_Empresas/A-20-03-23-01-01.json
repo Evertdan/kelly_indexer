@@ -3,61 +3,76 @@
     "q": "¿Qué se necesita para actualizar MiAdminXML?",
     "a": "Se debe contar con una clave de licencia de MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualizar",
-      "requisitos",
+      "actualización",
       "licencia",
+      "requisitos",
       "periodo demostrativo",
       "clave"
-    ]
+    ],
+    "faq_id": "A-20-03-23-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para actualizar MiAdminXML? Respuesta: Se debe contar con una clave de licencia de MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cuáles son los pasos para actualizar MiAdminXML?",
-    "a": "1. Cerrar el sistema de MiAdminXML. 2. Entrar en Equipo y después al Disco Local 'C'. 3. Abrir la carpeta AdminXML en la ruta C:\\AdminXML. 4. Ejecutar MiActualizacionAdminXML6.exe. 5. Abrir el programa nuevamente para completar la actualización.",
+    "a": "1. Cerrar el sistema de MiAdminXML. 2. Ir a Inicio, entrar en Equipo y luego al Disco Local 'C'. 3. Abrir la carpeta AdminXML en la ruta C:\\AdminXML. 4. Ejecutar MiActualizacionAdminXML6.exe. 5. Abrir el programa nuevamente para completar la actualización.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
       "pasos",
       "actualización",
       "ejecutar",
       "disco local",
-      "carpeta",
-      "adminxml"
-    ]
+      "adminxml",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-23-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para actualizar MiAdminXML? Respuesta: 1. Cerrar el sistema de MiAdminXML. 2. Ir a Inicio, entrar en Equipo y luego al Disco Local 'C'. 3. Abrir la carpeta AdminXML en la ruta C:\\AdminXML. 4. Ejecutar MiActualizacionAdminXML6.exe. 5. Abrir el programa nuevamente para completar la actualización."
   },
   {
     "q": "¿Qué archivo se debe ejecutar para actualizar MiAdminXML 5.0?",
     "a": "Para actualizar MiAdminXML 5.0, se debe seleccionar el archivo 'Actualizador MAX 101'.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualizar",
-      "5.0",
       "archivo",
-      "actualizador max 101",
-      "versión"
-    ]
+      "actualizador",
+      "max 101",
+      "versión 5.0",
+      "ejecutar"
+    ],
+    "faq_id": "A-20-03-23-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué archivo se debe ejecutar para actualizar MiAdminXML 5.0? Respuesta: Para actualizar MiAdminXML 5.0, se debe seleccionar el archivo 'Actualizador MAX 101'."
   },
   {
     "q": "¿Qué resultado se espera después de actualizar MiAdminXML?",
     "a": "El resultado esperado es una actualización del programa exitosa.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
       "resultado",
       "éxito",
       "actualización",
       "programa",
       "completado"
-    ]
+    ],
+    "faq_id": "A-20-03-23-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué resultado se espera después de actualizar MiAdminXML? Respuesta: El resultado esperado es una actualización del programa exitosa."
   },
   {
-    "q": "¿Dónde se encuentra la carpeta AdminXML para la actualización?",
-    "a": "La carpeta AdminXML se encuentra en la ruta C:\\AdminXML.",
+    "q": "¿Qué nivel de complejidad tiene el proceso de actualización de MiAdminXML?",
+    "a": "El nivel de complejidad del proceso de actualización es bajo (Nivel 1).",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "carpeta",
-      "ruta",
-      "disco local",
-      "c",
-      "ubicación"
-    ]
+      "complejidad",
+      "nivel",
+      "bajo",
+      "proceso",
+      "dificultad"
+    ],
+    "faq_id": "A-20-03-23-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de complejidad tiene el proceso de actualización de MiAdminXML? Respuesta: El nivel de complejidad del proceso de actualización es bajo (Nivel 1)."
   }
 ]

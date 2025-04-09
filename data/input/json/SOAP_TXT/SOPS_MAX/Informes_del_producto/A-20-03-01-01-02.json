@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Cuáles son los costos de las licencias de AdminXML?",
-    "a": "Los costos de las licencias son: Licencia Plus $1449.00 incluye IVA, vigencia de 1 año; Licencia Pro $2295.00 incluye IVA, vigencia de 1 año.",
-    "product": "AdminXML",
+    "q": "¿Cuáles son los costos de las licencias de MiAdminXML?",
+    "a": "Los costos de las licencias son: Licencia Plus $1449.00 incluye IVA con vigencia de 1 año y Licencia Pro $2295.00 incluye IVA con vigencia de 1 año.",
+    "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
       "costos",
       "licencias",
@@ -11,12 +12,15 @@
       "precios",
       "iva",
       "vigencia"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los costos de las licencias de MiAdminXML? Respuesta: Los costos de las licencias son: Licencia Plus $1449.00 incluye IVA con vigencia de 1 año y Licencia Pro $2295.00 incluye IVA con vigencia de 1 año."
   },
   {
-    "q": "¿Dónde puedo ver las diferencias entre los paquetes Plus y Pro de AdminXML?",
-    "a": "Las diferencias entre los paquetes Plus y Pro se pueden consultar en el Sop. A-20-03-01-01-03.",
-    "product": "AdminXML",
+    "q": "¿Dónde puedo encontrar más información sobre las diferencias entre los paquetes Plus y Pro?",
+    "a": "Para conocer las diferencias entre los paquetes Plus y Pro, se debe consultar el Soporte A-20-03-01-01-03.",
+    "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
       "diferencias",
       "paquetes",
@@ -24,45 +28,54 @@
       "pro",
       "comparación",
       "soporte"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar más información sobre las diferencias entre los paquetes Plus y Pro? Respuesta: Para conocer las diferencias entre los paquetes Plus y Pro, se debe consultar el Soporte A-20-03-01-01-03."
   },
   {
-    "q": "¿Dónde puedo encontrar información sobre los pasos para comprar una licencia de AdminXML?",
-    "a": "Los pasos de compra se detallan en el Sop. A-20-03-02-03-01.",
-    "product": "AdminXML",
+    "q": "¿Dónde puedo ver los pasos para comprar una licencia de MiAdminXML?",
+    "a": "Los pasos para comprar una licencia se detallan en el Soporte A-20-03-02-03-01.",
+    "product": "MiAdminXML",
+    "categoria": "Compra",
     "keywords": [
       "compra",
       "pasos",
       "licencia",
       "proceso",
-      "soporte",
-      "adquisición"
-    ]
+      "soporte"
+    ],
+    "faq_id": "A-20-03-01-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo ver los pasos para comprar una licencia de MiAdminXML? Respuesta: Los pasos para comprar una licencia se detallan en el Soporte A-20-03-02-03-01."
   },
   {
-    "q": "¿Cuál es la vigencia de las licencias de AdminXML?",
+    "q": "¿Cuál es la vigencia de las licencias Plus y Pro de MiAdminXML?",
     "a": "Tanto la Licencia Plus como la Licencia Pro tienen una vigencia de 1 año.",
-    "product": "AdminXML",
+    "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
       "vigencia",
-      "duración",
       "licencia",
       "plus",
       "pro",
-      "tiempo"
-    ]
+      "duración",
+      "año"
+    ],
+    "faq_id": "A-20-03-01-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la vigencia de las licencias Plus y Pro de MiAdminXML? Respuesta: Tanto la Licencia Plus como la Licencia Pro tienen una vigencia de 1 año."
   },
   {
-    "q": "¿Dónde puedo obtener más información sobre las licencias de AdminXML?",
-    "a": "Puedes visitar la página www.adminxml.com para obtener más información sobre las licencias.",
-    "product": "AdminXML",
+    "q": "¿Dónde puedo encontrar más información sobre las licencias de MiAdminXML?",
+    "a": "Puedes encontrar más información en la página web www.adminxml.com.",
+    "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "información",
       "licencias",
       "página",
       "web",
-      "adminxml",
-      "detalles"
-    ]
+      "adminxml"
+    ],
+    "faq_id": "A-20-03-01-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar más información sobre las licencias de MiAdminXML? Respuesta: Puedes encontrar más información en la página web www.adminxml.com."
   }
 ]

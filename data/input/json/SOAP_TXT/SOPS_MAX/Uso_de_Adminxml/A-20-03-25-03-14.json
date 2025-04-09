@@ -1,8 +1,9 @@
 [
   {
     "q": "¿Qué es la herramienta de conceptos en MiAdminXML?",
-    "a": "La herramienta de conceptos en MiAdminXML enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y la descripción de la unidad.",
+    "a": "La herramienta de conceptos en MiAdminXML enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "herramienta",
       "conceptos",
@@ -12,12 +13,15 @@
       "descripción",
       "clave",
       "unidad"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-14_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta de conceptos en MiAdminXML? Respuesta: La herramienta de conceptos en MiAdminXML enlista los XML por conceptos o productos de pago, mostrando una pestaña con la descripción, clave del producto y descripción de la unidad."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la herramienta de conceptos en MiAdminXML?",
     "a": "Para usar la herramienta de conceptos en MiAdminXML, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -25,19 +29,25 @@
       "demostrativo",
       "herramienta",
       "conceptos"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-14_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la herramienta de conceptos en MiAdminXML? Respuesta: Para usar la herramienta de conceptos en MiAdminXML, se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué información muestra la herramienta de conceptos?",
-    "a": "La herramienta de conceptos muestra una pestaña con la descripción, clave del producto y la descripción de la unidad.",
+    "q": "¿Qué información muestra la herramienta de conceptos en MiAdminXML?",
+    "a": "La herramienta de conceptos muestra una pestaña con la descripción, clave del producto y descripción de la unidad de los XML por conceptos o productos de pago.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "información",
       "descripción",
       "clave",
       "producto",
       "unidad",
-      "pestaña"
-    ]
+      "xml",
+      "pago"
+    ],
+    "faq_id": "A-20-03-25-03-14_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información muestra la herramienta de conceptos en MiAdminXML? Respuesta: La herramienta de conceptos muestra una pestaña con la descripción, clave del producto y descripción de la unidad de los XML por conceptos o productos de pago."
   }
 ]

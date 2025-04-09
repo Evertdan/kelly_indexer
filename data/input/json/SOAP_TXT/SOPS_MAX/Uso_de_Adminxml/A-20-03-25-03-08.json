@@ -3,53 +3,60 @@
     "q": "¿Qué función tiene la herramienta generar PDF en MiAdminXML?",
     "a": "La herramienta generar PDF permite convertir un archivo XML a una representación en formato PDF.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "herramienta",
       "generar pdf",
-      "funcion",
-      "convertir",
       "xml",
-      "pdf",
-      "representación"
-    ]
+      "convertir",
+      "herramienta",
+      "funcion"
+    ],
+    "faq_id": "A-20-03-25-03-08_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta generar PDF en MiAdminXML? Respuesta: La herramienta generar PDF permite convertir un archivo XML a una representación en formato PDF."
   },
   {
     "q": "¿Qué se necesita para usar la herramienta generar PDF en MiAdminXML?",
-    "a": "Se requiere contar con una licencia de MiAdminXML o estar en el periodo demostrativo.",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
+      "requisitos",
       "periodo demostrativo",
-      "necesario",
-      "herramienta",
-      "generar pdf"
-    ]
+      "generar pdf",
+      "necesito"
+    ],
+    "faq_id": "A-20-03-25-03-08_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta generar PDF en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se accede a la herramienta generar PDF en MiAdminXML?",
-    "a": "Para acceder a la herramienta generar PDF, se debe ingresar al módulo de administración y seleccionar la herramienta.",
+    "a": "Para acceder a la herramienta, se debe ingresar al módulo de administración y seleccionar la herramienta generar PDF.",
     "product": "MiAdminXML",
+    "categoria": "Uso",
     "keywords": [
-      "acceso",
-      "modulo",
-      "administración",
+      "acceder",
+      "modulo administracion",
       "seleccionar",
       "herramienta",
       "generar pdf"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-08_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede a la herramienta generar PDF en MiAdminXML? Respuesta: Para acceder a la herramienta, se debe ingresar al módulo de administración y seleccionar la herramienta generar PDF."
   },
   {
-    "q": "¿Qué archivo se necesita para generar un PDF en MiAdminXML?",
-    "a": "Se necesita seleccionar el archivo XML que se desea convertir a PDF.",
+    "q": "¿Se puede convertir cualquier XML a PDF con la herramienta de MiAdminXML?",
+    "a": "Sí, pero únicamente se puede realizar si se selecciona el XML específico que se desea convertir a PDF.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
-      "archivo",
-      "xml",
-      "seleccionar",
       "convertir",
+      "xml",
       "pdf",
-      "requisito"
-    ]
+      "seleccionar",
+      "especifico"
+    ],
+    "faq_id": "A-20-03-25-03-08_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Se puede convertir cualquier XML a PDF con la herramienta de MiAdminXML? Respuesta: Sí, pero únicamente se puede realizar si se selecciona el XML específico que se desea convertir a PDF."
   }
 ]

@@ -1,21 +1,26 @@
 [
   {
     "q": "¿Qué tipo de incidencia es cuando un cliente no puede pagar con tarjeta?",
-    "a": "Es una Incidencia 02, de nivel 2– Medio.",
+    "a": "Es una Incidencia 02, de nivel Medio.",
     "product": "General",
+    "categoria": "Errores Comunes",
     "keywords": [
       "incidencia",
       "tipo",
+      "nivel",
+      "medio",
       "pago",
       "tarjeta",
-      "error",
-      "nivel"
-    ]
+      "error"
+    ],
+    "faq_id": "A-20-02-02-04-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando un cliente no puede pagar con tarjeta? Respuesta: Es una Incidencia 02, de nivel Medio."
   },
   {
     "q": "¿Qué hacer si el código de seguridad de la tarjeta es inválido o no fue proporcionado?",
-    "a": "Validar los números del código de seguridad, ya que se ingresó mal o no se proporcionó el código correcto.",
+    "a": "Validar los números del código de seguridad de la tarjeta, ya que se ingresó mal o no se proporcionó correctamente.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "código",
       "seguridad",
@@ -23,12 +28,15 @@
       "inválido",
       "validar",
       "error"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el código de seguridad de la tarjeta es inválido o no fue proporcionado? Respuesta: Validar los números del código de seguridad de la tarjeta, ya que se ingresó mal o no se proporcionó correctamente."
   },
   {
     "q": "¿Qué significa cuando la tarjeta es declinada por el banco?",
-    "a": "La tarjeta cuenta con bloqueo de compras por parte del banco. Se recomienda llamar al banco para desbloquearla o para que ofrezca alguna solución.",
+    "a": "La tarjeta puede tener un bloqueo de compras por parte del banco. Se recomienda llamar al banco para desbloquearla o buscar una solución.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "tarjeta",
       "declinada",
@@ -36,25 +44,30 @@
       "bloqueo",
       "solución",
       "llamar"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significa cuando la tarjeta es declinada por el banco? Respuesta: La tarjeta puede tener un bloqueo de compras por parte del banco. Se recomienda llamar al banco para desbloquearla o buscar una solución."
   },
   {
     "q": "¿Qué hacer si la tarjeta ha expirado?",
     "a": "Cambiar de tarjeta o de método de pago, ya que la tarjeta ya expiró.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "tarjeta",
       "expirada",
       "cambiar",
       "método",
-      "pago",
-      "solución"
-    ]
+      "pago"
+    ],
+    "faq_id": "A-20-02-02-04-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si la tarjeta ha expirado? Respuesta: Cambiar de tarjeta o de método de pago, ya que la tarjeta ya expiró."
   },
   {
     "q": "¿Qué hacer si la tarjeta no tiene fondos suficientes?",
     "a": "Cambiar de tarjeta o de método de pago, ya que la tarjeta no cuenta con fondos para realizar el pago.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "tarjeta",
       "fondos",
@@ -62,77 +75,95 @@
       "cambiar",
       "método",
       "pago"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si la tarjeta no tiene fondos suficientes? Respuesta: Cambiar de tarjeta o de método de pago, ya que la tarjeta no cuenta con fondos para realizar el pago."
   },
   {
     "q": "¿Qué hacer si el banco requiere autorización para realizar el pago?",
-    "a": "Llamar al banco para que desbloquee la compra, ya que detecta uso inusual de la tarjeta y la bloquea.",
+    "a": "Llamar al banco para que desbloquee la compra, ya que detecta un uso inusual de la tarjeta.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "banco",
       "autorización",
       "pago",
       "llamar",
       "desbloquear",
-      "uso inusual"
-    ]
+      "uso",
+      "inusual"
+    ],
+    "faq_id": "A-20-02-02-04-03_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el banco requiere autorización para realizar el pago? Respuesta: Llamar al banco para que desbloquee la compra, ya que detecta un uso inusual de la tarjeta."
   },
   {
-    "q": "¿Qué hacer si la transacción es rechazada por riesgo de fraude?",
+    "q": "¿Qué hacer si la transacción es rechazada por posible riesgo o fraude?",
     "a": "Ponerse en contacto con el emisor de la tarjeta para confirmar la validez de la transacción, ya que puede deberse a patrones de gasto inusuales, monto elevado, ubicación inusual o actividad sospechosa.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "transacción",
       "rechazada",
-      "fraude",
       "riesgo",
-      "contactar",
-      "emisor"
-    ]
+      "fraude",
+      "emisor",
+      "contacto",
+      "validar"
+    ],
+    "faq_id": "A-20-02-02-04-03_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si la transacción es rechazada por posible riesgo o fraude? Respuesta: Ponerse en contacto con el emisor de la tarjeta para confirmar la validez de la transacción, ya que puede deberse a patrones de gasto inusuales, monto elevado, ubicación inusual o actividad sospechosa."
   },
   {
     "q": "¿Qué hacer si la transacción es declinada por el cliente?",
     "a": "Revisar la información y verificar el estado de la tarjeta, ya que puede deberse a cancelación de la transacción, datos incorrectos, límite de crédito alcanzado o bloqueo por parte del cliente.",
     "product": "General",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "transacción",
       "declinada",
       "cliente",
       "revisar",
       "información",
+      "estado",
       "tarjeta"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-03_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si la transacción es declinada por el cliente? Respuesta: Revisar la información y verificar el estado de la tarjeta, ya que puede deberse a cancelación de la transacción, datos incorrectos, límite de crédito alcanzado o bloqueo por parte del cliente."
   },
   {
     "q": "¿Qué recomendaciones hay después de 3 intentos fallidos de pago?",
-    "a": "Cambiar de tarjeta de crédito o débito, cambiar de navegador, cambiar el correo electrónico, cambiar de teléfono, o realizar la compra en otra conexión si hay un Proxy activado en la red informática.",
+    "a": "Cambiar de tarjeta de crédito o débito, navegador, correo electrónico o teléfono. Si la compra se realiza desde una empresa con Proxy activado, usar otra conexión sin esta restricción.",
     "product": "General",
+    "categoria": "Recomendaciones",
     "keywords": [
       "intentos",
       "fallidos",
-      "recomendaciones",
       "cambiar",
       "tarjeta",
       "navegador",
       "correo",
       "teléfono",
       "proxy"
-    ]
+    ],
+    "faq_id": "A-20-02-02-04-03_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recomendaciones hay después de 3 intentos fallidos de pago? Respuesta: Cambiar de tarjeta de crédito o débito, navegador, correo electrónico o teléfono. Si la compra se realiza desde una empresa con Proxy activado, usar otra conexión sin esta restricción."
   },
   {
-    "q": "¿Qué información se necesita para comunicarse con OpenPay por un error de pago?",
+    "q": "¿Qué información se necesita para contactar a OpenPay por un error de pago?",
     "a": "Nombre del titular, últimos 4 dígitos de la tarjeta, fecha de cargo, monto de cargo, correo registrado en la tarjeta y teléfono.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
       "openpay",
+      "contactar",
       "error",
       "pago",
       "información",
       "titular",
       "tarjeta",
-      "cargo",
-      "correo",
-      "teléfono"
-    ]
+      "cargo"
+    ],
+    "faq_id": "A-20-02-02-04-03_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita para contactar a OpenPay por un error de pago? Respuesta: Nombre del titular, últimos 4 dígitos de la tarjeta, fecha de cargo, monto de cargo, correo registrado en la tarjeta y teléfono."
   }
 ]

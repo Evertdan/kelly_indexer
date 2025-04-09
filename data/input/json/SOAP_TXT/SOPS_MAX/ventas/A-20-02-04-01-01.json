@@ -1,77 +1,122 @@
 [
   {
-    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook?",
-    "a": "En Outlook, mueve el correo de spam a correo deseado haciendo clic derecho y seleccionando 'Marcar como correo deseado'. Además, agrega el contacto 'ventas@correo1.computocontable.com' y el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook.",
+    "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en mi bandeja de entrada?",
+    "a": "Puedes seguir los pasos para marcar el correo como deseado en Outlook, agregar el contacto y dominio de Computo Contable a remitentes seguros. También hay soluciones similares para Gmail y Yahoo.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
     "keywords": [
-      "outlook",
       "correo",
       "confirmación",
-      "spam",
-      "remitentes seguros",
-      "contacto",
+      "no recibido",
+      "bandeja de entrada",
       "solución"
-    ]
+    ],
+    "faq_id": "A-20-02-04-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en mi bandeja de entrada? Respuesta: Puedes seguir los pasos para marcar el correo como deseado en Outlook, agregar el contacto y dominio de Computo Contable a remitentes seguros. También hay soluciones similares para Gmail y Yahoo."
   },
   {
-    "q": "¿Cómo puedo asegurarme de recibir correos de MiExpedienteContable en Gmail?",
-    "a": "Inicia sesión en Gmail, agrega 'ventas@correo1.computocontable.com' como contacto desde la opción de Google Apps o 'Crear contacto'. Luego, intenta nuevamente el proceso de registro y validación.",
+    "q": "¿Cómo marcar un correo como deseado en Outlook para evitar que vaya a spam?",
+    "a": "Debes dar clic derecho sobre el correo y seleccionar 'Marcar como correo deseado'.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
+    "keywords": [
+      "outlook",
+      "correo deseado",
+      "spam",
+      "marcar",
+      "solución"
+    ],
+    "faq_id": "A-20-02-04-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo marcar un correo como deseado en Outlook para evitar que vaya a spam? Respuesta: Debes dar clic derecho sobre el correo y seleccionar 'Marcar como correo deseado'."
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Outlook?",
+    "a": "Ve a la opción de 'Contactos', haz clic en 'Nuevo', agrega el correo 'ventas@correo1.computocontable.com' y haz clic en 'Crear'.",
+    "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
+    "keywords": [
+      "outlook",
+      "contacto",
+      "agregar",
+      "computo contable",
+      "correo"
+    ],
+    "faq_id": "A-20-02-04-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el contacto de Computo Contable en Outlook? Respuesta: Ve a la opción de 'Contactos', haz clic en 'Nuevo', agrega el correo 'ventas@correo1.computocontable.com' y haz clic en 'Crear'."
+  },
+  {
+    "q": "¿Cómo agregar el dominio de Computo Contable a remitentes seguros en Outlook?",
+    "a": "Ve a 'Configuración', selecciona 'Ver toda la configuración de Outlook', busca 'Correo no deseado', en 'Remitentes y dominios seguros' haz clic en agregar, ingresa el correo 'ventas@correo1.computocontable.com' y guarda.",
+    "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
+    "keywords": [
+      "outlook",
+      "remitentes seguros",
+      "dominio",
+      "computo contable",
+      "configuración"
+    ],
+    "faq_id": "A-20-02-04-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el dominio de Computo Contable a remitentes seguros en Outlook? Respuesta: Ve a 'Configuración', selecciona 'Ver toda la configuración de Outlook', busca 'Correo no deseado', en 'Remitentes y dominios seguros' haz clic en agregar, ingresa el correo 'ventas@correo1.computocontable.com' y guarda."
+  },
+  {
+    "q": "¿Cómo agregar el contacto de Computo Contable en Gmail?",
+    "a": "Inicia sesión en Gmail, ve a 'Contactos', haz clic en 'Crear contacto', llena los datos con el correo 'ventas@correo1.computocontable.com' y guarda.",
+    "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
     "keywords": [
       "gmail",
-      "correo",
       "contacto",
-      "registro",
-      "validación",
-      "solución"
-    ]
+      "agregar",
+      "computo contable",
+      "correo"
+    ],
+    "faq_id": "A-20-02-04-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el contacto de Computo Contable en Gmail? Respuesta: Inicia sesión en Gmail, ve a 'Contactos', haz clic en 'Crear contacto', llena los datos con el correo 'ventas@correo1.computocontable.com' y guarda."
   },
   {
-    "q": "¿Qué pasos debo seguir para recibir correos de MiExpedienteContable en Yahoo?",
-    "a": "En Yahoo, ve a 'Contactos', haz clic en 'Nuevo contacto', ingresa 'Computo Contable' como nombre y 'ventas@correo1.computocontable.com' como correo electrónico, luego guarda el contacto.",
+    "q": "¿Cómo agregar el contacto de Computo Contable en Yahoo?",
+    "a": "Haz clic en 'Contactos', luego en 'Nuevo contacto', ingresa el nombre 'Computo Contable' y el correo 'ventas@correo1.computocontable.com', y guarda.",
     "product": "MiExpedienteContable",
+    "categoria": "Soporte Técnico",
     "keywords": [
       "yahoo",
-      "correo",
       "contacto",
-      "solución",
-      "registro"
-    ]
+      "agregar",
+      "computo contable",
+      "correo"
+    ],
+    "faq_id": "A-20-02-04-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo agregar el contacto de Computo Contable en Yahoo? Respuesta: Haz clic en 'Contactos', luego en 'Nuevo contacto', ingresa el nombre 'Computo Contable' y el correo 'ventas@correo1.computocontable.com', y guarda."
   },
   {
-    "q": "¿Qué requisitos son necesarios para recibir correos de MiExpedienteContable?",
+    "q": "¿Qué requisitos se necesitan para recibir correos de confirmación en MiExpedienteContable?",
     "a": "Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
-      "correo electrónico",
-      "solución"
-    ]
+      "correo",
+      "confirmación",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-04-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para recibir correos de confirmación en MiExpedienteContable? Respuesta: Es necesario contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico."
   },
   {
-    "q": "¿Qué tipo de incidencia es no recibir correos de MiExpedienteContable?",
-    "a": "No recibir correos de MiExpedienteContable se clasifica como una incidencia tipo INC-02 con un nivel de gravedad medio.",
+    "q": "¿Qué tipo de incidencia es no recibir correos de confirmación en MiExpedienteContable?",
+    "a": "Es una incidencia tipo INC-02 con nivel de prioridad 2 – Medio.",
     "product": "MiExpedienteContable",
+    "categoria": "General",
     "keywords": [
       "incidencia",
       "tipo",
       "nivel",
-      "gravedad",
+      "prioridad",
       "correo"
-    ]
-  },
-  {
-    "q": "¿Cuál es el alcance de la verificación de envío de correo de confirmación en MiExpedienteContable?",
-    "a": "El alcance incluye verificar que el correo de confirmación se haya enviado correctamente y asegurarse de que llegue a la bandeja de entrada del usuario.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "alcance",
-      "verificación",
-      "correo",
-      "confirmación",
-      "bandeja de entrada"
-    ]
+    ],
+    "faq_id": "A-20-02-04-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es no recibir correos de confirmación en MiExpedienteContable? Respuesta: Es una incidencia tipo INC-02 con nivel de prioridad 2 – Medio."
   }
 ]

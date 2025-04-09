@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Cuáles son las diferencias entre el paquete Plus y el paquete Profesional de AdminXML?",
-    "a": "El paquete Plus permite descargar hasta más de 2,000 XML por día y contribuyente con el módulo 'Descarga masiva +D500', mientras que el paquete Profesional permite descargas de hasta 200,000 XML por solicitud ilimitadas con el módulo 'Web Service SAT'. Además, el paquete Profesional incluye el módulo exclusivo 'Control y conciliación de pagos' para conciliar XML con método de pago PPD.",
-    "product": "AdminXML",
+    "q": "¿Cuáles son las principales diferencias entre el paquete Plus y el paquete Profesional?",
+    "a": "El paquete Plus permite descargar hasta más de 2,000 XML por día y contribuyente con el módulo 'Descarga masiva +D500'. El paquete Profesional, con el módulo Web Service SAT, permite descargas de hasta 200,000 XML por solicitud (ilimitadas) y cuenta con el módulo exclusivo 'Control y conciliación de pagos' para conciliar XML con método PPD.",
+    "product": "General",
+    "categoria": "Paquetes",
     "keywords": [
       "paquete plus",
       "paquete profesional",
@@ -10,72 +11,74 @@
       "descarga masiva",
       "web service sat",
       "control pagos",
-      "conciliación",
-      "xml",
-      "licencia"
-    ]
+      "ppd",
+      "xml"
+    ],
+    "faq_id": "A-20-03-01-01-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son las principales diferencias entre el paquete Plus y el paquete Profesional? Respuesta: El paquete Plus permite descargar hasta más de 2,000 XML por día y contribuyente con el módulo 'Descarga masiva +D500'. El paquete Profesional, con el módulo Web Service SAT, permite descargas de hasta 200,000 XML por solicitud (ilimitadas) y cuenta con el módulo exclusivo 'Control y conciliación de pagos' para conciliar XML con método PPD."
   },
   {
-    "q": "¿Qué módulo incluye el paquete Plus de AdminXML y cuál es su límite de descarga?",
+    "q": "¿Qué módulo incluye el paquete Plus para descargas de XML?",
     "a": "El paquete Plus incluye el módulo 'Descarga masiva +D500', que permite descargar hasta más de 2,000 XML por día y contribuyente.",
-    "product": "AdminXML",
+    "product": "General",
+    "categoria": "Paquetes",
     "keywords": [
       "paquete plus",
       "descarga masiva",
       "d500",
-      "límite",
       "xml",
-      "contribuyente",
-      "módulo",
-      "adminxml"
-    ]
+      "límite",
+      "contribuyente"
+    ],
+    "faq_id": "A-20-03-01-01-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué módulo incluye el paquete Plus para descargas de XML? Respuesta: El paquete Plus incluye el módulo 'Descarga masiva +D500', que permite descargar hasta más de 2,000 XML por día y contribuyente."
   },
   {
-    "q": "¿Qué ventajas ofrece el paquete Profesional de AdminXML en comparación con el Plus?",
-    "a": "El paquete Profesional ofrece descargas de hasta 200,000 XML por solicitud ilimitadas con el módulo 'Web Service SAT' y cuenta con el módulo exclusivo 'Control y conciliación de pagos' para conciliar XML con método de pago PPD.",
-    "product": "AdminXML",
+    "q": "¿Qué ventajas ofrece el módulo Web Service SAT del paquete Profesional?",
+    "a": "El módulo Web Service SAT del paquete Profesional permite descargas de hasta 200,000 XML por solicitud, con solicitudes ilimitadas.",
+    "product": "General",
+    "categoria": "Paquetes",
+    "keywords": [
+      "web service sat",
+      "paquete profesional",
+      "descargas",
+      "xml",
+      "ilimitadas",
+      "200000"
+    ],
+    "faq_id": "A-20-03-01-01-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué ventajas ofrece el módulo Web Service SAT del paquete Profesional? Respuesta: El módulo Web Service SAT del paquete Profesional permite descargas de hasta 200,000 XML por solicitud, con solicitudes ilimitadas."
+  },
+  {
+    "q": "¿Qué funcionalidad exclusiva tiene el paquete Profesional para pagos?",
+    "a": "El paquete Profesional incluye el módulo 'Control y conciliación de pagos', que permite conciliar XML con método PPD, mostrando facturas pagadas, no pagadas y parcialmente pagadas.",
+    "product": "General",
+    "categoria": "Paquetes",
     "keywords": [
       "paquete profesional",
-      "ventajas",
-      "web service sat",
       "control pagos",
       "conciliación",
-      "ppd",
-      "xml",
-      "solicitudes ilimitadas",
-      "adminxml"
-    ]
-  },
-  {
-    "q": "¿Qué funcionalidad proporciona el módulo 'Control y conciliación de pagos' en AdminXML?",
-    "a": "El módulo 'Control y conciliación de pagos' permite conciliar XML con método de pago PPD, indicando las facturas pagadas, no pagadas y parcialmente pagadas.",
-    "product": "AdminXML",
-    "keywords": [
-      "control pagos",
-      "conciliación",
-      "módulo",
       "ppd",
       "facturas",
       "pagadas",
-      "no pagadas",
-      "parcialmente pagadas",
-      "adminxml",
-      "xml"
-    ]
+      "parcialmente pagadas"
+    ],
+    "faq_id": "A-20-03-01-01-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué funcionalidad exclusiva tiene el paquete Profesional para pagos? Respuesta: El paquete Profesional incluye el módulo 'Control y conciliación de pagos', que permite conciliar XML con método PPD, mostrando facturas pagadas, no pagadas y parcialmente pagadas."
   },
   {
-    "q": "¿Cuál es el límite de descarga por solicitud en el módulo 'Web Service SAT' de AdminXML?",
-    "a": "El módulo 'Web Service SAT' permite descargas de hasta 200,000 XML por solicitud, con solicitudes ilimitadas.",
-    "product": "AdminXML",
+    "q": "¿Dónde puedo encontrar más información sobre los paquetes?",
+    "a": "Puedes visitar la página www.adminxml.com para obtener más información sobre los paquetes.",
+    "product": "General",
+    "categoria": "General",
     "keywords": [
-      "web service sat",
-      "descarga",
-      "límite",
-      "xml",
-      "solicitud",
-      "ilimitadas",
-      "paquete profesional",
-      "adminxml"
-    ]
+      "información",
+      "paquetes",
+      "adminxml",
+      "web",
+      "sitio"
+    ],
+    "faq_id": "A-20-03-01-01-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar más información sobre los paquetes? Respuesta: Puedes visitar la página www.adminxml.com para obtener más información sobre los paquetes."
   }
 ]

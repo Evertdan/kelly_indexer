@@ -1,60 +1,143 @@
 [
   {
-    "q": "¿Qué tiendas están afiliadas para realizar pagos en OpenPay?",
-    "a": "Las tiendas afiliadas para realizar pagos en OpenPay incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart y Waldos.",
-    "product": "OpenPay",
+    "q": "¿Qué tipo de problema resuelve este documento?",
+    "a": "El documento resuelve la situación donde el cliente no identifica en qué tiendas puede realizar su pago.",
+    "product": "General",
+    "categoria": "FAQ",
     "keywords": [
-      "tiendas",
-      "afiliadas",
-      "openpay",
-      "pagos",
-      "farmacias",
-      "7 eleven",
-      "bodega aurrera",
-      "wal-mart",
-      "waldos"
-    ]
-  },
-  {
-    "q": "¿Cómo se informa al cliente sobre las tiendas afiliadas si contacta por correo electrónico?",
-    "a": "Si el cliente contacta por correo electrónico, se le envía la lista de tiendas afiliadas utilizando la respuesta automática llamada 'Tiendas OpenPay' que se encuentra en Missive.",
-    "product": "OpenPay",
-    "keywords": [
-      "correo electrónico",
-      "respuesta automática",
-      "tiendas openpay",
-      "missive",
-      "información",
-      "cliente",
-      "contacto"
-    ]
-  },
-  {
-    "q": "¿Dónde puedo encontrar más información sobre las tiendas afiliadas de OpenPay?",
-    "a": "Puedes encontrar más información sobre las tiendas afiliadas de OpenPay en la página paynet.com.mx.",
-    "product": "OpenPay",
-    "keywords": [
-      "información",
-      "tiendas",
-      "afiliadas",
-      "openpay",
-      "paynet",
-      "página",
-      "consulta"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de solicitud de cliente se aborda en este procedimiento?",
-    "a": "Este procedimiento aborda solicitudes de clientes que no identifican en qué tiendas pueden realizar su pago.",
-    "product": "OpenPay",
-    "keywords": [
-      "solicitud",
+      "problema",
       "cliente",
       "tiendas",
       "pago",
-      "identificar",
-      "procedimiento",
-      "información"
-    ]
+      "identificación"
+    ],
+    "faq_id": "A-20-03-02-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de problema resuelve este documento? Respuesta: El documento resuelve la situación donde el cliente no identifica en qué tiendas puede realizar su pago."
+  },
+  {
+    "q": "¿Cuál es el nivel de complejidad de esta situación?",
+    "a": "El nivel de complejidad es 1 – Bajo.",
+    "product": "General",
+    "categoria": "Nivel",
+    "keywords": [
+      "nivel",
+      "complejidad",
+      "bajo",
+      "situación",
+      "problema"
+    ],
+    "faq_id": "A-20-03-02-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de complejidad de esta situación? Respuesta: El nivel de complejidad es 1 – Bajo."
+  },
+  {
+    "q": "¿Qué resultado se espera al resolver esta situación?",
+    "a": "El resultado esperado es una compra exitosa.",
+    "product": "General",
+    "categoria": "Resultados",
+    "keywords": [
+      "resultado",
+      "compra",
+      "exitosa",
+      "solución",
+      "problema"
+    ],
+    "faq_id": "A-20-03-02-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué resultado se espera al resolver esta situación? Respuesta: El resultado esperado es una compra exitosa."
+  },
+  {
+    "q": "¿Dónde se puede encontrar más información sobre este tema?",
+    "a": "Se puede encontrar más información en la página adminxml.com.",
+    "product": "General",
+    "categoria": "Recursos",
+    "keywords": [
+      "información",
+      "página",
+      "adminxml",
+      "recursos",
+      "consulta"
+    ],
+    "faq_id": "A-20-03-02-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se puede encontrar más información sobre este tema? Respuesta: Se puede encontrar más información en la página adminxml.com."
+  },
+  {
+    "q": "¿Cuál es el alcance de este documento?",
+    "a": "El alcance es informar al cliente las tiendas donde puede realizar su pago.",
+    "product": "General",
+    "categoria": "Alcances",
+    "keywords": [
+      "alcance",
+      "informar",
+      "cliente",
+      "tiendas",
+      "pago"
+    ],
+    "faq_id": "A-20-03-02-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de este documento? Respuesta: El alcance es informar al cliente las tiendas donde puede realizar su pago."
+  },
+  {
+    "q": "¿Qué tiendas están afiliadas para realizar pagos?",
+    "a": "Las tiendas afiliadas incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart y Waldos.",
+    "product": "General",
+    "categoria": "Tiendas Afiliadas",
+    "keywords": [
+      "tiendas",
+      "afiliadas",
+      "pago",
+      "farmacias",
+      "wal-mart",
+      "7 eleven",
+      "bodega aurrera",
+      "waldos"
+    ],
+    "faq_id": "A-20-03-02-05-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tiendas están afiliadas para realizar pagos? Respuesta: Las tiendas afiliadas incluyen Farmacias del ahorro, Farmacias Guadalajara, 7 eleven, Bodega Aurrera, Wal-Mart y Waldos."
+  },
+  {
+    "q": "¿Cómo se maneja la solicitud de información de tiendas afiliadas por correo electrónico?",
+    "a": "Si el cliente contacta por correo electrónico, se le enviará la lista de tiendas afiliadas utilizando la respuesta automática llamada 'Tiendas OpenPay' que se encuentra en Missive.",
+    "product": "General",
+    "categoria": "Solución",
+    "keywords": [
+      "correo",
+      "electrónico",
+      "respuesta",
+      "automática",
+      "missive",
+      "tiendas",
+      "openpay"
+    ],
+    "faq_id": "A-20-03-02-05-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se maneja la solicitud de información de tiendas afiliadas por correo electrónico? Respuesta: Si el cliente contacta por correo electrónico, se le enviará la lista de tiendas afiliadas utilizando la respuesta automática llamada 'Tiendas OpenPay' que se encuentra en Missive."
+  },
+  {
+    "q": "¿Dónde se encuentra la respuesta automática 'Tiendas OpenPay'?",
+    "a": "La respuesta automática 'Tiendas OpenPay' se encuentra en Missive.",
+    "product": "General",
+    "categoria": "Recursos",
+    "keywords": [
+      "respuesta",
+      "automática",
+      "tiendas",
+      "openpay",
+      "missive",
+      "ubicación"
+    ],
+    "faq_id": "A-20-03-02-05-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se encuentra la respuesta automática 'Tiendas OpenPay'? Respuesta: La respuesta automática 'Tiendas OpenPay' se encuentra en Missive."
+  },
+  {
+    "q": "¿Qué página se recomienda para más información sobre pagos?",
+    "a": "Se recomienda visitar https://www.paynet.com.mx/ para más información sobre pagos.",
+    "product": "General",
+    "categoria": "Recursos",
+    "keywords": [
+      "página",
+      "paynet",
+      "información",
+      "pagos",
+      "consulta"
+    ],
+    "faq_id": "A-20-03-02-05-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué página se recomienda para más información sobre pagos? Respuesta: Se recomienda visitar https://www.paynet.com.mx/ para más información sobre pagos."
   }
 ]

@@ -1,66 +1,81 @@
 [
   {
     "q": "¿Cómo puedo obtener la versión de prueba de MiExpedienteContable?",
-    "a": "Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe registrarse en el formulario de la página https://www.miexpedientecontable.com/. Es importante descargarlo en un equipo que no haya tenido instalado el sistema previamente.",
+    "a": "Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe registrarse en el formulario de la página https://www.miexpedientecontable.com/ y descargar el sistema en un equipo que no haya tenido instalado el software previamente.",
     "product": "MiExpedienteContable",
+    "categoria": "Demo",
     "keywords": [
       "versión de prueba",
       "demo",
       "registro",
-      "formulario",
-      "30 días",
       "descarga",
-      "requisitos"
-    ]
+      "30 días",
+      "miexpedientecontable",
+      "formulario"
+    ],
+    "faq_id": "D-20-03-01-01-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo obtener la versión de prueba de MiExpedienteContable? Respuesta: Para obtener la versión de prueba de 30 días de MiExpedienteContable, debe registrarse en el formulario de la página https://www.miexpedientecontable.com/ y descargar el sistema en un equipo que no haya tenido instalado el software previamente."
   },
   {
     "q": "¿Cuáles son los requisitos del sistema para instalar MiExpedienteContable?",
     "a": "Los requisitos del sistema incluyen: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínima de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con MAC ni con Windows 7, 8 u 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "sistema",
       "windows",
       "java",
-      "internet explorer",
       "ram",
       "disco duro",
-      "compatibilidad"
-    ]
+      "compatibilidad",
+      "no mac"
+    ],
+    "faq_id": "D-20-03-01-01-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos del sistema para instalar MiExpedienteContable? Respuesta: Los requisitos del sistema incluyen: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínima de 1GB, y mínimo 200 MB de espacio en disco duro. No es compatible con MAC ni con Windows 7, 8 u 8.1."
   },
   {
     "q": "¿MiExpedienteContable es compatible con macOS?",
-    "a": "No, el software MiExpedienteContable no es compatible con macOS.",
+    "a": "No, MiExpedienteContable no es compatible con macOS.",
     "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
     "keywords": [
       "compatibilidad",
       "macos",
       "no compatible",
       "sistema operativo"
-    ]
+    ],
+    "faq_id": "D-20-03-01-01-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿MiExpedienteContable es compatible con macOS? Respuesta: No, MiExpedienteContable no es compatible con macOS."
   },
   {
     "q": "¿Puedo instalar MiExpedienteContable en Windows 7 u 8?",
-    "a": "No, MiExpedienteContable no es compatible con Windows 7, Windows 8 ni Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles del proveedor.",
+    "a": "No, MiExpedienteContable no es compatible con Windows 7, 8 u 8.1 debido a que estos sistemas ya no cuentan con actualizaciones disponibles del proveedor.",
     "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
     "keywords": [
       "windows 7",
       "windows 8",
       "compatibilidad",
-      "actualizaciones",
-      "no compatible"
-    ]
+      "no compatible",
+      "actualizaciones"
+    ],
+    "faq_id": "D-20-03-01-01-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Puedo instalar MiExpedienteContable en Windows 7 u 8? Respuesta: No, MiExpedienteContable no es compatible con Windows 7, 8 u 8.1 debido a que estos sistemas ya no cuentan con actualizaciones disponibles del proveedor."
   },
   {
-    "q": "¿Qué pasa si intento instalar la versión de prueba en un equipo que ya tuvo MiExpedienteContable instalado?",
-    "a": "Si intenta instalar la versión de prueba en un equipo que ya tuvo MiExpedienteContable instalado previamente, el sistema le solicitará ingresar una clave de licencia en lugar de permitir el uso de la versión demo.",
+    "q": "¿Qué pasa si intento instalar MiExpedienteContable en un equipo donde ya estuvo instalado previamente?",
+    "a": "Si intenta instalar MiExpedienteContable en un equipo donde ya estuvo instalado previamente, el sistema le solicitará ingresar una clave de licencia y no podrá utilizar la versión de prueba de 30 días.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
-      "versión de prueba",
       "instalación",
       "equipo previo",
       "clave de licencia",
-      "restricción"
-    ]
+      "versión de prueba",
+      "restricciones"
+    ],
+    "faq_id": "D-20-03-01-01-06_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si intento instalar MiExpedienteContable en un equipo donde ya estuvo instalado previamente? Respuesta: Si intenta instalar MiExpedienteContable en un equipo donde ya estuvo instalado previamente, el sistema le solicitará ingresar una clave de licencia y no podrá utilizar la versión de prueba de 30 días."
   }
 ]

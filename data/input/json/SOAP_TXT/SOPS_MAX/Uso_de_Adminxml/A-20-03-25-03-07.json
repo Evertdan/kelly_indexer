@@ -1,65 +1,67 @@
 [
   {
-    "q": "¿Qué permite hacer la herramienta 'Abrir XML' en MiAdminXML?",
-    "a": "La herramienta 'Abrir XML' permite abrir y ver el contenido del archivo XML, mostrando su estructura.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "abrir xml",
-      "herramienta",
-      "contenido",
-      "estructura",
-      "visualizar"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar la herramienta 'Abrir XML' en MiAdminXML?",
+    "q": "¿Qué se necesita para utilizar la herramienta 'Abrir XML' en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
+      "abrir xml",
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "acceso",
-      "necesito"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-07_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar la herramienta 'Abrir XML' en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
+  },
+  {
+    "q": "¿Qué función tiene la herramienta 'Abrir XML' en MiAdminXML?",
+    "a": "La herramienta 'Abrir XML' permite abrir y ver el contenido del archivo XML, mostrando su estructura.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "funcion",
+      "abrir xml",
+      "ver contenido",
+      "estructura xml",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-07_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta 'Abrir XML' en MiAdminXML? Respuesta: La herramienta 'Abrir XML' permite abrir y ver el contenido del archivo XML, mostrando su estructura."
   },
   {
     "q": "¿Cuáles son los pasos para abrir un XML en MiAdminXML?",
-    "a": "Primero se debe ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes, y luego seleccionar el XML deseado con el botón 'Abrir XML'.",
+    "a": "Primero se debe ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes, luego seleccionar el XML y usar el botón 'Abrir XML'.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "pasos",
-      "proceso",
-      "seleccionar",
-      "rfc",
-      "comprobante",
+      "abrir xml",
+      "administración xml",
+      "seleccionar rfc",
+      "tipo comprobante",
       "año",
       "mes",
-      "botón"
-    ]
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-07_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para abrir un XML en MiAdminXML? Respuesta: Primero se debe ingresar al módulo de Administración de XML, seleccionar RFC, tipo de comprobante, año y mes, luego seleccionar el XML y usar el botón 'Abrir XML'."
   },
   {
-    "q": "¿Qué información se puede ver al abrir un XML con la herramienta de MiAdminXML?",
-    "a": "Al abrir un XML se puede ver su contenido y la estructura del archivo.",
+    "q": "¿Qué información se necesita seleccionar antes de abrir un XML en MiAdminXML?",
+    "a": "Antes de abrir un XML, se debe seleccionar el RFC, tipo de comprobante, año y mes correspondientes.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
-      "información",
-      "contenido",
-      "estructura",
-      "visualización",
-      "detalles"
-    ]
-  },
-  {
-    "q": "¿Dónde se encuentra la herramienta 'Abrir XML' en MiAdminXML?",
-    "a": "La herramienta 'Abrir XML' se encuentra en el módulo de Administración de XML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "ubicación",
-      "módulo",
-      "administración",
-      "encontrar",
-      "herramienta"
-    ]
+      "seleccionar",
+      "rfc",
+      "tipo comprobante",
+      "año",
+      "mes",
+      "abrir xml",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-25-03-07_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita seleccionar antes de abrir un XML en MiAdminXML? Respuesta: Antes de abrir un XML, se debe seleccionar el RFC, tipo de comprobante, año y mes correspondientes."
   }
 ]

@@ -1,86 +1,109 @@
 [
   {
-    "q": "¿Qué error se presenta en MiAdminXML relacionado con la base de datos?",
+    "q": "¿Qué error ocurre al intentar crear el archivo miadminxml2.sqlite?",
     "a": "Error al crear archivo miadminxml2.sqlite, base de datos dañada.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "error",
+      "miadminxml2.sqlite",
       "base de datos",
       "dañada",
-      "miadminxml2.sqlite",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-14-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué error ocurre al intentar crear el archivo miadminxml2.sqlite? Respuesta: Error al crear archivo miadminxml2.sqlite, base de datos dañada."
   },
   {
     "q": "¿Cuál es el nivel de gravedad del error al crear miadminxml2.sqlite?",
     "a": "Nivel 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Errores Comunes",
     "keywords": [
       "nivel",
       "gravedad",
       "error",
       "medio",
-      "incidente"
-    ]
+      "prioridad"
+    ],
+    "faq_id": "A-20-02-14-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de gravedad del error al crear miadminxml2.sqlite? Respuesta: Nivel 2 – Medio."
   },
   {
-    "q": "¿Qué acción se debe realizar primero para solucionar el error de la base de datos en MiAdminXML?",
-    "a": "Cerrar MiAdminXML y terminar los procesos en el administrador de tareas.",
+    "q": "¿Qué se debe eliminar para resolver el error de la base de datos dañada?",
+    "a": "Eliminación de mysql2.lite.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
+      "eliminar",
+      "mysql2.lite",
       "solución",
-      "cerrar",
-      "procesos",
-      "administrador de tareas",
-      "primer paso"
-    ]
+      "base de datos",
+      "dañada"
+    ],
+    "faq_id": "A-20-02-14-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe eliminar para resolver el error de la base de datos dañada? Respuesta: Eliminación de mysql2.lite."
   },
   {
-    "q": "¿Cómo se debe renombrar el archivo miadminxml2.sqlite para solucionar el problema?",
-    "a": "Dentro de C:\\AdminXML\\ renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite.",
+    "q": "¿Qué requisitos se necesitan para usar MiAdminXML y resolver este error?",
+    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "renombrar",
-      "archivo",
-      "c:\\adminxml\\",
-      "miadminxml2-ante.sqlite",
-      "paso"
-    ]
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "acceso",
+      "necesario"
+    ],
+    "faq_id": "A-20-02-14-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar MiAdminXML y resolver este error? Respuesta: Contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
-    "q": "¿Qué sucede si tenía habilitado el catálogo de contribuyentes al solucionar este error?",
+    "q": "¿Cuál es el alcance de la solución para el error de la base de datos dañada?",
+    "a": "Eliminación de mysql2.lite.",
+    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
+    "keywords": [
+      "alcance",
+      "solución",
+      "mysql2.lite",
+      "eliminar",
+      "base de datos"
+    ],
+    "faq_id": "A-20-02-14-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de la solución para el error de la base de datos dañada? Respuesta: Eliminación de mysql2.lite."
+  },
+  {
+    "q": "¿Qué pasos se deben seguir para resolver el error de la base de datos dañada?",
+    "a": "1. Cerrar MiAdminXML y terminar los procesos en el administrador de tareas. 2. Dentro de C:\\AdminXML\\ renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite. 3. Volver a abrir MiAdminXML y se deberá descargar correctamente miadminxml2.sqlite Base de datos más reciente. 4. Probar nuevamente que aparezcan las columnas y se puedan seleccionar los campos.",
+    "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
+    "keywords": [
+      "pasos",
+      "solución",
+      "renombrar",
+      "descargar",
+      "base de datos",
+      "procesos",
+      "administrador de tareas"
+    ],
+    "faq_id": "A-20-02-14-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se deben seguir para resolver el error de la base de datos dañada? Respuesta: 1. Cerrar MiAdminXML y terminar los procesos en el administrador de tareas. 2. Dentro de C:\\AdminXML\\ renombrar el archivo miadminxml2.sqlite por miadminxml2-ante.sqlite. 3. Volver a abrir MiAdminXML y se deberá descargar correctamente miadminxml2.sqlite Base de datos más reciente. 4. Probar nuevamente que aparezcan las columnas y se puedan seleccionar los campos."
+  },
+  {
+    "q": "¿Qué sucede si tenía el catálogo de contribuyentes habilitado antes del error?",
     "a": "Se deberá volver a llenar la información ya que la base de datos anterior está dañada.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "catálogo",
       "contribuyentes",
       "información",
       "dañada",
       "rellenar"
-    ]
-  },
-  {
-    "q": "¿Qué requisito se necesita para utilizar MiAdminXML cuando ocurre este error?",
-    "a": "Contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisito",
-      "licencia",
-      "periodo demostrativo",
-      "acceso",
-      "necesario"
-    ]
-  },
-  {
-    "q": "¿Qué archivo se elimina como resultado de este incidente en MiAdminXML?",
-    "a": "Eliminación de mysql2.lite.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "eliminación",
-      "archivo",
-      "mysql2.lite",
-      "resultado",
-      "incidente"
-    ]
+    ],
+    "faq_id": "A-20-02-14-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede si tenía el catálogo de contribuyentes habilitado antes del error? Respuesta: Se deberá volver a llenar la información ya que la base de datos anterior está dañada."
   }
 ]

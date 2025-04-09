@@ -1,82 +1,94 @@
 [
   {
     "q": "¿Qué es el módulo de Validación de Listas Negras en MiAdminXML?",
-    "a": "El módulo de Validación de Listas Negras permite detectar si alguno de los proveedores se encuentra relacionado en el listado 69B del SAT, y generar acuses y reportes para notificar a los contribuyentes.",
+    "a": "Es un módulo que permite detectar si alguno de los proveedores se encuentra relacionado en el listado 69B del SAT, además de generar acuses y reportes para notificar a los contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Validaciones",
     "keywords": [
       "validación",
       "listas negras",
       "módulo",
       "proveedores",
-      "listado 69b",
       "sat",
-      "detectar",
-      "reportes"
-    ]
+      "69b",
+      "reportes",
+      "acuses"
+    ],
+    "faq_id": "A-20-03-25-03-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el módulo de Validación de Listas Negras en MiAdminXML? Respuesta: Es un módulo que permite detectar si alguno de los proveedores se encuentra relacionado en el listado 69B del SAT, además de generar acuses y reportes para notificar a los contribuyentes."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar el módulo de Validación de Listas Negras?",
-    "a": "Se debe contar con una licencia de MiAdminXML o estar en periodo demostrativo, y tener información previamente almacenada en la BóvedaCFDi.",
+    "a": "Se debe contar con una licencia MiAdminXML o estar en periodo demostrativo, y tener información previamente almacenada en la BovedaCFDi.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "bóvedacfdi",
+      "bovedacfdi",
       "información",
       "almacenada"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar el módulo de Validación de Listas Negras? Respuesta: Se debe contar con una licencia MiAdminXML o estar en periodo demostrativo, y tener información previamente almacenada en la BovedaCFDi."
   },
   {
     "q": "¿Cómo se accede al módulo de Validación de Listas Negras en MiAdminXML?",
-    "a": "Se accede a través del icono de Validaciones en MiAdminXML y seleccionando la opción 'Listas Negras'.",
+    "a": "Se accede desde el icono de Validaciones en MiAdminXML y seleccionando la opción 'listas negras'.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
-      "icono",
       "validaciones",
+      "icono",
       "listas negras",
-      "seleccionar",
-      "módulo"
-    ]
+      "selección"
+    ],
+    "faq_id": "A-20-03-25-03-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de Validación de Listas Negras en MiAdminXML? Respuesta: Se accede desde el icono de Validaciones en MiAdminXML y seleccionando la opción 'listas negras'."
   },
   {
-    "q": "¿Qué se debe hacer la primera vez que se accede al módulo de Validación de Listas Negras?",
-    "a": "La primera vez que se accede, el módulo solicita descargar las bases de datos de las listas negras del SAT, las cuales se actualizan cada vez que el portal del SAT tiene una nueva versión.",
+    "q": "¿Qué sucede la primera vez que se accede al módulo de Validación de Listas Negras?",
+    "a": "El programa solicita descargar las bases de datos de las listas negras del SAT, las cuales se actualizan cada vez que el portal del SAT tiene una nueva versión.",
     "product": "MiAdminXML",
+    "categoria": "Configuración Inicial",
     "keywords": [
       "primera vez",
-      "descargar",
       "bases de datos",
-      "listas negras",
+      "descarga",
       "sat",
-      "actualizar",
-      "portal"
-    ]
+      "actualización",
+      "listas negras"
+    ],
+    "faq_id": "A-20-03-25-03-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede la primera vez que se accede al módulo de Validación de Listas Negras? Respuesta: El programa solicita descargar las bases de datos de las listas negras del SAT, las cuales se actualizan cada vez que el portal del SAT tiene una nueva versión."
   },
   {
-    "q": "¿Cómo se realiza la validación de un proveedor en el módulo de Listas Negras?",
+    "q": "¿Cómo se realiza la validación de listas negras en MiAdminXML?",
     "a": "Se selecciona el listado dando clic sobre RFC, tipo, año, mes o agrupación, luego se da clic en 'Validación Completa' y se espera a que se llene la barra de progreso.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Validación",
     "keywords": [
       "validación",
-      "proveedor",
-      "seleccionar",
+      "listado",
       "rfc",
       "tipo",
       "año",
       "mes",
       "agrupación",
       "barra de progreso"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se realiza la validación de listas negras en MiAdminXML? Respuesta: Se selecciona el listado dando clic sobre RFC, tipo, año, mes o agrupación, luego se da clic en 'Validación Completa' y se espera a que se llene la barra de progreso."
   },
   {
-    "q": "¿Qué información se muestra después de completar la validación en el módulo de Listas Negras?",
+    "q": "¿Qué información se muestra después de completar la validación de listas negras?",
     "a": "Se muestra un mensaje con el total de contribuyentes detectados y columnas que indican si el contribuyente tiene datos no válidos, mal emitidos o está en listas negras como no localizado, incumplido o con operaciones simuladas.",
     "product": "MiAdminXML",
+    "categoria": "Resultados",
     "keywords": [
       "resultados",
-      "validación",
       "contribuyentes",
       "detectados",
       "datos no válidos",
@@ -85,34 +97,24 @@
       "no localizado",
       "incumplido",
       "operaciones simuladas"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se muestra después de completar la validación de listas negras? Respuesta: Se muestra un mensaje con el total de contribuyentes detectados y columnas que indican si el contribuyente tiene datos no válidos, mal emitidos o está en listas negras como no localizado, incumplido o con operaciones simuladas."
   },
   {
-    "q": "¿Cómo se puede generar un acuse de validación para un proveedor detectado en las listas negras?",
-    "a": "Se selecciona el registro del proveedor y se genera un acuse de validación en formato PDF para verificarlo con el proveedor.",
+    "q": "¿Cómo se puede generar un acuse de validación en el módulo de Listas Negras?",
+    "a": "Se selecciona el registro deseado y se genera un acuse de validación en formato PDF para verificar con el proveedor.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
       "acuse",
       "validación",
-      "proveedor",
-      "seleccionar",
-      "registro",
       "pdf",
-      "verificar"
-    ]
-  },
-  {
-    "q": "¿Con qué frecuencia se actualizan las bases de datos de las listas negras del SAT en MiAdminXML?",
-    "a": "Las bases de datos se actualizan cada vez que el portal del SAT tiene una nueva versión, y el programa muestra una ventana con el aviso de que hay que actualizar.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "actualización",
-      "bases de datos",
-      "listas negras",
-      "sat",
-      "portal",
-      "nueva versión",
-      "aviso"
-    ]
+      "proveedor",
+      "registro",
+      "selección"
+    ],
+    "faq_id": "A-20-03-25-03-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede generar un acuse de validación en el módulo de Listas Negras? Respuesta: Se selecciona el registro deseado y se genera un acuse de validación en formato PDF para verificar con el proveedor."
   }
 ]

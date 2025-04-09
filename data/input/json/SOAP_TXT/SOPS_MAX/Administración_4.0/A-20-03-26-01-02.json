@@ -3,87 +3,110 @@
     "q": "¿Qué es la Herramienta de valida estado SAT en Administración de XML 4.0?",
     "a": "Es una herramienta que permite realizar la conexión directamente con los servidores del SAT para validar si los CFDi´s están vigentes o cancelados.",
     "product": "Administración de XML 4.0",
+    "categoria": "Validación SAT",
     "keywords": [
       "herramienta",
-      "valida estado",
+      "validación",
       "sat",
       "cfdi",
       "vigente",
       "cancelado"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la Herramienta de valida estado SAT en Administración de XML 4.0? Respuesta: Es una herramienta que permite realizar la conexión directamente con los servidores del SAT para validar si los CFDi´s están vigentes o cancelados."
   },
   {
     "q": "¿Qué se necesita para usar la Herramienta de valida estado SAT?",
-    "a": "Se debe contar con licencia MiAdminXML o estar en periodo demostrativo.",
+    "a": "Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "Administración de XML 4.0",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
       "miadminxml",
-      "periodo demostrativo",
-      "valida estado"
-    ]
+      "demostrativo",
+      "validación",
+      "sat"
+    ],
+    "faq_id": "A-20-03-26-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la Herramienta de valida estado SAT? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Cómo habilitar la columna Estado SAT en Administración de XML 4.0?",
+    "q": "¿Cómo habilitar la columna de Estado SAT en Administración de XML 4.0?",
     "a": "Se debe tener habilitada la columna de Estado SAT para que aparezca el estatus del XML.",
     "product": "Administración de XML 4.0",
+    "categoria": "Configuración",
     "keywords": [
+      "habilitar",
       "columna",
       "estado sat",
-      "habilitar",
-      "estatus",
+      "configuración",
       "xml"
-    ]
+    ],
+    "faq_id": "A-20-03-26-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo habilitar la columna de Estado SAT en Administración de XML 4.0? Respuesta: Se debe tener habilitada la columna de Estado SAT para que aparezca el estatus del XML."
   },
   {
-    "q": "¿Cuáles son los pasos para validar el estado SAT de todos los XML en el reporte?",
-    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Dar clic al botón Valida Estado SAT. 7. Seleccionar 'todos los del reporte'.",
+    "q": "¿Cuáles son los pasos para validar el estado SAT de todos los XML en un reporte?",
+    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Dar clic al botón Valida Estado SAT. 7. Seleccionar la opción todos los del reporte. 8. Terminando la validación, en la columna 'Estado SAT' encontrará el resultado.",
     "product": "Administración de XML 4.0",
+    "categoria": "Procedimientos",
     "keywords": [
       "pasos",
-      "validar",
-      "estado sat",
+      "validación",
+      "sat",
       "reporte",
-      "todos",
-      "xml"
-    ]
+      "xml",
+      "procedimiento"
+    ],
+    "faq_id": "A-20-03-26-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para validar el estado SAT de todos los XML en un reporte? Respuesta: 1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Dar clic al botón Valida Estado SAT. 7. Seleccionar la opción todos los del reporte. 8. Terminando la validación, en la columna 'Estado SAT' encontrará el resultado."
   },
   {
     "q": "¿Cómo validar el estado SAT de XML seleccionados en Administración de XML 4.0?",
-    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Seleccionar los XML para validar. 7. Dar clic al botón Valida Estado SAT. 8. Seleccionar 'XML seleccionados'.",
+    "a": "1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Seleccionar los XML para validar. 7. Dar clic al botón Valida Estado SAT. 8. Seleccionar la opción XML seleccionados. 10. Terminando la validación, en la columna 'Estado SAT' encontrará el resultado.",
     "product": "Administración de XML 4.0",
+    "categoria": "Procedimientos",
     "keywords": [
-      "validar",
-      "estado sat",
-      "seleccionados",
+      "validación",
+      "sat",
       "xml",
-      "pasos"
-    ]
+      "seleccionados",
+      "procedimiento"
+    ],
+    "faq_id": "A-20-03-26-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo validar el estado SAT de XML seleccionados en Administración de XML 4.0? Respuesta: 1. Ingresar al módulo de Administración de XML. 2. Seleccionar el submódulo de Administración de XML 4.0. 3. Seleccionar RFC, Tipo, Año y mes. 4. Dar clic en Leer XMLs. 5. Dar clic al botón Leer XMLs. 6. Seleccionar los XML para validar. 7. Dar clic al botón Valida Estado SAT. 8. Seleccionar la opción XML seleccionados. 10. Terminando la validación, en la columna 'Estado SAT' encontrará el resultado."
   },
   {
     "q": "¿Qué es la opción 'Consultar EFOS' en la Herramienta de valida estado SAT?",
-    "a": "Es una opción que ayuda a crear una columna en el reporte con el campo 'EFOS' para determinar si el contribuyente se encuentra en listas negras. Es una función exclusiva de Licencia Profesional.",
+    "a": "Es una opción que ayuda a crear una columna en el reporte con el campo 'EFOS' y las opciones 'sí' o 'no' para determinar si el contribuyente se encuentra en listas negras. Esta función es exclusiva de la Licencia Profesional.",
     "product": "Administración de XML 4.0",
+    "categoria": "Funcionalidades",
     "keywords": [
       "consultar efos",
       "listas negras",
       "licencia profesional",
-      "columna",
-      "reporte"
-    ]
+      "validación",
+      "sat"
+    ],
+    "faq_id": "A-20-03-26-01-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la opción 'Consultar EFOS' en la Herramienta de valida estado SAT? Respuesta: Es una opción que ayuda a crear una columna en el reporte con el campo 'EFOS' y las opciones 'sí' o 'no' para determinar si el contribuyente se encuentra en listas negras. Esta función es exclusiva de la Licencia Profesional."
   },
   {
-    "q": "¿Qué significan los estados 'Vigente', 'Cancelado', 'No identificado' y 'casilla en blanco' en la columna Estado SAT?",
-    "a": "'Vigente': XML aún deducibles. 'Cancelado': comprobantes cancelados por el emisor. 'No identificado' y 'casilla en blanco': XML no identificados como vigentes o cancelados, necesitan validación.",
+    "q": "¿Qué significan los estados 'Vigente', 'Cancelados', 'No identificado' y 'casilla en blanco' en la columna Estado SAT?",
+    "a": "'Vigente': XML aún deducibles para los ingresos del mes. 'Cancelados': Comprobantes cancelados por el emisor. 'No identificado' y 'casilla en blanco': XML no identificados como vigentes o cancelados, necesitan validación para mostrar la información correcta.",
     "product": "Administración de XML 4.0",
+    "categoria": "Validación SAT",
     "keywords": [
       "estados",
       "vigente",
       "cancelado",
       "no identificado",
       "casilla en blanco",
-      "columna estado sat"
-    ]
+      "validación",
+      "sat"
+    ],
+    "faq_id": "A-20-03-26-01-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué significan los estados 'Vigente', 'Cancelados', 'No identificado' y 'casilla en blanco' en la columna Estado SAT? Respuesta: 'Vigente': XML aún deducibles para los ingresos del mes. 'Cancelados': Comprobantes cancelados por el emisor. 'No identificado' y 'casilla en blanco': XML no identificados como vigentes o cancelados, necesitan validación para mostrar la información correcta."
   }
 ]

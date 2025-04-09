@@ -3,6 +3,7 @@
     "q": "¿En qué bancos se puede realizar el pago de la licencia de AdminXML?",
     "a": "Los bancos donde se puede realizar el pago de la licencia son: BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa.",
     "product": "AdminXML",
+    "categoria": "Pagos",
     "keywords": [
       "bancos",
       "pago",
@@ -14,35 +15,43 @@
       "scotiabank",
       "hsbc",
       "inbursa"
-    ]
+    ],
+    "faq_id": "A-20-03-02-05-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿En qué bancos se puede realizar el pago de la licencia de AdminXML? Respuesta: Los bancos donde se puede realizar el pago de la licencia son: BBVA, Banorte, Santander, Scotiabank, HSBC e Inbursa."
   },
   {
     "q": "¿Dónde puedo encontrar información sobre los bancos para pagar la licencia de AdminXML?",
-    "a": "La información sobre los bancos donde se puede realizar el pago está disponible en la página www.adminxml.com.",
+    "a": "La información sobre los bancos donde se puede realizar el pago de la licencia está disponible en la página www.adminxml.com.",
     "product": "AdminXML",
+    "categoria": "Pagos",
     "keywords": [
       "información",
       "bancos",
       "pago",
       "licencia",
       "adminxml",
-      "página",
-      "web"
-    ]
+      "página web",
+      "www.adminxml.com"
+    ],
+    "faq_id": "A-20-03-02-05-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar información sobre los bancos para pagar la licencia de AdminXML? Respuesta: La información sobre los bancos donde se puede realizar el pago de la licencia está disponible en la página www.adminxml.com."
   },
   {
-    "q": "¿Qué tipo de consulta es la pregunta sobre los bancos para pagar la licencia?",
-    "a": "La pregunta sobre los bancos para pagar la licencia está clasificada como FAQ-03 y tiene un nivel de dificultad 1 – Bajo.",
+    "q": "¿Qué tipo de consulta es conocer los bancos para pagar la licencia de AdminXML?",
+    "a": "Conocer los bancos para pagar la licencia de AdminXML es una consulta de tipo FAQ-03 y tiene un nivel de dificultad bajo (1 – Bajo).",
     "product": "AdminXML",
+    "categoria": "General",
     "keywords": [
       "consulta",
       "tipo",
-      "faq",
+      "faq-03",
       "nivel",
-      "dificultad",
       "bajo",
+      "bancos",
       "pago",
       "licencia"
-    ]
+    ],
+    "faq_id": "A-20-03-02-05-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de consulta es conocer los bancos para pagar la licencia de AdminXML? Respuesta: Conocer los bancos para pagar la licencia de AdminXML es una consulta de tipo FAQ-03 y tiene un nivel de dificultad bajo (1 – Bajo)."
   }
 ]

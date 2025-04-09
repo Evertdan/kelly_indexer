@@ -3,150 +3,165 @@
     "q": "¿Qué se necesita para usar el módulo de validación de listas negras en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "validación",
       "listas negras",
-      "requisitos",
       "licencia",
       "profesional",
       "demostrativo",
-      "correo electrónico"
-    ]
+      "requisitos",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar el módulo de validación de listas negras en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Cómo se actualizan las bases de datos de listas negras del SAT en MiAdminXML?",
-    "a": "La primera vez que se accede al módulo, se solicita descargar las bases de datos de las listas negras del SAT. Estas se actualizan cada vez que el portal del SAT tiene una nueva versión. El programa muestra una ventana con el aviso de actualización y se debe dar clic en Aceptar.",
+    "q": "¿Cómo se actualizan las bases de datos de listas negras en MiAdminXML?",
+    "a": "La primera vez que se accede al módulo, se solicita descargar las bases de datos de las listas negras del SAT. Estas se actualizan cada vez que el portal del SAT tiene una nueva versión. El programa muestra una ventana con el aviso de actualización y solo hay que dar clic en Aceptar.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualización",
       "bases de datos",
       "listas negras",
       "sat",
+      "actualización",
       "descarga",
-      "aviso",
-      "aceptar"
-    ]
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se actualizan las bases de datos de listas negras en MiAdminXML? Respuesta: La primera vez que se accede al módulo, se solicita descargar las bases de datos de las listas negras del SAT. Estas se actualizan cada vez que el portal del SAT tiene una nueva versión. El programa muestra una ventana con el aviso de actualización y solo hay que dar clic en Aceptar."
   },
   {
-    "q": "¿Qué información se necesita para validar XML en el módulo de listas negras?",
-    "a": "Se necesita seleccionar RFC, Tipo, Año, Mes y Agrupación (si aplica). También se puede realizar multi-selección de meses o agrupaciones arrastrando el cursor sobre los meses deseados.",
+    "q": "¿Qué opciones se pueden seleccionar al validar XML en el módulo de listas negras?",
+    "a": "Se pueden seleccionar RFC, Tipo, Año, Mes y Agrupación (si aplica). También se puede realizar una multi-selección de meses o agrupaciones arrastrando el cursor sobre los meses deseados.",
     "product": "MiAdminXML",
+    "categoria": "Validación",
     "keywords": [
       "validación",
       "xml",
-      "listas negras",
       "rfc",
       "tipo",
       "año",
       "mes",
       "agrupación",
       "multi-selección"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones se pueden seleccionar al validar XML en el módulo de listas negras? Respuesta: Se pueden seleccionar RFC, Tipo, Año, Mes y Agrupación (si aplica). También se puede realizar una multi-selección de meses o agrupaciones arrastrando el cursor sobre los meses deseados."
   },
   {
     "q": "¿Qué hace la herramienta 'Leer directorios' en el módulo de listas negras?",
-    "a": "La herramienta 'Leer directorios' permite a MiAdminXML leer los XML del directorio seleccionado, deshabilitando todas las herramientas excepto la de Cancelar, que interrumpe la lectura si es necesario.",
+    "a": "La herramienta 'Leer directorios' permite a MiAdminXML leer los XML del directorio seleccionado, deshabilitando todas las herramientas excepto la de Cancelar, que interrumpe la lectura si se desea.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "leer directorios",
       "xml",
-      "listas negras",
+      "validación",
       "cancelar",
-      "lectura",
-      "interrupción"
-    ]
+      "herramienta",
+      "lectura"
+    ],
+    "faq_id": "A-20-03-25-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hace la herramienta 'Leer directorios' en el módulo de listas negras? Respuesta: La herramienta 'Leer directorios' permite a MiAdminXML leer los XML del directorio seleccionado, deshabilitando todas las herramientas excepto la de Cancelar, que interrumpe la lectura si se desea."
   },
   {
-    "q": "¿Cómo se generan los reportes en el módulo de listas negras?",
-    "a": "Al leer los directorios, se realiza la validación automática para detectar contribuyentes en Operaciones simuladas, no localizados o incumplidos. Si se encuentran, se generan reportes según la lista correspondiente. Si solo aparece la pestaña Facturas, no se encontraron contribuyentes en estas listas.",
+    "q": "¿Cómo se genera un acuse de validación en MiAdminXML?",
+    "a": "La herramienta 'Acuse de Validación' genera un archivo PDF con la información del XML seleccionado. Si se seleccionan varios XML, se generarán acuses para todos ellos. El acuse indica si el XML está en alguna lista y, si se validó el estado SAT, incluye fecha de validación y si es cancelable.",
     "product": "MiAdminXML",
+    "categoria": "Reportes",
     "keywords": [
-      "reportes",
+      "acuse",
       "validación",
-      "listas negras",
-      "operaciones simuladas",
-      "no localizados",
-      "incumplidos",
-      "facturas"
-    ]
-  },
-  {
-    "q": "¿Qué permite la herramienta 'Válida Estado SAT'?",
-    "a": "La herramienta 'Válida Estado SAT' permite conocer el estado actual del XML, es decir, si está Vigente o Cancelado. Este módulo permite validar todos los XML o solo los seleccionados de manera más eficiente.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "valida estado sat",
-      "xml",
-      "vigente",
-      "cancelado",
-      "validación",
-      "eficiente"
-    ]
-  },
-  {
-    "q": "¿Qué genera la herramienta 'Acuse de Validación'?",
-    "a": "La herramienta 'Acuse de Validación' genera un archivo en PDF con la información del XML seleccionado. Si se seleccionan varios XML, se generarán todos los acuses correspondientes. Si se valida el Estado SAT antes, se llenarán los campos de Fecha de Validación y Es cancelable.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "acuse de validación",
       "pdf",
       "xml",
-      "fecha de validación",
-      "es cancelable",
-      "validación"
-    ]
-  },
-  {
-    "q": "¿Cómo funciona la herramienta 'Exportar a Excel' en MiAdminXML?",
-    "a": "La herramienta 'Exportar a Excel' permite seleccionar la ubicación donde guardar el reporte. Crea una carpeta default dentro de la BovedaCFDi con la información.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "exportar a excel",
       "reporte",
-      "ubicación",
+      "lista",
+      "estado sat"
+    ],
+    "faq_id": "A-20-03-25-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera un acuse de validación en MiAdminXML? Respuesta: La herramienta 'Acuse de Validación' genera un archivo PDF con la información del XML seleccionado. Si se seleccionan varios XML, se generarán acuses para todos ellos. El acuse indica si el XML está en alguna lista y, si se validó el estado SAT, incluye fecha de validación y si es cancelable."
+  },
+  {
+    "q": "¿Qué función tiene la herramienta 'Exportar a Excel' en MiAdminXML?",
+    "a": "La herramienta 'Exportar a Excel' permite seleccionar la ubicación donde guardar el reporte y crea una carpeta default dentro de la BovedaCFDi con la información.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "exportar",
+      "excel",
+      "reporte",
       "bovedacfdi",
-      "carpeta",
-      "default"
-    ]
+      "herramienta",
+      "guardar"
+    ],
+    "faq_id": "A-20-03-25-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta 'Exportar a Excel' en MiAdminXML? Respuesta: La herramienta 'Exportar a Excel' permite seleccionar la ubicación donde guardar el reporte y crea una carpeta default dentro de la BovedaCFDi con la información."
   },
   {
-    "q": "¿Qué hace la herramienta 'Verificar CFDis'?",
-    "a": "La herramienta 'Verificar CFDis' abre un enlace al sitio oficial del SAT para verificación de comprobantes fiscales digitales por internet. Muestra la página del SAT con la información del XML seleccionado, donde se deben proporcionar los dígitos de la imagen y dar clic en Verificar CFDI.",
+    "q": "¿Cómo se verifica un CFDI en el sitio oficial del SAT desde MiAdminXML?",
+    "a": "La herramienta 'Verificar CFDis' abre un enlace al sitio oficial del SAT. Se muestra la página del SAT con la información del XML seleccionado, solo se deben proporcionar los dígitos de la imagen y dar clic en 'Verificar CFDI'.",
     "product": "MiAdminXML",
+    "categoria": "Verificación",
     "keywords": [
-      "verificar cfdis",
+      "verificar",
+      "cfdi",
       "sat",
-      "comprobantes fiscales",
-      "digitales",
-      "internet",
+      "sitio oficial",
       "xml",
-      "verificación"
-    ]
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se verifica un CFDI en el sitio oficial del SAT desde MiAdminXML? Respuesta: La herramienta 'Verificar CFDis' abre un enlace al sitio oficial del SAT. Se muestra la página del SAT con la información del XML seleccionado, solo se deben proporcionar los dígitos de la imagen y dar clic en 'Verificar CFDI'."
   },
   {
-    "q": "¿Para qué sirve la herramienta 'Localizar XML' en MiAdminXML?",
-    "a": "La herramienta 'Localizar XML' abre la ruta donde se ubica el archivo seleccionado, lo cual es útil para la identificación y uso de los XML para otros fines.",
+    "q": "¿Qué permite hacer la herramienta 'Localizar XML' en MiAdminXML?",
+    "a": "La herramienta 'Localizar XML' abre la ruta donde se ubica el archivo seleccionado, lo que es útil para la identificación y uso de los XML para otros fines.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "localizar xml",
+      "localizar",
+      "xml",
       "ruta",
       "archivo",
       "identificación",
-      "uso",
-      "fines"
-    ]
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-03-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta 'Localizar XML' en MiAdminXML? Respuesta: La herramienta 'Localizar XML' abre la ruta donde se ubica el archivo seleccionado, lo que es útil para la identificación y uso de los XML para otros fines."
   },
   {
-    "q": "¿Qué permite hacer la herramienta 'XML externos'?",
-    "a": "La herramienta 'XML externos' localiza información que no se encuentra en la BovedaCFDi pero cuya carpeta de ubicación se identifica. Permite cargar el listado y usar las demás herramientas para validar la información.",
+    "q": "¿Qué función tiene la herramienta 'XML externos' en MiAdminXML?",
+    "a": "La herramienta 'XML externos' permite localizar información que no está en la BovedaCFDi pero cuya carpeta de ubicación se identifica. Se puede cargar el listado y usar las demás herramientas.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "xml externos",
       "bovedacfdi",
-      "carpeta",
-      "ubicación",
+      "cargar",
+      "listado",
       "validación",
-      "herramientas"
-    ]
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-03-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta 'XML externos' en MiAdminXML? Respuesta: La herramienta 'XML externos' permite localizar información que no está en la BovedaCFDi pero cuya carpeta de ubicación se identifica. Se puede cargar el listado y usar las demás herramientas."
+  },
+  {
+    "q": "¿Qué información se muestra en el reporte generado por el módulo de listas negras?",
+    "a": "El reporte desglosa el listado y en el registro seleccionado se puede usar la herramienta 'Verificado' o 'Asociado', que es multipropósito. Por ejemplo, para despachos contables ayuda a controlar XML asociados a programas contables, y para empresas ayuda a controlar XML verificados.",
+    "product": "MiAdminXML",
+    "categoria": "Reportes",
+    "keywords": [
+      "reporte",
+      "listas negras",
+      "verificado",
+      "asociado",
+      "control",
+      "xml",
+      "multipropósito"
+    ],
+    "faq_id": "A-20-03-25-03-01_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se muestra en el reporte generado por el módulo de listas negras? Respuesta: El reporte desglosa el listado y en el registro seleccionado se puede usar la herramienta 'Verificado' o 'Asociado', que es multipropósito. Por ejemplo, para despachos contables ayuda a controlar XML asociados a programas contables, y para empresas ayuda a controlar XML verificados."
   }
 ]

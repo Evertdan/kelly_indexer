@@ -3,62 +3,76 @@
     "q": "¿Qué se necesita para utilizar el módulo de catálogo de cuentas en MiAdminXML?",
     "a": "Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "catálogo de cuentas",
-      "requisitos",
       "licencia",
       "periodo demostrativo",
+      "requisitos",
+      "catálogo de cuentas",
       "módulo"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de catálogo de cuentas en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se accede al módulo de catálogo de cuentas en MiAdminXML?",
     "a": "Se ingresa al programa MiAdminXML, se selecciona el módulo Contabilidad y luego la herramienta XML Catálogo de cuentas.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
-      "catálogo de cuentas",
+      "módulo",
       "contabilidad",
-      "herramienta",
-      "módulo"
-    ]
+      "catálogo de cuentas",
+      "herramienta"
+    ],
+    "faq_id": "A-20-03-25-05-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de catálogo de cuentas en MiAdminXML? Respuesta: Se ingresa al programa MiAdminXML, se selecciona el módulo Contabilidad y luego la herramienta XML Catálogo de cuentas."
   },
   {
     "q": "¿Qué datos se solicitan al ingresar al módulo de catálogo de cuentas?",
     "a": "Se solicitan los siguientes datos: RFC, Año, Mes y Plantilla de catálogo de cuentas.",
     "product": "MiAdminXML",
+    "categoria": "Datos requeridos",
     "keywords": [
       "datos",
-      "solicitud",
       "rfc",
       "año",
       "mes",
       "plantilla",
       "catálogo de cuentas"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos se solicitan al ingresar al módulo de catálogo de cuentas? Respuesta: Se solicitan los siguientes datos: RFC, Año, Mes y Plantilla de catálogo de cuentas."
   },
   {
-    "q": "¿Qué pasa después de iniciar la importación en el módulo de catálogo de cuentas?",
-    "a": "Se muestra un mensaje confirmando que la generación del XML fue correcta y se pregunta si se desea localizar el archivo.",
+    "q": "¿Qué sucede después de iniciar la importación en el módulo de catálogo de cuentas?",
+    "a": "Aparecerá un mensaje confirmando que la generación del XML fue correcta y se preguntará si se desea localizar el archivo.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "importación",
-      "mensaje",
-      "confirmación",
       "xml",
-      "generación"
-    ]
+      "mensaje",
+      "generación",
+      "archivo"
+    ],
+    "faq_id": "A-20-03-25-05-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede después de iniciar la importación en el módulo de catálogo de cuentas? Respuesta: Aparecerá un mensaje confirmando que la generación del XML fue correcta y se preguntará si se desea localizar el archivo."
   },
   {
-    "q": "¿Cómo se localiza el archivo XML generado en el módulo de catálogo de cuentas?",
-    "a": "Se da clic en el mensaje que pregunta si se desea localizar el archivo y se muestra la ubicación del XML generado.",
+    "q": "¿Cómo se puede localizar el archivo XML generado en el módulo de catálogo de cuentas?",
+    "a": "Se da clic en el mensaje que pregunta si se desea localizar el archivo, y el sistema mostrará la ubicación del XML generado.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "localizar",
       "archivo",
       "xml",
       "ubicación",
       "generado"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede localizar el archivo XML generado en el módulo de catálogo de cuentas? Respuesta: Se da clic en el mensaje que pregunta si se desea localizar el archivo, y el sistema mostrará la ubicación del XML generado."
   }
 ]

@@ -1,77 +1,80 @@
 [
   {
     "q": "¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook?",
-    "a": "Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Cómputo Contable a remitentes seguros en la configuración de Outlook.",
+    "a": "Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Computo Contable a remitentes seguros en la configuración de Outlook.",
     "product": "MiExpedienteContable",
+    "categoria": "Solución de Problemas",
     "keywords": [
+      "outlook",
       "correo",
       "confirmación",
-      "outlook",
       "spam",
-      "contacto",
       "remitentes seguros",
+      "contacto",
       "solución"
-    ]
+    ],
+    "faq_id": "D-20-02-04-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si no recibo el correo de confirmación de MiExpedienteContable en Outlook? Respuesta: Mover el correo de spam a correo deseado, agregar el contacto de ventas@correo1.computocontable.com y agregar el dominio de Computo Contable a remitentes seguros en la configuración de Outlook."
   },
   {
-    "q": "¿Cómo puedo asegurarme de recibir correos de MiExpedienteContable en Gmail?",
-    "a": "Agregar el correo ventas@correo1.computocontable.com como contacto en la lista de contactos de Gmail y luego intentar nuevamente el proceso de registro y validación.",
+    "q": "¿Cómo configuro Gmail para recibir correos de MiExpedienteContable?",
+    "a": "Inicia sesión en Gmail, agrega el contacto ventas@correo1.computocontable.com desde la opción de contactos y guarda los cambios. Luego intenta nuevamente el registro y validación.",
     "product": "MiExpedienteContable",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "gmail",
-      "contactos",
       "correo",
+      "contacto",
       "registro",
       "validación",
       "solución"
-    ]
+    ],
+    "faq_id": "D-20-02-04-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo configuro Gmail para recibir correos de MiExpedienteContable? Respuesta: Inicia sesión en Gmail, agrega el contacto ventas@correo1.computocontable.com desde la opción de contactos y guarda los cambios. Luego intenta nuevamente el registro y validación."
   },
   {
-    "q": "¿Qué pasos debo seguir para recibir correos de MiExpedienteContable en Yahoo?",
-    "a": "Agregar un nuevo contacto en Yahoo con el nombre 'Computo Contable' y el correo ventas@correo1.computocontable.com, luego guardar los cambios.",
+    "q": "¿Qué pasos seguir en Yahoo para asegurar la recepción de correos de MiExpedienteContable?",
+    "a": "Ve a Contactos, crea un nuevo contacto con el nombre Computo Contable y el correo ventas@correo1.computocontable.com, luego guarda los cambios.",
     "product": "MiExpedienteContable",
+    "categoria": "Solución de Problemas",
     "keywords": [
       "yahoo",
-      "contactos",
       "correo",
-      "solución",
-      "registro"
-    ]
+      "contacto",
+      "computo contable",
+      "solución"
+    ],
+    "faq_id": "D-20-02-04-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir en Yahoo para asegurar la recepción de correos de MiExpedienteContable? Respuesta: Ve a Contactos, crea un nuevo contacto con el nombre Computo Contable y el correo ventas@correo1.computocontable.com, luego guarda los cambios."
   },
   {
-    "q": "¿Qué requisitos se necesitan para recibir correos de confirmación de MiExpedienteContable?",
-    "a": "Contar con una licencia de MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
+    "q": "¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable?",
+    "a": "Contar con licencia MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico.",
     "product": "MiExpedienteContable",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
       "correo",
-      "confirmación"
-    ]
+      "requisitos",
+      "solución"
+    ],
+    "faq_id": "D-20-02-04-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para recibir correos de MiExpedienteContable? Respuesta: Contar con licencia MiExpedienteContable o estar en periodo demostrativo. De lo contrario, la solución se enviará por correo electrónico."
   },
   {
     "q": "¿Qué tipo de incidencia es no recibir correos de MiExpedienteContable?",
-    "a": "Es una incidencia tipo INC-02 con un nivel de prioridad 2 – Medio.",
+    "a": "Es una incidencia tipo INC-02 con nivel de prioridad 2 – Medio.",
     "product": "MiExpedienteContable",
+    "categoria": "General",
     "keywords": [
       "incidencia",
       "tipo",
       "nivel",
       "prioridad",
       "correo"
-    ]
-  },
-  {
-    "q": "¿Cuál es el alcance de la verificación cuando no se reciben correos de MiExpedienteContable?",
-    "a": "El alcance es verificar el envío del correo de confirmación.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "alcance",
-      "verificación",
-      "correo",
-      "confirmación",
-      "envío"
-    ]
+    ],
+    "faq_id": "D-20-02-04-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es no recibir correos de MiExpedienteContable? Respuesta: Es una incidencia tipo INC-02 con nivel de prioridad 2 – Medio."
   }
 ]

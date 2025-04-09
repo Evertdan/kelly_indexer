@@ -3,65 +3,65 @@
     "q": "¿Cómo puede un cliente verificar la vigencia de su licencia en MiExpedienteContable?",
     "a": "El cliente debe ingresar a MiExpedienteContable, hacer clic en el icono verde en la parte superior izquierda para acceder al apartado de licenciamiento, donde se mostrará la clave de licencia y su vigencia.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
       "licencia",
       "vigencia",
       "verificar",
       "mi expediente contable",
       "icono verde",
-      "apartado de licenciamiento"
-    ]
+      "clave"
+    ],
+    "faq_id": "D-20-03-08-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente verificar la vigencia de su licencia en MiExpedienteContable? Respuesta: El cliente debe ingresar a MiExpedienteContable, hacer clic en el icono verde en la parte superior izquierda para acceder al apartado de licenciamiento, donde se mostrará la clave de licencia y su vigencia."
   },
   {
     "q": "¿Qué debe hacer el cliente si no está en el equipo donde tiene la clave de licencia?",
-    "a": "El cliente debe proporcionar el nombre de la empresa o persona a cuyo nombre está la clave de licencia para que el ejecutivo pueda validar la información en el sistema Sacc.",
+    "a": "El cliente debe proporcionar el nombre de la empresa o titular de la licencia para que el ejecutivo pueda validar la información en el sistema Sacc.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "clave de licencia",
+      "licencia",
       "validar",
-      "nombre de empresa",
+      "nombre empresa",
       "sacc",
       "ejecutivo",
-      "información"
-    ]
+      "clave"
+    ],
+    "faq_id": "D-20-03-08-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer el cliente si no está en el equipo donde tiene la clave de licencia? Respuesta: El cliente debe proporcionar el nombre de la empresa o titular de la licencia para que el ejecutivo pueda validar la información en el sistema Sacc."
   },
   {
     "q": "¿Cuál es el proceso para que un ejecutivo verifique la vigencia de una licencia en Sacc?",
-    "a": "El ejecutivo debe ingresar a Sacc, acceder al apartado de administración de clientes, ingresar el nombre de la empresa o cliente, seleccionar el cliente y dar clic en la opción de licencias.",
-    "product": "Sacc",
+    "a": "El ejecutivo debe ingresar a Sacc, ir al apartado de administración de clientes, buscar el nombre de la empresa o cliente, seleccionarlo y dar clic en la opción de licencias para verificar la vigencia.",
+    "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
       "ejecutivo",
-      "verificar",
-      "licencia",
       "sacc",
-      "administración de clientes",
-      "proceso"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de soporte se requiere para orientar al cliente sobre la vigencia de su licencia?",
-    "a": "Se requiere un nivel de soporte 1 – Avanzado para orientar al cliente sobre cómo visualizar la vigencia de su licencia.",
-    "product": "General",
-    "keywords": [
-      "nivel de soporte",
-      "avanzado",
-      "orientación",
-      "licencia",
+      "administración",
+      "clientes",
+      "licencias",
       "vigencia",
-      "soporte"
-    ]
+      "validar"
+    ],
+    "faq_id": "D-20-03-08-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el proceso para que un ejecutivo verifique la vigencia de una licencia en Sacc? Respuesta: El ejecutivo debe ingresar a Sacc, ir al apartado de administración de clientes, buscar el nombre de la empresa o cliente, seleccionarlo y dar clic en la opción de licencias para verificar la vigencia."
   },
   {
-    "q": "¿Qué recurso se utiliza para verificar la vigencia de una licencia directamente por el cliente?",
-    "a": "El cliente puede utilizar MiExpedienteContable para verificar directamente la vigencia de su licencia.",
+    "q": "¿Qué información necesita el ejecutivo para validar la vigencia de una licencia si el cliente no está en el equipo con la clave?",
+    "a": "El ejecutivo necesita el nombre de la empresa o del titular de la licencia para realizar la validación en el sistema Sacc.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "recurso",
-      "verificar",
+      "ejecutivo",
+      "validar",
+      "nombre empresa",
+      "titular",
       "licencia",
-      "mi expediente contable",
-      "cliente",
-      "directamente"
-    ]
+      "sacc"
+    ],
+    "faq_id": "D-20-03-08-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información necesita el ejecutivo para validar la vigencia de una licencia si el cliente no está en el equipo con la clave? Respuesta: El ejecutivo necesita el nombre de la empresa o del titular de la licencia para realizar la validación en el sistema Sacc."
   }
 ]

@@ -1,66 +1,82 @@
 [
   {
     "q": "¿Qué problema ocurre con la descarga de archivos del SAT en MiAdminXML?",
-    "a": "El bloqueo de seguridad del SAT no permite descargar más de 1000 archivos al día o simula la descarga sin obtener correctamente los XML.",
+    "a": "El bloqueo de seguridad del SAT no permite descargar más de 1000 archivos al día o solo simula la descarga sin obtener correctamente los XML.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "sat",
-      "descarga",
       "bloqueo",
       "seguridad",
+      "sat",
+      "descarga",
       "xml",
       "problema",
-      "archivos"
-    ]
+      "simulación"
+    ],
+    "faq_id": "A-20-02-11-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué problema ocurre con la descarga de archivos del SAT en MiAdminXML? Respuesta: El bloqueo de seguridad del SAT no permite descargar más de 1000 archivos al día o solo simula la descarga sin obtener correctamente los XML."
   },
   {
-    "q": "¿Cómo se puede solucionar el problema de descarga en MiAdminXML?",
+    "q": "¿Cómo se puede solucionar el problema de bloqueo de descargas en MiAdminXML?",
     "a": "Se recomienda eliminar la base de datos de MiAdminXML. Si aparece un mensaje de bloqueo de 2000 XML al día, se debe esperar 24 horas para volver a consultar y descargar.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "solucion",
-      "descarga",
-      "base de datos",
-      "eliminar",
+      "solución",
       "bloqueo",
+      "descarga",
       "esperar",
-      "24 horas"
-    ]
+      "24 horas",
+      "base de datos",
+      "eliminar"
+    ],
+    "faq_id": "A-20-02-11-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede solucionar el problema de bloqueo de descargas en MiAdminXML? Respuesta: Se recomienda eliminar la base de datos de MiAdminXML. Si aparece un mensaje de bloqueo de 2000 XML al día, se debe esperar 24 horas para volver a consultar y descargar."
   },
   {
     "q": "¿Qué requisitos se necesitan para resolver el problema de descarga en MiAdminXML?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "a": "Es necesario contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
+      "requisitos",
       "correo electrónico",
-      "solucion"
-    ]
+      "solución"
+    ],
+    "faq_id": "A-20-02-11-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para resolver el problema de descarga en MiAdminXML? Respuesta: Es necesario contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué se debe hacer con los archivos XML de 2kb en MiAdminXML?",
-    "a": "Se recomienda eliminar los archivos XML de 2kb ya que no contienen información.",
+    "q": "¿Qué hacer si los archivos XML descargados son de 2kb?",
+    "a": "Se recomienda eliminar los archivos XML de 2kb ya que no contienen información útil.",
     "product": "MiAdminXML",
+    "categoria": "Manejo de Archivos",
     "keywords": [
       "xml",
       "2kb",
       "eliminar",
       "archivos",
-      "información"
-    ]
+      "información",
+      "inútiles"
+    ],
+    "faq_id": "A-20-02-11-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si los archivos XML descargados son de 2kb? Respuesta: Se recomienda eliminar los archivos XML de 2kb ya que no contienen información útil."
   },
   {
-    "q": "¿Qué nivel de incidencia representa el bloqueo de descarga en MiAdminXML?",
-    "a": "El bloqueo de descarga representa una incidencia de nivel 2 – Medio.",
+    "q": "¿Cuál es el nivel de incidencia del problema de bloqueo de descargas en MiAdminXML?",
+    "a": "El nivel de incidencia es 2 – Medio.",
     "product": "MiAdminXML",
+    "categoria": "Clasificación",
     "keywords": [
       "incidencia",
       "nivel",
       "medio",
       "bloqueo",
-      "descarga"
-    ]
+      "descargas"
+    ],
+    "faq_id": "A-20-02-11-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de incidencia del problema de bloqueo de descargas en MiAdminXML? Respuesta: El nivel de incidencia es 2 – Medio."
   }
 ]

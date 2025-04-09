@@ -1,96 +1,85 @@
 [
   {
-    "q": "¿Qué problema común enfrentan los usuarios durante el registro de MiAdminXML?",
-    "a": "Los usuarios no reciben el correo de confirmación necesario para culminar el registro.",
+    "q": "¿Qué hacer si no llega el correo de confirmación al registrar MiAdminXML?",
+    "a": "Si estás en el paso 2 del registro, haz clic en 'Confirmar mi correo Electrónico'. Luego, revisa la bandeja de entrada, correos no deseados o SPAM para encontrar el correo de confirmación. Una vez encontrado, haz clic en 'ya validé mi correo electrónico' y luego en 'Finalizar' para ingresar al sistema.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
       "registro",
-      "problema",
       "correo",
       "confirmación",
       "no llega",
-      "usuario",
-      "sistema"
-    ]
-  },
-  {
-    "q": "¿Cuál es el primer paso para resolver el problema de no recibir el correo de confirmación en MiAdminXML?",
-    "a": "Si aún estás en el paso dos del registro, haz clic en el botón 'Confirmar mi correo Electrónico' para recibir el correo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "solución",
-      "paso 1",
-      "confirmar correo",
-      "botón",
-      "registro",
-      "correo electrónico"
-    ]
-  },
-  {
-    "q": "¿Dónde se debe buscar el correo de confirmación si no aparece en la bandeja de entrada?",
-    "a": "Debes revisar la bandeja de correos no deseados o el apartado SPAM.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "correo",
-      "spam",
-      "no deseados",
-      "bandeja",
-      "buscar",
-      "confirmación"
-    ]
-  },
-  {
-    "q": "¿Qué se debe hacer después de confirmar el correo electrónico en MiAdminXML?",
-    "a": "Haz clic en el botón 'ya validé mi correo electrónico' y luego en 'finalizar' para ingresar al sistema.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "confirmación",
       "validar",
-      "botón",
-      "finalizar",
-      "ingresar",
-      "sistema"
-    ]
+      "spam",
+      "paso 2"
+    ],
+    "faq_id": "A-20-01-05-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no llega el correo de confirmación al registrar MiAdminXML? Respuesta: Si estás en el paso 2 del registro, haz clic en 'Confirmar mi correo Electrónico'. Luego, revisa la bandeja de entrada, correos no deseados o SPAM para encontrar el correo de confirmación. Una vez encontrado, haz clic en 'ya validé mi correo electrónico' y luego en 'Finalizar' para ingresar al sistema."
   },
   {
-    "q": "¿Qué solución alternativa existe si el correo de confirmación no llega?",
-    "a": "Se puede realizar una confirmación manual ingresando el comando '/confirma (max o mec) + correo electrónico' en el BOT y luego hacer clic en 'confirmar'.",
+    "q": "¿Cómo confirmar manualmente el correo si no llega el correo de confirmación?",
+    "a": "Solicita el correo registrado al cliente, ingresa el comando '/confirma (max o mec) + correo electrónico' al BOT, haz clic en 'confirmar' y notifica al cliente para que continúe con su registro.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
-      "solución alternativa",
       "confirmación manual",
+      "correo",
+      "no llega",
       "bot",
       "comando",
-      "correo electrónico",
-      "confirmar"
-    ]
+      "registro",
+      "solución"
+    ],
+    "faq_id": "A-20-01-05-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo confirmar manualmente el correo si no llega el correo de confirmación? Respuesta: Solicita el correo registrado al cliente, ingresa el comando '/confirma (max o mec) + correo electrónico' al BOT, haz clic en 'confirmar' y notifica al cliente para que continúe con su registro."
   },
   {
-    "q": "¿Qué se necesita para resolver el problema de confirmación de correo en MiAdminXML?",
-    "a": "Es necesario tener el programa MiAdminXML instalado correctamente y seguir los pasos de confirmación o usar la confirmación manual si el correo no llega.",
+    "q": "¿Qué requisitos se necesitan para resolver el problema de no recibir el correo de confirmación?",
+    "a": "Es necesario tener el programa MiAdminXML instalado correctamente.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "instalación",
-      "correcta",
-      "confirmación",
-      "manual",
       "correo",
-      "solución"
-    ]
+      "confirmación",
+      "problema",
+      "registro"
+    ],
+    "faq_id": "A-20-01-05-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para resolver el problema de no recibir el correo de confirmación? Respuesta: Es necesario tener el programa MiAdminXML instalado correctamente."
   },
   {
-    "q": "¿Cuál es el objetivo final de confirmar el correo electrónico en MiAdminXML?",
-    "a": "El objetivo es permitir que el cliente culmine el registro del programa y pueda ingresar al sistema.",
+    "q": "¿Qué pasos seguir después de confirmar el correo electrónico en MiAdminXML?",
+    "a": "Después de confirmar el correo electrónico, haz clic en 'ya validé mi correo electrónico' y luego en 'Finalizar' para ingresar al sistema.",
     "product": "MiAdminXML",
+    "categoria": "Registro",
     "keywords": [
-      "objetivo",
+      "pasos",
       "confirmación",
       "correo",
+      "validar",
+      "finalizar",
       "registro",
-      "culminar",
-      "ingresar",
       "sistema"
-    ]
+    ],
+    "faq_id": "A-20-01-05-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos seguir después de confirmar el correo electrónico en MiAdminXML? Respuesta: Después de confirmar el correo electrónico, haz clic en 'ya validé mi correo electrónico' y luego en 'Finalizar' para ingresar al sistema."
+  },
+  {
+    "q": "¿Dónde buscar el correo de confirmación si no aparece en la bandeja de entrada?",
+    "a": "Revisa la bandeja de correos no deseados o el apartado SPAM en tu cuenta de correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Registro",
+    "keywords": [
+      "correo",
+      "confirmación",
+      "bandeja",
+      "spam",
+      "no deseados",
+      "buscar"
+    ],
+    "faq_id": "A-20-01-05-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde buscar el correo de confirmación si no aparece en la bandeja de entrada? Respuesta: Revisa la bandeja de correos no deseados o el apartado SPAM en tu cuenta de correo electrónico."
   }
 ]

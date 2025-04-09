@@ -1,87 +1,92 @@
 [
   {
-    "q": "¿Qué debe hacer un cliente si su pago por transferencia es devuelto y no recibe la clave de licencia?",
-    "a": "El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se verifiquen los datos de Concepto, Referencia y Clave de rastreo.",
+    "q": "¿Qué hacer si el cliente no recibe la clave de licencia después de realizar un pago por transferencia?",
+    "a": "El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se verificarán los datos como Concepto, Referencia y Clave de rastreo.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "pago",
       "transferencia",
-      "devolución",
-      "clave",
-      "licencia",
-      "ficha",
-      "comprobante",
-      "correo"
-    ]
-  },
-  {
-    "q": "¿Qué datos deben coincidir en la ficha de pago para que el pago sea correcto?",
-    "a": "Los datos que deben coincidir son el Concepto de pago (20 números) y la Referencia (7 números).",
-    "product": "General",
-    "keywords": [
-      "datos",
-      "ficha",
       "pago",
-      "concepto",
-      "referencia",
-      "coincidir",
-      "correcto"
-    ]
+      "clave de licencia",
+      "comprobante",
+      "ficha de pago"
+    ],
+    "faq_id": "A-20-02-02-04-06_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el cliente no recibe la clave de licencia después de realizar un pago por transferencia? Respuesta: El cliente debe enviar su ficha de pago y comprobante de pago al correo ventas.computocontable@gmail.com, donde se verificarán los datos como Concepto, Referencia y Clave de rastreo."
   },
   {
-    "q": "¿Qué pasa si los datos de Concepto y Referencia no coinciden en la ficha de pago?",
-    "a": "El banco devolverá el dinero al cliente para que pueda volver a realizar el pago con los datos correctos.",
+    "q": "¿Qué datos son necesarios para verificar un pago por transferencia?",
+    "a": "Los datos necesarios son el Concepto de pago (20 números) y la Referencia (7 números), los cuales deben coincidir con los de la ficha de pago.",
     "product": "General",
-    "keywords": [
-      "datos",
-      "concepto",
-      "referencia",
-      "coincidir",
-      "devolución",
-      "banco",
-      "pago"
-    ]
-  },
-  {
-    "q": "¿Cómo se verifica si el cliente no recibió la devolución de su pago?",
-    "a": "Se verifica en Banxico (https://www.banxico.org.mx/cep/) ingresando los datos solicitados y consultando el pago. Se descarga el PDF para validar la operación con el banco.",
-    "product": "General",
+    "categoria": "Pagos",
     "keywords": [
       "verificación",
-      "devolución",
-      "banxico",
-      "consulta",
       "pago",
-      "pdf",
-      "validación"
-    ]
+      "transferencia",
+      "concepto",
+      "referencia"
+    ],
+    "faq_id": "A-20-02-02-04-06_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos son necesarios para verificar un pago por transferencia? Respuesta: Los datos necesarios son el Concepto de pago (20 números) y la Referencia (7 números), los cuales deben coincidir con los de la ficha de pago."
   },
   {
-    "q": "¿Qué se debe hacer si el pago aparece como 'Liquidado' en Banxico pero como 'No procesado' en el sistema?",
-    "a": "Se debe pasar el caso a gerencia de operaciones para dar una solución a la brevedad.",
+    "q": "¿Qué pasa si los datos del pago no coinciden con la ficha de pago?",
+    "a": "Si los datos no coinciden, el banco devolverá el dinero al cliente para que pueda realizar el pago nuevamente con los datos correctos.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
+      "datos incorrectos",
+      "devolución",
+      "banco",
       "pago",
+      "transferencia"
+    ],
+    "faq_id": "A-20-02-02-04-06_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si los datos del pago no coinciden con la ficha de pago? Respuesta: Si los datos no coinciden, el banco devolverá el dinero al cliente para que pueda realizar el pago nuevamente con los datos correctos."
+  },
+  {
+    "q": "¿Cómo verificar si el banco ha devuelto el dinero del pago?",
+    "a": "Se puede verificar en Banxico ingresando los datos solicitados en https://www.banxico.org.mx/cep/ y haciendo clic en 'Consultar pago'.",
+    "product": "General",
+    "categoria": "Pagos",
+    "keywords": [
+      "verificación",
+      "banxico",
+      "devolución",
+      "pago",
+      "transferencia"
+    ],
+    "faq_id": "A-20-02-02-04-06_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo verificar si el banco ha devuelto el dinero del pago? Respuesta: Se puede verificar en Banxico ingresando los datos solicitados en https://www.banxico.org.mx/cep/ y haciendo clic en 'Consultar pago'."
+  },
+  {
+    "q": "¿Qué hacer si el pago aparece como 'Liquidado' pero no se procesó en el sistema?",
+    "a": "En ese caso, se debe pasar el caso a gerencia de operaciones para dar una solución a la brevedad.",
+    "product": "General",
+    "categoria": "Pagos",
+    "keywords": [
       "liquidado",
       "no procesado",
       "gerencia",
       "operaciones",
-      "solución",
-      "brevedad"
-    ]
+      "solución"
+    ],
+    "faq_id": "A-20-02-02-04-06_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si el pago aparece como 'Liquidado' pero no se procesó en el sistema? Respuesta: En ese caso, se debe pasar el caso a gerencia de operaciones para dar una solución a la brevedad."
   },
   {
-    "q": "¿Qué se recomienda al cliente al volver a realizar el pago por transferencia?",
-    "a": "Se recomienda que los datos de Concepto de pago y Referencia se coloquen tal cual están en la ficha de pago, sin agregar números ni letras.",
+    "q": "¿Qué se debe hacer si el cliente confirma la devolución del pago?",
+    "a": "Se puede ayudar al cliente a realizar el pago nuevamente, asegurándose de que los datos de Concepto de pago y Referencia se coloquen exactamente como aparecen en la ficha de pago.",
     "product": "General",
+    "categoria": "Pagos",
     "keywords": [
-      "recomendación",
+      "devolución",
       "pago",
       "transferencia",
       "concepto",
-      "referencia",
-      "ficha",
-      "datos"
-    ]
+      "referencia"
+    ],
+    "faq_id": "A-20-02-02-04-06_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si el cliente confirma la devolución del pago? Respuesta: Se puede ayudar al cliente a realizar el pago nuevamente, asegurándose de que los datos de Concepto de pago y Referencia se coloquen exactamente como aparecen en la ficha de pago."
   }
 ]

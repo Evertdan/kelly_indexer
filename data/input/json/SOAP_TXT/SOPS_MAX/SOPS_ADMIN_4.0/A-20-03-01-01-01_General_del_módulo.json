@@ -1,138 +1,268 @@
 [
   {
     "q": "¿Qué es el módulo de Administración 4.0 en MiAdminXML?",
-    "a": "El módulo de Administración 4.0 es una herramienta dentro de MiAdminXML que permite llevar un control de archivos XMLs y ofrece diversas funciones para su gestión.",
+    "a": "El módulo de Administración 4.0 es una herramienta dentro de MiAdminXML que permite llevar un control de archivos XMLs y ofrece diversas funciones para gestionarlos.",
     "product": "MiAdminXML",
+    "categoria": "General",
     "keywords": [
       "módulo",
       "administración",
       "4.0",
       "miadminxml",
-      "herramientas",
-      "xml",
-      "control"
-    ]
+      "control",
+      "archivos",
+      "xml"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el módulo de Administración 4.0 en MiAdminXML? Respuesta: El módulo de Administración 4.0 es una herramienta dentro de MiAdminXML que permite llevar un control de archivos XMLs y ofrece diversas funciones para gestionarlos."
   },
   {
     "q": "¿Cómo puedo acceder al módulo de Administración 4.0?",
-    "a": "Para acceder al módulo de Administración 4.0, primero debes ingresar al programa MiAdminXML y luego seleccionar este módulo específico.",
+    "a": "Para acceder al módulo de Administración 4.0, primero debes ingresar al programa MiAdminXML y luego seleccionar el módulo correspondiente.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
-      "acceso",
+      "acceder",
       "módulo",
       "administración",
       "4.0",
       "miadminxml",
-      "ingresar",
-      "programa"
-    ]
+      "ingresar"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo acceder al módulo de Administración 4.0? Respuesta: Para acceder al módulo de Administración 4.0, primero debes ingresar al programa MiAdminXML y luego seleccionar el módulo correspondiente."
   },
   {
     "q": "¿Qué herramientas básicas incluye el módulo de Administración 4.0?",
-    "a": "El módulo incluye herramientas como Valida Estado SAT, Exportar, Generar PDF, Abrir XLM, Localizar XML, Verificado o asociado, Copiar Ruta (s) XML, Conceptos, Renombrar XML, Catálogo de logos, XML Externos, Cancelar, Escríbenos, Video Manual y Cerrar.",
+    "a": "El módulo incluye herramientas como Valida Estado SAT, Exportar, Generar PDF, Abrir XML, Localizar XML, Verificado o asociado, Copiar Ruta(s) XML, Conceptos, Renombrar XML, Catálogo de logos, XML Externos, Cancelar, Escríbenos, Video Manual y Cerrar.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "herramientas",
       "módulo",
       "administración",
       "4.0",
-      "funciones",
+      "valida",
+      "exportar",
+      "pdf",
       "xml",
-      "gestión"
-    ]
+      "conceptos"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas básicas incluye el módulo de Administración 4.0? Respuesta: El módulo incluye herramientas como Valida Estado SAT, Exportar, Generar PDF, Abrir XML, Localizar XML, Verificado o asociado, Copiar Ruta(s) XML, Conceptos, Renombrar XML, Catálogo de logos, XML Externos, Cancelar, Escríbenos, Video Manual y Cerrar."
   },
   {
-    "q": "¿Para qué sirve la herramienta Valida Estado SAT?",
-    "a": "La herramienta Valida Estado SAT permite verificar si los comprobantes son vigentes o cancelados con el estado más actual.",
+    "q": "¿Para qué sirve la herramienta 'Valida Estado SAT'?",
+    "a": "La herramienta 'Valida Estado SAT' permite verificar si los comprobantes están vigentes o cancelados con el estado más actual.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "valida",
       "estado",
       "sat",
       "comprobantes",
       "vigentes",
-      "cancelados",
-      "herramienta"
-    ]
+      "cancelados"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Para qué sirve la herramienta 'Valida Estado SAT'? Respuesta: La herramienta 'Valida Estado SAT' permite verificar si los comprobantes están vigentes o cancelados con el estado más actual."
   },
   {
-    "q": "¿Cómo puedo exportar reportes desde el módulo de Administración 4.0?",
-    "a": "Puedes exportar reportes a Excel de facturas, nóminas y notas de crédito utilizando la herramienta Exportar dentro del módulo.",
+    "q": "¿Qué puedo hacer con la herramienta 'Exportar'?",
+    "a": "La herramienta 'Exportar' permite realizar la exportación a Excel de reportes de Factura, Nómina y Notas de Crédito.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "exportar",
-      "reportes",
       "excel",
-      "facturas",
-      "nóminas",
-      "notas de crédito",
-      "herramienta"
-    ]
+      "reportes",
+      "factura",
+      "nomina",
+      "notas",
+      "crédito"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué puedo hacer con la herramienta 'Exportar'? Respuesta: La herramienta 'Exportar' permite realizar la exportación a Excel de reportes de Factura, Nómina y Notas de Crédito."
   },
   {
-    "q": "¿Qué función tiene la herramienta Generar PDF en el módulo de Administración 4.0?",
-    "a": "La herramienta Generar PDF permite crear archivos PDF a partir de los archivos XMLs.",
+    "q": "¿Cómo funciona la herramienta 'Generar PDF'?",
+    "a": "La herramienta 'Generar PDF' permite crear archivos PDF a partir de los archivos XMLs.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "generar",
       "pdf",
-      "xml",
       "archivos",
-      "herramienta",
-      "conversión"
-    ]
+      "xml",
+      "convertir"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo funciona la herramienta 'Generar PDF'? Respuesta: La herramienta 'Generar PDF' permite crear archivos PDF a partir de los archivos XMLs."
   },
   {
-    "q": "¿Cómo puedo ver la estructura original de un archivo XML en el módulo?",
-    "a": "Puedes ver la estructura original de un archivo XML utilizando la herramienta Abrir XLM, que muestra el archivo con el visor predeterminado.",
+    "q": "¿Qué permite hacer la herramienta 'Abrir XML'?",
+    "a": "La herramienta 'Abrir XML' permite ver la estructura original del archivo XML con el visor predeterminado.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "abrir",
       "xml",
       "estructura",
       "visor",
-      "predeterminado",
-      "herramienta"
-    ]
+      "predeterminado"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta 'Abrir XML'? Respuesta: La herramienta 'Abrir XML' permite ver la estructura original del archivo XML con el visor predeterminado."
   },
   {
-    "q": "¿Qué permite hacer la herramienta Localizar XML?",
-    "a": "La herramienta Localizar XML muestra la carpeta donde se encuentra almacenado el archivo XML.",
+    "q": "¿Para qué sirve la herramienta 'Localizar XML'?",
+    "a": "La herramienta 'Localizar XML' muestra la carpeta donde se encuentra el archivo XML.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "localizar",
       "xml",
       "carpeta",
       "ubicación",
-      "archivo",
-      "herramienta"
-    ]
+      "archivo"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Para qué sirve la herramienta 'Localizar XML'? Respuesta: La herramienta 'Localizar XML' muestra la carpeta donde se encuentra el archivo XML."
   },
   {
-    "q": "¿Cómo puedo contactar al soporte desde el módulo de Administración 4.0?",
-    "a": "Puedes contactar al soporte utilizando la herramienta Escríbenos, que permite enviar dudas, comentarios y sugerencias al área de atención a cliente.",
+    "q": "¿Qué función tiene la herramienta 'Verificado o asociado'?",
+    "a": "La herramienta 'Verificado o asociado' permite marcar archivos XML como verificados o asociados.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "escríbenos",
+      "verificado",
+      "asociado",
+      "marcar",
+      "xml",
+      "archivos"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta 'Verificado o asociado'? Respuesta: La herramienta 'Verificado o asociado' permite marcar archivos XML como verificados o asociados."
+  },
+  {
+    "q": "¿Qué permite hacer la herramienta 'Copiar Ruta(s) XML'?",
+    "a": "La herramienta 'Copiar Ruta(s) XML' permite copiar la ruta del archivo XML en el portapapeles.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "copiar",
+      "ruta",
+      "xml",
+      "portapapeles",
+      "archivo"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta 'Copiar Ruta(s) XML'? Respuesta: La herramienta 'Copiar Ruta(s) XML' permite copiar la ruta del archivo XML en el portapapeles."
+  },
+  {
+    "q": "¿Qué información extrae la herramienta 'Conceptos'?",
+    "a": "La herramienta 'Conceptos' extrae un reporte de conceptos o productos de los archivos XML.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "conceptos",
+      "reporte",
+      "productos",
+      "xml",
+      "extraer"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q10",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información extrae la herramienta 'Conceptos'? Respuesta: La herramienta 'Conceptos' extrae un reporte de conceptos o productos de los archivos XML."
+  },
+  {
+    "q": "¿Cómo puedo renombrar un archivo XML en el módulo?",
+    "a": "Puedes usar la herramienta 'Renombrar XML' para modificar el nombre del archivo o archivos seleccionados, siempre incluyendo el UUID.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "renombrar",
+      "xml",
+      "modificar",
+      "nombre",
+      "uuid"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q11",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo renombrar un archivo XML en el módulo? Respuesta: Puedes usar la herramienta 'Renombrar XML' para modificar el nombre del archivo o archivos seleccionados, siempre incluyendo el UUID."
+  },
+  {
+    "q": "¿Qué es el 'Catálogo de logos' en el módulo?",
+    "a": "El 'Catálogo de logos' es una herramienta que permite acceder a los logos definidos por el usuario.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "catálogo",
+      "logos",
+      "usuario",
+      "definidos",
+      "acceder"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q12",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es el 'Catálogo de logos' en el módulo? Respuesta: El 'Catálogo de logos' es una herramienta que permite acceder a los logos definidos por el usuario."
+  },
+  {
+    "q": "¿Qué permite hacer la herramienta 'XML Externos'?",
+    "a": "La herramienta 'XML Externos' permite leer y generar reportes de archivos XML ubicados externamente.",
+    "product": "MiAdminXML",
+    "categoria": "Herramientas",
+    "keywords": [
+      "xml",
+      "externos",
+      "leer",
+      "reportes",
+      "archivos"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q13",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta 'XML Externos'? Respuesta: La herramienta 'XML Externos' permite leer y generar reportes de archivos XML ubicados externamente."
+  },
+  {
+    "q": "¿Cómo puedo contactar al soporte desde el módulo?",
+    "a": "Puedes usar la herramienta 'Escríbenos' para contactar al área de soporte y atención a cliente con dudas, comentarios o sugerencias.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
+    "keywords": [
+      "contactar",
       "soporte",
-      "contacto",
+      "escríbenos",
       "dudas",
       "comentarios",
-      "sugerencias",
-      "herramienta"
-    ]
+      "sugerencias"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q14",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo contactar al soporte desde el módulo? Respuesta: Puedes usar la herramienta 'Escríbenos' para contactar al área de soporte y atención a cliente con dudas, comentarios o sugerencias."
   },
   {
-    "q": "¿Hay tutoriales disponibles para el módulo de Administración 4.0?",
-    "a": "Sí, puedes acceder a videos tutoriales del módulo utilizando la herramienta Video Manual.",
+    "q": "¿Dónde puedo encontrar tutoriales sobre el módulo?",
+    "a": "Puedes acceder a los videos tutoriales del módulo usando la herramienta 'Video Manual'.",
     "product": "MiAdminXML",
+    "categoria": "Ayuda",
     "keywords": [
+      "tutoriales",
       "video",
       "manual",
-      "tutoriales",
-      "aprendizaje",
-      "herramienta",
+      "aprender",
       "módulo"
-    ]
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q15",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo encontrar tutoriales sobre el módulo? Respuesta: Puedes acceder a los videos tutoriales del módulo usando la herramienta 'Video Manual'."
+  },
+  {
+    "q": "¿Cómo cierro el módulo de Administración 4.0?",
+    "a": "Puedes cerrar el módulo por completo usando la herramienta 'Cerrar'.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "cerrar",
+      "módulo",
+      "administración",
+      "4.0",
+      "salir"
+    ],
+    "faq_id": "A-20-03-01-01-01_General_del_módulo_q16",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo cierro el módulo de Administración 4.0? Respuesta: Puedes cerrar el módulo por completo usando la herramienta 'Cerrar'."
   }
 ]

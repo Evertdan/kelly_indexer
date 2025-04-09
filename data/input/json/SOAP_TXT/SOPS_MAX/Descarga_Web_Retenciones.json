@@ -1,110 +1,138 @@
 [
   {
     "q": "¿Qué requisitos son necesarios para descargar retenciones en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de Administrador en el usuario.",
+    "a": "Se requiere contar con una licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
-      "descarga",
-      "retenciones",
       "licencia",
+      "miadminxml",
       "permisos",
       "administrador",
-      "actualizado"
-    ]
+      "descarga",
+      "retenciones"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos son necesarios para descargar retenciones en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario."
   },
   {
-    "q": "¿Cómo se inicia el proceso de descarga de retenciones en MiAdminXML?",
-    "a": "Se ingresa a MiAdminXML, se selecciona el submódulo de Descarga de Retenciones Web ubicado en Descarga de XML, y se carga la pantalla para iniciar sesión en el portal del SAT.",
+    "q": "¿Cómo se accede al submódulo de Descarga de Retenciones Web en MiAdminXML?",
+    "a": "Se accede ingresando a MiAdminXML y seleccionando el submódulo de Descarga de Retenciones Web, que se encuentra en la sección de Descarga de XML.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
-      "inicio",
-      "proceso",
+      "acceso",
+      "submódulo",
       "descarga",
       "retenciones",
-      "submódulo",
       "web",
+      "miadminxml",
       "xml"
-    ]
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al submódulo de Descarga de Retenciones Web en MiAdminXML? Respuesta: Se accede ingresando a MiAdminXML y seleccionando el submódulo de Descarga de Retenciones Web, que se encuentra en la sección de Descarga de XML."
   },
   {
-    "q": "¿Qué métodos de autenticación se pueden usar para ingresar al portal del SAT desde MiAdminXML?",
-    "a": "Se puede ingresar con RFC, Contraseña y CAPTCHA o mediante la e.Firma.",
+    "q": "¿Qué métodos de autenticación se pueden usar para iniciar sesión en el portal del SAT desde MiAdminXML?",
+    "a": "Se puede iniciar sesión con RFC, contraseña y CAPTCHA, o mediante la e.Firma.",
     "product": "MiAdminXML",
+    "categoria": "Autenticación",
     "keywords": [
       "autenticación",
-      "portal",
+      "sesión",
       "sat",
       "rfc",
       "contraseña",
       "captcha",
       "e.firma"
-    ]
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué métodos de autenticación se pueden usar para iniciar sesión en el portal del SAT desde MiAdminXML? Respuesta: Se puede iniciar sesión con RFC, contraseña y CAPTCHA, o mediante la e.Firma."
   },
   {
     "q": "¿Cómo se agrega un contribuyente en el asistente de descarga de retenciones?",
-    "a": "Si el contribuyente ya está dado de alta en el Catálogo de contribuyentes, se selecciona el botón de Buscar RFC, se elige el contribuyente y se da clic en Seleccionar o doble clic. Si no, se agrega manualmente el RFC y la Clave CIEC.",
+    "a": "Se puede agregar manualmente el RFC y Clave CIEC, o si ya está en el Catálogo de contribuyentes, se selecciona el botón de Buscar RFC, se elige el contribuyente y se da clic en Seleccionar o doble clic.",
     "product": "MiAdminXML",
+    "categoria": "Contribuyentes",
     "keywords": [
       "contribuyente",
       "asistente",
       "descarga",
-      "retenciones",
-      "catálogo",
       "rfc",
-      "clave ciec"
-    ]
+      "clave ciec",
+      "catálogo",
+      "buscar"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se agrega un contribuyente en el asistente de descarga de retenciones? Respuesta: Se puede agregar manualmente el RFC y Clave CIEC, o si ya está en el Catálogo de contribuyentes, se selecciona el botón de Buscar RFC, se elige el contribuyente y se da clic en Seleccionar o doble clic."
   },
   {
     "q": "¿Qué tipos de retenciones se pueden descargar en MiAdminXML?",
     "a": "Se pueden descargar retenciones Recibidas o Emitidas, seleccionando desde los botones superiores o las opciones del portal.",
     "product": "MiAdminXML",
+    "categoria": "Tipos de Retenciones",
     "keywords": [
       "tipos",
       "retenciones",
       "recibidas",
       "emitidas",
       "descarga",
-      "portal"
-    ]
+      "portal",
+      "sat"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de retenciones se pueden descargar en MiAdminXML? Respuesta: Se pueden descargar retenciones Recibidas o Emitidas, seleccionando desde los botones superiores o las opciones del portal."
   },
   {
-    "q": "¿Cómo se filtran las retenciones para descargar en MiAdminXML?",
-    "a": "Se pueden filtrar por folio fiscal o por Fecha de emisión. Para buscar por fecha, se selecciona el mes sin especificar día y hora para obtener todas las retenciones de ese periodo.",
+    "q": "¿Qué parámetros de búsqueda se pueden usar para encontrar retenciones?",
+    "a": "Se puede buscar por folio fiscal o por fecha de emisión. Para una búsqueda amplia, se puede omitir el día y hora para obtener todos los resultados del mes.",
     "product": "MiAdminXML",
+    "categoria": "Búsqueda",
     "keywords": [
-      "filtro",
-      "retenciones",
+      "parámetros",
+      "búsqueda",
       "folio fiscal",
       "fecha emisión",
-      "buscar",
-      "periodo"
-    ]
-  },
-  {
-    "q": "¿Qué pasos se siguen después de encontrar las retenciones en el periodo seleccionado?",
-    "a": "Se palomea la casilla de los XML's a descargar, se da clic en el botón de Descarga XML, se confirma con 'Sí' y se acepta. Los XML se guardan en la Bóveda CFDi.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "pasos",
-      "descarga",
       "retenciones",
-      "xml",
-      "bóveda cfdi",
-      "confirmación"
-    ]
+      "mes",
+      "resultados"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué parámetros de búsqueda se pueden usar para encontrar retenciones? Respuesta: Se puede buscar por folio fiscal o por fecha de emisión. Para una búsqueda amplia, se puede omitir el día y hora para obtener todos los resultados del mes."
   },
   {
-    "q": "¿Dónde se visualizan las retenciones descargadas en MiAdminXML?",
-    "a": "Las retenciones descargadas se visualizan en el módulo de Administración Retención e información de pagos.",
+    "q": "¿Cómo se descargan los XML de retenciones encontrados?",
+    "a": "Se palomea la casilla de los XML a descargar, se da clic en el botón de Descarga XML, se confirma con 'Sí' y se acepta. Los XML quedan en la Bóveda CFDi.",
     "product": "MiAdminXML",
+    "categoria": "Descarga",
+    "keywords": [
+      "descarga",
+      "xml",
+      "retenciones",
+      "casilla",
+      "bóveda cfdi",
+      "confirmación",
+      "aceptar"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se descargan los XML de retenciones encontrados? Respuesta: Se palomea la casilla de los XML a descargar, se da clic en el botón de Descarga XML, se confirma con 'Sí' y se acepta. Los XML quedan en la Bóveda CFDi."
+  },
+  {
+    "q": "¿Dónde se pueden visualizar los XML de retenciones descargados?",
+    "a": "Los XML descargados se pueden visualizar en el módulo de Administración Retención e información de pagos.",
+    "product": "MiAdminXML",
+    "categoria": "Visualización",
     "keywords": [
       "visualización",
+      "xml",
       "retenciones",
-      "descargadas",
       "módulo",
       "administración",
-      "pagos"
-    ]
+      "pagos",
+      "bóveda"
+    ],
+    "faq_id": "Descarga_Web_Retenciones_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se pueden visualizar los XML de retenciones descargados? Respuesta: Los XML descargados se pueden visualizar en el módulo de Administración Retención e información de pagos."
   }
 ]

@@ -1,90 +1,115 @@
 [
   {
-    "q": "¿Cuáles son los requisitos mínimos del sistema para instalar MiExpedienteContable?",
-    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200MB de espacio en disco duro, y no es compatible con MAC ni Windows 7, 8 u 8.1.",
+    "q": "¿Cuáles son los requisitos mínimos para instalar MiExpedienteContable?",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo de 200 MB de espacio en disco duro. No es compatible con MAC ni con Windows 7, 8 u 8.1.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
       "requisitos",
       "instalación",
       "windows",
       "java",
-      "ram",
-      "disco duro",
+      "memoria",
+      "disco",
       "compatibilidad"
-    ]
+    ],
+    "faq_id": "D-20-03-10-05-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos mínimos para instalar MiExpedienteContable? Respuesta: Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, memoria RAM mínimo de 1GB, y mínimo de 200 MB de espacio en disco duro. No es compatible con MAC ni con Windows 7, 8 u 8.1."
   },
   {
     "q": "¿MiExpedienteContable es compatible con macOS?",
     "a": "No, el software no es compatible con macOS.",
     "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
     "keywords": [
       "compatibilidad",
       "macos",
       "windows",
       "sistema operativo"
-    ]
+    ],
+    "faq_id": "D-20-03-10-05-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿MiExpedienteContable es compatible con macOS? Respuesta: No, el software no es compatible con macOS."
   },
   {
     "q": "¿Cómo se inicia la instalación de MiExpedienteContable?",
-    "a": "Se inicia dando doble clic en el instalador, permitiendo que realice cambios, y luego aceptando los términos y condiciones de la licencia.",
+    "a": "Se debe abrir el instalador del sistema dando doble clic, permitir que el instalador realice cambios, aceptar los términos y condiciones de licencia, y seleccionar el tipo de instalación (Servidor o Local).",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
       "instalación",
       "iniciar",
       "instalador",
       "términos",
-      "licencia"
-    ]
+      "licencia",
+      "tipo"
+    ],
+    "faq_id": "D-20-03-10-05-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia la instalación de MiExpedienteContable? Respuesta: Se debe abrir el instalador del sistema dando doble clic, permitir que el instalador realice cambios, aceptar los términos y condiciones de licencia, y seleccionar el tipo de instalación (Servidor o Local)."
   },
   {
-    "q": "¿Qué opciones de instalación están disponibles para MiExpedienteContable?",
-    "a": "Se puede instalar en modalidad red (servidor y terminales) o en forma local (para un solo equipo).",
+    "q": "¿Qué hacer si no se inicia el proceso de instalación debido a aplicaciones en uso?",
+    "a": "Seleccionar la opción 'Cerrar las aplicaciones automáticamente' y dar clic en siguiente para iniciar el proceso de instalación.",
     "product": "MiExpedienteContable",
+    "categoria": "Instalación",
     "keywords": [
       "instalación",
-      "modalidad",
-      "red",
-      "local",
-      "servidor",
-      "terminales"
-    ]
+      "problemas",
+      "aplicaciones",
+      "cerrar",
+      "automáticamente"
+    ],
+    "faq_id": "D-20-03-10-05-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si no se inicia el proceso de instalación debido a aplicaciones en uso? Respuesta: Seleccionar la opción 'Cerrar las aplicaciones automáticamente' y dar clic en siguiente para iniciar el proceso de instalación."
   },
   {
-    "q": "¿Cómo se configura MiExpedienteContable después de la instalación?",
-    "a": "Después de la instalación, se abre el sistema, se selecciona 'conexión local', se especifica la ruta de almacenamiento, y se guarda la configuración. Luego se inicia sesión con usuario 'admin' y contraseña 'conta'.",
+    "q": "¿Cómo configurar MiExpedienteContable en modalidad servidor?",
+    "a": "Después de la instalación, abrir el sistema, seleccionar 'conexión local', especificar la ruta de almacenamiento si es necesario, y guardar la configuración. Luego, iniciar sesión con usuario 'admin' y contraseña 'conta'.",
     "product": "MiExpedienteContable",
+    "categoria": "Configuración",
     "keywords": [
       "configuración",
-      "post-instalación",
-      "conexión local",
-      "ruta",
-      "usuario",
-      "contraseña"
-    ]
-  },
-  {
-    "q": "¿Cómo se permite que las terminales se conecten al servidor de MiExpedienteContable?",
-    "a": "Es necesario abrir el archivo ConfiguradorServerMEC.exe en la carpeta MiExpedienteContable con permisos de administrador y seleccionar la misma carpeta configurada previamente.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "terminales",
       "servidor",
       "conexión",
-      "configuradorservermec",
-      "permisos"
-    ]
+      "local",
+      "ruta",
+      "almacenamiento",
+      "usuario",
+      "contraseña"
+    ],
+    "faq_id": "D-20-03-10-05-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo configurar MiExpedienteContable en modalidad servidor? Respuesta: Después de la instalación, abrir el sistema, seleccionar 'conexión local', especificar la ruta de almacenamiento si es necesario, y guardar la configuración. Luego, iniciar sesión con usuario 'admin' y contraseña 'conta'."
+  },
+  {
+    "q": "¿Cómo permitir que las terminales se conecten al servidor de MiExpedienteContable?",
+    "a": "Ir a disco local C:, carpeta MiExpedienteContable, buscar el archivo ConfiguradorServerMEC.exe, abrirlo con permisos de administrador, seleccionar la carpeta de configuración si se cambió, y dar clic en aceptar para que la herramienta haga las configuraciones pertinentes.",
+    "product": "MiExpedienteContable",
+    "categoria": "Configuración",
+    "keywords": [
+      "terminales",
+      "conexión",
+      "servidor",
+      "configurador",
+      "permisos",
+      "administrador"
+    ],
+    "faq_id": "D-20-03-10-05-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo permitir que las terminales se conecten al servidor de MiExpedienteContable? Respuesta: Ir a disco local C:, carpeta MiExpedienteContable, buscar el archivo ConfiguradorServerMEC.exe, abrirlo con permisos de administrador, seleccionar la carpeta de configuración si se cambió, y dar clic en aceptar para que la herramienta haga las configuraciones pertinentes."
   },
   {
     "q": "¿Qué credenciales se usan para iniciar sesión en MiExpedienteContable después de la instalación?",
-    "a": "Se usa el usuario 'admin' (en minúsculas) y la contraseña 'conta' (también en minúsculas).",
+    "a": "Usuario 'admin' en minúsculas y contraseña 'conta' también en minúsculas.",
     "product": "MiExpedienteContable",
+    "categoria": "Acceso",
     "keywords": [
-      "inicio de sesión",
-      "credenciales",
+      "inicio",
+      "sesión",
       "usuario",
-      "contraseña",
       "admin",
-      "conta"
-    ]
+      "contraseña",
+      "conta",
+      "credenciales"
+    ],
+    "faq_id": "D-20-03-10-05-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué credenciales se usan para iniciar sesión en MiExpedienteContable después de la instalación? Respuesta: Usuario 'admin' en minúsculas y contraseña 'conta' también en minúsculas."
   }
 ]

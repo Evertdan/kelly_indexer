@@ -1,97 +1,152 @@
 [
   {
     "q": "¿Qué se necesita para instalar MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
+    "a": "Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "instalación",
       "requisitos",
       "licencia",
       "periodo demostrativo",
+      "instalación",
       "necesito"
-    ]
+    ],
+    "faq_id": "A-20-03-23-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para instalar MiAdminXML? Respuesta: Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cuál es el primer paso para instalar MiAdminXML?",
-    "a": "Ingresar a www.adminxml.com.",
+    "a": "El primer paso es ingresar a www.adminxml.com.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "instalación",
       "primer paso",
       "sitio web",
-      "adminxml"
-    ]
+      "descargar",
+      "instalación",
+      "inicio"
+    ],
+    "faq_id": "A-20-03-23-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el primer paso para instalar MiAdminXML? Respuesta: El primer paso es ingresar a www.adminxml.com."
   },
   {
     "q": "¿Qué debo hacer después de llenar el formulario en el sitio web de MiAdminXML?",
-    "a": "Dar clic en 'Descargar XML' y luego esperar un correo electrónico con el enlace 'Descargar MiAdminXML'.",
+    "a": "Después de llenar el formulario, debes dar clic en 'Descargar XML'.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
       "formulario",
-      "descargar",
-      "correo electrónico",
-      "enlace",
-      "pasos"
-    ]
+      "descargar xml",
+      "clic",
+      "siguiente paso",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-23-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer después de llenar el formulario en el sitio web de MiAdminXML? Respuesta: Después de llenar el formulario, debes dar clic en 'Descargar XML'."
   },
   {
-    "q": "¿Qué pasos debo seguir durante la instalación de MiAdminXML?",
-    "a": "Aceptar el acuerdo de licencia, dar clic en 'siguiente', seleccionar 'Instalar', y seguir las instrucciones hasta finalizar la instalación.",
+    "q": "¿Cómo continúo la instalación después de recibir el correo electrónico?",
+    "a": "Debes dar clic en 'Descargar MiAdminXML' en el correo electrónico recibido.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "instalación",
-      "pasos",
+      "correo electrónico",
+      "descargar",
+      "clic",
+      "siguiente paso",
+      "instalación"
+    ],
+    "faq_id": "A-20-03-23-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo continúo la instalación después de recibir el correo electrónico? Respuesta: Debes dar clic en 'Descargar MiAdminXML' en el correo electrónico recibido."
+  },
+  {
+    "q": "¿Qué debo hacer durante la instalación de MiAdminXML?",
+    "a": "Debes aceptar el acuerdo de licencia, dar clic en 'Siguiente', luego en 'Instalar', y finalmente en 'Finalizar' una vez completada la instalación.",
+    "product": "MiAdminXML",
+    "categoria": "Instalación",
+    "keywords": [
       "acuerdo de licencia",
       "siguiente",
-      "instalar"
-    ]
+      "instalar",
+      "finalizar",
+      "pasos"
+    ],
+    "faq_id": "A-20-03-23-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer durante la instalación de MiAdminXML? Respuesta: Debes aceptar el acuerdo de licencia, dar clic en 'Siguiente', luego en 'Instalar', y finalmente en 'Finalizar' una vez completada la instalación."
   },
   {
-    "q": "¿Qué debo hacer después de que aparezca el icono de MiAdminXML en el escritorio?",
-    "a": "Aceptar los términos y condiciones (seleccionar las 3 casillas), escribir nombre, apellido y correo electrónico, y si ya tiene licencia, seleccionar 'ya compré MiAdminXML y tengo clave de licencia'.",
+    "q": "¿Qué aparece en el escritorio después de completar la instalación?",
+    "a": "Aparecerá un icono de MiAdminXML en el escritorio de tu equipo.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
+    "keywords": [
+      "icono",
+      "escritorio",
+      "finalización",
+      "instalación",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-23-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué aparece en el escritorio después de completar la instalación? Respuesta: Aparecerá un icono de MiAdminXML en el escritorio de tu equipo."
+  },
+  {
+    "q": "¿Qué pasos debo seguir después de ver el icono de MiAdminXML en el escritorio?",
+    "a": "Debes aceptar los términos y condiciones (seleccionar las 3 casillas), escribir nombre, apellido y correo electrónico, y si ya tienes licencia, seleccionar 'ya compré MiAdminXML y tengo clave de licencia'.",
+    "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
       "términos y condiciones",
-      "registro",
+      "nombre",
       "correo electrónico",
       "licencia",
-      "pasos"
-    ]
+      "confirmación"
+    ],
+    "faq_id": "A-20-03-23-03-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir después de ver el icono de MiAdminXML en el escritorio? Respuesta: Debes aceptar los términos y condiciones (seleccionar las 3 casillas), escribir nombre, apellido y correo electrónico, y si ya tienes licencia, seleccionar 'ya compré MiAdminXML y tengo clave de licencia'."
   },
   {
-    "q": "¿Cómo confirmo mi correo electrónico después de instalar MiAdminXML?",
-    "a": "Dirigirse al correo electrónico y seleccionar la opción 'Confirmar mi correo electrónico', luego ir al actualizador y dar clic en 'ya validé mi correo'.",
+    "q": "¿Cómo confirmo mi correo electrónico durante la instalación de MiAdminXML?",
+    "a": "Debes dar clic en 'Confirmación de correo electrónico', luego ir al correo y seleccionar 'Confirmar mi correo electrónico'. Finalmente, dirígete al actualizador y da clic en 'ya validé mi correo'.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "confirmación",
+      "confirmar correo",
       "correo electrónico",
       "validación",
       "actualizador",
       "pasos"
-    ]
+    ],
+    "faq_id": "A-20-03-23-03-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo confirmo mi correo electrónico durante la instalación de MiAdminXML? Respuesta: Debes dar clic en 'Confirmación de correo electrónico', luego ir al correo y seleccionar 'Confirmar mi correo electrónico'. Finalmente, dirígete al actualizador y da clic en 'ya validé mi correo'."
   },
   {
-    "q": "¿Qué hago si aparecen los términos y condiciones después de instalar MiAdminXML?",
-    "a": "Ver la SOP Activación de licencia: A-20-03-05-05-01.",
+    "q": "¿Qué debo hacer si aparecen los términos y condiciones después de la instalación?",
+    "a": "Si aparecen los términos y condiciones, debes ver la SOP Activación de licencia: A-20-03-05-05-01.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
       "términos y condiciones",
       "activación",
       "licencia",
       "sop",
-      "documentación"
-    ]
+      "solución"
+    ],
+    "faq_id": "A-20-03-23-03-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si aparecen los términos y condiciones después de la instalación? Respuesta: Si aparecen los términos y condiciones, debes ver la SOP Activación de licencia: A-20-03-05-05-01."
   },
   {
-    "q": "¿Cómo sé que la instalación de MiAdminXML ha finalizado correctamente?",
-    "a": "Aparecerá un icono de MiAdminXML en el escritorio y se tendrá acceso al programa después de confirmar el correo electrónico y finalizar el proceso.",
+    "q": "¿Cómo sé que la instalación de MiAdminXML se completó correctamente?",
+    "a": "La instalación se completa correctamente cuando aparece el icono de MiAdminXML en el escritorio y ya tienes acceso al programa.",
     "product": "MiAdminXML",
+    "categoria": "Instalación",
     "keywords": [
-      "finalización",
+      "completado",
       "icono",
       "escritorio",
       "acceso",
-      "confirmación"
-    ]
+      "finalización"
+    ],
+    "faq_id": "A-20-03-23-03-01_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo sé que la instalación de MiAdminXML se completó correctamente? Respuesta: La instalación se completa correctamente cuando aparece el icono de MiAdminXML en el escritorio y ya tienes acceso al programa."
   }
 ]

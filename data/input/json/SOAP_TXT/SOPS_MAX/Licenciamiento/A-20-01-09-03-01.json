@@ -1,91 +1,104 @@
 [
   {
     "q": "¿Cómo puedo desactivar mi clave de licencia de MiAdminXML para cambiarla a otro equipo?",
-    "a": "Para desactivar la clave de licencia, debes dar clic en 'Licenciamiento', luego en 'DESACTIVAR' dos veces. La clave quedará desactivada, el programa se cerrará automáticamente y podrás activarla en otro equipo.",
+    "a": "Para desactivar la clave de licencia, debes dar clic en 'Licenciamiento' y luego en 'DESACTIVAR' dos veces. La clave quedará desactivada y el programa se cerrará automáticamente, permitiendo activarla en otro equipo.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "desactivar",
-      "clave de licencia",
-      "cambiar equipo",
-      "licenciamiento",
-      "pasos"
-    ]
+      "licencia",
+      "cambio",
+      "equipo",
+      "pasos",
+      "adminxml",
+      "clave"
+    ],
+    "faq_id": "A-20-01-09-03-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo desactivar mi clave de licencia de MiAdminXML para cambiarla a otro equipo? Respuesta: Para desactivar la clave de licencia, debes dar clic en 'Licenciamiento' y luego en 'DESACTIVAR' dos veces. La clave quedará desactivada y el programa se cerrará automáticamente, permitiendo activarla en otro equipo."
   },
   {
     "q": "¿Qué debo respaldar antes de cambiar mi clave de licencia a otro equipo?",
-    "a": "Debes copiar la carpeta C:\\AdminXML desde el Disco Local C, específicamente la ruta c:\\AdminXML\\BovedaCFDi (donde están tus RFC) y el archivo miadminxml2.sqlite (tu catálogo de empresas), y pegarlos en el nuevo equipo en la misma ruta.",
+    "a": "Debes copiar la carpeta C:\\AdminXML, específicamente la subcarpeta C:\\AdminXML\\BovedaCFDi (que contiene tus RFC) y el archivo miadminxml2.sqlite (tu catálogo de empresas), para pegarlos en la misma ruta del nuevo equipo.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "respaldar",
       "información",
       "carpeta",
       "bovedacfdi",
       "sqlite",
-      "rfc",
-      "cambio equipo"
-    ]
+      "datos",
+      "transferencia"
+    ],
+    "faq_id": "A-20-01-09-03-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo respaldar antes de cambiar mi clave de licencia a otro equipo? Respuesta: Debes copiar la carpeta C:\\AdminXML, específicamente la subcarpeta C:\\AdminXML\\BovedaCFDi (que contiene tus RFC) y el archivo miadminxml2.sqlite (tu catálogo de empresas), para pegarlos en la misma ruta del nuevo equipo."
   },
   {
-    "q": "¿Cuáles son las opciones para activar mi clave de licencia en un nuevo equipo?",
-    "a": "Hay dos opciones: 1) 'Desde registro', ejecutando el programa como administrador y siguiendo los pasos de registro, o 2) 'Desde Licenciamiento', abriendo MiAdminXML y siguiendo los pasos en la sección de Licenciamiento.",
+    "q": "¿Cuáles son los pasos para activar una clave de licencia en MiAdminXML desde el registro?",
+    "a": "1. Ejecutar el programa como administrador. 2. Habilitar 3 casillas y aceptar términos. 3. Llenar registro con datos personales y clave. 4. Responder preguntas de identificación. 5. Validar correo electrónico. 6. Confirmar validación en el programa. 7. Finalizar para reiniciar y acceder a módulos.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "activar",
-      "clave de licencia",
-      "nuevo equipo",
-      "opciones",
-      "registro",
-      "licenciamiento"
-    ]
-  },
-  {
-    "q": "¿Qué pasos debo seguir para activar mi clave de licencia desde el registro?",
-    "a": "1) Ejecutar el programa como administrador. 2) Habilitar 3 casillas y aceptar términos. 3) Llenar el registro con tus datos y clave de licencia. 4) Responder preguntas de identificación. 5) Validar tu correo electrónico. 6) Confirmar la validación en el programa. 7) Finalizar el proceso.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "activar",
+      "licencia",
       "registro",
       "pasos",
-      "ejecutar como administrador",
-      "validar correo",
-      "clave de licencia"
-    ]
+      "correo",
+      "validación",
+      "administrador"
+    ],
+    "faq_id": "A-20-01-09-03-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para activar una clave de licencia en MiAdminXML desde el registro? Respuesta: 1. Ejecutar el programa como administrador. 2. Habilitar 3 casillas y aceptar términos. 3. Llenar registro con datos personales y clave. 4. Responder preguntas de identificación. 5. Validar correo electrónico. 6. Confirmar validación en el programa. 7. Finalizar para reiniciar y acceder a módulos."
   },
   {
-    "q": "¿Cómo activo mi clave de licencia desde la sección de Licenciamiento?",
-    "a": "1) Abrir MiAdminXML y dar clic en 'Licenciamiento'. 2) Dar clic en 'Activar'. 3) Colocar la clave de licencia y dar clic en 'Activar'. 4) Aceptar el mensaje de confirmación. El programa se reiniciará y tendrás acceso a los módulos.",
+    "q": "¿Cómo activo mi clave de licencia directamente desde el menú de Licenciamiento en MiAdminXML?",
+    "a": "1. Abrir MiAdminXML y hacer clic en 'Licenciamiento'. 2. Dar clic en 'Activar'. 3. Ingresar la clave de licencia y hacer clic en 'Activar'. 4. Confirmar el mensaje de activación y esperar a que el programa se reinicie para acceder a los módulos.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "activar",
-      "licenciamiento",
+      "licencia",
+      "menú",
+      "directo",
       "pasos",
-      "clave de licencia",
+      "clave",
+      "confirmación"
+    ],
+    "faq_id": "A-20-01-09-03-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo activo mi clave de licencia directamente desde el menú de Licenciamiento en MiAdminXML? Respuesta: 1. Abrir MiAdminXML y hacer clic en 'Licenciamiento'. 2. Dar clic en 'Activar'. 3. Ingresar la clave de licencia y hacer clic en 'Activar'. 4. Confirmar el mensaje de activación y esperar a que el programa se reinicie para acceder a los módulos."
+  },
+  {
+    "q": "¿Qué debo hacer después de recibir el correo de confirmación al activar mi licencia?",
+    "a": "Debes regresar al programa MiAdminXML y hacer clic en 'Ya validé mi correo'. Luego, finalizar el proceso para que el programa se reinicie y puedas acceder a los módulos correspondientes.",
+    "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
+    "keywords": [
+      "correo",
       "confirmación",
-      "reiniciar programa"
-    ]
-  },
-  {
-    "q": "¿Qué sucede después de desactivar mi clave de licencia en MiAdminXML?",
-    "a": "El programa se cerrará automáticamente y la clave de licencia quedará desactivada, permitiéndote activarla en otro equipo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "desactivar",
-      "clave de licencia",
+      "validación",
+      "paso",
       "programa",
-      "cerrar",
-      "activar otro equipo"
-    ]
+      "reiniciar",
+      "módulos"
+    ],
+    "faq_id": "A-20-01-09-03-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer después de recibir el correo de confirmación al activar mi licencia? Respuesta: Debes regresar al programa MiAdminXML y hacer clic en 'Ya validé mi correo'. Luego, finalizar el proceso para que el programa se reinicie y puedas acceder a los módulos correspondientes."
   },
   {
-    "q": "¿Dónde puedo encontrar más información sobre el licenciamiento de MiAdminXML?",
-    "a": "Puedes visitar la página www.adminxml.com para más información sobre el licenciamiento de MiAdminXML.",
+    "q": "¿Qué información se requiere para completar el registro al activar una licencia?",
+    "a": "Se necesita proporcionar nombre, apellidos, correo electrónico, habilitar la casilla de compra, colocar la clave de licencia y responder preguntas de identificación como '¿Con qué te identificas más?' y '¿De dónde eres?'.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "información",
-      "licenciamiento",
-      "página web",
-      "adminxml",
-      "soporte"
-    ]
+      "registro",
+      "datos",
+      "personales",
+      "correo",
+      "clave",
+      "preguntas",
+      "identificación"
+    ],
+    "faq_id": "A-20-01-09-03-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se requiere para completar el registro al activar una licencia? Respuesta: Se necesita proporcionar nombre, apellidos, correo electrónico, habilitar la casilla de compra, colocar la clave de licencia y responder preguntas de identificación como '¿Con qué te identificas más?' y '¿De dónde eres?'."
   }
 ]

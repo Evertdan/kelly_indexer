@@ -3,6 +3,7 @@
     "q": "¿Qué es la herramienta catálogo logos en MiAdminXML?",
     "a": "Es una herramienta para guardar el RFC (emisor) y logo de la empresa para personalizar el archivo PDF.",
     "product": "MiAdminXML",
+    "categoria": "Personalización",
     "keywords": [
       "catálogo logos",
       "herramienta",
@@ -12,12 +13,15 @@
       "pdf",
       "emisor",
       "empresa"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-17_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta catálogo logos en MiAdminXML? Respuesta: Es una herramienta para guardar el RFC (emisor) y logo de la empresa para personalizar el archivo PDF."
   },
   {
-    "q": "¿Qué se necesita para usar la herramienta catálogo logos?",
+    "q": "¿Qué se necesita para usar la herramienta catálogo logos en MiAdminXML?",
     "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
@@ -25,21 +29,26 @@
       "acceso",
       "herramienta",
       "catálogo logos"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-17_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la herramienta catálogo logos en MiAdminXML? Respuesta: Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Para qué sirve la herramienta catálogo logos?",
-    "a": "Sirve para personalizar el archivo PDF guardando el RFC del emisor y el logo de la empresa.",
+    "q": "¿Cuál es la función principal de la herramienta catálogo logos?",
+    "a": "La función principal es permitir guardar el RFC del emisor y el logo de la empresa para personalizar los archivos PDF generados.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "función",
       "personalización",
       "pdf",
       "rfc",
       "logo",
-      "empresa",
       "emisor",
-      "uso"
-    ]
+      "empresa",
+      "archivos"
+    ],
+    "faq_id": "A-20-03-25-03-17_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la función principal de la herramienta catálogo logos? Respuesta: La función principal es permitir guardar el RFC del emisor y el logo de la empresa para personalizar los archivos PDF generados."
   }
 ]

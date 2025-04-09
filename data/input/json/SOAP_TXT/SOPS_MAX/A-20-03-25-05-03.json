@@ -1,73 +1,79 @@
 [
   {
     "q": "¿Qué se necesita para usar el Catálogo de Cuentas en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
+    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo de Cuentas",
     "keywords": [
       "catálogo de cuentas",
-      "requisitos",
       "licencia",
       "profesional",
       "periodo demostrativo",
-      "soporte",
-      "correo electrónico"
-    ]
+      "requisitos",
+      "soporte"
+    ],
+    "faq_id": "A-20-03-25-05-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar el Catálogo de Cuentas en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Qué información se necesita para generar el XML del Catálogo de Cuentas?",
-    "a": "Se necesita el RFC, el año, el mes y la plantilla del catálogo de cuentas.",
+    "q": "¿Qué información se necesita para iniciar la importación del Catálogo de Cuentas?",
+    "a": "Se requiere el RFC, el año, el mes y la plantilla del catálogo de cuentas.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo de Cuentas",
     "keywords": [
-      "xml",
-      "generación",
+      "importación",
       "rfc",
       "año",
       "mes",
       "plantilla",
-      "catálogo de cuentas",
-      "información necesaria"
-    ]
+      "catálogo de cuentas"
+    ],
+    "faq_id": "A-20-03-25-05-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita para iniciar la importación del Catálogo de Cuentas? Respuesta: Se requiere el RFC, el año, el mes y la plantilla del catálogo de cuentas."
   },
   {
-    "q": "¿Qué pasos se siguen para generar el XML del Catálogo de Cuentas en MiAdminXML?",
-    "a": "1. Se elige el RFC, año, mes y plantilla del catálogo de cuentas. 2. Se da clic en 'Iniciar importación', mostrando un mensaje de generación correcta del XML. 3. Aparece un mensaje preguntando si se desea localizar el archivo y se da clic. 4. Se muestra la localización del XML generado.",
+    "q": "¿Qué mensaje aparece después de iniciar la importación del Catálogo de Cuentas?",
+    "a": "Aparece un mensaje indicando que la generación del XML fue correcta.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo de Cuentas",
     "keywords": [
-      "pasos",
-      "generación",
-      "xml",
-      "catálogo de cuentas",
-      "iniciar importación",
+      "importación",
       "mensaje",
-      "localización",
-      "archivo"
-    ]
+      "xml",
+      "correcto",
+      "generación"
+    ],
+    "faq_id": "A-20-03-25-05-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de iniciar la importación del Catálogo de Cuentas? Respuesta: Aparece un mensaje indicando que la generación del XML fue correcta."
   },
   {
-    "q": "¿Qué tipo de soporte se brinda para el Catálogo de Cuentas en MiAdminXML?",
-    "a": "El soporte es de nivel 1 - Temprano, y se soluciona el problema por correo electrónico si no se cuenta con la licencia Profesional o el periodo demostrativo.",
+    "q": "¿Qué opción se muestra después de la generación exitosa del XML del Catálogo de Cuentas?",
+    "a": "Se muestra un mensaje preguntando si se desea localizar el archivo, y al dar clic, se muestra la ubicación del XML generado.",
     "product": "MiAdminXML",
+    "categoria": "Catálogo de Cuentas",
+    "keywords": [
+      "xml",
+      "localización",
+      "archivo",
+      "generación",
+      "mensaje"
+    ],
+    "faq_id": "A-20-03-25-05-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opción se muestra después de la generación exitosa del XML del Catálogo de Cuentas? Respuesta: Se muestra un mensaje preguntando si se desea localizar el archivo, y al dar clic, se muestra la ubicación del XML generado."
+  },
+  {
+    "q": "¿Qué nivel de soporte se aplica para problemas con el Catálogo de Cuentas?",
+    "a": "Se aplica un Nivel 1 - Temprano para problemas relacionados con el Catálogo de Cuentas.",
+    "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
       "nivel 1",
       "temprano",
-      "correo electrónico",
-      "licencia",
-      "profesional",
-      "periodo demostrativo",
-      "problema"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se utilizan para el Catálogo de Cuentas en MiAdminXML?",
-    "a": "El recurso utilizado es MiAdminXML.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "recursos",
-      "miadminxml",
-      "catálogo de cuentas",
-      "herramienta",
-      "plataforma"
-    ]
+      "problemas",
+      "catálogo de cuentas"
+    ],
+    "faq_id": "A-20-03-25-05-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte se aplica para problemas con el Catálogo de Cuentas? Respuesta: Se aplica un Nivel 1 - Temprano para problemas relacionados con el Catálogo de Cuentas."
   }
 ]

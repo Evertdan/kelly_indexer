@@ -1,119 +1,122 @@
 [
   {
-    "q": "¿Qué se necesita para usar el módulo de descarga masiva WebService SAT en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado, y usar la FIEL del contribuyente para acceder al módulo.",
+    "q": "¿Qué se necesita para descargar comprobantes del SAT usando MiAdminXML?",
+    "a": "Se requiere contar con una licencia MiAdminXML, tener el software actualizado, y usar la FIEL del contribuyente para acceder al módulo de descarga.",
     "product": "MiAdminXML",
-    "keywords": [
-      "descarga masiva",
-      "webservice sat",
-      "requisitos",
-      "licencia",
-      "fiel",
-      "acceso",
-      "módulo"
-    ]
-  },
-  {
-    "q": "¿Cuántos XML se pueden descargar en una sola consulta con el WebService SAT?",
-    "a": "Se pueden descargar hasta 200,000 XML en una sola consulta desde el portal del SAT.",
-    "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga",
-      "xml",
-      "límite",
-      "consulta",
-      "webservice sat",
-      "cantidad"
-    ]
+      "sat",
+      "licencia",
+      "fiel",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-13-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para descargar comprobantes del SAT usando MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML, tener el software actualizado, y usar la FIEL del contribuyente para acceder al módulo de descarga."
   },
   {
-    "q": "¿Cómo se accede al módulo de descarga masiva WebService SAT en MiAdminXML?",
-    "a": "Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando en el equipo los archivos .cer, .key y la clave privada correspondiente.",
+    "q": "¿Cómo se accede al módulo de descarga masiva en MiAdminXML?",
+    "a": "Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando los archivos .cer, .key y la clave privada en el equipo.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "acceso",
       "módulo",
       "descarga masiva",
       "fiel",
-      "archivos",
-      "cer",
-      "key",
-      "clave privada"
-    ]
+      "archivos"
+    ],
+    "faq_id": "A-20-02-13-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de descarga masiva en MiAdminXML? Respuesta: Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando los archivos .cer, .key y la clave privada en el equipo."
   },
   {
-    "q": "¿Qué parámetros se pueden seleccionar para la descarga de comprobantes en el WebService SAT?",
-    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o Mes), y los parámetros de búsqueda como un día, mes o año completo.",
+    "q": "¿Qué parámetros se pueden seleccionar para la descarga de comprobantes en MiAdminXML?",
+    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o mes), y los parámetros de búsqueda como día, mes o año completo.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "parámetros",
-      "búsqueda",
       "comprobantes",
-      "emitidas",
-      "recibidas",
+      "tipo",
       "organización",
-      "día",
-      "mes",
-      "año"
-    ]
+      "búsqueda"
+    ],
+    "faq_id": "A-20-02-13-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué parámetros se pueden seleccionar para la descarga de comprobantes en MiAdminXML? Respuesta: Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o mes), y los parámetros de búsqueda como día, mes o año completo."
   },
   {
-    "q": "¿Qué información muestra la tabla de tareas después de realizar una consulta en el WebService SAT?",
-    "a": "La tabla de tareas muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes, fechas inicial y final, cantidad de CFDI's, tipo de organización y descripción del avance de la consulta.",
+    "q": "¿Qué información muestra la tabla de tareas después de realizar una consulta en MiAdminXML?",
+    "a": "Muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes, fechas inicial y final, cantidad de CFDI's, tipo de organización y descripción del avance.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "tabla",
       "tareas",
       "consulta",
       "estado",
-      "id",
-      "fechas",
-      "cfdi",
-      "avance",
-      "información"
-    ]
+      "cfdi"
+    ],
+    "faq_id": "A-20-02-13-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información muestra la tabla de tareas después de realizar una consulta en MiAdminXML? Respuesta: Muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes, fechas inicial y final, cantidad de CFDI's, tipo de organización y descripción del avance."
   },
   {
-    "q": "¿Cuánto tiempo puede tomar la descarga de XML después de realizar la solicitud en el WebService SAT?",
-    "a": "El tiempo de espera puede variar desde minutos hasta horas o incluso días, dependiendo del WebService SAT. Se recomienda verificar constantemente el estado de la solicitud.",
+    "q": "¿Cuánto tiempo puede tardar la descarga de comprobantes en MiAdminXML?",
+    "a": "El tiempo de espera varía y puede ser de minutos, horas o incluso días, dependiendo del WebserviceSAT. Se recomienda verificar constantemente el estado de la solicitud.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "tiempo",
       "espera",
       "descarga",
-      "solicitud",
-      "webservice sat",
-      "verificación",
+      "webservicesat",
       "estado"
-    ]
+    ],
+    "faq_id": "A-20-02-13-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo puede tardar la descarga de comprobantes en MiAdminXML? Respuesta: El tiempo de espera varía y puede ser de minutos, horas o incluso días, dependiendo del WebserviceSAT. Se recomienda verificar constantemente el estado de la solicitud."
   },
   {
-    "q": "¿Qué se recomienda hacer si faltan paquetes al descargar comprobantes en el WebService SAT?",
-    "a": "Se recomienda seguir los pasos indicados en el módulo, verificar el estado de la solicitud constantemente y asegurarse de tener los permisos de administrador y las excepciones necesarias en el antivirus Kaspersky.",
+    "q": "¿Qué se recomienda hacer si faltan paquetes al descargar comprobantes en MiAdminXML?",
+    "a": "Se recomienda seguir los pasos indicados en el módulo, verificar el estado de la solicitud y asegurarse de tener los permisos de administrador y las excepciones en el antivirus Kaspersky.",
     "product": "MiAdminXML",
+    "categoria": "Solución de Problemas",
     "keywords": [
-      "problemas",
       "paquetes",
       "faltantes",
       "solución",
-      "permisos",
       "antivirus",
-      "kaspersky",
-      "recomendaciones"
-    ]
+      "permisos"
+    ],
+    "faq_id": "A-20-02-13-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda hacer si faltan paquetes al descargar comprobantes en MiAdminXML? Respuesta: Se recomienda seguir los pasos indicados en el módulo, verificar el estado de la solicitud y asegurarse de tener los permisos de administrador y las excepciones en el antivirus Kaspersky."
   },
   {
-    "q": "¿Qué políticas se deben cumplir para usar el módulo de descarga masiva WebService SAT?",
-    "a": "Se debe contar con la licencia MiAdminXML, tener el periodo demostrativo activo, MiAdminXML actualizado y permisos de administrador en el usuario.",
+    "q": "¿Cuál es el límite de XML que se pueden descargar en una sola consulta con MiAdminXML?",
+    "a": "Se pueden descargar hasta 200,000 XML en una sola consulta desde el portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "políticas",
+      "límite",
+      "xml",
+      "consulta",
+      "descarga",
+      "sat"
+    ],
+    "faq_id": "A-20-02-13-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el límite de XML que se pueden descargar en una sola consulta con MiAdminXML? Respuesta: Se pueden descargar hasta 200,000 XML en una sola consulta desde el portal del SAT."
+  },
+  {
+    "q": "¿Qué requisitos de sistema son necesarios para usar MiAdminXML?",
+    "a": "Es necesario tener permisos de administrador en el usuario, sincronización de fecha/hora, y agregar excepciones al antivirus Kaspersky.",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
+    "keywords": [
       "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "actualización",
-      "permisos",
-      "administrador"
-    ]
+      "sistema",
+      "administrador",
+      "antivirus",
+      "kaspersky"
+    ],
+    "faq_id": "A-20-02-13-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos de sistema son necesarios para usar MiAdminXML? Respuesta: Es necesario tener permisos de administrador en el usuario, sincronización de fecha/hora, y agregar excepciones al antivirus Kaspersky."
   }
 ]

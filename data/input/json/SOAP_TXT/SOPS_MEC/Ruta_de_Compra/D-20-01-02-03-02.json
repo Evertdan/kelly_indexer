@@ -1,98 +1,95 @@
 [
   {
-    "q": "¿Qué debe hacer el cliente si no ha recibido su clave de licencia?",
-    "a": "El cliente debe reportar la situación mediante una llamada, correo o feedback, proporcionando su número de orden de compra para validar la información en el bot.",
+    "q": "¿Qué debo hacer si un cliente reporta que no ha recibido su clave de licencia?",
+    "a": "Solicitar al cliente su número de orden de compra para validar la información en el bot usando el comando /orden. Luego, confirmar los datos del cliente (correo electrónico, razón social, RFC y nombre de quien llenó la orden) antes de enviar la licencia con el comando /enviarlicencias.",
     "product": "General",
+    "categoria": "Soporte Técnico",
     "keywords": [
-      "clave",
-      "licencia",
+      "clave de licencia",
       "no recibida",
-      "reportar",
       "orden de compra",
-      "validar",
-      "bot"
-    ]
+      "validación",
+      "bot",
+      "comando",
+      "enviar licencia"
+    ],
+    "faq_id": "D-20-01-02-03-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer si un cliente reporta que no ha recibido su clave de licencia? Respuesta: Solicitar al cliente su número de orden de compra para validar la información en el bot usando el comando /orden. Luego, confirmar los datos del cliente (correo electrónico, razón social, RFC y nombre de quien llenó la orden) antes de enviar la licencia con el comando /enviarlicencias."
   },
   {
-    "q": "¿Qué datos debe confirmar el cliente para recibir su licencia?",
-    "a": "El cliente debe confirmar su correo electrónico, razón social, RFC y el nombre de la persona a quien se llenó la orden de compra.",
+    "q": "¿Qué datos necesito confirmar con el cliente antes de enviar la licencia?",
+    "a": "Debes confirmar el correo electrónico, razón social, RFC y el nombre de la persona a quien se llenó la orden de compra.",
     "product": "General",
+    "categoria": "Soporte Técnico",
     "keywords": [
-      "datos",
-      "confirmar",
-      "licencia",
+      "datos cliente",
+      "confirmación",
       "correo electrónico",
       "razón social",
       "rfc",
       "orden de compra"
-    ]
+    ],
+    "faq_id": "D-20-01-02-03-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos necesito confirmar con el cliente antes de enviar la licencia? Respuesta: Debes confirmar el correo electrónico, razón social, RFC y el nombre de la persona a quien se llenó la orden de compra."
   },
   {
-    "q": "¿Cómo se valida la información del cliente para enviar la licencia?",
-    "a": "La información del cliente se valida utilizando el comando /orden en el bot, una vez que el cliente proporciona su número de orden de compra.",
+    "q": "¿Cómo se envía la licencia al cliente?",
+    "a": "Se envía la licencia usando el comando /enviarlicencias en el bot después de confirmar los datos del cliente.",
     "product": "General",
+    "categoria": "Soporte Técnico",
     "keywords": [
+      "enviar licencia",
+      "comando",
+      "bot",
+      "proceso",
+      "confirmación"
+    ],
+    "faq_id": "D-20-01-02-03-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se envía la licencia al cliente? Respuesta: Se envía la licencia usando el comando /enviarlicencias en el bot después de confirmar los datos del cliente."
+  },
+  {
+    "q": "¿Qué pasa si el cliente quiere recibir la licencia en un correo diferente al registrado?",
+    "a": "El cliente debe confirmar los datos mencionados (correo electrónico, razón social, RFC y nombre). Si no se confirman, la licencia se enviará al correo registrado en el bot.",
+    "product": "General",
+    "categoria": "Soporte Técnico",
+    "keywords": [
+      "cambio correo",
+      "correo alternativo",
+      "confirmación",
+      "datos cliente",
+      "correo registrado"
+    ],
+    "faq_id": "D-20-01-02-03-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si el cliente quiere recibir la licencia en un correo diferente al registrado? Respuesta: El cliente debe confirmar los datos mencionados (correo electrónico, razón social, RFC y nombre). Si no se confirman, la licencia se enviará al correo registrado en el bot."
+  },
+  {
+    "q": "¿Qué comando se usa para validar la información de la orden de compra?",
+    "a": "Se usa el comando /orden en el bot para validar la información de la orden de compra.",
+    "product": "General",
+    "categoria": "Soporte Técnico",
+    "keywords": [
+      "comando",
       "validar",
-      "información",
-      "cliente",
-      "comando",
-      "orden",
+      "orden de compra",
       "bot",
-      "número de orden"
-    ]
+      "información"
+    ],
+    "faq_id": "D-20-01-02-03-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se usa para validar la información de la orden de compra? Respuesta: Se usa el comando /orden en el bot para validar la información de la orden de compra."
   },
   {
-    "q": "¿Qué comando se usa para enviar la licencia al cliente?",
-    "a": "Se utiliza el comando /enviarlicencias en el bot para enviar la licencia correspondiente al cliente.",
+    "q": "¿Qué nivel de prioridad tiene un caso de licencia no recibida?",
+    "a": "El nivel de prioridad es 1 – Bajo.",
     "product": "General",
+    "categoria": "Soporte Técnico",
     "keywords": [
-      "comando",
-      "enviar",
-      "licencia",
-      "bot",
-      "/enviarlicencias",
-      "correspondiente"
-    ]
-  },
-  {
-    "q": "¿Qué sucede si el cliente no confirma los datos requeridos para enviar la licencia a otro correo?",
-    "a": "Si el cliente no confirma los datos requeridos, la licencia se enviará al correo que está registrado en el bot.",
-    "product": "General",
-    "keywords": [
-      "confirmar",
-      "datos",
-      "licencia",
-      "correo",
-      "registrado",
-      "bot",
-      "requeridos"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de prioridad tiene un reporte de no recepción de licencia?",
-    "a": "Un reporte de no recepción de licencia tiene un nivel de prioridad 1 – Bajo.",
-    "product": "General",
-    "keywords": [
-      "reporte",
-      "no recepción",
-      "licencia",
       "prioridad",
       "nivel",
       "bajo",
-      "1"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de solución se aplica para el problema de no recepción de licencia?",
-    "a": "El tipo de solución aplicada para el problema de no recepción de licencia es Sol-01.",
-    "product": "General",
-    "keywords": [
-      "solución",
-      "tipo",
-      "no recepción",
       "licencia",
-      "sol-01",
-      "problema"
-    ]
+      "no recibida"
+    ],
+    "faq_id": "D-20-01-02-03-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de prioridad tiene un caso de licencia no recibida? Respuesta: El nivel de prioridad es 1 – Bajo."
   }
 ]

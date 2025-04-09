@@ -1,132 +1,147 @@
 [
   {
     "q": "¿Qué se necesita para usar el módulo de descarga masiva WebService SAT en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Además, es necesario tener la FIEL del contribuyente, que incluye los archivos .cer, .key y la clave privada.",
+    "a": "Se requiere tener la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Además, es necesario contar con la FIEL del contribuyente, incluyendo los archivos .cer, .key y la clave privada.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga masiva",
-      "webservice sat",
+      "webservice",
+      "sat",
       "requisitos",
       "licencia",
       "profesional",
       "fiel",
-      "archivos",
-      "acceso"
-    ]
+      "archivos"
+    ],
+    "faq_id": "A-20-03-25-01-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar el módulo de descarga masiva WebService SAT en MiAdminXML? Respuesta: Se requiere tener la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Además, es necesario contar con la FIEL del contribuyente, incluyendo los archivos .cer, .key y la clave privada."
   },
   {
     "q": "¿Cuántos XML se pueden descargar en una sola consulta con el módulo WebService SAT?",
     "a": "El módulo permite descargar hasta 200,000 XML en una sola consulta desde el portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga",
       "xml",
-      "limite",
       "consulta",
-      "webservice sat",
-      "cantidad",
+      "limite",
       "200000",
-      "solicitud"
-    ]
+      "sat",
+      "webservice"
+    ],
+    "faq_id": "A-20-03-25-01-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántos XML se pueden descargar en una sola consulta con el módulo WebService SAT? Respuesta: El módulo permite descargar hasta 200,000 XML en una sola consulta desde el portal del SAT."
   },
   {
-    "q": "¿Cómo se inicia el proceso de descarga masiva en MiAdminXML?",
-    "a": "Para iniciar el proceso, se debe entrar en el icono 'Descarga Masiva WebService SAT', ingresar con la FIEL del contribuyente, seleccionar el asistente de descarga y establecer los parámetros de búsqueda como tipo de comprobante y organización.",
+    "q": "¿Cómo se accede al módulo de descarga masiva WebService SAT en MiAdminXML?",
+    "a": "Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando en el equipo los archivos .cer, .key y la clave privada correspondiente.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "proceso",
-      "inicio",
-      "descarga masiva",
+      "acceso",
+      "modulo",
+      "descarga",
+      "masiva",
+      "webservice",
+      "sat",
       "fiel",
-      "asistente",
+      "archivos"
+    ],
+    "faq_id": "A-20-03-25-01-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo de descarga masiva WebService SAT en MiAdminXML? Respuesta: Se accede ingresando al icono 'Descarga Masiva WebService SAT' y utilizando la FIEL del contribuyente, buscando en el equipo los archivos .cer, .key y la clave privada correspondiente."
+  },
+  {
+    "q": "¿Qué parámetros de búsqueda se pueden seleccionar en el módulo de descarga masiva?",
+    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o mes), y los parámetros de búsqueda como un día, mes o año completo.",
+    "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
+    "keywords": [
       "parametros",
       "busqueda",
       "comprobante",
-      "organización"
-    ]
-  },
-  {
-    "q": "¿Qué parámetros se pueden configurar para la descarga de XML?",
-    "a": "Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o Mes), y los parámetros de búsqueda como un día, mes o año completo.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "parametros",
-      "configuración",
-      "descarga",
-      "xml",
-      "comprobante",
       "emitidas",
       "recibidas",
-      "organización",
-      "día",
+      "organizacion",
+      "dia",
       "mes",
       "año"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué parámetros de búsqueda se pueden seleccionar en el módulo de descarga masiva? Respuesta: Se puede seleccionar el tipo de comprobante (Emitidas o Recibidas), el tipo de organización (Día o mes), y los parámetros de búsqueda como un día, mes o año completo."
   },
   {
-    "q": "¿Qué información se muestra en la tabla de tareas después de realizar una solicitud?",
-    "a": "La tabla de tareas muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes solicitados, fecha inicial y final de la consulta, cantidad de CFDI's, tipo de organización elegida y descripción del avance de la consulta.",
+    "q": "¿Qué información muestra la tabla de tareas después de realizar una consulta?",
+    "a": "La tabla muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes solicitados, fecha inicial y final de la consulta, CFDI's contenidos, tipo de organización elegida y la descripción del avance de la consulta.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "tabla",
       "tareas",
-      "información",
-      "solicitud",
+      "consulta",
       "estado",
+      "solicitud",
       "fecha",
       "id",
       "comprobantes",
       "cfdi",
-      "organización",
       "avance"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información muestra la tabla de tareas después de realizar una consulta? Respuesta: La tabla muestra el estado de la solicitud, la fecha de realización, ID de la solicitud, tipo de comprobantes solicitados, fecha inicial y final de la consulta, CFDI's contenidos, tipo de organización elegida y la descripción del avance de la consulta."
   },
   {
-    "q": "¿Cuánto tiempo puede tomar la descarga de los XML una vez realizada la solicitud?",
-    "a": "El tiempo de espera puede variar desde minutos hasta horas o incluso días, dependiendo del WebService SAT. Se recomienda verificar constantemente el estado de la solicitud hasta que esté disponible para descarga.",
+    "q": "¿Cuánto tiempo puede tardar la descarga de los XML después de realizar la solicitud?",
+    "a": "El tiempo de espera depende del WebService SAT y puede variar desde minutos hasta horas o incluso días. Se recomienda verificar constantemente el estado de la solicitud.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "tiempo",
       "espera",
       "descarga",
       "xml",
-      "webservice sat",
-      "minutos",
-      "horas",
-      "días",
-      "verificación",
+      "solicitud",
+      "webservice",
+      "sat",
       "estado"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo puede tardar la descarga de los XML después de realizar la solicitud? Respuesta: El tiempo de espera depende del WebService SAT y puede variar desde minutos hasta horas o incluso días. Se recomienda verificar constantemente el estado de la solicitud."
   },
   {
-    "q": "¿Qué sucede cuando una solicitud de descarga pasa a estado 'Disponible'?",
-    "a": "Cuando la solicitud pasa a estado 'Disponible', el módulo comienza automáticamente la descarga de los CFDI's, los cuales se importan directamente a la bóveda en el equipo para su uso en módulos posteriores.",
+    "q": "¿Qué sucede cuando una solicitud de descarga cambia a estado 'Disponible'?",
+    "a": "El módulo comenzará automáticamente a descargar los CFDI's, los cuales se importarán directamente a la bóveda en el equipo para su uso en posteriores módulos.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "solicitud",
       "disponible",
       "descarga",
-      "automática",
+      "automatica",
       "cfdi",
-      "importación",
-      "bóveda",
-      "equipo",
-      "módulos"
-    ]
+      "boveda",
+      "importacion",
+      "modulos"
+    ],
+    "faq_id": "A-20-03-25-01-04_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué sucede cuando una solicitud de descarga cambia a estado 'Disponible'? Respuesta: El módulo comenzará automáticamente a descargar los CFDI's, los cuales se importarán directamente a la bóveda en el equipo para su uso en posteriores módulos."
   },
   {
-    "q": "¿Qué opciones hay si no se cuenta con la licencia MiAdminXML Profesional o el periodo demostrativo?",
-    "a": "Si no se cuenta con la licencia Profesional ni el periodo demostrativo, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué opciones hay si no se cuenta con la licencia MiAdminXML Profesional?",
+    "a": "Si no se cuenta con la licencia Profesional ni se está en el periodo demostrativo, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
       "licencia",
       "profesional",
       "periodo",
       "demostrativo",
-      "solución",
+      "solucion",
       "correo",
-      "electrónico",
-      "alternativa"
-    ]
+      "electronico"
+    ],
+    "faq_id": "A-20-03-25-01-04_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones hay si no se cuenta con la licencia MiAdminXML Profesional? Respuesta: Si no se cuenta con la licencia Profesional ni se está en el periodo demostrativo, el problema se soluciona por correo electrónico."
   }
 ]

@@ -1,85 +1,101 @@
 [
   {
-    "q": "¿Qué problema ocurre al descargar XML del SAT cuando se emiten en el mismo segundo?",
+    "q": "¿Qué problema ocurre cuando se descargan XML emitidos en el mismo segundo en el portal del SAT?",
     "a": "El portal del SAT bloquea las descargas cuando los XML son emitidos en el mismo segundo, especialmente en casos de nóminas masivas.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "sat",
-      "descarga",
       "bloqueo",
+      "descarga",
       "xml",
       "mismo segundo",
       "nominas masivas",
       "problema"
-    ]
+    ],
+    "faq_id": "A-20-02-12-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué problema ocurre cuando se descargan XML emitidos en el mismo segundo en el portal del SAT? Respuesta: El portal del SAT bloquea las descargas cuando los XML son emitidos en el mismo segundo, especialmente en casos de nóminas masivas."
+  },
+  {
+    "q": "¿Qué requisitos se necesitan para solucionar el problema de bloqueo de descargas en MiAdminXML?",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "product": "MiAdminXML",
+    "categoria": "Requisitos",
+    "keywords": [
+      "licencia",
+      "periodo demostrativo",
+      "requisitos",
+      "solucion",
+      "correo electronico",
+      "bloqueo"
+    ],
+    "faq_id": "A-20-02-12-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para solucionar el problema de bloqueo de descargas en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué mensaje aparece en MiAdminXML cuando hay más de 500 comprobantes en el mismo segundo?",
-    "a": "Aparece el mensaje 'Segundos con más de 500 comprobantes', indicando que el portal del SAT solo muestra los primeros 500 XML de ese segundo.",
+    "a": "Aparece el mensaje 'Segundos con más de 500 comprobantes', indicando que hay más de 500 comprobantes en el mismo segundo.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
       "mensaje",
       "500 comprobantes",
       "mismo segundo",
-      "xml",
+      "descarga",
       "bloqueo",
-      "sat",
-      "descarga"
-    ]
+      "sat"
+    ],
+    "faq_id": "A-20-02-12-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece en MiAdminXML cuando hay más de 500 comprobantes en el mismo segundo? Respuesta: Aparece el mensaje 'Segundos con más de 500 comprobantes', indicando que hay más de 500 comprobantes en el mismo segundo."
   },
   {
-    "q": "¿Cómo se pueden obtener los XML faltantes cuando hay más de 500 comprobantes en un mismo segundo?",
-    "a": "Se recomienda solicitar los archivos faltantes al PAC de Facturación y agregarlos manualmente en las carpetas de MiAdminXML.",
+    "q": "¿Qué se recomienda hacer para obtener los XML faltantes después de un bloqueo por más de 500 comprobantes?",
+    "a": "Se recomienda solicitar los archivos faltantes al PAC de Facturación y agregarlos manualmente en las carpetas de MiAdminXML para poder trabajar con ellos.",
     "product": "MiAdminXML",
+    "categoria": "Solución",
     "keywords": [
       "xml faltantes",
       "pac",
-      "facturación",
+      "facturacion",
       "agregar",
       "carpetas",
-      "solución",
-      "descarga"
-    ]
+      "trabajar",
+      "recomendacion"
+    ],
+    "faq_id": "A-20-02-12-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda hacer para obtener los XML faltantes después de un bloqueo por más de 500 comprobantes? Respuesta: Se recomienda solicitar los archivos faltantes al PAC de Facturación y agregarlos manualmente en las carpetas de MiAdminXML para poder trabajar con ellos."
   },
   {
-    "q": "¿Qué información proporciona MiAdminXML sobre los segundos problemáticos?",
-    "a": "MiAdminXML envía un mensaje con las horas, minutos y segundos exactos donde ocurre el problema para que se puedan solicitar los XML al PAC.",
+    "q": "¿Cómo ayuda MiAdminXML a identificar los segundos problemáticos durante la descarga?",
+    "a": "MiAdminXML envía un mensaje con las horas, minutos y segundos problemáticos para que el usuario pueda solicitar los XML faltantes al PAC.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
       "segundos problemáticos",
       "mensaje",
       "horas",
       "minutos",
       "segundos",
-      "pac",
-      "información"
-    ]
+      "identificar",
+      "pac"
+    ],
+    "faq_id": "A-20-02-12-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo ayuda MiAdminXML a identificar los segundos problemáticos durante la descarga? Respuesta: MiAdminXML envía un mensaje con las horas, minutos y segundos problemáticos para que el usuario pueda solicitar los XML faltantes al PAC."
   },
   {
-    "q": "¿Cómo se puede evitar el bloqueo de descarga de XML en el futuro?",
-    "a": "Se recomienda emitir menos de 500 comprobantes por segundo para evitar el bloqueo del portal del SAT.",
+    "q": "¿Qué se recomienda para evitar el bloqueo de descargas en futuras emisiones?",
+    "a": "Se recomienda emitir menos de 500 comprobantes por segundo para evitar el bloqueo de descargas en el portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Recomendaciones",
     "keywords": [
       "evitar",
       "bloqueo",
       "500 comprobantes",
       "emitir",
-      "recomendación",
-      "sat",
-      "descarga"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos se necesitan para usar MiAdminXML y solucionar este problema?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple, el problema se soluciona por correo electrónico.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisitos",
-      "licencia",
-      "periodo demostrativo",
-      "correo electrónico",
-      "solución",
-      "acceso"
-    ]
+      "futuras emisiones",
+      "recomendacion"
+    ],
+    "faq_id": "A-20-02-12-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se recomienda para evitar el bloqueo de descargas en futuras emisiones? Respuesta: Se recomienda emitir menos de 500 comprobantes por segundo para evitar el bloqueo de descargas en el portal del SAT."
   }
 ]

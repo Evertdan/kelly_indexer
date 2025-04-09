@@ -1,75 +1,94 @@
 [
   {
     "q": "¿Qué se necesita para realizar un respaldo en MiExpedienteContable?",
-    "a": "Se requiere tener la licencia de MiExpedienteContable o estar en el periodo demostrativo.",
+    "a": "Se requiere tener la licencia MiExpedienteContable o estar en el periodo demostrativo.",
     "product": "MiExpedienteContable",
+    "categoria": "Respaldo",
     "keywords": [
       "respaldo",
       "requisitos",
       "licencia",
       "periodo demostrativo",
-      "necesario"
-    ]
+      "mi expediente contable"
+    ],
+    "faq_id": "D-20-03-10-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para realizar un respaldo en MiExpedienteContable? Respuesta: Se requiere tener la licencia MiExpedienteContable o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se inicia el proceso de respaldo en MiExpedienteContable?",
-    "a": "Ingresando a MiExpedienteContable en el equipo servidor, dando clic en el botón MEC en la parte superior, luego en el ícono del sistema y seleccionando Respaldar/Restaurar, y finalmente la opción Respaldar.",
+    "a": "Ingresando a MiExpedienteContable en el Equipo SERVIDOR, dando clic en el botón de MEC en la parte superior, luego en el ícono del sistema y seleccionar Respaldar/Restaurar, y finalmente seleccionar la opción Respaldar.",
     "product": "MiExpedienteContable",
+    "categoria": "Respaldo",
     "keywords": [
-      "iniciar",
+      "iniciar respaldo",
       "proceso",
-      "respaldo",
-      "pasos",
-      "botón mec",
-      "ícono"
-    ]
+      "mi expediente contable",
+      "servidor",
+      "mec"
+    ],
+    "faq_id": "D-20-03-10-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia el proceso de respaldo en MiExpedienteContable? Respuesta: Ingresando a MiExpedienteContable en el Equipo SERVIDOR, dando clic en el botón de MEC en la parte superior, luego en el ícono del sistema y seleccionar Respaldar/Restaurar, y finalmente seleccionar la opción Respaldar."
   },
   {
-    "q": "¿Qué opciones se deben seleccionar al realizar un respaldo en MiExpedienteContable?",
-    "a": "Se debe seleccionar los archivos a respaldar y la ruta donde se guardará el respaldo.",
+    "q": "¿Qué pasos siguen después de seleccionar la opción Respaldar?",
+    "a": "Se muestra una ventana donde se seleccionan los archivos a respaldar y la ruta donde se guardará el respaldo. Luego aparece un mensaje confirmando que el respaldo se creó correctamente y se abre la ubicación del archivo .ZIP con el respaldo.",
     "product": "MiExpedienteContable",
+    "categoria": "Respaldo",
     "keywords": [
-      "opciones",
-      "seleccionar",
+      "pasos",
+      "respaldo",
+      "ventana",
       "archivos",
       "ruta",
-      "guardar"
-    ]
+      "zip",
+      "confirmación"
+    ],
+    "faq_id": "D-20-03-10-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos siguen después de seleccionar la opción Respaldar? Respuesta: Se muestra una ventana donde se seleccionan los archivos a respaldar y la ruta donde se guardará el respaldo. Luego aparece un mensaje confirmando que el respaldo se creó correctamente y se abre la ubicación del archivo .ZIP con el respaldo."
   },
   {
-    "q": "¿Cómo se confirma que el respaldo se ha creado correctamente en MiExpedienteContable?",
-    "a": "Aparecerá un mensaje mostrando que el respaldo se creó correctamente y se abrirá la ubicación del archivo .ZIP con el respaldo.",
+    "q": "¿Dónde se guarda el respaldo creado en MiExpedienteContable?",
+    "a": "El respaldo se guarda en un archivo .ZIP en la ubicación seleccionada por el usuario durante el proceso de respaldo.",
     "product": "MiExpedienteContable",
+    "categoria": "Respaldo",
     "keywords": [
-      "confirmación",
-      "mensaje",
-      "respaldo exitoso",
+      "ubicación",
+      "respaldo",
       "archivo zip",
-      "ubicación"
-    ]
+      "guardar",
+      "ruta"
+    ],
+    "faq_id": "D-20-03-10-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se guarda el respaldo creado en MiExpedienteContable? Respuesta: El respaldo se guarda en un archivo .ZIP en la ubicación seleccionada por el usuario durante el proceso de respaldo."
   },
   {
     "q": "¿Qué se puede hacer con el archivo de respaldo generado en MiExpedienteContable?",
-    "a": "El archivo .ZIP con el respaldo puede ser guardado en cualquier ubicación preferida por el usuario.",
+    "a": "El archivo de respaldo .ZIP puede ser guardado en cualquier ubicación preferida por el usuario y puede ser utilizado para restaurar la información cuando sea necesario.",
     "product": "MiExpedienteContable",
+    "categoria": "Respaldo",
     "keywords": [
-      "archivo",
-      "respaldo",
+      "archivo respaldo",
+      "uso",
       "guardar",
-      "ubicación",
-      "preferencia"
-    ]
+      "restaurar",
+      "zip"
+    ],
+    "faq_id": "D-20-03-10-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se puede hacer con el archivo de respaldo generado en MiExpedienteContable? Respuesta: El archivo de respaldo .ZIP puede ser guardado en cualquier ubicación preferida por el usuario y puede ser utilizado para restaurar la información cuando sea necesario."
   },
   {
-    "q": "¿Dónde se encuentra la opción para restaurar un respaldo en MiExpedienteContable?",
-    "a": "Para restaurar un respaldo, se debe ir a la SOP Restaurar respaldo.",
+    "q": "¿Cómo se restaura un respaldo en MiExpedienteContable?",
+    "a": "Para restaurar un respaldo, se debe seguir el procedimiento descrito en el SOP Restaurar respaldo.",
     "product": "MiExpedienteContable",
+    "categoria": "Restauración",
     "keywords": [
       "restaurar",
       "respaldo",
+      "procedimiento",
       "sop",
-      "opción",
-      "ubicación"
-    ]
+      "mi expediente contable"
+    ],
+    "faq_id": "D-20-03-10-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se restaura un respaldo en MiExpedienteContable? Respuesta: Para restaurar un respaldo, se debe seguir el procedimiento descrito en el SOP Restaurar respaldo."
   }
 ]

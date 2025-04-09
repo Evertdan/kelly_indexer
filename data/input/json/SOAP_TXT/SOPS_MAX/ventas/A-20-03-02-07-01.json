@@ -1,98 +1,98 @@
 [
   {
-    "q": "¿Cómo puede un cliente realizar una compra con Transferencia 2 si no tiene acceso a internet?",
-    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según sea el caso. Los pasos son: ingresar a Missive, hacer clic en New email, agregar la plantilla correspondiente con Insert response, agregar la dirección de correo y dar clic en 'Send'.",
+    "q": "¿Cómo puede un cliente realizar una compra si no tiene acceso a internet?",
+    "a": "Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según sea el caso. Los pasos incluyen ingresar a Missive, crear un nuevo correo, agregar la plantilla correspondiente y enviarla al cliente.",
     "product": "General",
+    "categoria": "Compra sin internet",
     "keywords": [
       "compra",
-      "transferencia 2",
       "sin internet",
       "missive",
-      "plantilla"
-    ]
+      "plantilla",
+      "pasos",
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-02-07-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente realizar una compra si no tiene acceso a internet? Respuesta: Se debe enviar por correo electrónico utilizando la herramienta Missive la plantilla 'Pasos para la compra' o 'Como volver a comprar' según sea el caso. Los pasos incluyen ingresar a Missive, crear un nuevo correo, agregar la plantilla correspondiente y enviarla al cliente."
   },
   {
-    "q": "¿Cuáles son los pasos para comprar una licencia en adminxml.com con Transferencia 2?",
-    "a": "Los pasos son: 1) Ingresar a www.adminxml.com y dar clic en 'Precios'. 2) Seleccionar el paquete deseado (Plus o Pro), llenar el formulario de datos de contacto y facturación si es necesario, seleccionar la cantidad de licencias y dar clic en 'Continuar'. 3) Colocar los datos de contacto y facturación, luego dar clic en 'Continuar'. 4) Seleccionar el método de pago 'Transferencia 2'.",
+    "q": "¿Cuáles son los pasos para realizar una compra en línea con Transferencia 2?",
+    "a": "Los pasos incluyen ingresar a www.adminxml.com, seleccionar el paquete deseado, llenar el formulario de datos de contacto y facturación, seleccionar 'Transferencia 2' como método de pago, y seguir las instrucciones para realizar la transferencia bancaria.",
     "product": "General",
+    "categoria": "Proceso de compra",
     "keywords": [
       "compra",
-      "licencia",
-      "adminxml",
       "transferencia 2",
-      "pasos"
-    ]
+      "pasos",
+      "formulario",
+      "pago",
+      "online"
+    ],
+    "faq_id": "A-20-03-02-07-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los pasos para realizar una compra en línea con Transferencia 2? Respuesta: Los pasos incluyen ingresar a www.adminxml.com, seleccionar el paquete deseado, llenar el formulario de datos de contacto y facturación, seleccionar 'Transferencia 2' como método de pago, y seguir las instrucciones para realizar la transferencia bancaria."
   },
   {
     "q": "¿Qué instrucciones se deben seguir para realizar el pago con Transferencia 2?",
-    "a": "Para realizar el pago con Transferencia 2, el cliente debe: 1) Acceder a su banca en línea. 2) Dar de alta la cuenta CLABE de su ficha (el banco debe ser STP). 3) Realizar la transferencia por la cantidad exacta que aparece en su ficha, de lo contrario el pago será rechazado.",
+    "a": "El cliente debe acceder a su banca en línea, dar de alta la cuenta CLABE de su ficha (banco STP), y realizar la transferencia por la cantidad exacta indicada en la ficha. La CLABE es de uso único.",
     "product": "General",
+    "categoria": "Método de pago",
     "keywords": [
-      "pago",
       "transferencia 2",
-      "instrucciones",
+      "pago",
       "clabe",
-      "stp"
-    ]
+      "stp",
+      "banca en línea",
+      "instrucciones"
+    ],
+    "faq_id": "A-20-03-02-07-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué instrucciones se deben seguir para realizar el pago con Transferencia 2? Respuesta: El cliente debe acceder a su banca en línea, dar de alta la cuenta CLABE de su ficha (banco STP), y realizar la transferencia por la cantidad exacta indicada en la ficha. La CLABE es de uso único."
   },
   {
-    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después de realizar el pago con Transferencia 2?",
-    "a": "Después de realizar el pago, el cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado en la orden de compra. Si no aparece en la bandeja principal, se recomienda revisar el correo no deseado o SPAM.",
+    "q": "¿Cuánto tiempo tarda en llegar la clave de licencia después del pago?",
+    "a": "El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado. Si no llega en 3-4 horas, se recomienda contactar al área de atención a clientes.",
     "product": "General",
+    "categoria": "Post-compra",
     "keywords": [
       "clave",
       "licencia",
       "tiempo",
-      "transferencia 2",
-      "correo"
-    ]
+      "correo",
+      "factura",
+      "atención a clientes"
+    ],
+    "faq_id": "A-20-03-02-07-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuánto tiempo tarda en llegar la clave de licencia después del pago? Respuesta: El cliente recibirá su clave de licencia y factura (si la solicitó) en un lapso de 3 a 24 horas al correo registrado. Si no llega en 3-4 horas, se recomienda contactar al área de atención a clientes."
   },
   {
-    "q": "¿Qué hacer si no llega la clave de licencia después de 3 a 4 horas de realizar el pago?",
-    "a": "Si después de 3 a 4 horas no ha llegado la clave de licencia, se recomienda comunicarse al área de atención a clientes para validar el estatus del pago con el número de orden de compra.",
+    "q": "¿Cómo se verifica si el pago fue procesado?",
+    "a": "Para verificar el pago, se debe ingresar al chat de Telegram de Computo Creativo Bot y usar el comando '/orden' seguido de la cuenta CLABE o número de orden.",
     "product": "General",
-    "keywords": [
-      "clave",
-      "licencia",
-      "problema",
-      "atención",
-      "orden"
-    ]
-  },
-  {
-    "q": "¿Cómo puede un colaborador verificar si el pago con Transferencia 2 fue procesado?",
-    "a": "Para verificar si el pago fue procesado, el colaborador debe ingresar al chat de computo creativo bot en Telegram y usar el comando '/orden' seguido de la cuenta CLABE o el número de orden.",
-    "product": "General",
+    "categoria": "Verificación de pago",
     "keywords": [
       "verificación",
       "pago",
-      "transferencia 2",
       "telegram",
-      "orden"
-    ]
+      "computo creativo",
+      "orden",
+      "clabe"
+    ],
+    "faq_id": "A-20-03-02-07-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se verifica si el pago fue procesado? Respuesta: Para verificar el pago, se debe ingresar al chat de Telegram de Computo Creativo Bot y usar el comando '/orden' seguido de la cuenta CLABE o número de orden."
   },
   {
-    "q": "¿Qué banco debe ser utilizado para realizar el pago con Transferencia 2?",
-    "a": "El banco utilizado para realizar el pago con Transferencia 2 debe ser STP (Sistema de Transferencias y Pagos).",
+    "q": "¿Qué hacer si la clave de licencia no llega después de 3-4 horas?",
+    "a": "Se recomienda comunicarse al área de atención a clientes para validar el estatus del pago con el número de orden de compra.",
     "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "banco",
-      "transferencia 2",
-      "stp",
-      "pago",
-      "requisito"
-    ]
-  },
-  {
-    "q": "¿La CLABE interbancaria para Transferencia 2 es de uso único o múltiple?",
-    "a": "La CLABE interbancaria para Transferencia 2 es de uso único.",
-    "product": "General",
-    "keywords": [
-      "clabe",
-      "transferencia 2",
-      "única",
-      "pago",
-      "banco"
-    ]
+      "clave",
+      "licencia",
+      "no llega",
+      "atención a clientes",
+      "orden de compra",
+      "soporte"
+    ],
+    "faq_id": "A-20-03-02-07-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué hacer si la clave de licencia no llega después de 3-4 horas? Respuesta: Se recomienda comunicarse al área de atención a clientes para validar el estatus del pago con el número de orden de compra."
   }
 ]

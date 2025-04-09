@@ -1,88 +1,179 @@
 [
   {
-    "q": "¿Qué se necesita para realizar la actualización de MiAdminXML?",
-    "a": "Se requiere contar con el archivo MiActualizacionAdminXML6.exe en su última versión.",
+    "q": "¿Cuál es la versión de la actualización de MiAdminXML mencionada en el documento?",
+    "a": "La versión de la actualización es 09.09.2020.04.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
+      "versión",
       "actualización",
-      "requisitos",
       "miadminxml",
-      "archivo",
-      "versión"
-    ]
+      "documento",
+      "fecha"
+    ],
+    "faq_id": "A-20-03-23-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es la versión de la actualización de MiAdminXML mencionada en el documento? Respuesta: La versión de la actualización es 09.09.2020.04."
   },
   {
-    "q": "¿Cuál es el primer paso para actualizar MiAdminXML?",
+    "q": "¿Qué área está involucrada en la actualización de MiAdminXML?",
+    "a": "El área involucrada es Soporte Temprano.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "área",
+      "soporte temprano",
+      "actualización",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué área está involucrada en la actualización de MiAdminXML? Respuesta: El área involucrada es Soporte Temprano."
+  },
+  {
+    "q": "¿Qué tipo de situación se describe en el documento?",
+    "a": "Se describe una actualización de MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Actualización",
+    "keywords": [
+      "tipo",
+      "situación",
+      "actualización",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de situación se describe en el documento? Respuesta: Se describe una actualización de MiAdminXML."
+  },
+  {
+    "q": "¿Cuál es el nivel de la actualización de MiAdminXML?",
+    "a": "El nivel es Nivel 1 - Temprano.",
+    "product": "MiAdminXML",
+    "categoria": "General",
+    "keywords": [
+      "nivel",
+      "actualización",
+      "temprano",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de la actualización de MiAdminXML? Respuesta: El nivel es Nivel 1 - Temprano."
+  },
+  {
+    "q": "¿Qué resultado se espera de la actualización de MiAdminXML?",
+    "a": "Se espera guardar el RFC de contribuyentes en el catálogo de contribuyentes.",
+    "product": "MiAdminXML",
+    "categoria": "Resultados",
+    "keywords": [
+      "resultado",
+      "rfc",
+      "contribuyentes",
+      "catálogo",
+      "actualización"
+    ],
+    "faq_id": "A-20-03-23-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué resultado se espera de la actualización de MiAdminXML? Respuesta: Se espera guardar el RFC de contribuyentes en el catálogo de contribuyentes."
+  },
+  {
+    "q": "¿Qué recurso se utiliza para la actualización de MiAdminXML?",
+    "a": "El recurso utilizado es MiAdminXML.",
+    "product": "MiAdminXML",
+    "categoria": "Recursos",
+    "keywords": [
+      "recurso",
+      "miadminxml",
+      "actualización"
+    ],
+    "faq_id": "A-20-03-23-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué recurso se utiliza para la actualización de MiAdminXML? Respuesta: El recurso utilizado es MiAdminXML."
+  },
+  {
+    "q": "¿Qué política se debe cumplir para realizar la actualización de MiAdminXML?",
+    "a": "Se debe contar con MiActualizacionAdminXML6.exe en su última versión.",
+    "product": "MiAdminXML",
+    "categoria": "Políticas",
+    "keywords": [
+      "política",
+      "actualización",
+      "miadminxml",
+      "exe",
+      "versión"
+    ],
+    "faq_id": "A-20-03-23-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué política se debe cumplir para realizar la actualización de MiAdminXML? Respuesta: Se debe contar con MiActualizacionAdminXML6.exe en su última versión."
+  },
+  {
+    "q": "¿Cuál es el alcance de la actualización de MiAdminXML?",
+    "a": "El alcance es proporcionar información sobre la actualización manual.",
+    "product": "MiAdminXML",
+    "categoria": "Alcances",
+    "keywords": [
+      "alcance",
+      "actualización",
+      "manual",
+      "información",
+      "miadminxml"
+    ],
+    "faq_id": "A-20-03-23-01-01_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el alcance de la actualización de MiAdminXML? Respuesta: El alcance es proporcionar información sobre la actualización manual."
+  },
+  {
+    "q": "¿Cuál es el primer paso para realizar la actualización manual de MiAdminXML?",
     "a": "El primer paso es cerrar el sistema de MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualización",
       "paso",
+      "actualización",
+      "manual",
       "cerrar",
-      "sistema",
       "miadminxml"
-    ]
+    ],
+    "faq_id": "A-20-03-23-01-01_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el primer paso para realizar la actualización manual de MiAdminXML? Respuesta: El primer paso es cerrar el sistema de MiAdminXML."
   },
   {
-    "q": "¿Dónde se debe ejecutar el archivo de actualización de MiAdminXML?",
-    "a": "El archivo MiActualizacionAdminXML6.exe debe ejecutarse en la carpeta AdminXML, ubicada en la ruta C:\\AdminXML.",
+    "q": "¿Cómo se accede a la carpeta AdminXML para la actualización manual?",
+    "a": "Se accede entrando en Inicio, luego en Equipo, Disco local 'C', y abriendo la carpeta AdminXML en la ruta C:\\AdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
-      "actualización",
-      "ejecutar",
-      "archivo",
-      "ruta",
+      "acceso",
       "carpeta",
-      "adminxml"
-    ]
+      "adminxml",
+      "actualización",
+      "manual",
+      "ruta"
+    ],
+    "faq_id": "A-20-03-23-01-01_q9",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede a la carpeta AdminXML para la actualización manual? Respuesta: Se accede entrando en Inicio, luego en Equipo, Disco local 'C', y abriendo la carpeta AdminXML en la ruta C:\\AdminXML."
   },
   {
-    "q": "¿Qué se debe verificar después de ejecutar la actualización de MiAdminXML?",
-    "a": "Se debe verificar que MiAdminXML se abra correctamente después de la actualización.",
+    "q": "¿Qué archivo se debe ejecutar para actualizar MiAdminXML manualmente?",
+    "a": "Se debe ejecutar el archivo MiActualizacionAdminXML6.exe.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
+      "archivo",
+      "ejecutar",
       "actualización",
-      "verificación",
-      "apertura",
+      "manual",
       "miadminxml",
-      "correctamente"
-    ]
+      "exe"
+    ],
+    "faq_id": "A-20-03-23-01-01_q10",
+    "texto_para_vectorizar": "Pregunta: ¿Qué archivo se debe ejecutar para actualizar MiAdminXML manualmente? Respuesta: Se debe ejecutar el archivo MiActualizacionAdminXML6.exe."
   },
   {
-    "q": "¿Qué información se guarda en el catálogo de contribuyentes durante la actualización?",
-    "a": "Durante la actualización, se guarda el RFC de los contribuyentes en el catálogo de contribuyentes.",
+    "q": "¿Qué se espera que ocurra después de ejecutar el archivo de actualización?",
+    "a": "Se espera que MiAdminXML se abra correctamente.",
     "product": "MiAdminXML",
+    "categoria": "Actualización",
     "keywords": [
+      "resultado",
+      "ejecución",
       "actualización",
-      "catálogo",
-      "contribuyentes",
-      "rfc",
-      "guardar"
-    ]
-  },
-  {
-    "q": "¿Qué nivel de soporte tiene la actualización de MiAdminXML?",
-    "a": "La actualización de MiAdminXML tiene un nivel de soporte Nivel 1 - Temprano.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "soporte",
-      "nivel",
-      "temprano",
-      "actualización",
-      "miadminxml"
-    ]
-  },
-  {
-    "q": "¿Qué tipo de soporte se brinda para la actualización de MiAdminXML?",
-    "a": "El tipo de soporte brindado para la actualización de MiAdminXML es ST (Soporte Temprano).",
-    "product": "MiAdminXML",
-    "keywords": [
-      "soporte",
-      "tipo",
-      "st",
-      "temprano",
-      "actualización",
-      "miadminxml"
-    ]
+      "miadminxml",
+      "abrir"
+    ],
+    "faq_id": "A-20-03-23-01-01_q11",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se espera que ocurra después de ejecutar el archivo de actualización? Respuesta: Se espera que MiAdminXML se abra correctamente."
   }
 ]

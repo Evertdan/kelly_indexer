@@ -1,92 +1,105 @@
 [
   {
     "q": "¿Qué tipo de solicitud es cuando un cliente no ha recibido su licencia?",
-    "a": "Es una solicitud tipo SOL-01, con un nivel de prioridad 1 – Bajo.",
+    "a": "Es una solicitud de tipo SOL-01.",
     "product": "General",
+    "categoria": "Solicitudes",
     "keywords": [
-      "solicitud",
       "tipo",
+      "solicitud",
       "licencia",
-      "nivel",
-      "prioridad",
-      "sol-01"
-    ]
+      "sol-01",
+      "cliente"
+    ],
+    "faq_id": "A-20-01-02-08-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de solicitud es cuando un cliente no ha recibido su licencia? Respuesta: Es una solicitud de tipo SOL-01."
   },
   {
     "q": "¿Cómo se valida la información para reenviar una licencia?",
     "a": "Se valida con el comando BOT: /orden + Número de orden y se confirman al menos 3 datos: correo electrónico, razón social, RFC o nombre de quien llenó la orden de compra.",
     "product": "General",
+    "categoria": "Validación",
     "keywords": [
-      "validación",
+      "validar",
+      "información",
       "bot",
       "comando",
       "orden",
       "datos",
-      "confirmación"
-    ]
+      "correo",
+      "rfc",
+      "razón social"
+    ],
+    "faq_id": "A-20-01-02-08-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida la información para reenviar una licencia? Respuesta: Se valida con el comando BOT: /orden + Número de orden y se confirman al menos 3 datos: correo electrónico, razón social, RFC o nombre de quien llenó la orden de compra."
   },
   {
-    "q": "¿Qué comando se usa para enviar una licencia después de validar los datos?",
-    "a": "Se usa el comando /enviarlicencias + Número de orden para enviar la licencia al correo registrado.",
+    "q": "¿Qué comando se usa para enviar la licencia al correo registrado?",
+    "a": "Se usa el comando: /enviarlicencias + Número de orden.",
     "product": "General",
+    "categoria": "Comandos",
     "keywords": [
       "comando",
       "enviar",
       "licencia",
-      "orden",
       "correo",
-      "registrado"
-    ]
+      "registrado",
+      "número de orden"
+    ],
+    "faq_id": "A-20-01-02-08-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué comando se usa para enviar la licencia al correo registrado? Respuesta: Se usa el comando: /enviarlicencias + Número de orden."
   },
   {
     "q": "¿Cómo se envía la licencia a un correo diferente al registrado?",
-    "a": "Se debe confirmar los datos del cliente y usar el comando /enviarlicencias + Número de orden + Correo alternativo donde se enviará la información.",
+    "a": "Se ingresa el comando: /enviarlicencias + Número de orden + Correo al que se enviará la información, después de confirmar los datos requeridos.",
     "product": "General",
+    "categoria": "Comandos",
     "keywords": [
       "enviar",
       "licencia",
       "correo",
-      "alternativo",
+      "diferente",
       "comando",
-      "confirmación"
-    ]
+      "número de orden",
+      "confirmar",
+      "datos"
+    ],
+    "faq_id": "A-20-01-02-08-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se envía la licencia a un correo diferente al registrado? Respuesta: Se ingresa el comando: /enviarlicencias + Número de orden + Correo al que se enviará la información, después de confirmar los datos requeridos."
   },
   {
-    "q": "¿Qué pasa si no se confirman los datos del cliente para reenviar la licencia?",
+    "q": "¿Qué datos se deben confirmar antes de enviar la licencia a otro correo?",
+    "a": "Se deben confirmar al menos 3 de los siguientes datos: correo electrónico, razón social, RFC o nombre de quien llenó la orden de compra.",
+    "product": "General",
+    "categoria": "Validación",
+    "keywords": [
+      "confirmar",
+      "datos",
+      "correo",
+      "razón social",
+      "rfc",
+      "nombre",
+      "orden de compra",
+      "licencia"
+    ],
+    "faq_id": "A-20-01-02-08-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos se deben confirmar antes de enviar la licencia a otro correo? Respuesta: Se deben confirmar al menos 3 de los siguientes datos: correo electrónico, razón social, RFC o nombre de quien llenó la orden de compra."
+  },
+  {
+    "q": "¿Qué pasa si no se confirman los datos antes de enviar la licencia a otro correo?",
     "a": "Si no se confirman los datos, la licencia se enviará al correo registrado en el BOT.",
     "product": "General",
+    "categoria": "Políticas",
     "keywords": [
       "confirmación",
       "datos",
       "correo",
       "registrado",
       "bot",
-      "licencia"
-    ]
-  },
-  {
-    "q": "¿Qué recursos se utilizan para resolver el problema de no recepción de licencia?",
-    "a": "Se utiliza el BOT para validar y reenviar la licencia.",
-    "product": "General",
-    "keywords": [
-      "recursos",
-      "bot",
-      "validación",
-      "reenvío",
-      "licencia"
-    ]
-  },
-  {
-    "q": "¿Cuál es el alcance de la solución para el problema de no recepción de licencia?",
-    "a": "El alcance incluye el reenvío y recepción exitosa de la clave de licencia.",
-    "product": "General",
-    "keywords": [
-      "alcance",
-      "solución",
-      "reenvío",
-      "recepción",
       "licencia",
-      "éxito"
-    ]
+      "enviar"
+    ],
+    "faq_id": "A-20-01-02-08-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasa si no se confirman los datos antes de enviar la licencia a otro correo? Respuesta: Si no se confirman los datos, la licencia se enviará al correo registrado en el BOT."
   }
 ]

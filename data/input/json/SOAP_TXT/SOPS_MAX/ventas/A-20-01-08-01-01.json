@@ -1,68 +1,85 @@
 [
   {
-    "q": "¿Qué debe hacer un cliente que quiere volver a recibir correos promocionales de MiAdminXML?",
-    "a": "El cliente debe ir a la pantalla de suscripción exitosa y hacer clic en 'ver preferencias de suscripción', luego llenar el formulario en la página de preferencias y hacer clic en 'Quiero recibir correos otra vez'.",
+    "q": "¿Cómo puede un cliente volver a suscribirse a los correos promocionales de MiAdminXML?",
+    "a": "El cliente debe ir a la pantalla de desuscripción exitosa y hacer clic en 'ver preferencias de suscripción'. Luego, en la página de preferencias, debe llenar el formulario y hacer clic en 'Quiero recibir correos otra vez'.",
     "product": "MiAdminXML",
+    "categoria": "Suscripción Correos",
     "keywords": [
       "correos",
       "promocionales",
       "suscripción",
-      "formulario",
       "preferencias",
+      "formulario",
       "recibir",
-      "cliente"
-    ]
+      "volver"
+    ],
+    "faq_id": "A-20-01-08-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puede un cliente volver a suscribirse a los correos promocionales de MiAdminXML? Respuesta: El cliente debe ir a la pantalla de desuscripción exitosa y hacer clic en 'ver preferencias de suscripción'. Luego, en la página de preferencias, debe llenar el formulario y hacer clic en 'Quiero recibir correos otra vez'."
   },
   {
     "q": "¿Qué tipos de correos pueden desuscribirse los clientes de MiAdminXML?",
-    "a": "Los correos que se pueden desuscribir son los promocionales.",
+    "a": "Los clientes solo pueden desuscribirse de los correos promocionales, no de los correos obligatorios como los de descarga, validación, factura y entrega de licencia.",
     "product": "MiAdminXML",
+    "categoria": "Suscripción Correos",
     "keywords": [
       "correos",
       "promocionales",
-      "desuscribir",
+      "obligatorios",
+      "desuscripción",
       "tipos",
-      "clientes"
-    ]
+      "licencia",
+      "factura"
+    ],
+    "faq_id": "A-20-01-08-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de correos pueden desuscribirse los clientes de MiAdminXML? Respuesta: Los clientes solo pueden desuscribirse de los correos promocionales, no de los correos obligatorios como los de descarga, validación, factura y entrega de licencia."
   },
   {
     "q": "¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales?",
-    "a": "No, los clientes en periodo gratuito no pueden desuscribirse y deben aceptar los correos promocionales y de descuentos sin marcar como SPAM.",
+    "a": "No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM.",
     "product": "MiAdminXML",
+    "categoria": "Suscripción Correos",
     "keywords": [
-      "periodo",
-      "gratuito",
+      "periodo gratuito",
       "correos",
       "promocionales",
-      "desuscribir",
+      "desuscripción",
       "spam",
-      "descuentos"
-    ]
+      "obligatorio"
+    ],
+    "faq_id": "A-20-01-08-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Puede un cliente en periodo gratuito desuscribirse de los correos promocionales? Respuesta: No, los clientes en periodo gratuito no pueden desuscribirse de los correos promocionales y deben aceptar recibirlos sin marcar como SPAM."
   },
   {
-    "q": "¿Dónde está la opción para suscribirse nuevamente a los correos promocionales?",
-    "a": "La opción para suscribirse nuevamente está en la parte de abajo de los correos enviados por MiAdminXML.",
+    "q": "¿Dónde puede un cliente encontrar la opción para suscribirse nuevamente a los correos promocionales?",
+    "a": "La opción para suscribirse nuevamente se encuentra en la parte inferior de los correos promocionales enviados por MiAdminXML.",
     "product": "MiAdminXML",
+    "categoria": "Suscripción Correos",
     "keywords": [
+      "correos",
+      "promocionales",
+      "suscripción",
+      "opción",
+      "enviados",
+      "parte inferior"
+    ],
+    "faq_id": "A-20-01-08-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puede un cliente encontrar la opción para suscribirse nuevamente a los correos promocionales? Respuesta: La opción para suscribirse nuevamente se encuentra en la parte inferior de los correos promocionales enviados por MiAdminXML."
+  },
+  {
+    "q": "¿Qué debe hacer un cliente que se arrepiente de haberse desuscrito y quiere volver a recibir promociones?",
+    "a": "El cliente debe seguir los pasos para volver a suscribirse: ir a la pantalla de desuscripción exitosa, hacer clic en 'ver preferencias de suscripción', llenar el formulario y hacer clic en 'Quiero recibir correos otra vez'.",
+    "product": "MiAdminXML",
+    "categoria": "Suscripción Correos",
+    "keywords": [
+      "arrepentimiento",
+      "desuscripción",
       "suscripción",
       "correos",
-      "promocionales",
-      "opción",
-      "enviados"
-    ]
-  },
-  {
-    "q": "¿Qué correos son obligatorios para los clientes de MiAdminXML?",
-    "a": "Los correos obligatorios son los de descarga, validación, factura y entrega de licencia.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "correos",
-      "obligatorios",
-      "descarga",
-      "validación",
-      "factura",
-      "licencia",
-      "clientes"
-    ]
+      "promociones",
+      "pasos",
+      "formulario"
+    ],
+    "faq_id": "A-20-01-08-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debe hacer un cliente que se arrepiente de haberse desuscrito y quiere volver a recibir promociones? Respuesta: El cliente debe seguir los pasos para volver a suscribirse: ir a la pantalla de desuscripción exitosa, hacer clic en 'ver preferencias de suscripción', llenar el formulario y hacer clic en 'Quiero recibir correos otra vez'."
   }
 ]

@@ -3,20 +3,23 @@
     "q": "¿Qué se necesita para utilizar el módulo de Solicitud y Recuperación de XML en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "solicitud",
-      "recuperación",
-      "xml",
       "licencia",
       "profesional",
-      "demostrativo",
-      "requisitos"
-    ]
+      "periodo demostrativo",
+      "requisitos",
+      "soporte",
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-25-01-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de Solicitud y Recuperación de XML en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Cuántos XML se pueden descargar por consulta y cuál es el límite diario en MiAdminXML?",
     "a": "Se pueden descargar 500 XML por cada consulta, empaquetados en un archivo ZIP, con un límite de descarga de 2000 XML por día.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga",
       "xml",
@@ -26,76 +29,85 @@
       "2000",
       "500",
       "diario"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántos XML se pueden descargar por consulta y cuál es el límite diario en MiAdminXML? Respuesta: Se pueden descargar 500 XML por cada consulta, empaquetados en un archivo ZIP, con un límite de descarga de 2000 XML por día."
   },
   {
     "q": "¿Cómo se inicia el proceso de descarga de XML en MiAdminXML?",
-    "a": "Se debe seleccionar la opción de Descarga de XML y luego Solicitud y Recuperación de XML en MiAdminXML. Esto abrirá la página del portal del SAT.",
+    "a": "Se debe ingresar a MiAdminXML, seleccionar la opción de Descarga de XML y luego elegir Solicitud y Recuperación de XML.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Descarga",
     "keywords": [
+      "inicio",
       "proceso",
       "descarga",
       "xml",
-      "inicio",
       "solicitud",
       "recuperación",
-      "portal",
-      "sat"
-    ]
+      "seleccionar"
+    ],
+    "faq_id": "A-20-03-25-01-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia el proceso de descarga de XML en MiAdminXML? Respuesta: Se debe ingresar a MiAdminXML, seleccionar la opción de Descarga de XML y luego elegir Solicitud y Recuperación de XML."
   },
   {
     "q": "¿Qué métodos de autenticación se pueden usar para ingresar al portal del SAT desde MiAdminXML?",
     "a": "Se puede ingresar con FIEL o Contraseña CIEC. También se puede usar el Asistente para seleccionar una empresa registrada en el catálogo de contribuyentes.",
     "product": "MiAdminXML",
+    "categoria": "Autenticación",
     "keywords": [
       "autenticación",
       "fiel",
       "ciec",
       "asistente",
-      "empresa",
-      "catálogo",
-      "contribuyentes",
-      "portal",
-      "sat"
-    ]
+      "portal sat",
+      "ingresar",
+      "empresa"
+    ],
+    "faq_id": "A-20-03-25-01-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué métodos de autenticación se pueden usar para ingresar al portal del SAT desde MiAdminXML? Respuesta: Se puede ingresar con FIEL o Contraseña CIEC. También se puede usar el Asistente para seleccionar una empresa registrada en el catálogo de contribuyentes."
   },
   {
-    "q": "¿Qué pasos se deben seguir después de seleccionar el RFC en el proceso de descarga de XML?",
-    "a": "Se debe dar clic en Continuar, llenar los campos con los datos seleccionados, escribir el código Captcha y dar clic en Enviar.",
+    "q": "¿Qué pasos se siguen después de seleccionar el RFC en el Asistente de MiAdminXML?",
+    "a": "Se da clic en Continuar, se llenan los campos con los datos seleccionados, se escribe el código Captcha y se da clic en Enviar.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Descarga",
     "keywords": [
-      "pasos",
       "rfc",
+      "asistente",
       "continuar",
       "campos",
       "captcha",
       "enviar",
-      "proceso",
-      "descarga"
-    ]
+      "pasos"
+    ],
+    "faq_id": "A-20-03-25-01-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se siguen después de seleccionar el RFC en el Asistente de MiAdminXML? Respuesta: Se da clic en Continuar, se llenan los campos con los datos seleccionados, se escribe el código Captcha y se da clic en Enviar."
   },
   {
     "q": "¿Cómo se seleccionan las facturas para descargar en MiAdminXML?",
-    "a": "Se debe seleccionar el tipo de facturas (emitidas o recibidas) y especificar la fecha inicial y final de la consulta.",
+    "a": "Se selecciona el tipo de facturas (emitidas o recibidas) y se especifican las fechas inicial y final de la consulta.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Descarga",
     "keywords": [
-      "selección",
       "facturas",
       "emitidas",
       "recibidas",
-      "fecha",
-      "inicial",
-      "final",
-      "consulta"
-    ]
+      "fechas",
+      "consulta",
+      "seleccionar",
+      "tipo"
+    ],
+    "faq_id": "A-20-03-25-01-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se seleccionan las facturas para descargar en MiAdminXML? Respuesta: Se selecciona el tipo de facturas (emitidas o recibidas) y se especifican las fechas inicial y final de la consulta."
   },
   {
-    "q": "¿Qué ocurre después de generar el ZIP con los CFDi encontrados?",
-    "a": "Se debe dar clic en Recuperar Zips y luego en el recuadro que dice Sí. Surgirá una ventana para organizar los archivos por mes o por día, y MiAdminXML descargará y descomprimirá los paquetes.",
+    "q": "¿Qué se hace después de generar el ZIP con los CFDi encontrados en MiAdminXML?",
+    "a": "Se da clic en Recuperar Zips y luego en el recuadro que dice Sí. Luego se selecciona cómo organizar los archivos (por mes o por día) y MiAdminXML descarga y descomprime los paquetes.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Descarga",
     "keywords": [
       "zip",
-      "cfdi",
       "recuperar",
       "organizar",
       "mes",
@@ -103,21 +115,24 @@
       "descargar",
       "descomprimir",
       "paquetes"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se hace después de generar el ZIP con los CFDi encontrados en MiAdminXML? Respuesta: Se da clic en Recuperar Zips y luego en el recuadro que dice Sí. Luego se selecciona cómo organizar los archivos (por mes o por día) y MiAdminXML descarga y descomprime los paquetes."
   },
   {
     "q": "¿Qué información se muestra al finalizar la descarga de XML en MiAdminXML?",
-    "a": "Se indica cuántos comprobantes y paquetes fueron descargados. Luego se debe dar clic en Aceptar y cerrar sesión.",
+    "a": "Se indica cuántos comprobantes y paquetes fueron descargados. Luego se da clic en Aceptar y se cierra la sesión.",
     "product": "MiAdminXML",
+    "categoria": "Proceso de Descarga",
     "keywords": [
       "finalizar",
-      "descarga",
       "comprobantes",
       "paquetes",
+      "descargados",
       "aceptar",
-      "cerrar",
-      "sesión",
-      "información"
-    ]
+      "cerrar sesión"
+    ],
+    "faq_id": "A-20-03-25-01-02_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se muestra al finalizar la descarga de XML en MiAdminXML? Respuesta: Se indica cuántos comprobantes y paquetes fueron descargados. Luego se da clic en Aceptar y se cierra la sesión."
   }
 ]

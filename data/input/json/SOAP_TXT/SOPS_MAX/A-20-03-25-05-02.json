@@ -1,130 +1,155 @@
 [
   {
     "q": "¿Qué se necesita para generar una carga Batch DIOT en MiAdminXML?",
-    "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
+    "a": "Se requiere tener la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "carga batch",
       "diot",
-      "requisitos",
+      "batch",
       "licencia",
       "profesional",
+      "requisitos",
       "periodo demostrativo",
-      "soporte"
-    ]
+      "correo electrónico"
+    ],
+    "faq_id": "A-20-03-25-05-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para generar una carga Batch DIOT en MiAdminXML? Respuesta: Se requiere tener la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Cómo se inicia el proceso para generar el archivo DIOT en MiAdminXML?",
+    "q": "¿Cómo se inicia el proceso para generar el archivo carga BATCH para DIOT en MiAdminXML?",
     "a": "Se entra en MiAdminXML, se selecciona el módulo de Contabilidad y se da clic en 'Generar DIOT y carga BATCH'.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
-      "inicio",
+      "iniciar",
       "proceso",
       "diot",
+      "batch",
       "contabilidad",
       "generar",
-      "módulo",
       "clic"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se inicia el proceso para generar el archivo carga BATCH para DIOT en MiAdminXML? Respuesta: Se entra en MiAdminXML, se selecciona el módulo de Contabilidad y se da clic en 'Generar DIOT y carga BATCH'."
   },
   {
     "q": "¿Qué información se necesita seleccionar para generar la DIOT?",
     "a": "Se debe seleccionar el contribuyente, el tipo 'Recibidas', el año, el mes, el periodo de pago y trabajo para la generación de la DIOT.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "seleccionar",
       "información",
+      "diot",
       "contribuyente",
       "recibidas",
       "año",
       "mes",
-      "periodo",
-      "pago",
-      "trabajo"
-    ]
+      "periodo"
+    ],
+    "faq_id": "A-20-03-25-05-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se necesita seleccionar para generar la DIOT? Respuesta: Se debe seleccionar el contribuyente, el tipo 'Recibidas', el año, el mes, el periodo de pago y trabajo para la generación de la DIOT."
   },
   {
     "q": "¿Cómo se identifican los CFDi pagados en el proceso de generación de DIOT?",
     "a": "Los XML aparecen como NO pagados por defecto. Se selecciona el registro y con la herramienta 'Pagado' se mueve a la lista 'Facturas Pagadas'.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "identificar",
       "cfdi",
       "pagados",
       "xml",
       "herramienta",
-      "facturas",
-      "lista"
-    ]
+      "facturas pagadas"
+    ],
+    "faq_id": "A-20-03-25-05-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se identifican los CFDi pagados en el proceso de generación de DIOT? Respuesta: Los XML aparecen como NO pagados por defecto. Se selecciona el registro y con la herramienta 'Pagado' se mueve a la lista 'Facturas Pagadas'."
   },
   {
     "q": "¿Qué se debe hacer si un CFDi está cancelado durante la generación de DIOT?",
     "a": "Si un CFDi está cancelado, se debe quitar de la lista con la herramienta 'NO pagado' ya que no será incluido en la generación.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "cfdi",
       "cancelado",
       "quitar",
       "lista",
-      "herramienta",
       "no pagado",
-      "generación"
-    ]
+      "generación",
+      "diot"
+    ],
+    "faq_id": "A-20-03-25-05-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si un CFDi está cancelado durante la generación de DIOT? Respuesta: Si un CFDi está cancelado, se debe quitar de la lista con la herramienta 'NO pagado' ya que no será incluido en la generación."
   },
   {
-    "q": "¿Qué herramientas están disponibles para modificar las facturas pagadas en la generación de DIOT?",
+    "q": "¿Qué herramientas están disponibles para modificar las facturas pagadas en el proceso de DIOT?",
     "a": "En la pestaña de 'Facturas Pagadas' se pueden utilizar las herramientas de 'Acreditable', 'NO acreditable', 'Tipo de IVA', 'Operación' o 'Proveedor' para realizar modificaciones.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "herramientas",
       "modificar",
-      "facturas",
-      "pagadas",
+      "facturas pagadas",
+      "herramientas",
       "acreditable",
+      "no acreditable",
       "iva",
       "operación",
       "proveedor"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas están disponibles para modificar las facturas pagadas en el proceso de DIOT? Respuesta: En la pestaña de 'Facturas Pagadas' se pueden utilizar las herramientas de 'Acreditable', 'NO acreditable', 'Tipo de IVA', 'Operación' o 'Proveedor' para realizar modificaciones."
   },
   {
     "q": "¿Cómo se genera el archivo DIOT una vez que los datos están correctos?",
-    "a": "Se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte DIOT. Luego, se puede usar la opción 'Carga BATCH' para generar el archivo .txt.",
+    "a": "Se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte. Luego se verifica la información y, si es necesario, se hacen cambios antes de generar el archivo final.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "generar",
       "archivo",
       "diot",
       "herramienta",
       "reporte",
-      "carga batch",
-      "txt"
-    ]
+      "verificar",
+      "cambios"
+    ],
+    "faq_id": "A-20-03-25-05-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera el archivo DIOT una vez que los datos están correctos? Respuesta: Se selecciona la herramienta 'Genera DIOT' para que el sistema realice el reporte. Luego se verifica la información y, si es necesario, se hacen cambios antes de generar el archivo final."
   },
   {
-    "q": "¿Qué se hace con el archivo .txt generado en la carga BATCH?",
-    "a": "El archivo .txt generado se puede subir en la Herramienta DIOT de SAT para convertirlo en .dec.",
+    "q": "¿Cómo se genera el archivo .txt para la carga BATCH DIOT?",
+    "a": "Una vez que el reporte DIOT está correcto y validado, se usa la opción 'Carga BATCH' para generar el archivo .txt, que luego se puede subir en la Herramienta DIOT de SAT para convertirlo en .dec.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
+      "generar",
       "archivo",
       "txt",
       "carga batch",
-      "subir",
-      "herramienta diot",
+      "diot",
       "sat",
       "dec"
-    ]
+    ],
+    "faq_id": "A-20-03-25-05-02_q7",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera el archivo .txt para la carga BATCH DIOT? Respuesta: Una vez que el reporte DIOT está correcto y validado, se usa la opción 'Carga BATCH' para generar el archivo .txt, que luego se puede subir en la Herramienta DIOT de SAT para convertirlo en .dec."
   },
   {
-    "q": "¿Qué mensaje aparece al finalizar la generación del archivo DIOT?",
+    "q": "¿Qué mensaje aparece después de generar el archivo de carga BATCH DIOT?",
     "a": "Aparece un mensaje con la ubicación del archivo generado.",
     "product": "MiAdminXML",
+    "categoria": "Proceso",
     "keywords": [
       "mensaje",
-      "finalizar",
-      "generación",
+      "ubicación",
       "archivo",
-      "diot",
-      "ubicación"
-    ]
+      "generado",
+      "carga batch",
+      "diot"
+    ],
+    "faq_id": "A-20-03-25-05-02_q8",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje aparece después de generar el archivo de carga BATCH DIOT? Respuesta: Aparece un mensaje con la ubicación del archivo generado."
   }
 ]

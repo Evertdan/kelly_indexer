@@ -93,7 +93,7 @@ exclude = [
 ]
 
 # CORRECCIÓN: Mover configuración de isort a lint.isort para versiones recientes de Ruff
-[tool.ruff.lint.isort]
+[tool.ruff.lint.isort] # <-- CORRECCIÓN AQUÍ: Cambiado de [tool.ruff.isort]
 known_first_party = ["kelly_indexer"] # Definir tu paquete como propio
 
 # Configuración para pytest

@@ -1,81 +1,111 @@
 [
   {
-    "q": "¿Qué tipos de estado pueden aparecer en los archivos XML descargados en MiAdminXML?",
-    "a": "Los archivos XML pueden aparecer con los estados Vigente, Cancelado, No encontrado o No identificado.",
+    "q": "¿Qué tipos de estados pueden aparecer al descargar archivos XML en MiAdminXML?",
+    "a": "Los estados que pueden aparecer son Vigente, Cancelado, No encontrado o No identificado.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "xml",
       "estados",
+      "descarga",
       "vigente",
       "cancelado",
       "no encontrado",
-      "no identificado",
-      "descarga"
-    ]
+      "no identificado"
+    ],
+    "faq_id": "A-20-02-14-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipos de estados pueden aparecer al descargar archivos XML en MiAdminXML? Respuesta: Los estados que pueden aparecer son Vigente, Cancelado, No encontrado o No identificado."
   },
   {
-    "q": "¿Qué se necesita para resolver problemas con el estado SAT en MiAdminXML?",
-    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con esto, el problema se soluciona por correo electrónico.",
+    "q": "¿Qué se necesita para solucionar problemas de estados en MiAdminXML?",
+    "a": "Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
       "soporte",
       "correo electrónico",
-      "problemas"
-    ]
+      "solucionar problemas"
+    ],
+    "faq_id": "A-20-02-14-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para solucionar problemas de estados en MiAdminXML? Respuesta: Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cuenta con ninguna de estas opciones, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Cómo se actualiza el estado SAT de un comprobante en MiAdminXML?",
     "a": "Se debe dar clic en la herramienta 'Valida Estado SAT' para actualizar el estado de los comprobantes según aparecen en el Portal del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
-      "actualizar",
-      "estado sat",
+      "actualizar estado",
       "valida estado sat",
       "comprobantes",
       "portal sat",
       "herramienta"
-    ]
+    ],
+    "faq_id": "A-20-02-14-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se actualiza el estado SAT de un comprobante en MiAdminXML? Respuesta: Se debe dar clic en la herramienta 'Valida Estado SAT' para actualizar el estado de los comprobantes según aparecen en el Portal del SAT."
   },
   {
     "q": "¿Qué puede causar que un archivo XML aparezca como 'No encontrado' o 'No identificado'?",
-    "a": "Puede deberse a que no se ha validado el estado correctamente, que el archivo esté dañado o que no exista en el SAT.",
+    "a": "Puede ser debido a que no se ha validado el estado correctamente, el archivo está dañado o no existe en el SAT.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
+      "xml",
       "no encontrado",
       "no identificado",
       "archivo dañado",
       "validación",
-      "sat",
-      "problemas"
-    ]
+      "sat"
+    ],
+    "faq_id": "A-20-02-14-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué puede causar que un archivo XML aparezca como 'No encontrado' o 'No identificado'? Respuesta: Puede ser debido a que no se ha validado el estado correctamente, el archivo está dañado o no existe en el SAT."
   },
   {
-    "q": "¿Cómo se valida el estado SAT desde el módulo de Validaciones en MiAdminXML?",
-    "a": "Se debe ir al módulo de 'Validaciones', en el apartado 'Operaciones Simuladas, Incumplidos y No Localizados', y dar clic en 'Valida Estado SAT' una vez cargada la información del RFC y periodo seleccionado.",
+    "q": "¿Cómo se accede al módulo para validar el estado SAT en MiAdminXML?",
+    "a": "Se debe ir al módulo de 'Validaciones' y en el apartado de 'Operaciones Simuladas, Incumplidos y No Localizados' dar clic.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
       "validaciones",
       "operaciones simuladas",
       "incumplidos",
       "no localizados",
-      "rfc",
-      "periodo",
-      "valida estado sat"
-    ]
+      "módulo",
+      "validar estado"
+    ],
+    "faq_id": "A-20-02-14-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al módulo para validar el estado SAT en MiAdminXML? Respuesta: Se debe ir al módulo de 'Validaciones' y en el apartado de 'Operaciones Simuladas, Incumplidos y No Localizados' dar clic."
   },
   {
-    "q": "¿Qué se debe hacer si faltan descargar Bases de Datos en MiAdminXML?",
-    "a": "Es necesario realizar la descarga de las Bases de Datos faltantes para poder ingresar correctamente al módulo de Validaciones.",
+    "q": "¿Qué se debe hacer si faltan descargar algunas Bases de Datos en MiAdminXML?",
+    "a": "Es necesario realizar la descarga de las Bases de Datos faltantes para poder ingresar correctamente al módulo de validación.",
     "product": "MiAdminXML",
+    "categoria": "Validación SAT",
     "keywords": [
       "bases de datos",
       "descarga",
-      "validaciones",
-      "requisitos",
-      "módulo"
-    ]
+      "validación",
+      "módulo",
+      "requisitos"
+    ],
+    "faq_id": "A-20-02-14-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si faltan descargar algunas Bases de Datos en MiAdminXML? Respuesta: Es necesario realizar la descarga de las Bases de Datos faltantes para poder ingresar correctamente al módulo de validación."
+  },
+  {
+    "q": "¿Qué opción se debe seleccionar para validar el estado SAT después de cargar la información del RFC y periodo?",
+    "a": "Se debe dar clic a la opción 'Valida Estado SAT' una vez cargada la información del RFC y periodo seleccionado.",
+    "product": "MiAdminXML",
+    "categoria": "Validación SAT",
+    "keywords": [
+      "valida estado sat",
+      "rfc",
+      "periodo",
+      "validación",
+      "opción"
+    ],
+    "faq_id": "A-20-02-14-01-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opción se debe seleccionar para validar el estado SAT después de cargar la información del RFC y periodo? Respuesta: Se debe dar clic a la opción 'Valida Estado SAT' una vez cargada la información del RFC y periodo seleccionado."
   }
 ]

@@ -3,85 +3,82 @@
     "q": "¿Qué es la herramienta Bóveda en Red en MiAdminXML?",
     "a": "La herramienta Bóveda en Red permite cambiar la ruta de almacenamiento de información (catálogo de contribuyentes, archivos XML y reportes) que el sistema configura por default en C:\\AdminXML a la ubicación que se requiera.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
-      "bóveda",
-      "red",
+      "bóveda en red",
       "almacenamiento",
       "ruta",
-      "información",
+      "configuración",
       "xml",
-      "reportes"
-    ]
+      "reportes",
+      "catálogo",
+      "contribuyentes"
+    ],
+    "faq_id": "A-20-03-25-03-21_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué es la herramienta Bóveda en Red en MiAdminXML? Respuesta: La herramienta Bóveda en Red permite cambiar la ruta de almacenamiento de información (catálogo de contribuyentes, archivos XML y reportes) que el sistema configura por default en C:\\AdminXML a la ubicación que se requiera."
   },
   {
     "q": "¿Qué requisitos se necesitan para usar la Bóveda en Red?",
     "a": "Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
       "licencia",
-      "periodo",
-      "demostrativo",
-      "bóveda",
-      "red"
-    ]
+      "periodo demostrativo",
+      "bóveda en red",
+      "acceso"
+    ],
+    "faq_id": "A-20-03-25-03-21_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para usar la Bóveda en Red? Respuesta: Se requiere contar con licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Cómo se accede a la herramienta Bóveda en Red?",
-    "a": "Se ingresa al módulo de Administración y se selecciona el botón correspondiente a la Bóveda en Red.",
+    "q": "¿Cómo se cambia la ruta de almacenamiento con la Bóveda en Red?",
+    "a": "Se ingresa al módulo de Administración, se selecciona el botón de Bóveda en Red, se elige la nueva ruta con el botón de Buscar, se da clic en Aceptar y se confirma el cambio. Luego se reinicia la aplicación para efectuar los cambios.",
     "product": "MiAdminXML",
+    "categoria": "Configuración",
     "keywords": [
-      "acceso",
-      "módulo",
+      "cambiar ruta",
       "administración",
-      "botón",
-      "bóveda",
-      "red"
-    ]
-  },
-  {
-    "q": "¿Qué pasos se deben seguir para cambiar la ruta de almacenamiento con Bóveda en Red?",
-    "a": "1. Ingresar al módulo de Administración. 2. Seleccionar el botón de Bóveda en Red. 3. En la nueva ventana, elegir la nueva ruta con el botón de Buscar. 4. Dar clic en Aceptar y confirmar el mensaje. 5. Reiniciar la aplicación para efectuar los cambios.",
-    "product": "MiAdminXML",
-    "keywords": [
+      "bóveda en red",
       "pasos",
-      "cambiar",
-      "ruta",
-      "almacenamiento",
-      "bóveda",
-      "red",
-      "aceptar",
-      "reiniciar"
-    ]
+      "configuración",
+      "almacenamiento"
+    ],
+    "faq_id": "A-20-03-25-03-21_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se cambia la ruta de almacenamiento con la Bóveda en Red? Respuesta: Se ingresa al módulo de Administración, se selecciona el botón de Bóveda en Red, se elige la nueva ruta con el botón de Buscar, se da clic en Aceptar y se confirma el cambio. Luego se reinicia la aplicación para efectuar los cambios."
   },
   {
-    "q": "¿Cómo se verifica que el cambio de ruta se realizó correctamente?",
-    "a": "Después de reiniciar la aplicación, se puede validar el cambio yendo al módulo de Administración (o cualquier otro) y verificando la leyenda 'Ruta de Bóveda XML' en la parte inferior izquierda, que mostrará la ruta actualizada.",
+    "q": "¿Cómo se valida que el cambio de ruta se realizó correctamente?",
+    "a": "Después de reiniciar la aplicación, se puede validar el cambio yendo al módulo de Administración (o cualquier otro) y verificando en la parte inferior izquierda donde se muestra la leyenda 'Ruta de Bóveda XML' con la ruta actualizada.",
     "product": "MiAdminXML",
+    "categoria": "Validación",
     "keywords": [
-      "verificar",
-      "cambio",
-      "ruta",
       "validar",
+      "ruta",
+      "bóveda xml",
+      "confirmación",
       "administración",
-      "bóveda",
-      "xml",
-      "actualizada"
-    ]
+      "verificación"
+    ],
+    "faq_id": "A-20-03-25-03-21_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida que el cambio de ruta se realizó correctamente? Respuesta: Después de reiniciar la aplicación, se puede validar el cambio yendo al módulo de Administración (o cualquier otro) y verificando en la parte inferior izquierda donde se muestra la leyenda 'Ruta de Bóveda XML' con la ruta actualizada."
   },
   {
-    "q": "¿Qué información se almacena en la nueva ruta después del cambio?",
-    "a": "A partir del cambio, las descargas de información y generación de reportes se guardarán en la nueva ubicación seleccionada.",
+    "q": "¿Qué información se almacena en la nueva ruta configurada con Bóveda en Red?",
+    "a": "A partir del cambio, las descargas de información y generación de reportes se guardarán en la nueva ubicación configurada.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidad",
     "keywords": [
-      "información",
-      "almacenada",
+      "almacenamiento",
       "descargas",
       "reportes",
-      "nueva",
-      "ruta",
-      "bóveda",
-      "red"
-    ]
+      "información",
+      "ubicación",
+      "configuración",
+      "bóveda en red"
+    ],
+    "faq_id": "A-20-03-25-03-21_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se almacena en la nueva ruta configurada con Bóveda en Red? Respuesta: A partir del cambio, las descargas de información y generación de reportes se guardarán en la nueva ubicación configurada."
   }
 ]

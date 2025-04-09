@@ -1,34 +1,41 @@
 [
   {
     "q": "¿Qué problema puede ocurrir al descargar archivos del SAT con MiAdminXML?",
-    "a": "Puede ocurrir un bloqueo de seguridad del SAT que no permite descargar más de 2000 archivos al día o que solo simula la descarga de los XML sin descargarlos correctamente.",
+    "a": "Puede ocurrir un bloqueo de seguridad del SAT que no permite descargar más de 2000 archivos al día o que solo simula la descarga sin recuperar los XML correctamente.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "problema",
-      "descarga",
-      "sat",
       "bloqueo",
       "seguridad",
+      "sat",
+      "descarga",
       "xml",
+      "problema",
       "simulación"
-    ]
+    ],
+    "faq_id": "A-20-02-12-02-02_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué problema puede ocurrir al descargar archivos del SAT con MiAdminXML? Respuesta: Puede ocurrir un bloqueo de seguridad del SAT que no permite descargar más de 2000 archivos al día o que solo simula la descarga sin recuperar los XML correctamente."
   },
   {
     "q": "¿Qué requisitos se necesitan para resolver el problema de descarga en MiAdminXML?",
-    "a": "Se necesita contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
+    "a": "Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
-      "solución",
-      "correo electrónico"
-    ]
+      "requisitos",
+      "correo electrónico",
+      "solución"
+    ],
+    "faq_id": "A-20-02-12-02-02_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para resolver el problema de descarga en MiAdminXML? Respuesta: Se debe contar con la licencia MiAdminXML o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué módulos se deben verificar si hay un bloqueo de descarga en MiAdminXML?",
     "a": "Se deben verificar los módulos 'Descarga Gratis', 'Solicitud y Recuperación de paquetes' y 'Portal del SAT'.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "módulos",
       "verificación",
@@ -36,56 +43,70 @@
       "solicitud",
       "recuperación",
       "portal sat"
-    ]
+    ],
+    "faq_id": "A-20-02-12-02-02_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué módulos se deben verificar si hay un bloqueo de descarga en MiAdminXML? Respuesta: Se deben verificar los módulos 'Descarga Gratis', 'Solicitud y Recuperación de paquetes' y 'Portal del SAT'."
   },
   {
-    "q": "¿Qué hacer si se hizo la descarga en un módulo incorrecto en MiAdminXML?",
-    "a": "Se debe reanudar la descarga hasta el día siguiente, ya que se bloqueó por usar un módulo diferente al correspondiente con la licencia.",
+    "q": "¿Qué se debe hacer si la descarga se hizo en un módulo incorrecto?",
+    "a": "Se debe reanudar la descarga hasta el día siguiente, ya que el bloqueo ocurre por hacer la descarga en un módulo diferente al correspondiente a la licencia.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "módulo incorrecto",
       "reanudar",
       "descarga",
-      "día siguiente",
       "bloqueo",
       "licencia"
-    ]
+    ],
+    "faq_id": "A-20-02-12-02-02_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si la descarga se hizo en un módulo incorrecto? Respuesta: Se debe reanudar la descarga hasta el día siguiente, ya que el bloqueo ocurre por hacer la descarga en un módulo diferente al correspondiente a la licencia."
   },
   {
     "q": "¿Cuáles son los módulos correctos para descargar según el tipo de licencia en MiAdminXML?",
-    "a": "Para la licencia PLUS, el módulo correcto es 'Descarga masiva +D500'. Para la licencia PRO, el módulo correcto es 'WSAT'.",
+    "a": "Para la licencia PLUS, el módulo correcto es 'Descarga masiva +D500', y para la licencia PRO, es 'WSAT'.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
-      "módulos correctos",
-      "licencia plus",
-      "licencia pro",
+      "módulos",
+      "licencia",
+      "plus",
+      "pro",
       "descarga masiva",
       "d500",
       "wsat"
-    ]
+    ],
+    "faq_id": "A-20-02-12-02-02_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los módulos correctos para descargar según el tipo de licencia en MiAdminXML? Respuesta: Para la licencia PLUS, el módulo correcto es 'Descarga masiva +D500', y para la licencia PRO, es 'WSAT'."
   },
   {
-    "q": "¿Cómo verificar si el problema de descarga es por intermitencias del SAT?",
-    "a": "Se debe usar la herramienta 'Descarga XML'. Si permite hacer la descarga, el problema es por intermitencias del SAT.",
+    "q": "¿Cómo se puede verificar si el problema de descarga es por intermitencias del SAT?",
+    "a": "Se puede usar la herramienta 'Descarga XML'. Si permite hacer la descarga, el problema es por intermitencias del SAT.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "verificación",
       "herramienta",
       "descarga xml",
       "intermitencias",
-      "sat"
-    ]
+      "sat",
+      "verificación"
+    ],
+    "faq_id": "A-20-02-12-02-02_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se puede verificar si el problema de descarga es por intermitencias del SAT? Respuesta: Se puede usar la herramienta 'Descarga XML'. Si permite hacer la descarga, el problema es por intermitencias del SAT."
   },
   {
     "q": "¿Qué horario se recomienda para hacer la descarga si hay intermitencias del SAT?",
     "a": "Se recomienda hacer la descarga antes de las 11 de la mañana o después de las 3 de la tarde.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "horario",
       "descarga",
       "intermitencias",
       "sat",
       "recomendación"
-    ]
+    ],
+    "faq_id": "A-20-02-12-02-02_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué horario se recomienda para hacer la descarga si hay intermitencias del SAT? Respuesta: Se recomienda hacer la descarga antes de las 11 de la mañana o después de las 3 de la tarde."
   }
 ]

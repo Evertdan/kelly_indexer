@@ -1,8 +1,9 @@
 [
   {
-    "q": "¿Qué se necesita para acceder a la solución de soporte temprano en MiAdminXML?",
+    "q": "¿Qué se necesita para acceder al soporte temprano de MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte temprano",
       "licencia",
@@ -10,25 +11,32 @@
       "periodo demostrativo",
       "requisitos",
       "acceso"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para acceder al soporte temprano de MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con ninguna de estas condiciones, el problema se soluciona por correo electrónico."
   },
   {
     "q": "¿Qué función tiene la herramienta multi-propósito en MiAdminXML?",
     "a": "La herramienta multi-propósito permite tener un control de los movimientos realizados con el XML, apoyando a despachos contables en el control de XML asociados a sus programas contables y a empresas en el control de XML verificados.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "herramienta multi-propósito",
+      "herramienta",
+      "multi-propósito",
       "control",
       "xml",
       "despachos contables",
       "empresas",
       "verificados"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué función tiene la herramienta multi-propósito en MiAdminXML? Respuesta: La herramienta multi-propósito permite tener un control de los movimientos realizados con el XML, apoyando a despachos contables en el control de XML asociados a sus programas contables y a empresas en el control de XML verificados."
   },
   {
     "q": "¿Cómo se agrega una etiqueta a un XML en MiAdminXML?",
     "a": "Al dar clic en el botón sobre un XML, se agregará una etiqueta 'SI' en el reporte.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "etiqueta",
       "xml",
@@ -36,31 +44,39 @@
       "botón",
       "reporte",
       "control"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-12_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se agrega una etiqueta a un XML en MiAdminXML? Respuesta: Al dar clic en el botón sobre un XML, se agregará una etiqueta 'SI' en el reporte."
   },
   {
-    "q": "¿Es posible etiquetar varios archivos a la vez en MiAdminXML?",
+    "q": "¿Se puede etiquetar varios archivos a la vez en MiAdminXML?",
     "a": "Sí, la herramienta multi-propósito funciona con multi-selección, permitiendo etiquetar o eliminar la etiqueta de varios archivos a la vez.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
       "multi-selección",
       "etiquetar",
       "eliminar",
       "varios archivos",
-      "herramienta multi-propósito"
-    ]
+      "herramienta",
+      "multi-propósito"
+    ],
+    "faq_id": "A-20-03-25-03-12_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Se puede etiquetar varios archivos a la vez en MiAdminXML? Respuesta: Sí, la herramienta multi-propósito funciona con multi-selección, permitiendo etiquetar o eliminar la etiqueta de varios archivos a la vez."
   },
   {
-    "q": "¿Qué tipo de soporte se ofrece en el nivel 1 temprano de MiAdminXML?",
-    "a": "El nivel 1 temprano de MiAdminXML ofrece soporte temprano, verificando o asociando XML y proporcionando herramientas como la multi-propósito para el control de movimientos.",
+    "q": "¿Qué nivel de soporte se ofrece en esta situación?",
+    "a": "El nivel de soporte ofrecido es Nivel 1 - Temprano.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "soporte temprano",
+      "nivel",
+      "soporte",
+      "temprano",
       "nivel 1",
-      "verificado",
-      "asociado",
-      "control",
-      "movimientos"
-    ]
+      "tipo"
+    ],
+    "faq_id": "A-20-03-25-03-12_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué nivel de soporte se ofrece en esta situación? Respuesta: El nivel de soporte ofrecido es Nivel 1 - Temprano."
   }
 ]

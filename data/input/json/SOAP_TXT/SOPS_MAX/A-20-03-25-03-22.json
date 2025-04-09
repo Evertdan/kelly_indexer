@@ -3,6 +3,7 @@
     "q": "¿Qué se necesita para acceder a la solución de conciliación en MiAdminXML?",
     "a": "Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
       "conciliación",
       "licencia",
@@ -11,47 +12,58 @@
       "requisitos",
       "soporte",
       "correo electrónico"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-22_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para acceder a la solución de conciliación en MiAdminXML? Respuesta: Se requiere contar con la licencia MiAdminXML Profesional o estar en el periodo demostrativo. Si no se cumple con estos requisitos, el problema se soluciona por correo electrónico."
   },
   {
-    "q": "¿Dónde puedo visualizar los resultados del proceso de conciliación en MiAdminXML?",
-    "a": "Los resultados del proceso de conciliación se visualizan en la pestaña de 'Conciliación', donde se muestran detalles como la fecha de pago, método de pago y resultado de conciliación, entre otros.",
+    "q": "¿Cómo puedo visualizar los resultados de la conciliación en MiAdminXML?",
+    "a": "Para visualizar los resultados del proceso de conciliación, se debe ir a la pestaña de 'Conciliación' donde se observarán detalles como la fecha de pago, método de pago y resultado de conciliación, entre otros.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
-      "conciliación",
-      "resultados",
-      "pestaña",
       "visualizar",
+      "resultados",
+      "conciliación",
+      "pestaña",
       "fecha de pago",
       "método de pago",
       "proceso"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-22_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo visualizar los resultados de la conciliación en MiAdminXML? Respuesta: Para visualizar los resultados del proceso de conciliación, se debe ir a la pestaña de 'Conciliación' donde se observarán detalles como la fecha de pago, método de pago y resultado de conciliación, entre otros."
   },
   {
     "q": "¿Qué tipo de soporte se ofrece para problemas de conciliación en MiAdminXML?",
     "a": "El soporte para problemas de conciliación en MiAdminXML es de tipo Soporte Temprano (ST) y se clasifica como Nivel 1 - Temprano.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
       "soporte",
+      "temprano",
+      "nivel 1",
+      "problemas",
       "conciliación",
       "tipo",
-      "nivel 1",
-      "temprano",
-      "problemas",
       "clasificación"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-22_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de soporte se ofrece para problemas de conciliación en MiAdminXML? Respuesta: El soporte para problemas de conciliación en MiAdminXML es de tipo Soporte Temprano (ST) y se clasifica como Nivel 1 - Temprano."
   },
   {
-    "q": "¿Qué información se muestra en los resultados de conciliación en MiAdminXML?",
-    "a": "En los resultados de conciliación se muestra información como la fecha de pago, el método de pago y el resultado de conciliación, entre otros detalles.",
+    "q": "¿Qué información se muestra en los resultados de la conciliación en MiAdminXML?",
+    "a": "En los resultados de la conciliación se muestra información como la fecha de pago, el método de pago y el resultado de la conciliación, entre otros detalles.",
     "product": "MiAdminXML",
+    "categoria": "Conciliación",
     "keywords": [
-      "conciliación",
-      "resultados",
       "información",
+      "resultados",
+      "conciliación",
       "fecha de pago",
       "método de pago",
       "detalles"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-22_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se muestra en los resultados de la conciliación en MiAdminXML? Respuesta: En los resultados de la conciliación se muestra información como la fecha de pago, el método de pago y el resultado de la conciliación, entre otros detalles."
   }
 ]

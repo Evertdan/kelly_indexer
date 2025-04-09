@@ -1,43 +1,50 @@
 [
   {
     "q": "¿Cómo puedo saber la fecha de vencimiento de mi Clave de Licencia en MiAdminXML?",
-    "a": "Para conocer la fecha de vencimiento de la Clave de Licencia en MiAdminXML, debes dar clic en 'Licenciamiento' y se mostrará una ventana donde podrás validar tanto la Clave de licencia como su vigencia.",
+    "a": "Para conocer la fecha de vencimiento de tu Clave de Licencia en MiAdminXML, debes dar clic en 'Licenciamiento' y se mostrará una ventana donde podrás validar tanto la Clave de licencia como su vigencia.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "fecha de vencimiento",
       "clave de licencia",
       "vigencia",
-      "licenciamiento",
+      "miadminxml",
       "validar",
-      "miadminxml"
-    ]
+      "licenciamiento"
+    ],
+    "faq_id": "A-20-03-09-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo saber la fecha de vencimiento de mi Clave de Licencia en MiAdminXML? Respuesta: Para conocer la fecha de vencimiento de tu Clave de Licencia en MiAdminXML, debes dar clic en 'Licenciamiento' y se mostrará una ventana donde podrás validar tanto la Clave de licencia como su vigencia."
   },
   {
-    "q": "¿Qué pasos debo seguir para validar la vigencia de mi licencia en MiAdminXML?",
-    "a": "Para validar la vigencia de tu licencia en MiAdminXML, sigue estos pasos: 1) Dar clic en 'Licenciamiento'. 2) Se mostrará una ventana donde podrás ver la Clave de licencia y su vigencia.",
+    "q": "¿Qué pasos debo seguir para validar mi Clave de Licencia en MiAdminXML?",
+    "a": "Para validar tu Clave de Licencia en MiAdminXML, sigue estos pasos: 1) Dar clic en 'Licenciamiento'. 2) Se mostrará una ventana donde podrás validar la Clave de licencia y su vigencia.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
       "validar",
-      "vigencia",
-      "licencia",
+      "clave de licencia",
       "pasos",
-      "licenciamiento",
       "miadminxml",
-      "clave"
-    ]
+      "licenciamiento",
+      "procedimiento"
+    ],
+    "faq_id": "A-20-03-09-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos debo seguir para validar mi Clave de Licencia en MiAdminXML? Respuesta: Para validar tu Clave de Licencia en MiAdminXML, sigue estos pasos: 1) Dar clic en 'Licenciamiento'. 2) Se mostrará una ventana donde podrás validar la Clave de licencia y su vigencia."
   },
   {
     "q": "¿Dónde puedo visualizar la vigencia de mi licencia en MiAdminXML?",
-    "a": "La vigencia de tu licencia en MiAdminXML se puede visualizar en la ventana que aparece al dar clic en 'Licenciamiento', donde también se muestra la Clave de licencia.",
+    "a": "La vigencia de tu licencia en MiAdminXML se puede visualizar en la ventana que aparece al dar clic en 'Licenciamiento', donde también se valida la Clave de licencia.",
     "product": "MiAdminXML",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "visualizar",
       "vigencia",
       "licencia",
-      "licenciamiento",
+      "visualizar",
       "miadminxml",
-      "ventana",
-      "clave"
-    ]
+      "donde",
+      "licenciamiento"
+    ],
+    "faq_id": "A-20-03-09-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde puedo visualizar la vigencia de mi licencia en MiAdminXML? Respuesta: La vigencia de tu licencia en MiAdminXML se puede visualizar en la ventana que aparece al dar clic en 'Licenciamiento', donde también se valida la Clave de licencia."
   }
 ]

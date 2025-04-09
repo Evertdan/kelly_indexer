@@ -1,34 +1,25 @@
 [
   {
-    "q": "¿Qué es el módulo de administración de MiAdminXML?",
-    "a": "El módulo de administración de MiAdminXML contiene herramientas para la administración de los XML descargados, permitiendo gestionar comprobantes XML, interpretar resúmenes estadísticos y aplicar diversas funciones.",
+    "q": "¿Qué se necesita para utilizar el módulo de administración de MiAdminXML?",
+    "a": "Es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo, además de tener descargas previamente almacenadas en la bóveda CFDI.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "módulo",
       "administración",
-      "xml",
-      "herramientas",
-      "comprobantes",
-      "resumen",
-      "estadístico"
-    ]
-  },
-  {
-    "q": "¿Qué requisitos son necesarios para usar el módulo de administración de MiAdminXML?",
-    "a": "Es necesario contar con una licencia MiAdminXML o estar en periodo demostrativo, además de tener descargas previamente almacenadas en la bóveda CFDI.",
-    "product": "MiAdminXML",
-    "keywords": [
-      "requisitos",
       "licencia",
       "periodo demostrativo",
       "bóveda cfdi",
-      "descargas"
-    ]
+      "requisitos"
+    ],
+    "faq_id": "A-20-03-25-02-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de administración de MiAdminXML? Respuesta: Es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo, además de tener descargas previamente almacenadas en la bóveda CFDI."
   },
   {
-    "q": "¿Qué herramientas básicas incluye el módulo de administración de MiAdminXML?",
+    "q": "¿Qué herramientas básicas ofrece el módulo de administración de XML en MiAdminXML?",
     "a": "Las herramientas básicas incluyen: Exportar a Excel, Abrir XML, Generar PDF, Valida Estado SAT, Localizar XML.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "herramientas",
       "básicas",
@@ -37,12 +28,15 @@
       "generar pdf",
       "validar sat",
       "localizar"
-    ]
+    ],
+    "faq_id": "A-20-03-25-02-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas básicas ofrece el módulo de administración de XML en MiAdminXML? Respuesta: Las herramientas básicas incluyen: Exportar a Excel, Abrir XML, Generar PDF, Valida Estado SAT, Localizar XML."
   },
   {
-    "q": "¿Qué herramientas premium ofrece el módulo de administración de MiAdminXML?",
-    "a": "Las herramientas premium incluyen: Importar XML, Verificado o Asociado, Copiar Ruta(s) XML, D. PDFs Masivos, Agrupaciones, Re-Nombrar XML, Catálogo de Logo y PDF, Verifica Series, Verifica Duplicidad de Folios Internos, XML Externos, Bóveda en Red.",
+    "q": "¿Qué herramientas premium incluye el módulo de administración de XML en MiAdminXML?",
+    "a": "Las herramientas premium son: Importar XML, Verificado o Asociado, Copiar Ruta(s) XML, D. PDFs Masivos, Agrupaciones, Re-Nombrar XML, Catálogo de Logo y PDF, Verifica Series, Verifica Duplicidad de Folios Internos, XML Externos, Bóveda en Red.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "herramientas",
       "premium",
@@ -54,60 +48,76 @@
       "catálogo",
       "folios",
       "bóveda"
-    ]
+    ],
+    "faq_id": "A-20-03-25-02-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué herramientas premium incluye el módulo de administración de XML en MiAdminXML? Respuesta: Las herramientas premium son: Importar XML, Verificado o Asociado, Copiar Ruta(s) XML, D. PDFs Masivos, Agrupaciones, Re-Nombrar XML, Catálogo de Logo y PDF, Verifica Series, Verifica Duplicidad de Folios Internos, XML Externos, Bóveda en Red."
   },
   {
-    "q": "¿Cómo se visualizan los XML en el módulo de administración de MiAdminXML?",
-    "a": "Para visualizar los XML, primero debes tenerlos descargados y luego seleccionar campos como RFC, Tipo, Año, Mes y Agrupaciones.",
+    "q": "¿Qué campos se deben seleccionar para utilizar el módulo de administración de XML?",
+    "a": "Los campos a seleccionar son: RFC, Tipo, Año, Mes y Agrupaciones.",
     "product": "MiAdminXML",
+    "categoria": "Uso",
     "keywords": [
-      "visualizar",
-      "xml",
       "campos",
+      "seleccionar",
       "rfc",
       "tipo",
       "año",
       "mes",
-      "agrupaciones"
-    ]
+      "agrupaciones",
+      "uso"
+    ],
+    "faq_id": "A-20-03-25-02-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué campos se deben seleccionar para utilizar el módulo de administración de XML? Respuesta: Los campos a seleccionar son: RFC, Tipo, Año, Mes y Agrupaciones."
   },
   {
-    "q": "¿Qué función tienen los filtros rápidos en el módulo de administración de MiAdminXML?",
-    "a": "Los filtros rápidos permiten visualizar XML que contengan campos específicos como Tipo de Comprobantes, Método de Pago, Estado SAT, Forma de Pago y Uso de CFDi.",
+    "q": "¿Qué información se puede visualizar en el apartado de Administración de XML 4.0?",
+    "a": "Se pueden visualizar XML con campos específicos como: Tipo de Comprobantes (Ingresos, Egresos, Traslados), Método de Pago (PPD o PUE), Estado SAT, Forma de Pago (Tarjeta, Transferencia, etc.), Uso de CFDi.",
     "product": "MiAdminXML",
+    "categoria": "Funcionalidades",
     "keywords": [
-      "filtros",
-      "rápidos",
+      "visualizar",
+      "xml",
       "comprobantes",
       "método pago",
       "estado sat",
       "forma pago",
-      "uso cfdi"
-    ]
+      "uso cfdi",
+      "filtros"
+    ],
+    "faq_id": "A-20-03-25-02-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué información se puede visualizar en el apartado de Administración de XML 4.0? Respuesta: Se pueden visualizar XML con campos específicos como: Tipo de Comprobantes (Ingresos, Egresos, Traslados), Método de Pago (PPD o PUE), Estado SAT, Forma de Pago (Tarjeta, Transferencia, etc.), Uso de CFDi."
   },
   {
     "q": "¿Para qué sirve la herramienta 'Exportar a Excel' en MiAdminXML?",
-    "a": "La herramienta 'Exportar a Excel' permite guardar todos los reportes generados de tus XML en un solo lugar para una fácil localización y control.",
+    "a": "La herramienta 'Exportar a Excel' permite guardar todos los reportes generados de los XML en un solo lugar para una fácil localización y control.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "exportar",
       "excel",
       "reportes",
-      "xml",
+      "guardar",
       "localización",
       "control"
-    ]
+    ],
+    "faq_id": "A-20-03-25-02-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Para qué sirve la herramienta 'Exportar a Excel' en MiAdminXML? Respuesta: La herramienta 'Exportar a Excel' permite guardar todos los reportes generados de los XML en un solo lugar para una fácil localización y control."
   },
   {
     "q": "¿Qué permite hacer la herramienta 'Abrir XML' en MiAdminXML?",
     "a": "La herramienta 'Abrir XML' permite abrir los archivos XML con el navegador predeterminado para realizar un análisis detallado de la estructura original.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "abrir",
       "xml",
       "navegador",
       "análisis",
-      "estructura"
-    ]
+      "estructura",
+      "detallado"
+    ],
+    "faq_id": "A-20-03-25-02-01_q6",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta 'Abrir XML' en MiAdminXML? Respuesta: La herramienta 'Abrir XML' permite abrir los archivos XML con el navegador predeterminado para realizar un análisis detallado de la estructura original."
   }
 ]

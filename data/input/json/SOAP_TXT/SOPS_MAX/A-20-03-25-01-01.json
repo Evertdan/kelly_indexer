@@ -1,83 +1,93 @@
 [
   {
     "q": "¿Qué se necesita para usar la descarga gratuita en MiAdminXML?",
-    "a": "Se requiere contar con una licencia MiAdminXML, tener conexión a internet y tener MiAdminXML actualizado.",
+    "a": "Se requiere contar con una licencia MiAdminXML, tener conexión a internet y tener el software actualizado.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "descarga",
-      "gratuita",
+      "descarga gratuita",
       "requisitos",
       "licencia",
-      "internet",
+      "conexión internet",
       "actualizado"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para usar la descarga gratuita en MiAdminXML? Respuesta: Se requiere contar con una licencia MiAdminXML, tener conexión a internet y tener el software actualizado."
   },
   {
-    "q": "¿Cuántos XML se pueden descargar por consulta en la descarga gratuita de MiAdminXML?",
+    "q": "¿Cuántos XML se pueden descargar por consulta en la descarga gratuita?",
     "a": "Se pueden descargar desde 1 XML hasta 500 XML por consulta.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
-      "descarga",
-      "gratuita",
+      "descarga gratuita",
       "xml",
       "consulta",
-      "límite"
-    ]
+      "límite",
+      "cantidad"
+    ],
+    "faq_id": "A-20-03-25-01-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuántos XML se pueden descargar por consulta en la descarga gratuita? Respuesta: Se pueden descargar desde 1 XML hasta 500 XML por consulta."
   },
   {
     "q": "¿Cómo se accede al portal del SAT para la descarga gratuita en MiAdminXML?",
     "a": "Se debe entrar en el icono 'Descarga Gratuita' en MiAdminXML, lo que abrirá el acceso al portal del SAT donde se puede ingresar con FIEL o Contraseña CIEC.",
     "product": "MiAdminXML",
+    "categoria": "Acceso",
     "keywords": [
       "acceso",
-      "portal",
-      "sat",
+      "portal sat",
+      "descarga gratuita",
       "fiel",
-      "ciec",
-      "descarga",
-      "gratuita"
-    ]
+      "ciec"
+    ],
+    "faq_id": "A-20-03-25-01-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se accede al portal del SAT para la descarga gratuita en MiAdminXML? Respuesta: Se debe entrar en el icono 'Descarga Gratuita' en MiAdminXML, lo que abrirá el acceso al portal del SAT donde se puede ingresar con FIEL o Contraseña CIEC."
   },
   {
     "q": "¿Qué opciones adicionales ofrecen las licencias Plus y Profesional de MiAdminXML?",
     "a": "Las licencias Plus y Profesional incluyen opciones de catálogo de contribuyentes y Asistente de descarga para mantener RFC y contraseñas guardadas.",
     "product": "MiAdminXML",
+    "categoria": "Licencias",
     "keywords": [
-      "licencia",
+      "licencias",
       "plus",
       "profesional",
-      "catálogo",
-      "contribuyentes",
-      "asistente",
-      "descarga",
-      "rfc"
-    ]
+      "catálogo contribuyentes",
+      "asistente descarga"
+    ],
+    "faq_id": "A-20-03-25-01-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones adicionales ofrecen las licencias Plus y Profesional de MiAdminXML? Respuesta: Las licencias Plus y Profesional incluyen opciones de catálogo de contribuyentes y Asistente de descarga para mantener RFC y contraseñas guardadas."
   },
   {
     "q": "¿Cómo se pueden consultar las facturas en MiAdminXML?",
-    "a": "Las facturas se pueden consultar desde las opciones de SAT o con los botones de MiAdminXML, ya sea por folio fiscal o por fecha.",
+    "a": "Las facturas (emitidas o recibidas) se pueden consultar desde las opciones de SAT o con los botones de MiAdminXML, ya sea por folio fiscal o por fecha.",
     "product": "MiAdminXML",
+    "categoria": "Consultas",
     "keywords": [
-      "consultar",
       "facturas",
+      "consulta",
+      "folio fiscal",
+      "fecha",
       "emitidas",
-      "recibidas",
-      "sat",
-      "folio",
-      "fiscal",
-      "fecha"
-    ]
+      "recibidas"
+    ],
+    "faq_id": "A-20-03-25-01-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se pueden consultar las facturas en MiAdminXML? Respuesta: Las facturas (emitidas o recibidas) se pueden consultar desde las opciones de SAT o con los botones de MiAdminXML, ya sea por folio fiscal o por fecha."
   },
   {
     "q": "¿Cómo se realiza la descarga de archivos encontrados en MiAdminXML?",
-    "a": "Una vez encontrados los archivos, se puede realizar la descarga dando clic en la flecha que se encuentra en la parte superior del menú.",
+    "a": "Una vez encontrados los archivos, se realiza la descarga dando clic en la flecha que se encuentra en la parte superior del menú.",
     "product": "MiAdminXML",
+    "categoria": "Descarga SAT",
     "keywords": [
       "descarga",
       "archivos",
       "flecha",
       "menú",
       "proceso"
-    ]
+    ],
+    "faq_id": "A-20-03-25-01-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se realiza la descarga de archivos encontrados en MiAdminXML? Respuesta: Una vez encontrados los archivos, se realiza la descarga dando clic en la flecha que se encuentra en la parte superior del menú."
   }
 ]

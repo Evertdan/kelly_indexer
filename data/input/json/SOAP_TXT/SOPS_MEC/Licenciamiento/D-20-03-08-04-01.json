@@ -1,98 +1,102 @@
 [
   {
-    "q": "¿Qué tipo de sistema operativo es compatible con MiExpedienteContable?",
-    "a": "MiExpedienteContable es compatible con Windows 10 u 11 de 64 bits. No es compatible con macOS, Windows 7, Windows 8 ni Windows 8.1.",
+    "q": "¿Cómo puedo cambiar mi clave de licencia de equipo en MiExpedienteContable?",
+    "a": "Para cambiar la clave de licencia, ingrese a MiExpedienteContable, haga clic en el botón MEC y seleccione LICENCIAMIENTO. Copie y pegue su clave de licencia, luego desactívela. Instale el software en el nuevo equipo, ingrese al módulo de Licenciamiento, seleccione 'TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en 'ACTIVAR'.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "sistema operativo",
-      "windows",
-      "compatible",
-      "macos",
-      "requisitos"
-    ]
-  },
-  {
-    "q": "¿Cuáles son los requisitos mínimos de hardware para instalar MiExpedienteContable?",
-    "a": "Los requisitos mínimos son: memoria RAM de 1GB y al menos 200 MB de espacio en disco duro.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "requisitos",
-      "hardware",
-      "ram",
-      "disco duro",
-      "instalación"
-    ]
-  },
-  {
-    "q": "¿Qué navegador es compatible con MiExpedienteContable?",
-    "a": "MiExpedienteContable requiere Internet Explorer 10 u 11 para funcionar correctamente.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "navegador",
-      "internet explorer",
-      "compatible",
-      "requisitos"
-    ]
-  },
-  {
-    "q": "¿Cómo puedo cambiar la clave de licencia de MiExpedienteContable a otro equipo?",
-    "a": "Para cambiar la clave de licencia a otro equipo, primero debe ingresar a MiExpedienteContable, hacer clic en el botón MEC, seleccionar LICENCIAMIENTO, copiar la clave de licencia, desactivar la licencia actual, instalar el programa en el nuevo equipo y activar la licencia ingresando la clave en el módulo de licenciamiento.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "cambiar",
+      "cambio",
       "licencia",
       "equipo",
       "activación",
       "desactivar",
-      "clave"
-    ]
+      "clave",
+      "mec",
+      "proceso"
+    ],
+    "faq_id": "D-20-03-08-04-01_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo puedo cambiar mi clave de licencia de equipo en MiExpedienteContable? Respuesta: Para cambiar la clave de licencia, ingrese a MiExpedienteContable, haga clic en el botón MEC y seleccione LICENCIAMIENTO. Copie y pegue su clave de licencia, luego desactívela. Instale el software en el nuevo equipo, ingrese al módulo de Licenciamiento, seleccione 'TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en 'ACTIVAR'."
+  },
+  {
+    "q": "¿Cuáles son los requisitos del sistema para instalar MiExpedienteContable?",
+    "a": "Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200 MB de espacio en disco duro. No es compatible con macOS, Windows 7, Windows 8 ni Windows 8.1.",
+    "product": "MiExpedienteContable",
+    "categoria": "Instalación",
+    "keywords": [
+      "requisitos",
+      "sistema",
+      "windows",
+      "java",
+      "ram",
+      "disco duro",
+      "compatibilidad",
+      "instalación"
+    ],
+    "faq_id": "D-20-03-08-04-01_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son los requisitos del sistema para instalar MiExpedienteContable? Respuesta: Los requisitos son: S.O. Windows 10 u 11 de 64 bits, Java, Internet Explorer 10 u 11, mínimo 1GB de RAM, 200 MB de espacio en disco duro. No es compatible con macOS, Windows 7, Windows 8 ni Windows 8.1."
+  },
+  {
+    "q": "¿MiExpedienteContable es compatible con macOS?",
+    "a": "No, MiExpedienteContable no es compatible con macOS.",
+    "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
+    "keywords": [
+      "macos",
+      "compatibilidad",
+      "sistema operativo",
+      "no compatible",
+      "windows"
+    ],
+    "faq_id": "D-20-03-08-04-01_q2",
+    "texto_para_vectorizar": "Pregunta: ¿MiExpedienteContable es compatible con macOS? Respuesta: No, MiExpedienteContable no es compatible con macOS."
+  },
+  {
+    "q": "¿Qué versiones de Windows no son compatibles con MiExpedienteContable?",
+    "a": "No es compatible con Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles.",
+    "product": "MiExpedienteContable",
+    "categoria": "Compatibilidad",
+    "keywords": [
+      "windows",
+      "compatibilidad",
+      "versiones",
+      "no compatible",
+      "actualizaciones",
+      "sistema operativo"
+    ],
+    "faq_id": "D-20-03-08-04-01_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué versiones de Windows no son compatibles con MiExpedienteContable? Respuesta: No es compatible con Windows 7 (última actualización 14 de enero 2020), Windows 8 (última actualización 12 de enero 2016) y Windows 8.1, ya que estos sistemas ya no cuentan con actualizaciones disponibles."
   },
   {
     "q": "¿Qué debo hacer para desactivar mi licencia de MiExpedienteContable?",
-    "a": "Para desactivar la licencia, debe ingresar al módulo de Licenciamiento en MiExpedienteContable y hacer clic en 'DESACTIVAR LA LICENCIA'.",
+    "a": "Ingrese al módulo de Licenciamiento en MiExpedienteContable y haga clic en 'DESACTIVAR LA LICENCIA'.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
       "desactivar",
       "licencia",
       "módulo",
       "licenciamiento",
-      "proceso"
-    ]
+      "proceso",
+      "clave"
+    ],
+    "faq_id": "D-20-03-08-04-01_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué debo hacer para desactivar mi licencia de MiExpedienteContable? Respuesta: Ingrese al módulo de Licenciamiento en MiExpedienteContable y haga clic en 'DESACTIVAR LA LICENCIA'."
   },
   {
     "q": "¿Cómo activo MiExpedienteContable en un nuevo equipo?",
-    "a": "Para activar MiExpedienteContable en un nuevo equipo, instale el programa, ingrese al módulo de Licenciamiento, haga clic en 'YA TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en 'ACTIVAR'. Confirme la activación y el programa se reiniciará.",
+    "a": "Instale MiExpedienteContable en el nuevo equipo, ingrese al módulo de Licenciamiento, seleccione 'YA TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en 'ACTIVAR'. Confirme la activación y el programa se reiniciará.",
     "product": "MiExpedienteContable",
+    "categoria": "Licenciamiento",
     "keywords": [
-      "activar",
+      "activación",
       "nuevo equipo",
       "licencia",
       "clave",
-      "módulo"
-    ]
-  },
-  {
-    "q": "¿Por qué MiExpedienteContable no es compatible con Windows 7, 8 u 8.1?",
-    "a": "MiExpedienteContable no es compatible con Windows 7, 8 u 8.1 porque estos sistemas ya no cuentan con actualizaciones disponibles del proveedor o están por dejar de funcionar o ser actualizados.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "windows",
-      "compatible",
-      "actualizaciones",
-      "proveedor",
-      "soporte"
-    ]
-  },
-  {
-    "q": "¿Qué necesito para realizar un cambio de licencia en MiExpedienteContable?",
-    "a": "Para realizar un cambio de licencia en MiExpedienteContable, debe contar con una licencia activada y seguir el proceso de desactivación en el equipo actual y activación en el nuevo equipo.",
-    "product": "MiExpedienteContable",
-    "keywords": [
-      "cambio",
-      "licencia",
-      "requisitos",
-      "activada",
-      "proceso"
-    ]
+      "módulo",
+      "proceso",
+      "reiniciar"
+    ],
+    "faq_id": "D-20-03-08-04-01_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo activo MiExpedienteContable en un nuevo equipo? Respuesta: Instale MiExpedienteContable en el nuevo equipo, ingrese al módulo de Licenciamiento, seleccione 'YA TENGO UNA CLAVE DE LICENCIA', ingrese la clave y haga clic en 'ACTIVAR'. Confirme la activación y el programa se reiniciará."
   }
 ]

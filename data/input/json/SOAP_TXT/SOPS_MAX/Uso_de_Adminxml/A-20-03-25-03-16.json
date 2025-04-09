@@ -1,61 +1,76 @@
 [
   {
     "q": "¿Qué permite hacer la herramienta renombrar en MiAdminXML?",
-    "a": "La herramienta renombrar permite modificar el nombre de los archivos XML, incluyendo campos como Folio, serie, RFC emisor, entre otros. Es requisito incluir el campo UUID.",
+    "a": "La herramienta renombrar permite modificar el nombre de los archivos XML, incluyendo el campo UUID como requisito. Se puede seleccionar entre campos disponibles como Folio, serie, RFC emisor, etc.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
-      "herramienta",
       "renombrar",
       "xml",
       "modificar",
       "nombre",
       "uuid",
-      "campos"
-    ]
+      "campos",
+      "folio",
+      "serie",
+      "rfc"
+    ],
+    "faq_id": "A-20-03-25-03-16_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué permite hacer la herramienta renombrar en MiAdminXML? Respuesta: La herramienta renombrar permite modificar el nombre de los archivos XML, incluyendo el campo UUID como requisito. Se puede seleccionar entre campos disponibles como Folio, serie, RFC emisor, etc."
   },
   {
-    "q": "¿Qué opciones hay para renombrar archivos XML en MiAdminXML?",
-    "a": "Hay dos opciones: 'Renombrar seleccionados', que cambia solo los XML previamente seleccionados, y 'Renombrar todos los XML', que cambia todos los XML del mes o carpeta seleccionada.",
+    "q": "¿Cuáles son las opciones disponibles para renombrar archivos XML en MiAdminXML?",
+    "a": "Existen dos opciones: 'Renombrar seleccionados', que cambia solo los XML previamente seleccionados, y 'Renombrar todos los XML', que cambia todos los XML del mes o carpeta seleccionada.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "opciones",
       "renombrar",
-      "xml",
       "seleccionados",
       "todos",
+      "xml",
       "carpeta",
       "mes"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-16_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cuáles son las opciones disponibles para renombrar archivos XML en MiAdminXML? Respuesta: Existen dos opciones: 'Renombrar seleccionados', que cambia solo los XML previamente seleccionados, y 'Renombrar todos los XML', que cambia todos los XML del mes o carpeta seleccionada."
   },
   {
     "q": "¿Dónde se visualizan los cambios realizados con la herramienta renombrar?",
     "a": "Los cambios realizados con la herramienta renombrar se visualizan en la carpeta BovedaCFDi.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "visualizar",
       "cambios",
       "bovedacfdi",
       "carpeta",
-      "resultados"
-    ]
+      "renombrar"
+    ],
+    "faq_id": "A-20-03-25-03-16_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Dónde se visualizan los cambios realizados con la herramienta renombrar? Respuesta: Los cambios realizados con la herramienta renombrar se visualizan en la carpeta BovedaCFDi."
   },
   {
     "q": "¿Qué requisitos hay para usar la herramienta renombrar en MiAdminXML?",
-    "a": "Es necesario contar con una licencia MiAdminXML o estar en el periodo demostrativo, e incluir el campo UUID en los archivos XML.",
+    "a": "Es requisito incluir el campo UUID al renombrar los archivos XML. Además, se debe contar con una licencia MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
       "requisitos",
+      "uuid",
       "licencia",
       "demostrativo",
-      "uuid",
-      "herramienta",
-      "renombrar"
-    ]
+      "renombrar",
+      "xml"
+    ],
+    "faq_id": "A-20-03-25-03-16_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos hay para usar la herramienta renombrar en MiAdminXML? Respuesta: Es requisito incluir el campo UUID al renombrar los archivos XML. Además, se debe contar con una licencia MiAdminXML o estar en periodo demostrativo."
   },
   {
-    "q": "¿Qué campos se pueden incluir al renombrar archivos XML en MiAdminXML?",
-    "a": "Se pueden incluir campos como Folio, serie, RFC emisor, entre otros disponibles.",
+    "q": "¿Qué campos se pueden utilizar para renombrar los archivos XML en MiAdminXML?",
+    "a": "Se pueden utilizar campos como Folio, serie, RFC emisor, entre otros disponibles, para renombrar los archivos XML.",
     "product": "MiAdminXML",
+    "categoria": "Herramientas",
     "keywords": [
       "campos",
       "folio",
@@ -64,6 +79,8 @@
       "emisor",
       "renombrar",
       "xml"
-    ]
+    ],
+    "faq_id": "A-20-03-25-03-16_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué campos se pueden utilizar para renombrar los archivos XML en MiAdminXML? Respuesta: Se pueden utilizar campos como Folio, serie, RFC emisor, entre otros disponibles, para renombrar los archivos XML."
   }
 ]

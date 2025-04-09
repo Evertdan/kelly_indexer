@@ -3,91 +3,90 @@
     "q": "¿Qué se necesita para utilizar el módulo de balanza de comprobación en MiAdminXML?",
     "a": "Se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Requisitos",
     "keywords": [
-      "balanza",
-      "comprobación",
-      "licencia",
+      "balanza comprobación",
       "requisitos",
-      "periodo demostrativo"
-    ]
+      "licencia",
+      "periodo demostrativo",
+      "módulo"
+    ],
+    "faq_id": "A-20-03-25-05-04_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se necesita para utilizar el módulo de balanza de comprobación en MiAdminXML? Respuesta: Se debe contar con una licencia MiAdminXML o estar en el periodo demostrativo."
   },
   {
     "q": "¿Cómo se genera la balanza de comprobación en MiAdminXML?",
-    "a": "Se debe llenar manualmente la plantilla en el módulo de Contabilidad, luego seleccionar RFC, año, mes, tipo de envío, agregar la plantilla y hacer clic en 'Iniciar importación'.",
+    "a": "Primero se llena manualmente la plantilla en el módulo de Contabilidad, luego se selecciona RFC, año, mes, tipo de envío, se agrega la plantilla y se inicia la importación.",
     "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "generar",
-      "balanza",
-      "comprobación",
+      "balanza comprobación",
       "plantilla",
       "importación",
-      "pasos"
-    ]
+      "contabilidad"
+    ],
+    "faq_id": "A-20-03-25-05-04_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se genera la balanza de comprobación en MiAdminXML? Respuesta: Primero se llena manualmente la plantilla en el módulo de Contabilidad, luego se selecciona RFC, año, mes, tipo de envío, se agrega la plantilla y se inicia la importación."
   },
   {
-    "q": "¿Qué opciones se deben seleccionar para generar la balanza de comprobación?",
-    "a": "Se deben seleccionar RFC, año, mes, tipo de envío (normal o complementaria), y agregar la plantilla de la balanza.",
+    "q": "¿Qué pasos se siguen después de iniciar la importación de la balanza de comprobación?",
+    "a": "Se da clic en 'Generar XML', luego se confirma la localización del archivo y se abre una carpeta que muestra la ubicación del XML generado.",
     "product": "MiAdminXML",
-    "keywords": [
-      "opciones",
-      "balanza",
-      "comprobación",
-      "rfc",
-      "año",
-      "mes",
-      "tipo envío"
-    ]
-  },
-  {
-    "q": "¿Qué sucede después de iniciar la importación de la balanza de comprobación?",
-    "a": "Se mostrará un mensaje indicando que la importación fue correcta, luego se debe hacer clic en 'Generar XML' y seleccionar la ubicación del archivo.",
-    "product": "MiAdminXML",
+    "categoria": "Procedimientos",
     "keywords": [
       "importación",
-      "balanza",
-      "comprobación",
-      "mensaje",
       "generar xml",
-      "archivo"
-    ]
+      "localización",
+      "archivo",
+      "pasos"
+    ],
+    "faq_id": "A-20-03-25-05-04_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué pasos se siguen después de iniciar la importación de la balanza de comprobación? Respuesta: Se da clic en 'Generar XML', luego se confirma la localización del archivo y se abre una carpeta que muestra la ubicación del XML generado."
   },
   {
     "q": "¿Cómo se valida la balanza de comprobación con el catálogo de cuentas?",
-    "a": "Se debe tener el catálogo de cuentas en formato XML, seleccionar RFC, año, mes, tipo de envío, plantilla de la balanza, habilitar la validación y cargar el XML del catálogo de cuentas.",
+    "a": "Se debe tener el catálogo de cuentas en formato XML, luego se selecciona RFC, año, mes, tipo de envío, se agrega la plantilla de la balanza, se habilita la validación y se carga el XML del catálogo de cuentas.",
     "product": "MiAdminXML",
-    "keywords": [
-      "validar",
-      "balanza",
-      "catálogo",
-      "cuentas",
-      "xml",
-      "importación"
-    ]
-  },
-  {
-    "q": "¿Qué se necesita para validar la balanza de comprobación vs el catálogo de cuentas?",
-    "a": "Se necesita el catálogo de cuentas en formato XML y seguir los pasos de selección de RFC, año, mes, tipo de envío, y cargar la plantilla de la balanza y el XML del catálogo.",
-    "product": "MiAdminXML",
+    "categoria": "Validación",
     "keywords": [
       "validación",
-      "balanza",
-      "catálogo",
-      "cuentas",
+      "catálogo cuentas",
       "xml",
-      "requisitos"
-    ]
+      "balanza comprobación",
+      "proceso"
+    ],
+    "faq_id": "A-20-03-25-05-04_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Cómo se valida la balanza de comprobación con el catálogo de cuentas? Respuesta: Se debe tener el catálogo de cuentas en formato XML, luego se selecciona RFC, año, mes, tipo de envío, se agrega la plantilla de la balanza, se habilita la validación y se carga el XML del catálogo de cuentas."
   },
   {
-    "q": "¿Qué mensaje se muestra al iniciar la importación de la validación de balanza vs catálogo de cuentas?",
-    "a": "Se muestra un mensaje indicando que se generó un XML de la balanza.",
+    "q": "¿Qué mensaje se muestra al iniciar la importación de la balanza de comprobación?",
+    "a": "Se muestra un mensaje indicando que la importación fue correcta.",
     "product": "MiAdminXML",
+    "categoria": "Mensajes",
     "keywords": [
-      "mensaje",
       "importación",
-      "validación",
-      "balanza",
-      "catálogo",
-      "xml"
-    ]
+      "mensaje",
+      "correcto",
+      "balanza comprobación",
+      "confirmación"
+    ],
+    "faq_id": "A-20-03-25-05-04_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Qué mensaje se muestra al iniciar la importación de la balanza de comprobación? Respuesta: Se muestra un mensaje indicando que la importación fue correcta."
+  },
+  {
+    "q": "¿Qué opciones de tipo de envío están disponibles para la balanza de comprobación?",
+    "a": "Las opciones son 'normal' para una sola balanza y 'complementaria' para agregar una balanza anterior.",
+    "product": "MiAdminXML",
+    "categoria": "Opciones",
+    "keywords": [
+      "tipo envío",
+      "normal",
+      "complementaria",
+      "balanza comprobación",
+      "opciones"
+    ],
+    "faq_id": "A-20-03-25-05-04_q5",
+    "texto_para_vectorizar": "Pregunta: ¿Qué opciones de tipo de envío están disponibles para la balanza de comprobación? Respuesta: Las opciones son 'normal' para una sola balanza y 'complementaria' para agregar una balanza anterior."
   }
 ]

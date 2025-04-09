@@ -1,75 +1,86 @@
 [
   {
     "q": "¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información?",
-    "a": "Es una incidencia tipo INC 02, con un nivel de dificultad medio (Nivel 2).",
-    "product": "MiAdminXML",
+    "a": "Es una incidencia tipo INC 02, nivel 2 – Medio.",
+    "product": "General",
+    "categoria": "Soporte",
     "keywords": [
       "incidencia",
       "tipo",
+      "nivel",
       "alta",
       "contribuyente",
       "información",
-      "nivel",
-      "medio",
-      "inc02"
-    ]
+      "cliente"
+    ],
+    "faq_id": "A-20-03-22-02-03_q0",
+    "texto_para_vectorizar": "Pregunta: ¿Qué tipo de incidencia es cuando un cliente no puede dar de alta un contribuyente por falta de información? Respuesta: Es una incidencia tipo INC 02, nivel 2 – Medio."
   },
   {
     "q": "¿Qué requisitos se necesitan para dar de alta contribuyentes en MiAdminXML?",
     "a": "Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo.",
     "product": "MiAdminXML",
+    "categoria": "Alta de Contribuyentes",
     "keywords": [
       "requisitos",
+      "licencia",
+      "periodo demostrativo",
       "alta",
       "contribuyentes",
-      "licencia",
-      "periodo",
-      "demostrativo",
       "clave"
-    ]
+    ],
+    "faq_id": "A-20-03-22-02-03_q1",
+    "texto_para_vectorizar": "Pregunta: ¿Qué requisitos se necesitan para dar de alta contribuyentes en MiAdminXML? Respuesta: Se requiere contar con una clave de licencia de MiAdminXML o estar en periodo demostrativo."
   },
   {
     "q": "¿Qué datos son obligatorios para dar de alta un contribuyente en MiAdminXML?",
     "a": "Los datos obligatorios son RFC, Nombre o Razón Social, y Contraseña.",
     "product": "MiAdminXML",
+    "categoria": "Alta de Contribuyentes",
     "keywords": [
       "datos",
       "obligatorios",
-      "alta",
-      "contribuyente",
       "rfc",
       "nombre",
       "razón social",
-      "contraseña"
-    ]
+      "contraseña",
+      "alta",
+      "contribuyente"
+    ],
+    "faq_id": "A-20-03-22-02-03_q2",
+    "texto_para_vectorizar": "Pregunta: ¿Qué datos son obligatorios para dar de alta un contribuyente en MiAdminXML? Respuesta: Los datos obligatorios son RFC, Nombre o Razón Social, y Contraseña."
   },
   {
     "q": "¿Qué se debe hacer si falta información para dar de alta un contribuyente en MiAdminXML?",
-    "a": "Se debe llenar todos los datos requeridos, incluyendo RFC, Nombre o Razón Social, y Contraseña, para completar el alta correctamente.",
+    "a": "Se debe agregar los datos del contribuyente de manera correcta, llenando todos los campos obligatorios como RFC, Nombre o Razón Social, y Contraseña.",
     "product": "MiAdminXML",
+    "categoria": "Soporte",
     "keywords": [
-      "falta",
-      "información",
+      "falta información",
       "alta",
       "contribuyente",
-      "llenar",
-      "datos",
-      "requeridos",
-      "solución"
-    ]
+      "datos obligatorios",
+      "solución",
+      "procedimiento"
+    ],
+    "faq_id": "A-20-03-22-02-03_q3",
+    "texto_para_vectorizar": "Pregunta: ¿Qué se debe hacer si falta información para dar de alta un contribuyente en MiAdminXML? Respuesta: Se debe agregar los datos del contribuyente de manera correcta, llenando todos los campos obligatorios como RFC, Nombre o Razón Social, y Contraseña."
   },
   {
-    "q": "¿Cuál es el nivel de dificultad de una incidencia por falta de información en el alta de contribuyentes?",
-    "a": "El nivel de dificultad es medio (Nivel 2).",
-    "product": "MiAdminXML",
+    "q": "¿Cuál es el nivel de prioridad de una incidencia por falta de información en el alta de contribuyentes?",
+    "a": "El nivel de prioridad es 2 – Medio.",
+    "product": "General",
+    "categoria": "Soporte",
     "keywords": [
-      "nivel",
-      "dificultad",
       "incidencia",
+      "nivel",
+      "prioridad",
+      "medio",
       "alta",
       "contribuyente",
-      "medio",
-      "nivel2"
-    ]
+      "información"
+    ],
+    "faq_id": "A-20-03-22-02-03_q4",
+    "texto_para_vectorizar": "Pregunta: ¿Cuál es el nivel de prioridad de una incidencia por falta de información en el alta de contribuyentes? Respuesta: El nivel de prioridad es 2 – Medio."
   }
 ]

@@ -82,6 +82,7 @@ pip install -e .[dev,test]
 
 # Copia y edita configuración
 cp .env.sample .env
+# El archivo `.env.sample` contiene valores de ejemplo.
 nano .env  # Ajusta claves de Qdrant, rutas, modelo, etc.
 ```
 

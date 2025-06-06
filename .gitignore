@@ -79,7 +79,6 @@ logs/
 .env
 # Ignorar también otros archivos .env locales si usas patrones como .env.local, .env.development
 .env.*
-!.env.s# kelly_indexer/.gitignore
 
 # === Archivos de Bytecode y Caché de Python ===
 __pycache__/
@@ -179,4 +178,4 @@ desktop.ini
 .env
 # Ignorar también otros archivos .env locales si usas patrones como .env.local, .env.development
 .env.*
-!.env.sample # Asegurarse de que el ejemplo SÍ esté incluido
+!.env.sample # Incluir ejemplo de configuracion
